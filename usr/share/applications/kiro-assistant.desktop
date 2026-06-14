@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Kiro Assistant
+Comment=Ask Claude about Kiro — install, configs, desktops, troubleshooting
+Exec=kiro-assistant
+Icon=help-browser
+Terminal=true
+Categories=Utility;System;
+Keywords=kiro;claude;assistant;ai;help;support;

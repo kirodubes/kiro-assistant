@@ -1,0 +1,1151 @@
+{
+  "last_published": "2026-06-14T05:10:59Z",
+  "videos": {
+    "-jsbjR8Vj-s": {
+      "cls": "caps",
+      "id": "-jsbjR8Vj-s",
+      "published": "2025-06-17T10:41:21Z",
+      "title": "Kiro 003 : Where to download the KIRO ISO",
+      "website": false
+    },
+    "0dRsnDBD5nY": {
+      "cls": "caps",
+      "id": "0dRsnDBD5nY",
+      "published": "2026-05-25T19:17:20Z",
+      "title": "KIRO 001 : The new Kiro website is live \u2014 tell me what's unclear",
+      "website": true
+    },
+    "0etY8XhegtQ": {
+      "cls": "caps",
+      "id": "0etY8XhegtQ",
+      "published": "2026-05-29T11:09:07Z",
+      "title": "KIRO 016 : Using Claude Code to Build a Custom Linux Boot Animation on Kiro",
+      "website": false
+    },
+    "0x0Kao6HKec": {
+      "cls": "low",
+      "id": "0x0Kao6HKec",
+      "published": "2026-05-02T06:57:42Z",
+      "title": "Kiro 045 : Kiro ISO v26.05.01 - what is new  - 8/8 - oh-my-chadwm",
+      "website": false
+    },
+    "13uwp_pAJHs": {
+      "cls": "low",
+      "id": "13uwp_pAJHs",
+      "published": "2026-01-30T17:02:58Z",
+      "title": "Kiro 031 : Build Kiro ISO with the Nvidia 580 driver - build script changed",
+      "website": false
+    },
+    "1Bru5XHtdjQ": {
+      "cls": "caps",
+      "id": "1Bru5XHtdjQ",
+      "published": "2026-06-03T04:30:38Z",
+      "title": "KIRO 044 : A Keybindings Cheatsheet for Tiling Window Managers \u2014 Light and Dark Themes",
+      "website": false
+    },
+    "1GhY1nsjTAs": {
+      "cls": "caps",
+      "id": "1GhY1nsjTAs",
+      "published": "2026-06-08T18:19:55Z",
+      "title": "KIRO 075 : Kiro Iso Builder - Choosing Cachyos Bore and Xanmod edge v3 - live environment",
+      "website": false
+    },
+    "1Pky-nm7jBM": {
+      "cls": "low",
+      "id": "1Pky-nm7jBM",
+      "published": "2026-01-21T13:34:20Z",
+      "title": "Edu 070 : A major update of Qemu makes me test Qemu on the latest build of Kiro - tip fastcompmgr",
+      "website": false
+    },
+    "1sn4y9Z-I3s": {
+      "cls": "low",
+      "id": "1sn4y9Z-I3s",
+      "published": "2026-05-02T08:02:18Z",
+      "title": "Kiro 047 : Kiro ISO v26.05.01 - what is new  - 2/8 - kiro-iso",
+      "website": false
+    },
+    "27pzVmGlqf8": {
+      "cls": "caps",
+      "id": "27pzVmGlqf8",
+      "published": "2026-06-03T11:50:39Z",
+      "title": "KIRO 051 : Calamares Tweak Tool - and like this an idea is born - now implement it",
+      "website": false
+    },
+    "2DWkAzDDDvU": {
+      "cls": "low",
+      "id": "2DWkAzDDDvU",
+      "published": "2026-02-01T16:13:14Z",
+      "title": "Kiro 037 : Arch Linux 2026.02.01 ISO - encrypted - xfce4 - sddm - arcolinux-nemesis",
+      "website": false
+    },
+    "2GI6yWtQ4Sg": {
+      "cls": "caps",
+      "id": "2GI6yWtQ4Sg",
+      "published": "2026-06-12T20:04:03Z",
+      "title": "KIRO 097 : Firmware and BIOS updates with fwupd, LVFS and ArchLinux Tweak Tool",
+      "website": false
+    },
+    "2GsFhRygcLk": {
+      "cls": "caps",
+      "id": "2GsFhRygcLk",
+      "published": "2026-06-07T19:07:26Z",
+      "title": "KIRO 072 : Build a custom KIRO ISO - pick your kernel, Nvidia driver and packages with Kiro",
+      "website": false
+    },
+    "3jdKH6bLgUE": {
+      "cls": "caps",
+      "id": "3jdKH6bLgUE",
+      "published": "2025-06-19T09:39:10Z",
+      "title": "Kiro 009 : The ultimate ISO building video - using KIRO ISO to create BUILDRA ISO",
+      "website": false
+    },
+    "3v3V-i_ECZU": {
+      "cls": "caps",
+      "id": "3v3V-i_ECZU",
+      "published": "2026-05-27T04:09:06Z",
+      "title": "KIRO 005 :   13 desktop and tiling window managers \u2014 pick yours in ATT on Kiro",
+      "website": true
+    },
+    "3yDpkn7rQTM": {
+      "cls": "caps",
+      "id": "3yDpkn7rQTM",
+      "published": "2026-06-01T12:17:24Z",
+      "title": "KIRO 038 : Compare Any Linux ISO Package List in Meld and See What Really Changed",
+      "website": true
+    },
+    "4zv7FIuFL7g": {
+      "cls": "caps",
+      "id": "4zv7FIuFL7g",
+      "published": "2026-05-27T17:01:14Z",
+      "title": "KIRO 008 : MEMBER - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
+      "website": false
+    },
+    "5oEH5XjMmpU": {
+      "cls": "caps",
+      "id": "5oEH5XjMmpU",
+      "published": "2026-06-10T17:27:48Z",
+      "title": "KIRO 083 : Build your own custom Kiro ISO with GNOME \u2014 desktop tour and tweaks",
+      "website": true
+    },
+    "7t4Mqb3NLEs": {
+      "cls": "caps",
+      "id": "7t4Mqb3NLEs",
+      "published": "2026-05-29T08:49:37Z",
+      "title": "KIRO 014 : Compare Linux Configs with Meld and Restore Defaults Safely After Updates",
+      "website": false
+    },
+    "9Ddzyd0FfVc": {
+      "cls": "caps",
+      "id": "9Ddzyd0FfVc",
+      "published": "2026-06-12T17:18:55Z",
+      "title": "KIRO 096 : Accessibility and backup tools added to ArchLinux Tweak Tool from your ideas",
+      "website": false
+    },
+    "9G2jFQh5daU": {
+      "cls": "low",
+      "id": "9G2jFQh5daU",
+      "published": "2026-05-21T17:54:27Z",
+      "title": "Kiro Reborn - Liquorix + PipeWire + System Tweaks, Built Alongside Claude",
+      "website": false
+    },
+    "9kilmj_GPMY": {
+      "cls": "caps",
+      "id": "9kilmj_GPMY",
+      "published": "2026-06-05T05:33:04Z",
+      "title": "KIRO 060 : Reviving 56 Arc GTK themes in the ArchLinux Tweak Tool on Kiro",
+      "website": false
+    },
+    "9oL7TIAvie0": {
+      "cls": "caps",
+      "id": "9oL7TIAvie0",
+      "published": "2026-05-29T20:46:01Z",
+      "title": "KIRO 021 : New code and theme for Calamares - sneak peak",
+      "website": true
+    },
+    "AFPiyVXmyGc": {
+      "cls": "low",
+      "id": "AFPiyVXmyGc",
+      "published": "2025-12-01T06:25:05Z",
+      "title": "Kiro 027 : Kiro 25.12.01 ISO - what is new",
+      "website": false
+    },
+    "AfajqlpXv5I": {
+      "cls": "caps",
+      "id": "AfajqlpXv5I",
+      "published": "2026-05-30T18:21:29Z",
+      "title": "KIRO 029 : Archlinux-logout comes with ArchLinux Betterlockscreen - lock your system in style",
+      "website": true
+    },
+    "Agk2q_jAcHk": {
+      "cls": "low",
+      "id": "Agk2q_jAcHk",
+      "published": "2025-07-08T05:42:50Z",
+      "title": "Kiro 019 : Calamares will be built automatically when it crashes",
+      "website": false
+    },
+    "BZG2LmpIpH8": {
+      "cls": "low",
+      "id": "BZG2LmpIpH8",
+      "published": "2025-09-11T07:13:04Z",
+      "title": "Kiro 023 : New Kiro release - 2025-09-11 - kiro-nemesis scripts - build your own iso - 2/2",
+      "website": false
+    },
+    "Bo90wWSJQTc": {
+      "cls": "low",
+      "id": "Bo90wWSJQTc",
+      "published": "2025-07-06T05:00:03Z",
+      "title": "Kiro 015 : Installing Openbox on Kiro - get arcolinux repos/packages - install any desktop",
+      "website": false
+    },
+    "BzeYmwg0Wpc": {
+      "cls": "low",
+      "id": "BzeYmwg0Wpc",
+      "published": "2025-12-01T06:26:29Z",
+      "title": "Kiro 028 : Kiro 25.12.01 ISO - installation + kiro-nemesis scripts",
+      "website": false
+    },
+    "C2nR7NF-P_Q": {
+      "cls": "low",
+      "id": "C2nR7NF-P_Q",
+      "published": "2026-03-14T10:40:05Z",
+      "title": "Arcolinux-nemesis series 04 - Building Kiro ISO and testing the arcolinux-nemesis script again",
+      "website": false
+    },
+    "C2o3qPDhRug": {
+      "cls": "caps",
+      "id": "C2o3qPDhRug",
+      "published": "2026-06-05T07:50:57Z",
+      "title": "KIRO 062 : Keybindings cheat sheet for every tiling window manager, built into Kiro and Xfce4",
+      "website": false
+    },
+    "CKqRKK3zADo": {
+      "cls": "caps",
+      "id": "CKqRKK3zADo",
+      "published": "2025-06-17T11:04:49Z",
+      "title": "Kiro 004 : How to install the KIRO ISO",
+      "website": false
+    },
+    "Ciqao_oWvM0": {
+      "cls": "caps",
+      "id": "Ciqao_oWvM0",
+      "published": "2026-06-10T05:44:12Z",
+      "title": "KIRO 076 : Kiro Iso Builder or KIB - deep dive \u2014 pick your kernel, desktop, and packages",
+      "website": false
+    },
+    "DsgLIxNAQTs": {
+      "cls": "caps",
+      "id": "DsgLIxNAQTs",
+      "published": "2026-06-10T07:38:21Z",
+      "title": "KIRO 078 : How I use Claude AI to update my Kiro website while I sit back and click",
+      "website": false
+    },
+    "E68_OBoQ1fI": {
+      "cls": "caps",
+      "id": "E68_OBoQ1fI",
+      "published": "2026-06-13T06:53:58Z",
+      "title": "KIRO 099 : Malicious AUR packages: how Kiro News keeps you in the loop on security advisories",
+      "website": false
+    },
+    "EJ8-lknUKiY": {
+      "cls": "caps",
+      "id": "EJ8-lknUKiY",
+      "published": "2026-06-11T10:44:34Z",
+      "title": "KIRO 085 : Budgie working now + pick from 42 kernels - Kiro Iso Builder",
+      "website": true
+    },
+    "EPAxTzgwFOw": {
+      "cls": "caps",
+      "id": "EPAxTzgwFOw",
+      "published": "2026-06-06T05:26:40Z",
+      "title": "KIRO 064 : Build your own personal Kiro ISO: organizing the ISO packages file - AI tutorial",
+      "website": false
+    },
+    "EeNbcCwmdgY": {
+      "cls": "caps",
+      "id": "EeNbcCwmdgY",
+      "published": "2026-06-11T15:48:11Z",
+      "title": "KIRO 091 : Install Riverwm on Kiro - find code online for a nice recent config to try out",
+      "website": false
+    },
+    "Eur5CQDlBOQ": {
+      "cls": "caps",
+      "id": "Eur5CQDlBOQ",
+      "published": "2026-06-04T11:49:45Z",
+      "title": "KIRO 058 : SCX CPU scheduler tuning made simple with the ArchLinux Tweak Tool on Kiro",
+      "website": false
+    },
+    "Ew4upVlqn3g": {
+      "cls": "caps",
+      "id": "Ew4upVlqn3g",
+      "published": "2026-01-29T13:00:34Z",
+      "title": "Edu 073 : BUILDRA ISO - project is synced with KIRO - build if you want to test it - BYOI",
+      "website": false
+    },
+    "F75w6CNJ4gA": {
+      "cls": "caps",
+      "id": "F75w6CNJ4gA",
+      "published": "2026-06-03T04:43:59Z",
+      "title": "KIRO 045 : Install Every Tiling Window Manager at Once \u2014 ATT's Developer Page",
+      "website": false
+    },
+    "GBXz9ZgoiZw": {
+      "cls": "low",
+      "id": "GBXz9ZgoiZw",
+      "published": "2026-04-10T04:43:34Z",
+      "title": "Edu 081 : Ohmychadwm - a tiling window manager tweaked for the use on Kiro ISO - current status",
+      "website": false
+    },
+    "HInkCKhkxsM": {
+      "cls": "low",
+      "id": "HInkCKhkxsM",
+      "published": "2025-10-01T05:30:33Z",
+      "title": "Kiro 024 : Kiro 2025-10-01 ISO - installation - new release - new archiso 86-1 - buildra - ATT",
+      "website": false
+    },
+    "HWiEZnWN4oo": {
+      "cls": "caps",
+      "id": "HWiEZnWN4oo",
+      "published": "2026-06-13T15:37:36Z",
+      "title": "KIRO 100 : Package signing comes to Kiro and why it makes your system safer",
+      "website": false
+    },
+    "HpPjG0Bj5A0": {
+      "cls": "low",
+      "id": "HpPjG0Bj5A0",
+      "published": "2025-06-30T06:33:31Z",
+      "title": "Kiro 013 : new kiro-nemesis scripts - Building, installing and showing the new kiro-nemesis scripts",
+      "website": false
+    },
+    "Ij5pFJzT208": {
+      "cls": "low",
+      "id": "Ij5pFJzT208",
+      "published": "2026-01-01T10:11:55Z",
+      "title": "Kiro 030 : Kiro 26.01.01 ISO - installation + arcolinux-nemesis scripts",
+      "website": false
+    },
+    "J_aLS7EAnI8": {
+      "cls": "caps",
+      "id": "J_aLS7EAnI8",
+      "published": "2026-06-10T18:02:47Z",
+      "title": "KIRO 084 : Budgie desktop on a custom Kiro ISO: LibreOffice and a Calamares bug to chase",
+      "website": false
+    },
+    "JjtW67i1Iyw": {
+      "cls": "low",
+      "id": "JjtW67i1Iyw",
+      "published": "2025-09-11T07:11:48Z",
+      "title": "Kiro 022 : New Kiro release - 2025-09-11 - kiro-nemesis scripts - build your own iso - 1/2",
+      "website": false
+    },
+    "Jltl-Xf_Z-I": {
+      "cls": "caps",
+      "id": "Jltl-Xf_Z-I",
+      "published": "2026-05-31T17:36:40Z",
+      "title": "KIRO 033 : XFCE Settings Manager tour \u2014 lock screen, logout, firewall, disk tools and more",
+      "website": true
+    },
+    "KWWxs93Ytb0": {
+      "cls": "caps",
+      "id": "KWWxs93Ytb0",
+      "published": "2026-06-04T10:38:55Z",
+      "title": "KIRO 056 : Full disk encryption comes to Kiro: Luks, Btrfs, jfs, xfs and a still-simple installer",
+      "website": false
+    },
+    "KXTQTLvljdQ": {
+      "cls": "low",
+      "id": "KXTQTLvljdQ",
+      "published": "2025-06-27T07:03:00Z",
+      "title": "Kiro news 01 : Kiro ISO and Kiro build - use it to install your OS or use it to create your distro",
+      "website": false
+    },
+    "KiarEo6Ke6c": {
+      "cls": "caps",
+      "id": "KiarEo6Ke6c",
+      "published": "2026-06-10T14:34:10Z",
+      "title": "KIRO 081 : Build a custom Kiro ISO on CachyOS using the nemesis repo",
+      "website": true
+    },
+    "KmkyK-k0eGI": {
+      "cls": "caps",
+      "id": "KmkyK-k0eGI",
+      "published": "2026-05-30T13:14:10Z",
+      "title": "KIRO 024 : Automatic Driver Detection on Kiro with CHWD",
+      "website": true
+    },
+    "KqGPXcpxK5Q": {
+      "cls": "caps",
+      "id": "KqGPXcpxK5Q",
+      "published": "2026-05-29T07:31:44Z",
+      "title": "KIRO 012 : New Qtile Look on Arch Linux: One Keymap Across 13 Tiling Window Managers",
+      "website": false
+    },
+    "KwqvTwSDaKc": {
+      "cls": "caps",
+      "id": "KwqvTwSDaKc",
+      "published": "2026-05-23T11:55:13Z",
+      "title": "KIRO 000: Help fund Kiro \u2014 channel memberships are open",
+      "website": false
+    },
+    "LGQI1kDiqvc": {
+      "cls": "caps",
+      "id": "LGQI1kDiqvc",
+      "published": "2026-05-29T13:42:18Z",
+      "title": "KIRO 019 : MEMBER - Let Claude Code Write the Code and the Copy - Free GitHub Pages Website Built",
+      "website": false
+    },
+    "LPf3dP4Jbgc": {
+      "cls": "caps",
+      "id": "LPf3dP4Jbgc",
+      "published": "2025-06-17T09:40:25Z",
+      "title": "Kiro 001 : a new ISO called KIRO - why is there a new ISO",
+      "website": false
+    },
+    "LTZBe4W-5OM": {
+      "cls": "caps",
+      "id": "LTZBe4W-5OM",
+      "published": "2026-06-01T07:07:11Z",
+      "title": "KIRO 037 : Install Arch Linux the Easy Way: Full Kiro ISO Walkthrough and First Boot",
+      "website": true
+    },
+    "LyqKmXHDjhE": {
+      "cls": "caps",
+      "id": "LyqKmXHDjhE",
+      "published": "2026-06-01T18:33:13Z",
+      "title": "KIRO 040 : burning an ISO with dd",
+      "website": false
+    },
+    "MAmD_i9C8cc": {
+      "cls": "caps",
+      "id": "MAmD_i9C8cc",
+      "published": "2026-05-30T17:48:49Z",
+      "title": "KIRO 028 : AI - collaboration - change all 7 twms in one go - prompting matters",
+      "website": false
+    },
+    "MF0vYTAke2Q": {
+      "cls": "caps",
+      "id": "MF0vYTAke2Q",
+      "published": "2026-06-03T03:36:45Z",
+      "title": "KIRO 042 : Multi-monitor setup for tiling window managers with arandr - save it once",
+      "website": false
+    },
+    "Mq4DHw7Wwu0": {
+      "cls": "low",
+      "id": "Mq4DHw7Wwu0",
+      "published": "2026-01-31T07:47:18Z",
+      "title": "Kiro 032 : Nvidia 390 driver - Changing the build-the-iso script to add the Nvidia 390xx drivers",
+      "website": false
+    },
+    "Mxu95cJqZI0": {
+      "cls": "low",
+      "id": "Mxu95cJqZI0",
+      "published": "2025-07-07T05:33:37Z",
+      "title": "Kiro 017 : Installing Kiro with GRUB rather than with Systemd-boot",
+      "website": false
+    },
+    "NFbaVvGN8P8": {
+      "cls": "caps",
+      "id": "NFbaVvGN8P8",
+      "published": "2026-05-27T16:51:43Z",
+      "title": "KIRO 007 : teaser - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
+      "website": false
+    },
+    "NdzofLkdgUY": {
+      "cls": "low",
+      "id": "NdzofLkdgUY",
+      "published": "2026-04-01T04:28:34Z",
+      "title": "Kiro 039 : New release for Kiro ISO v26.04.01 - Easter egg in the video - work in progress",
+      "website": false
+    },
+    "NruhQ5N-uY0": {
+      "cls": "caps",
+      "id": "NruhQ5N-uY0",
+      "published": "2026-05-26T10:56:19Z",
+      "title": "KIRO 004 : How to Set Default Apps in Linux \u2014 Fix the Wrong Program Opening Files (mimeapps.list)",
+      "website": false
+    },
+    "O-_sEIN865U": {
+      "cls": "caps",
+      "id": "O-_sEIN865U",
+      "published": "2026-06-11T14:06:00Z",
+      "title": "KIRO 087 : Install Niri on Kiro with the CachyOS repo \u2014 create it yourself or copy/paste",
+      "website": false
+    },
+    "OE3fUhcW_ec": {
+      "cls": "low",
+      "id": "OE3fUhcW_ec",
+      "published": "2026-05-02T07:08:04Z",
+      "title": "Kiro 046 : Kiro ISO v26.05.01 - what is new  - 3/8 - kiro-calamares-config",
+      "website": false
+    },
+    "Ot43ehmw7dg": {
+      "cls": "caps",
+      "id": "Ot43ehmw7dg",
+      "published": "2026-06-12T20:06:23Z",
+      "title": "KIRO 098 : Accessibility out of the box: SDDM on-screen keyboard and Onboard themes",
+      "website": false
+    },
+    "P4o1VTTv1OE": {
+      "cls": "caps",
+      "id": "P4o1VTTv1OE",
+      "published": "2026-05-26T08:36:17Z",
+      "title": "KIRO 002 : Create a Kiro wallpaper \u2014 let's share them",
+      "website": false
+    },
+    "PhShyJtTMBE": {
+      "cls": "low",
+      "id": "PhShyJtTMBE",
+      "published": "2025-06-19T05:45:46Z",
+      "title": "Kiro 008 : Build your own calamares and other packages and use the personal_repo",
+      "website": false
+    },
+    "QNykcUBADog": {
+      "cls": "caps",
+      "id": "QNykcUBADog",
+      "published": "2026-06-06T09:24:41Z",
+      "title": "KIRO 066 : teaser - Build your own ISO: AI-assisted Linux distro development with Claude Code",
+      "website": false
+    },
+    "QYKjhSW2Q1U": {
+      "cls": "caps",
+      "id": "QYKjhSW2Q1U",
+      "published": "2026-05-28T13:25:12Z",
+      "title": "KIRO 009 : CachyOS and Zen Kernel will be rolled out on the Kiro ISO",
+      "website": true
+    },
+    "Qfp5o7vWGZY": {
+      "cls": "low",
+      "id": "Qfp5o7vWGZY",
+      "published": "2026-02-01T07:08:55Z",
+      "title": "Kiro 035 : Installing Kiro ISO v26.02.01 - arcolinux-nemesis",
+      "website": false
+    },
+    "RG7U8E2EEMU": {
+      "cls": "low",
+      "id": "RG7U8E2EEMU",
+      "published": "2026-05-16T05:32:38Z",
+      "title": "Edu 105 - AI claude - sharing knowledge - building a linux-kiro-liquorix kernel -",
+      "website": false
+    },
+    "RSBX7zLHV4Q": {
+      "cls": "caps",
+      "id": "RSBX7zLHV4Q",
+      "published": "2026-05-28T14:06:14Z",
+      "title": "KIRO 010 : Kiro Linux enables firewalld by default: Sensible Arch Linux security",
+      "website": true
+    },
+    "RmBLVqTj_AQ": {
+      "cls": "low",
+      "id": "RmBLVqTj_AQ",
+      "published": "2025-06-25T04:24:28Z",
+      "title": "Kiro 012 : What if we remove all EDU packages from the Kiro packages list and build an ISO",
+      "website": false
+    },
+    "SdfCZFtoBws": {
+      "cls": "caps",
+      "id": "SdfCZFtoBws",
+      "published": "2026-06-05T21:55:16Z",
+      "title": "KIRO 063 : Release notes for every Kiro ISO \u2014 see what changed",
+      "website": false
+    },
+    "TbCBL9XeKM4": {
+      "cls": "caps",
+      "id": "TbCBL9XeKM4",
+      "published": "2026-06-10T07:22:15Z",
+      "title": "KIRO 077 : Kiro Iso Builder - Build a custom Kiro ISO, then explore KDE Plasma and every twm",
+      "website": true
+    },
+    "TqFuLknCsUE": {
+      "cls": "low",
+      "id": "TqFuLknCsUE",
+      "published": "2025-06-19T05:15:54Z",
+      "title": "Kiro 006 : Use the personal_repo functionality - steps to take to add your own packages",
+      "website": false
+    },
+    "UH56Z2-Z9t0": {
+      "cls": "caps",
+      "id": "UH56Z2-Z9t0",
+      "published": "2026-06-03T07:52:53Z",
+      "title": "KIRO 048 : ArchLinux Tweak Tool Update: Wayland Link Fix and Safer KDE Plasma and GNOME Installs",
+      "website": false
+    },
+    "UKgNcZu_MAo": {
+      "cls": "caps",
+      "id": "UKgNcZu_MAo",
+      "published": "2026-05-31T17:47:37Z",
+      "title": "KIRO 034 : Switch the CPU scheduler from a GUI \u2014 a new ATT dev feature to test on Kiro",
+      "website": false
+    },
+    "UZbFYiIShiQ": {
+      "cls": "low",
+      "id": "UZbFYiIShiQ",
+      "published": "2025-06-19T05:29:18Z",
+      "title": "Kiro 007 : Rebuild Calamares on the live environment",
+      "website": false
+    },
+    "UjqdCCcraa8": {
+      "cls": "caps",
+      "id": "UjqdCCcraa8",
+      "published": "2026-06-06T10:10:26Z",
+      "title": "KIRO 067 : MEMBER - Build your own ISO: AI-assisted Linux distro development with Claude Code",
+      "website": false
+    },
+    "V2NJ0gVz_0A": {
+      "cls": "caps",
+      "id": "V2NJ0gVz_0A",
+      "published": "2026-05-26T09:57:56Z",
+      "title": "KIRO 003 : Kiro is a community Arch distro again",
+      "website": true
+    },
+    "VFo9E6DK3xk": {
+      "cls": "caps",
+      "id": "VFo9E6DK3xk",
+      "published": "2026-05-31T18:43:16Z",
+      "title": "KIRO 035 : Fix a Black Screen on Kiro: Auto-Install Drivers with CHWD Hardware Detection",
+      "website": true
+    },
+    "VRa4v-d5HLw": {
+      "cls": "low",
+      "id": "VRa4v-d5HLw",
+      "published": "2026-05-02T04:36:00Z",
+      "title": "Kiro 041 : Kiro ISO v26.05.01 - what is new  - 5/8 - arcolinux-nemesis",
+      "website": false
+    },
+    "VZu5dGgIHVA": {
+      "cls": "caps",
+      "id": "VZu5dGgIHVA",
+      "published": "2026-06-11T15:35:18Z",
+      "title": "KIRO 090 : Install Mangowc on Kiro with the CachyOS repo",
+      "website": false
+    },
+    "Vofww6NYd2o": {
+      "cls": "low",
+      "id": "Vofww6NYd2o",
+      "published": "2025-07-05T05:56:46Z",
+      "title": "Kiro 014 : Installing Kiro with BTRFS partitions - change calamares on the fly - install packages",
+      "website": false
+    },
+    "W-QPEwF-_bo": {
+      "cls": "caps",
+      "id": "W-QPEwF-_bo",
+      "published": "2026-06-08T05:23:58Z",
+      "title": "KIRO 073 : Installing Kiro on older computers with Grub is already possible - but ... - Claude AI",
+      "website": false
+    },
+    "X75-NhBAZzo": {
+      "cls": "caps",
+      "id": "X75-NhBAZzo",
+      "published": "2026-05-30T15:51:54Z",
+      "title": "KIRO 025 : ATT Build Performance: Reserve Cores for a Responsive Desktop",
+      "website": false
+    },
+    "XP2VBOSpFGY": {
+      "cls": "caps",
+      "id": "XP2VBOSpFGY",
+      "published": "2026-06-10T15:48:30Z",
+      "title": "KIRO 082 : Test your Mate Kiro ISO in VirtualBox with a full encrypted install on CachyOS",
+      "website": true
+    },
+    "XVAou9TtYlg": {
+      "cls": "caps",
+      "id": "XVAou9TtYlg",
+      "published": "2026-06-04T11:08:50Z",
+      "title": "KIRO 057 : Btrfs snapshots on Kiro: roll back any broken update in seconds",
+      "website": false
+    },
+    "Y9aDgI70Hbw": {
+      "cls": "caps",
+      "id": "Y9aDgI70Hbw",
+      "published": "2026-06-06T10:50:34Z",
+      "title": "KIRO 068 : Google Antigravity on Kiro: install Google's new AI in one click",
+      "website": false
+    },
+    "YH12GwrES6I": {
+      "cls": "low",
+      "id": "YH12GwrES6I",
+      "published": "2026-05-04T15:17:43Z",
+      "title": "Kiro 048 : Kiro ISO v26.05.01 - what is new  - 1/8 - ArchLinux Tweak Tool - work in progress",
+      "website": false
+    },
+    "YWtk3CyKGHE": {
+      "cls": "caps",
+      "id": "YWtk3CyKGHE",
+      "published": "2026-05-31T19:39:46Z",
+      "title": "KIRO 036 : Kiro Tuning Out of the Box: Speed, Stability and Security",
+      "website": true
+    },
+    "YoBs6l-5v9U": {
+      "cls": "caps",
+      "id": "YoBs6l-5v9U",
+      "published": "2026-05-29T09:17:19Z",
+      "title": "KIRO 015 : Fixing your enter on your Numeric pad in Alacritty",
+      "website": false
+    },
+    "YrY_cHWsCto": {
+      "cls": "caps",
+      "id": "YrY_cHWsCto",
+      "published": "2026-06-05T07:56:15Z",
+      "title": "KIRO 061 : Cinnamon theming on Kiro: install 50+ light and dark themes safely",
+      "website": false
+    },
+    "Z7GZH5LHO1E": {
+      "cls": "caps",
+      "id": "Z7GZH5LHO1E",
+      "published": "2026-06-14T05:10:59Z",
+      "title": "KIRO 102 : Burn an ISO to a bootable USB stick with Mintstick USB Image Writer"
+    },
+    "ZYQwwUAcOKo": {
+      "cls": "caps",
+      "id": "ZYQwwUAcOKo",
+      "published": "2026-05-31T17:31:52Z",
+      "title": "KIRO 032 : The Kiro toolchain \u2014 every kiro- command on the Arch-based ISO explained",
+      "website": true
+    },
+    "ZgrRU-9ZF9o": {
+      "cls": "caps",
+      "id": "ZgrRU-9ZF9o",
+      "published": "2026-05-27T13:06:13Z",
+      "title": "KIRO 006 : Why Kiro feels faster \u2014 the Liquorix kernel, and how I chose it",
+      "website": false
+    },
+    "ZiRCwdtAOmc": {
+      "cls": "low",
+      "id": "ZiRCwdtAOmc",
+      "published": "2026-01-09T07:28:13Z",
+      "title": "Edu 066 : ArchLinux Tweak Tool or ATT on Arcana or Kiro or Arch Linux - bspwm and awesome",
+      "website": false
+    },
+    "ZnyOP97hflU": {
+      "cls": "caps",
+      "id": "ZnyOP97hflU",
+      "published": "2026-05-29T13:36:59Z",
+      "title": "KIRO 018 : Teaser - Let Claude Code Write the Code and the Copy - Free GitHub Pages Website",
+      "website": false
+    },
+    "_5yCSkwfPgc": {
+      "cls": "caps",
+      "id": "_5yCSkwfPgc",
+      "published": "2026-06-06T15:32:51Z",
+      "title": "KIRO 069 : Build your own Kiro ISO on Arch Linux -BYOI",
+      "website": false
+    },
+    "_wJoTgWwNf8": {
+      "cls": "low",
+      "id": "_wJoTgWwNf8",
+      "published": "2026-05-01T19:17:33Z",
+      "title": "Kiro 040 : Kiro ISO v26.05.01 release - April was a productive month - ohmychadwm",
+      "website": false
+    },
+    "a847_YrvH7U": {
+      "cls": "low",
+      "id": "a847_YrvH7U",
+      "published": "2026-05-02T06:30:10Z",
+      "title": "Kiro 043 : Kiro ISO v26.05.01 - what is new  - 7/8 - edu-dot-files",
+      "website": false
+    },
+    "aA7JI0-gi1o": {
+      "cls": "caps",
+      "id": "aA7JI0-gi1o",
+      "published": "2026-06-03T13:40:22Z",
+      "title": "KIRO 052 : Building an app with Claude Code: a live Calamares Tweak Tool for Kiro",
+      "website": false
+    },
+    "aIy0QcnmeyA": {
+      "cls": "low",
+      "id": "aIy0QcnmeyA",
+      "published": "2026-02-01T06:56:22Z",
+      "title": "Kiro 034 : Build Kiro ISO with Nvidia drivers: open, 580xx or 390xx",
+      "website": false
+    },
+    "aZHtcV3rkB4": {
+      "cls": "caps",
+      "id": "aZHtcV3rkB4",
+      "published": "2026-05-30T16:10:27Z",
+      "title": "KIRO 026 : AI - Build all twm packages and push them to nemesis_repo in one run - script creation",
+      "website": false
+    },
+    "b3waf3UMx6o": {
+      "cls": "caps",
+      "id": "b3waf3UMx6o",
+      "published": "2026-06-03T08:55:01Z",
+      "title": "KIRO 050 : Switch Qtile color schemes instantly with one keybinding \u2014 no config editing",
+      "website": false
+    },
+    "bJu4M6TLhPk": {
+      "cls": "caps",
+      "id": "bJu4M6TLhPk",
+      "published": "2026-06-14T05:09:18Z",
+      "title": "KIRO 101 : Signed packages on Kiro: new ISO, keyring and pacman.conf explained"
+    },
+    "bkHwiITw5HY": {
+      "cls": "low",
+      "id": "bkHwiITw5HY",
+      "published": "2025-07-07T08:09:00Z",
+      "title": "Kiro 018 : Installing a grub theme - workflow video - changing the wallpaper",
+      "website": false
+    },
+    "bmecwO3LfvA": {
+      "cls": "caps",
+      "id": "bmecwO3LfvA",
+      "published": "2026-06-10T13:45:56Z",
+      "title": "KIRO 080 : Make a custom Kiro ISO with the ISO Builder \u2014 Cinnamon, i3 and Qtile",
+      "website": true
+    },
+    "bxEJNO-bVck": {
+      "cls": "low",
+      "id": "bxEJNO-bVck",
+      "published": "2025-08-11T07:13:07Z",
+      "title": "Kiro 021 : New Kiro release - 2025-08-11 - arcolinux-nemesis and kiro-nemesis scripts",
+      "website": false
+    },
+    "cATP-W3dQYE": {
+      "cls": "low",
+      "id": "cATP-W3dQYE",
+      "published": "2026-05-02T06:39:15Z",
+      "title": "Kiro 044 : Kiro ISO v26.05.01 - what is new  - 4/8 - edu-system-files",
+      "website": false
+    },
+    "dVH4Gn3vYjM": {
+      "cls": "caps",
+      "id": "dVH4Gn3vYjM",
+      "published": "2026-06-03T06:44:17Z",
+      "title": "KIRO 047 : How I Use Claude Code as My Coding Assistant \u2014 Plan Mode, Auto Mode, Prompt Tips",
+      "website": false
+    },
+    "dq_hsoQaAWw": {
+      "cls": "low",
+      "id": "dq_hsoQaAWw",
+      "published": "2026-02-01T09:08:09Z",
+      "title": "Kiro 036 : Ricing Liya - cursors, themes, wallpaper, icons, ...",
+      "website": false
+    },
+    "ejvc1uU0EeY": {
+      "cls": "caps",
+      "id": "ejvc1uU0EeY",
+      "published": "2026-05-30T18:34:10Z",
+      "title": "KIRO 030 : Alacritty Tweak Tool to set your Alacritty anyway you want - 300+ themes - create more",
+      "website": true
+    },
+    "f4-IuspNv4U": {
+      "cls": "caps",
+      "id": "f4-IuspNv4U",
+      "published": "2026-06-11T14:34:21Z",
+      "title": "KIRO 089 : Install Niri Noctalia on Kiro with the CachyOS repo - an abundance of settings and themes",
+      "website": false
+    },
+    "fMlHQ35tsCA": {
+      "cls": "low",
+      "id": "fMlHQ35tsCA",
+      "published": "2025-07-09T05:23:49Z",
+      "title": "Kiro 020 : Flexi - a personal DWM based on dwm-flexipatch from bakkeby",
+      "website": false
+    },
+    "gHqD-LsV-4A": {
+      "cls": "caps",
+      "id": "gHqD-LsV-4A",
+      "published": "2026-06-04T19:23:17Z",
+      "title": "KIRO 059 : Theming and ricing on Kiro: one uniform look across every desktop",
+      "website": false
+    },
+    "gOxOG3icXOI": {
+      "cls": "low",
+      "id": "gOxOG3icXOI",
+      "published": "2026-02-01T06:50:38Z",
+      "title": "Kiro 033 : What is new in Kiro v26.02.01",
+      "website": false
+    },
+    "h0c39oX-Nl8": {
+      "cls": "caps",
+      "id": "h0c39oX-Nl8",
+      "published": "2026-05-29T07:00:14Z",
+      "title": "KIRO 011 : Merging Two Qtile Configs with Claude Code (Opus 4.8) \u2014 DistroTube's Look, My Keybindings",
+      "website": false
+    },
+    "iZS6whnKfX0": {
+      "cls": "caps",
+      "id": "iZS6whnKfX0",
+      "published": "2026-06-03T06:26:45Z",
+      "title": "KIRO 046 : How to Install Arch Linux with archinstall \u2014 Fast Beginner Guide 2026",
+      "website": false
+    },
+    "jSD0XphmCL0": {
+      "cls": "caps",
+      "id": "jSD0XphmCL0",
+      "published": "2026-05-30T06:45:36Z",
+      "title": "KIRO 022 : ATT - ArchLinux Tweak Tool: instant search, one-click office, read-only services",
+      "website": true
+    },
+    "j_hpE0EfHm4": {
+      "cls": "low",
+      "id": "j_hpE0EfHm4",
+      "published": "2026-03-14T10:20:17Z",
+      "title": "Arcolinux-nemesis series 03 - Using Kiro Linux to improve arcolinux-nemesis scripts",
+      "website": false
+    },
+    "jsy1I62QV6Y": {
+      "cls": "caps",
+      "id": "jsy1I62QV6Y",
+      "published": "2026-05-30T11:18:15Z",
+      "title": "KIRO 023 : GitHub Discussions for the Kiro Linux Community: One Free Home to Share Ideas and Grow",
+      "website": true
+    },
+    "kRvoYdD1k1U": {
+      "cls": "caps",
+      "id": "kRvoYdD1k1U",
+      "published": "2026-06-06T19:53:35Z",
+      "title": "KIRO 070 : Build your own Kiro ISO on CachyOS - BYOI",
+      "website": false
+    },
+    "kSLHgh452fk": {
+      "cls": "low",
+      "id": "kSLHgh452fk",
+      "published": "2026-04-16T12:32:05Z",
+      "title": "Edu 085 : Linux-kiro kernel 7.0.0-1 based on cachyos kernel created with Claude - AI",
+      "website": false
+    },
+    "kzLR3rSpoPY": {
+      "cls": "caps",
+      "id": "kzLR3rSpoPY",
+      "published": "2026-06-03T08:39:24Z",
+      "title": "KIRO 049 : Kiro Linux members: what do you want to see in the members-only videos?",
+      "website": false
+    },
+    "lOXbZ_B2y6E": {
+      "cls": "caps",
+      "id": "lOXbZ_B2y6E",
+      "published": "2026-06-11T13:12:51Z",
+      "title": "KIRO 086 : Install Hyprland on Kiro with the CachyOS repo \u2014 create it yourself or copy/paste",
+      "website": false
+    },
+    "lOxf9rxR6Hk": {
+      "cls": "caps",
+      "id": "lOxf9rxR6Hk",
+      "published": "2026-06-12T07:12:04Z",
+      "title": "KIRO 095 : Build your own custom Kiro ISO from scratch with the Kiro ISO Builder - boot into a TWM",
+      "website": false
+    },
+    "lTcESMvhy6E": {
+      "cls": "low",
+      "id": "lTcESMvhy6E",
+      "published": "2026-04-19T17:58:11Z",
+      "title": "Edu 089 : Watch out when on Kiro - update your system but also install edu-system-files-git and ...",
+      "website": false
+    },
+    "lZbjJ6rK_3Q": {
+      "cls": "caps",
+      "id": "lZbjJ6rK_3Q",
+      "published": "2026-06-02T16:24:36Z",
+      "title": "KIRO 041 : Why KDE Plasma looks partially black on Kiro and how to get the default theme back",
+      "website": true
+    },
+    "mAJUU98PZ7E": {
+      "cls": "caps",
+      "id": "mAJUU98PZ7E",
+      "published": "2026-06-10T09:01:58Z",
+      "title": "KIRO 079 : ArchLinux Tweak Tool can now build the upstream Arch ISO for you",
+      "website": false
+    },
+    "mC4Lqb22mKM": {
+      "cls": "caps",
+      "id": "mC4Lqb22mKM",
+      "published": "2026-06-03T20:15:10Z",
+      "title": "KIRO 055 : Switch your Xfce desktop from dark to light in Kiro - go to /etc/environment - one #",
+      "website": false
+    },
+    "mH52To8DvlI": {
+      "cls": "low",
+      "id": "mH52To8DvlI",
+      "published": "2025-06-20T05:39:55Z",
+      "title": "Kiro 010 : BUILDRA - removing XFCE4 and CHADWM and replacing with PLASMA",
+      "website": false
+    },
+    "mlIR8UNRjCc": {
+      "cls": "caps",
+      "id": "mlIR8UNRjCc",
+      "published": "2026-06-01T16:26:42Z",
+      "title": "KIRO 039 : New keybinding app to show what keys to press in Twms",
+      "website": false
+    },
+    "nGLEMvR9KUY": {
+      "cls": "low",
+      "id": "nGLEMvR9KUY",
+      "published": "2026-01-01T09:54:13Z",
+      "title": "Kiro 029 : Kiro 26.01.01 ISO - what is new",
+      "website": false
+    },
+    "nUsyHus-ICE": {
+      "cls": "caps",
+      "id": "nUsyHus-ICE",
+      "published": "2026-05-29T08:18:25Z",
+      "title": "KIRO 013 : Timeshift on Kiro: the system backup safety net Arch never gave you",
+      "website": true
+    },
+    "oGJcu2XEBmg": {
+      "cls": "caps",
+      "id": "oGJcu2XEBmg",
+      "published": "2025-06-17T10:35:17Z",
+      "title": "Kiro 002 : How to build the KIRO ISO",
+      "website": false
+    },
+    "pFyN5o9DhHs": {
+      "cls": "caps",
+      "id": "pFyN5o9DhHs",
+      "published": "2026-05-29T16:45:17Z",
+      "title": "KIRO 020 : Build a Project Website with AI - the Arcolinux-nemesis website",
+      "website": false
+    },
+    "qKXYBH3q174": {
+      "cls": "low",
+      "id": "qKXYBH3q174",
+      "published": "2026-05-02T06:24:04Z",
+      "title": "Kiro 042 : Kiro ISO v26.05.01 - what is new  - 6/8 - archlinux-logout-gtk4",
+      "website": false
+    },
+    "qetCWhsIHP4": {
+      "cls": "caps",
+      "id": "qetCWhsIHP4",
+      "published": "2026-06-12T06:13:27Z",
+      "title": "KIRO 094 : The Kiro ISO is where I want it - now tell me what's missing",
+      "website": false
+    },
+    "rTAFtak_pXg": {
+      "cls": "caps",
+      "id": "rTAFtak_pXg",
+      "published": "2026-06-11T17:09:52Z",
+      "title": "KIRO 092 : Get the old configs of ArcoLinux - Hyprland, Wayfire, Sway and Niri - reuse the configs",
+      "website": false
+    },
+    "sNNKeY1uvHM": {
+      "cls": "caps",
+      "id": "sNNKeY1uvHM",
+      "published": "2026-06-03T17:04:39Z",
+      "title": "KIRO 054 : MEMBER - Adding LUKS disk encryption to the Calamares installer, live with Claude Code",
+      "website": false
+    },
+    "sRNvW-6__kg": {
+      "cls": "caps",
+      "id": "sRNvW-6__kg",
+      "published": "2026-06-11T14:24:58Z",
+      "title": "KIRO 088 : Install Wayfire on Kiro with the CachyOS repo - make it your own - skel - keybindings",
+      "website": false
+    },
+    "sf_uHpio5YI": {
+      "cls": "caps",
+      "id": "sf_uHpio5YI",
+      "published": "2026-06-03T04:04:07Z",
+      "title": "KIRO 043 : XFCE Wayland Session Black Screen \u2014 Don't Click It (Arch Linux Pitfall)",
+      "website": true
+    },
+    "snnbYBMOwFI": {
+      "cls": "caps",
+      "id": "snnbYBMOwFI",
+      "published": "2026-06-07T08:18:12Z",
+      "title": "KIRO 071 : Remove preinstalled apps by category with Streamline in ATT on Kiro",
+      "website": false
+    },
+    "t2dShg1h5no": {
+      "cls": "caps",
+      "id": "t2dShg1h5no",
+      "published": "2026-05-29T10:35:49Z",
+      "title": "KIRO 017 : Custom Plymouth Splash Screens in Kiro \u2014 Install and deploy with ATT",
+      "website": false
+    },
+    "tS8xEP-A128": {
+      "cls": "low",
+      "id": "tS8xEP-A128",
+      "published": "2025-07-06T05:34:03Z",
+      "title": "Kiro 016 : Installing Jwm on Kiro - workflow video to install any desktop/twm from Arco",
+      "website": false
+    },
+    "u1rkc1kZ6nc": {
+      "cls": "caps",
+      "id": "u1rkc1kZ6nc",
+      "published": "2026-06-08T17:32:40Z",
+      "title": "KIRO 074 : Build a custom Kiro ISO with your own kernels using the Kiro ISO builder",
+      "website": false
+    },
+    "uhv5oECQTek": {
+      "cls": "caps",
+      "id": "uhv5oECQTek",
+      "published": "2026-06-12T05:35:49Z",
+      "title": "KIRO 093 : Changing Ohmychadwm from Azerty to Qwerty and back to Azerty - two ways - default=qwerty",
+      "website": false
+    },
+    "vy9EIlywCps": {
+      "cls": "caps",
+      "id": "vy9EIlywCps",
+      "published": "2026-06-05T19:59:16Z",
+      "title": "KIRO 062 : Encrypt your Linux install on old BIOS machines with LUKS2 and GRUB on Kiro",
+      "website": false
+    },
+    "vzMr-6J4y9Q": {
+      "cls": "low",
+      "id": "vzMr-6J4y9Q",
+      "published": "2026-03-01T08:22:32Z",
+      "title": "Kiro 038 : Installing Kiro ISO v26.03.01 - arcolinux-nemesis - what is new",
+      "website": false
+    },
+    "wvNykCKI-j4": {
+      "cls": "caps",
+      "id": "wvNykCKI-j4",
+      "published": "2026-06-03T16:54:56Z",
+      "title": "KIRO 053 : Teaser - Adding LUKS disk encryption to the Calamares installer, live with Claude Code",
+      "website": false
+    },
+    "x0N1OnbJIX4": {
+      "cls": "low",
+      "id": "x0N1OnbJIX4",
+      "published": "2025-10-11T07:54:51Z",
+      "title": "Kiro 025 : Kiro \u2013 The Chadwm-Focused OS - ISO 2025-10-11",
+      "website": false
+    },
+    "xRQLwGN4wIY": {
+      "cls": "caps",
+      "id": "xRQLwGN4wIY",
+      "published": "2025-06-17T11:17:03Z",
+      "title": "Kiro 005 : KIRO + ArcoLinux-Nemesis scripts to cross the t's and dot the i's for KIRO",
+      "website": false
+    },
+    "xSS2sTuMaUs": {
+      "cls": "caps",
+      "id": "xSS2sTuMaUs",
+      "published": "2026-05-31T17:27:48Z",
+      "title": "KIRO 031 : Install NVIDIA the easy way \u2014 4 driver choices on the Kiro ISO",
+      "website": true
+    },
+    "y0PH36QVqkE": {
+      "cls": "caps",
+      "id": "y0PH36QVqkE",
+      "published": "2026-06-06T05:39:09Z",
+      "title": "KIRO 065 : Trust Claude but verify: comparing two Linux ISO package lists with meld",
+      "website": false
+    },
+    "yGOgam2GwFA": {
+      "cls": "caps",
+      "id": "yGOgam2GwFA",
+      "published": "2026-05-30T17:41:18Z",
+      "title": "KIRO 027 : Changing a keybinding in Xfce4 -  and my workflow to Kiro packages",
+      "website": false
+    },
+    "yeWvuiDoos8": {
+      "cls": "caps",
+      "id": "yeWvuiDoos8",
+      "published": "2025-06-23T05:13:31Z",
+      "title": "Kiro 011 : What changed to the KIRO ISO - git clone/pull + gitahead/gitfiend",
+      "website": false
+    },
+    "zFgHvrtsdqE": {
+      "cls": "low",
+      "id": "zFgHvrtsdqE",
+      "published": "2025-11-01T07:55:10Z",
+      "title": "Kiro 026 : Kiro 2025-11-01 ISO - installation - ATT - gitahead - gittyup - beautyline - candy",
+      "website": false
+    },
+    "zSRtu9EuyGQ": {
+      "cls": "caps",
+      "id": "zSRtu9EuyGQ",
+      "published": "2025-06-27T07:14:13Z",
+      "title": "Kiro news 02 : Kiro ISO - Installation and overview of the KIRO ISO",
+      "website": false
+    }
+  }
+}

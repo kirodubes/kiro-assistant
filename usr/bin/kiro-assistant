@@ -1,0 +1,18 @@
+#!/bin/sh
+# Kiro Assistant — open Claude Code preloaded with the Kiro knowledge base.
+# The pack ships read-only under /usr/share; claude writes session state into its
+# working dir, so we seed a per-user writable copy and run there.
+set -eu
+
+SRC=/usr/share/kiro-assistant
+DEST="${XDG_DATA_HOME:-$HOME/.local/share}/kiro-assistant"
+
+if ! command -v claude >/dev/null 2>&1; then
+	echo "kiro-assistant: 'claude' not found. Install the claude-code package first." >&2
+	exit 1
+fi
+
+mkdir -p "$DEST"
+cp -r "$SRC/." "$DEST/"
+cd "$DEST"
+exec claude "$@"
