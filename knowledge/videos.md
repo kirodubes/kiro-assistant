@@ -50,7 +50,7 @@ first stop for a new user.
 
 ## 2. The KIRO series (current Kiro tutorials)
 
-The numbered KIRO series — 105 videos, the up-to-date tutorials
+The numbered KIRO series — 108 videos, the up-to-date tutorials
 for Kiro as it ships today. Listed in series order (start low, or jump to
 a topic by keyword in the title).
 
@@ -159,6 +159,9 @@ a topic by keyword in the title).
 - [KIRO 101 : Signed packages on Kiro: new ISO, keyring and pacman.conf explained](https://youtu.be/bJu4M6TLhPk)
 - [KIRO 102 : Burn an ISO to a bootable USB stick with Mintstick USB Image Writer](https://youtu.be/Z7GZH5LHO1E)
 - [KIRO 103 : Meet the Kiro assistant: a local AI helper powered by Claude](https://youtu.be/Q79y_L-tlfE)
+- [KIRO 104 : AI assistant built into the Kiro ISO — what it knows and what it costs - free version](https://youtu.be/nSeHrq2W7gQ)
+- [KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more](https://youtu.be/U5TNIQ4OBPE)
+- [KIRO 106 : Kiro now signs its packages — enabling verification - only for early adopters](https://youtu.be/6yEW_an5Jv4)
 
 ## 3. Older Kiro videos (release history and earlier how-tos)
 

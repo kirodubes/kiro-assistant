@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-14T06:04:07Z",
+  "last_published": "2026-06-14T12:42:24Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -126,6 +126,12 @@
       "published": "2026-06-10T17:27:48Z",
       "title": "KIRO 083 : Build your own custom Kiro ISO with GNOME \u2014 desktop tour and tweaks",
       "website": true
+    },
+    "6yEW_an5Jv4": {
+      "cls": "caps",
+      "id": "6yEW_an5Jv4",
+      "published": "2026-06-14T12:42:24Z",
+      "title": "KIRO 106 : Kiro now signs its packages \u2014 enabling verification - only for early adopters"
     },
     "7t4Mqb3NLEs": {
       "cls": "caps",
@@ -567,6 +573,12 @@
       "title": "Kiro 006 : Use the personal_repo functionality - steps to take to add your own packages",
       "website": false
     },
+    "U5TNIQ4OBPE": {
+      "cls": "caps",
+      "id": "U5TNIQ4OBPE",
+      "published": "2026-06-14T12:40:49Z",
+      "title": "KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more"
+    },
     "UH56Z2-Z9t0": {
       "cls": "caps",
       "id": "UH56Z2-Z9t0",
@@ -977,6 +989,12 @@
       "published": "2026-01-01T09:54:13Z",
       "title": "Kiro 029 : Kiro 26.01.01 ISO - what is new",
       "website": false
+    },
+    "nSeHrq2W7gQ": {
+      "cls": "caps",
+      "id": "nSeHrq2W7gQ",
+      "published": "2026-06-14T12:36:38Z",
+      "title": "KIRO 104 : AI assistant built into the Kiro ISO \u2014 what it knows and what it costs - free version"
     },
     "nUsyHus-ICE": {
       "cls": "caps",
