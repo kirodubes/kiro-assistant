@@ -5,5 +5,5 @@ Comment=Ask Claude about Kiro — install, configs, desktops, troubleshooting
 Exec=kiro-assistant
 Icon=help-browser
 Terminal=true
-Categories=Utility;System;
+Categories=Utility;System;X-Kiro;
 Keywords=kiro;claude;assistant;ai;help;support;

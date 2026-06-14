@@ -39,3 +39,10 @@ Then just ask, e.g. *"How do I write the Kiro ISO to a USB stick?"* or
   CLAUDE.md.
 - Knowledge files under `knowledge/` are the value. Keep them accurate; an
   out-of-date fact is worse than a missing one.
+- **On every knowledge-base update, re-check the website FAQ for new questions.**
+  The website FAQ (`kiro-website/index.html` `#faq`, mirrored in
+  `Kiro-HQ/FAQ.md`) is the canonical public Q&A and grows a question or two per
+  release. Before regenerating, diff the live FAQ headings against what the
+  knowledge base already covers and fold in anything new, so the assistant
+  answers stay in step with the public answers. Watch for contradictions
+  between the two sources and reconcile them (e.g. USB-writer guidance).

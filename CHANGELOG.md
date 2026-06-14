@@ -59,6 +59,17 @@
   into the KIRO series, regenerated `videos.md`, and advanced the cursor. Index
   now at 164 videos.
 - `build/sync-knowledge.sh` stubbed following the canonical bash template.
+- Surfaced Kiro Assistant in the XFCE **Kiro** applications-menu folder: tagged
+  `kiro-assistant.desktop` with `Categories=...;X-Kiro;` so garcon includes it
+  in the Kiro folder (kept `Utility;System;` so it still shows in its normal
+  categories). The matching `<Layout>` entry lives in `kiro-dot-files`'
+  `kiro.menu`.
+- README "For maintainers" gained a standing reminder: on every knowledge-base
+  update, re-check the website FAQ (canonical public Q&A, mirrored in
+  `Kiro-HQ/FAQ.md`) for newly added questions and fold them in, watching for
+  contradictions between the two sources (e.g. the USB-writer guidance — the
+  website FAQ still lists Ventoy, which this pack deliberately does not
+  recommend in favour of MintStick).
 - Reworked the launcher's writable-state model. The original wrapper copied the
   whole pack into `~/.local/share/kiro-assistant` on every launch, which would
   silently overwrite any knowledge the assistant wrote into a shipped file on
@@ -87,3 +98,4 @@
 - `knowledge/att.md` (new)
 - `knowledge/troubleshooting.md` (new)
 - `build/sync-knowledge.sh` (new)
+- `usr/share/applications/kiro-assistant.desktop`
