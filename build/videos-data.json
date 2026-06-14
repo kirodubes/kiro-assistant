@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-14T12:42:24Z",
+  "last_published": "2026-06-14T18:59:17Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -1282,6 +1282,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 025 : Kiro \u2013 The Chadwm-Focused OS - ISO 2025-10-11",
       "website": false
+    },
+    "xRJ1gFwY6Rw": {
+      "cls": "caps",
+      "id": "xRJ1gFwY6Rw",
+      "published": "2026-06-14T18:59:17Z",
+      "summary": "In this relaxed session I sit down and actually learn a backup tool I had never used before: Pika Backup, the friendly graphical front-end for Borg. No script, no rehearsal, no black boxes. We read the interface together, make a few mistakes, and figure out how it all works. We\u2026",
+      "title": "KIRO 107 : Pika Backup and Borg made simple with a Claude AI assistant on Kiro"
     },
     "xRQLwGN4wIY": {
       "cls": "caps",

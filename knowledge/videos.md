@@ -50,7 +50,7 @@ first stop for a new user.
 
 ## 2. The KIRO series (current Kiro tutorials)
 
-The numbered KIRO series — 108 videos, the up-to-date tutorials
+The numbered KIRO series — 109 videos, the up-to-date tutorials
 for Kiro as it ships today. Listed in series order (start low, or jump to
 a topic by keyword in the title).
 
@@ -162,6 +162,7 @@ a topic by keyword in the title).
 - [KIRO 104 : AI assistant built into the Kiro ISO — what it knows and what it costs - free version](https://youtu.be/nSeHrq2W7gQ) — The new Kiro ISO ships with something I am genuinely excited about: a built-in AI assistant, powered by Claude. The moment you boot the ISO it is already there, and it already knows Kiro — because it comes pre-loaded with knowledge files pulled together from the project docs,…
 - [KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more](https://youtu.be/U5TNIQ4OBPE) — This is the follow-up you asked for. In the first video I stayed on a free account in the browser; this time I log in with a paid Claude plan and show you what the Kiro AI assistant can really do once it is fully unlocked on the system. We start with the honest part: the…
 - [KIRO 106 : Kiro now signs its packages — enabling verification - only for early adopters](https://youtu.be/6yEW_an5Jv4) — Only for early adopters - starting with the ISO v26.06.14 - that is the default This one is mainly for everyone who already adopted Kiro and has been rolling for a few weeks — but if you are brand new, you get a full tour too. I install Kiro fresh in VirtualBox from an earlier…
+- [KIRO 107 : Pika Backup and Borg made simple with a Claude AI assistant on Kiro](https://youtu.be/xRJ1gFwY6Rw) — In this relaxed session I sit down and actually learn a backup tool I had never used before: Pika Backup, the friendly graphical front-end for Borg. No script, no rehearsal, no black boxes. We read the interface together, make a few mistakes, and figure out how it all works. We…
 
 ## 3. Older Kiro videos (release history and earlier how-tos)
 
