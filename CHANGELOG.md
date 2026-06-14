@@ -58,6 +58,14 @@
   exactly those two (stopped at the cursor, no full rescan), classified them
   into the KIRO series, regenerated `videos.md`, and advanced the cursor. Index
   now at 164 videos.
+- Added per-video **summaries** to the video index so the assistant can match a
+  user's question against real content, not just the (terse, numbered) title.
+  `sync-videos.py` now backfills a short, footer-free summary for any video
+  missing one — the description rides along in the `videos.list` snippet
+  (~1 quota unit per 50 videos), so it's cheap and idempotent. `summarize()`
+  cuts the text at the first line of the standing upload footer (membership ask,
+  Support block, About/links, hashtags) or a chapter timestamp, then caps at
+  280 chars. Summaries render inline after each link in `videos.md`.
 - `build/sync-knowledge.sh` stubbed following the canonical bash template.
 - Surfaced Kiro Assistant in the XFCE **Kiro** applications-menu folder: tagged
   `kiro-assistant.desktop` with `Categories=...;X-Kiro;` so garcon includes it

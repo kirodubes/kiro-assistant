@@ -65,6 +65,43 @@ def classify(title):
     return None
 
 
+# Lines that start the standing upload footer (membership ask, Support block,
+# About/links, hashtags) or chapter timestamps. Everything from the first match
+# on is boilerplate, not video-specific content, so we cut the summary there.
+_FOOTER_RE = re.compile(
+    r"^\s*("
+    r"membership is live"
+    r"|support\b"
+    r"|about kiro"
+    r"|github sponsors"
+    r"|ko-?fi"
+    r"|paypal"
+    r"|youtube member"
+    r"|patreon"
+    r"|website\s*[:=]"
+    r"|https?://"
+    r"|#\w+"
+    r"|\d{1,2}:\d{2}\b"
+    r")",
+    re.IGNORECASE,
+)
+
+SUMMARY_MAX = 280
+
+
+def summarize(description):
+    """Reduce a raw YouTube description to a short, footer-free summary."""
+    body = []
+    for line in (description or "").splitlines():
+        if _FOOTER_RE.match(line):
+            break
+        body.append(line)
+    text = " ".join(" ".join(body).split())
+    if len(text) > SUMMARY_MAX:
+        text = text[:SUMMARY_MAX].rsplit(" ", 1)[0] + "…"
+    return text
+
+
 def fetch_new(yt, since):
     """Return (new_videos, newest_published). Stops at the first video that is
     not newer than `since` (uploads come back newest-first)."""
@@ -135,7 +172,11 @@ def render(cache):
     older.sort(key=lambda v: v["published"], reverse=True)
 
     def link(v):
-        return f"- [{v['title']}](https://youtu.be/{v['id']})"
+        line = f"- [{v['title']}](https://youtu.be/{v['id']})"
+        summary = v.get("summary")
+        if summary:
+            line += f" — {summary}"
+        return line
 
     out = []
     a = out.append
@@ -239,6 +280,21 @@ def main():
         print(f"website set refreshed: {len(wanted)} videos")
     else:
         print("KIRO_WEBSITE_DIR not set — keeping cached website set")
+
+    # Backfill a short, footer-free summary for any video missing one. The
+    # description rides along in the videos.list snippet, so this is cheap
+    # (~1 quota unit per 50 videos) and idempotent — an empty body stores "",
+    # and every requested id gets a key so deleted/private videos aren't
+    # refetched on every run.
+    need = [vid for vid, v in vids.items() if "summary" not in v]
+    for batch_start in range(0, len(need), 50):
+        chunk = need[batch_start:batch_start + 50]
+        resp = yt.videos().list(part="snippet", id=",".join(chunk)).execute()
+        got = {it["id"]: it["snippet"].get("description", "") for it in resp["items"]}
+        for vid in chunk:
+            vids[vid]["summary"] = summarize(got.get(vid, ""))
+    if need:
+        print(f"summaries backfilled: {len(need)} video(s)")
 
     save_cache(cache)
     render(cache)

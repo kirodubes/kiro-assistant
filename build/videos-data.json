@@ -5,6 +5,7 @@
       "cls": "caps",
       "id": "-jsbjR8Vj-s",
       "published": "2025-06-17T10:41:21Z",
+      "summary": "",
       "title": "Kiro 003 : Where to download the KIRO ISO",
       "website": false
     },
@@ -12,6 +13,7 @@
       "cls": "caps",
       "id": "0dRsnDBD5nY",
       "published": "2026-05-25T19:17:20Z",
+      "summary": "",
       "title": "KIRO 001 : The new Kiro website is live \u2014 tell me what's unclear",
       "website": true
     },
@@ -19,6 +21,7 @@
       "cls": "caps",
       "id": "0etY8XhegtQ",
       "published": "2026-05-29T11:09:07Z",
+      "summary": "A relaxed, over-the-shoulder build: while the machine runs background housekeeping, I use an AI coding assistant to create a brand-new Plymouth boot splash theme on Arch Linux, built from the colorful Kiro K logo. It is really a workflow video. You will see how I brief the\u2026",
       "title": "KIRO 016 : Using Claude Code to Build a Custom Linux Boot Animation on Kiro",
       "website": false
     },
@@ -26,6 +29,7 @@
       "cls": "low",
       "id": "0x0Kao6HKec",
       "published": "2026-05-02T06:57:42Z",
+      "summary": "",
       "title": "Kiro 045 : Kiro ISO v26.05.01 - what is new  - 8/8 - oh-my-chadwm",
       "website": false
     },
@@ -33,6 +37,7 @@
       "cls": "low",
       "id": "13uwp_pAJHs",
       "published": "2026-01-30T17:02:58Z",
+      "summary": "info Use any nvidia driver that is available on the Chaotic AUR and build the ISO ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github\u2026",
       "title": "Kiro 031 : Build Kiro ISO with the Nvidia 580 driver - build script changed",
       "website": false
     },
@@ -40,6 +45,7 @@
       "cls": "caps",
       "id": "1Bru5XHtdjQ",
       "published": "2026-06-03T04:30:38Z",
+      "summary": "Learning a tiling window manager is hard for one reason: the keybindings. There's no menu to click, everything is a shortcut, and at the start you don't know any of them. This new keybindings cheatsheet app fixes exactly that \u2014 launch it with Super+S and get a clean overview of\u2026",
       "title": "KIRO 044 : A Keybindings Cheatsheet for Tiling Window Managers \u2014 Light and Dark Themes",
       "website": false
     },
@@ -47,6 +53,7 @@
       "cls": "caps",
       "id": "1GhY1nsjTAs",
       "published": "2026-06-08T18:19:55Z",
+      "summary": "In this one I sit inside a freshly built Kiro ISO and show you the Kiro ISO builder from the inside, recording live on the running system while I put together another custom build. The whole idea here is choice. The ISO builder lets you swap the kernel: this build ships with the\u2026",
       "title": "KIRO 075 : Kiro Iso Builder - Choosing Cachyos Bore and Xanmod edge v3 - live environment",
       "website": false
     },
@@ -54,6 +61,7 @@
       "cls": "low",
       "id": "1Pky-nm7jBM",
       "published": "2026-01-21T13:34:20Z",
+      "summary": "",
       "title": "Edu 070 : A major update of Qemu makes me test Qemu on the latest build of Kiro - tip fastcompmgr",
       "website": false
     },
@@ -61,6 +69,7 @@
       "cls": "low",
       "id": "1sn4y9Z-I3s",
       "published": "2026-05-02T08:02:18Z",
+      "summary": "",
       "title": "Kiro 047 : Kiro ISO v26.05.01 - what is new  - 2/8 - kiro-iso",
       "website": false
     },
@@ -68,6 +77,7 @@
       "cls": "caps",
       "id": "27pzVmGlqf8",
       "published": "2026-06-03T11:50:39Z",
+      "summary": "LUKS full disk encryption, the Calamares installer, and one honest question: can we safely switch encrypted installs back on for the next Kiro ISO? In this episode we investigate full disk encryption on Arch together \u2014 what broke before, why it broke, and whether it's worth\u2026",
       "title": "KIRO 051 : Calamares Tweak Tool - and like this an idea is born - now implement it",
       "website": false
     },
@@ -75,6 +85,7 @@
       "cls": "low",
       "id": "2DWkAzDDDvU",
       "published": "2026-02-01T16:13:14Z",
+      "summary": "info",
       "title": "Kiro 037 : Arch Linux 2026.02.01 ISO - encrypted - xfce4 - sddm - arcolinux-nemesis",
       "website": false
     },
@@ -82,6 +93,7 @@
       "cls": "caps",
       "id": "2GI6yWtQ4Sg",
       "published": "2026-06-12T20:04:03Z",
+      "summary": "Firmware updates, fwupd and LVFS now have a home inside ArchLinux Tweak Tool (ATT). In this tutorial we open the new firmware section under System and walk through how it talks to the Linux Vendor Firmware Service (LVFS) to see what updates your hardware has waiting \u2014 BIOS,\u2026",
       "title": "KIRO 097 : Firmware and BIOS updates with fwupd, LVFS and ArchLinux Tweak Tool",
       "website": false
     },
@@ -89,6 +101,7 @@
       "cls": "caps",
       "id": "2GsFhRygcLk",
       "published": "2026-06-07T19:07:26Z",
+      "summary": "NEW APPLICATION CALLED KIRO ISO BUILDER Build a custom Linux ISO the way you want it. In this video we walk through two new tools that turn Kiro into a base you can shape to your own machine: the streamlined package removal in the ArchLinux Tweak Tool (ATT) and a brand new\u2026",
       "title": "KIRO 072 : Build a custom KIRO ISO - pick your kernel, Nvidia driver and packages with Kiro",
       "website": false
     },
@@ -96,6 +109,7 @@
       "cls": "caps",
       "id": "3jdKH6bLgUE",
       "published": "2025-06-19T09:39:10Z",
+      "summary": "Creating an iso from A TILL Z Want to create your own ISO - follow this video",
       "title": "Kiro 009 : The ultimate ISO building video - using KIRO ISO to create BUILDRA ISO",
       "website": false
     },
@@ -103,6 +117,7 @@
       "cls": "caps",
       "id": "3v3V-i_ECZU",
       "published": "2026-05-27T04:09:06Z",
+      "summary": "A new page on the Kiro website shows every desktop and tiling window manager you can run on Kiro/Arch Linux \u2014 each one captured live, all on one page, built entirely with Claude. I'm learning to work with Claude in the open, and this site is the result. The newest page is the\u2026",
       "title": "KIRO 005 :   13 desktop and tiling window managers \u2014 pick yours in ATT on Kiro",
       "website": true
     },
@@ -110,6 +125,7 @@
       "cls": "caps",
       "id": "3yDpkn7rQTM",
       "published": "2026-06-01T12:17:24Z",
+      "summary": "Every Linux distribution that publishes its package list is handing you a readable record of every decision it makes. In this tutorial we compare two Kiro ISOs side by side in Meld \u2014 the previous release against the new June build \u2014 separate the real changes from the\u2026",
       "title": "KIRO 038 : Compare Any Linux ISO Package List in Meld and See What Really Changed",
       "website": true
     },
@@ -117,6 +133,7 @@
       "cls": "caps",
       "id": "4zv7FIuFL7g",
       "published": "2026-05-27T17:01:14Z",
+      "summary": "The full members deep dive: comparing eight Linux kernels on Arch and Kiro, start to finish, side by side with Claude. What we go through: - which kernels Arch-based distros actually ship, and why stock linux still dominates - a 20-distro table of who ships what - cloning and\u2026",
       "title": "KIRO 008 : MEMBER - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
       "website": false
     },
@@ -124,6 +141,7 @@
       "cls": "caps",
       "id": "5oEH5XjMmpU",
       "published": "2026-06-10T17:27:48Z",
+      "summary": "In this one we build our own custom Kiro ISO with GNOME, straight from the Kiro ISO Builder (KIB), then boot it, install it, and walk the desktop together. It starts in the builder. Always pull the latest code first so you are building from a clean, up-to-date source, then it is\u2026",
       "title": "KIRO 083 : Build your own custom Kiro ISO with GNOME \u2014 desktop tour and tweaks",
       "website": true
     },
@@ -131,12 +149,14 @@
       "cls": "caps",
       "id": "6yEW_an5Jv4",
       "published": "2026-06-14T12:42:24Z",
+      "summary": "Only for early adopters - starting with the ISO v26.06.14 - that is the default This one is mainly for everyone who already adopted Kiro and has been rolling for a few weeks \u2014 but if you are brand new, you get a full tour too. I install Kiro fresh in VirtualBox from an earlier\u2026",
       "title": "KIRO 106 : Kiro now signs its packages \u2014 enabling verification - only for early adopters"
     },
     "7t4Mqb3NLEs": {
       "cls": "caps",
       "id": "7t4Mqb3NLEs",
       "published": "2026-05-29T08:49:37Z",
+      "summary": "On a tiling window manager your whole setup lives in ~/.config, so a system update never overwrites it and your customisations stay safe. The trade-off: new default configs land in /etc/skel and are not applied automatically. This video shows how to see exactly what changed with\u2026",
       "title": "KIRO 014 : Compare Linux Configs with Meld and Restore Defaults Safely After Updates",
       "website": false
     },
@@ -144,6 +164,7 @@
       "cls": "caps",
       "id": "9Ddzyd0FfVc",
       "published": "2026-06-12T17:18:55Z",
+      "summary": "Two new sections just landed in the ArchLinux Tweak Tool (ATT), and both came straight from your ideas on the Kiro Discussions board: a full accessibility page and a personal backup page. This is the part I love most \u2014 you tell me what is missing from the Kiro ISO, and we build\u2026",
       "title": "KIRO 096 : Accessibility and backup tools added to ArchLinux Tweak Tool from your ideas",
       "website": false
     },
@@ -151,6 +172,7 @@
       "cls": "low",
       "id": "9G2jFQh5daU",
       "published": "2026-05-21T17:54:27Z",
+      "summary": "",
       "title": "Kiro Reborn - Liquorix + PipeWire + System Tweaks, Built Alongside Claude",
       "website": false
     },
@@ -158,6 +180,7 @@
       "cls": "caps",
       "id": "9kilmj_GPMY",
       "published": "2026-06-05T05:33:04Z",
+      "summary": "Linux theming made easy: in this tutorial we revive the classic Arc GTK themes inside the ArchLinux Tweak Tool (ATT) and restyle the whole themes page on Kiro. If you love customizing your Linux desktop, this is the quick way to do it. The Arc theme was created years ago by\u2026",
       "title": "KIRO 060 : Reviving 56 Arc GTK themes in the ArchLinux Tweak Tool on Kiro",
       "website": false
     },
@@ -165,6 +188,7 @@
       "cls": "caps",
       "id": "9oL7TIAvie0",
       "published": "2026-05-29T20:46:01Z",
+      "summary": "",
       "title": "KIRO 021 : New code and theme for Calamares - sneak peak",
       "website": true
     },
@@ -172,6 +196,7 @@
       "cls": "low",
       "id": "AFPiyVXmyGc",
       "published": "2025-12-01T06:25:05Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 027 : Kiro 25.12.01 ISO - what is new",
       "website": false
     },
@@ -179,6 +204,7 @@
       "cls": "caps",
       "id": "AfajqlpXv5I",
       "published": "2026-05-30T18:21:29Z",
+      "summary": "Archlinux-better-lock-screen is a tool that ships with the archlinux-logout package \u2014 and it is one of those tools that tends to get overlooked. This video shows you what it does and how to set it up. The lock screen activates when you step away from your machine and press\u2026",
       "title": "KIRO 029 : Archlinux-logout comes with ArchLinux Betterlockscreen - lock your system in style",
       "website": true
     },
@@ -186,6 +212,7 @@
       "cls": "low",
       "id": "Agk2q_jAcHk",
       "published": "2025-07-08T05:42:50Z",
+      "summary": "A whatif - can we automatically rebuild Calamares when it crashes You will need internet to do so If you want to build it manually you need to copy/paste the pkgbuild folder from Calamares to your own home directory of the liveuser to have write permissions Forgot to tell that\u2026",
       "title": "Kiro 019 : Calamares will be built automatically when it crashes",
       "website": false
     },
@@ -193,6 +220,7 @@
       "cls": "low",
       "id": "BZG2LmpIpH8",
       "published": "2025-09-11T07:13:04Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 023 : New Kiro release - 2025-09-11 - kiro-nemesis scripts - build your own iso - 2/2",
       "website": false
     },
@@ -200,6 +228,7 @@
       "cls": "low",
       "id": "Bo90wWSJQTc",
       "published": "2025-07-06T05:00:03Z",
+      "summary": "Follow this video to add the arcolinux repos and use the arcolinuxd scripts to install any desktop we created tint2 and arcolinux-tint2-git are also needed ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 015 : Installing Openbox on Kiro - get arcolinux repos/packages - install any desktop",
       "website": false
     },
@@ -207,6 +236,7 @@
       "cls": "low",
       "id": "BzeYmwg0Wpc",
       "published": "2025-12-01T06:26:29Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 028 : Kiro 25.12.01 ISO - installation + kiro-nemesis scripts",
       "website": false
     },
@@ -214,6 +244,7 @@
       "cls": "low",
       "id": "C2nR7NF-P_Q",
       "published": "2026-03-14T10:40:05Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Arcolinux-nemesis series 04 - Building Kiro ISO and testing the arcolinux-nemesis script again",
       "website": false
     },
@@ -221,6 +252,7 @@
       "cls": "caps",
       "id": "C2o3qPDhRug",
       "published": "2026-06-05T07:50:57Z",
+      "summary": "Learning the keyboard shortcuts is the hardest part of moving to a tiling window manager, so on Kiro we built a keybindings reference you can call up at any time. Press Ctrl+Super+S and a searchable list of every shortcut opens on screen. It ships in three forms: a plain text\u2026",
       "title": "KIRO 062 : Keybindings cheat sheet for every tiling window manager, built into Kiro and Xfce4",
       "website": false
     },
@@ -228,6 +260,7 @@
       "cls": "caps",
       "id": "CKqRKK3zADo",
       "published": "2025-06-17T11:04:49Z",
+      "summary": "what is interesting to know - choices I have made ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Kiro 004 : How to install the KIRO ISO",
       "website": false
     },
@@ -235,6 +268,7 @@
       "cls": "caps",
       "id": "Ciqao_oWvM0",
       "published": "2026-06-10T05:44:12Z",
+      "summary": "Kiro is 10 days old as a community distro, and release days come with tutorials. Today's star is Ctrl+Alt+I: the Kiro ISO Builder (KIB). Install Kiro on any machine and use it to build a custom ISO \u2014 your kernel, your desktop, the packages you actually want. This is the detailed\u2026",
       "title": "KIRO 076 : Kiro Iso Builder or KIB - deep dive \u2014 pick your kernel, desktop, and packages",
       "website": false
     },
@@ -242,6 +276,7 @@
       "cls": "caps",
       "id": "DsgLIxNAQTs",
       "published": "2026-06-10T07:38:21Z",
+      "summary": "This is the back office. The part you do not usually see \u2014 how I actually use AI from day to day to run the Kiro project website. In this one I walk you through my workflow for adding tutorial videos to the site. I host the website locally first, add the new content on\u2026",
       "title": "KIRO 078 : How I use Claude AI to update my Kiro website while I sit back and click",
       "website": false
     },
@@ -249,6 +284,7 @@
       "cls": "caps",
       "id": "E68_OBoQ1fI",
       "published": "2026-06-13T06:53:58Z",
+      "summary": "There has been a lot of talk online about malicious packages turning up in the AUR (Arch User Repository). In this video I walk you through how we are handling it on Kiro, and the new tool we built to keep you informed the next time something like this happens. First, the\u2026",
       "title": "KIRO 099 : Malicious AUR packages: how Kiro News keeps you in the loop on security advisories",
       "website": false
     },
@@ -256,6 +292,7 @@
       "cls": "caps",
       "id": "EJ8-lknUKiY",
       "published": "2026-06-11T10:44:34Z",
+      "summary": "This is the next step in building your own custom Kiro ISO with the Kiro ISO Builder. In the last video we added the Budgie desktop and hit a wall: it would not autologin and the apps would not launch, because Budgie runs on Wayland with labwc as its compositor. This time it is\u2026",
       "title": "KIRO 085 : Budgie working now + pick from 42 kernels - Kiro Iso Builder",
       "website": true
     },
@@ -263,6 +300,7 @@
       "cls": "caps",
       "id": "EPAxTzgwFOw",
       "published": "2026-06-06T05:26:40Z",
+      "summary": "Build your own Kiro Linux ISO and customize it your way. In this tutorial we open up the Kiro ISO live and reorganize its packages file so that anyone building the ISO knows exactly what is safe to change and what must stay put. This is the open-box idea behind Kiro: nothing is\u2026",
       "title": "KIRO 064 : Build your own personal Kiro ISO: organizing the ISO packages file - AI tutorial",
       "website": false
     },
@@ -270,6 +308,7 @@
       "cls": "caps",
       "id": "EeNbcCwmdgY",
       "published": "2026-06-11T15:48:11Z",
+      "summary": "River is one of the Wayland tiling window managers worth knowing about, and in this video we sit down and actually try to get it running. First we lay out the field, the tiling compositors people keep asking about, Sway, Hyprland, Niri, Wayfire, MangoWC, dwl and Qtile on its\u2026",
       "title": "KIRO 091 : Install Riverwm on Kiro - find code online for a nice recent config to try out",
       "website": false
     },
@@ -277,6 +316,7 @@
       "cls": "caps",
       "id": "Eur5CQDlBOQ",
       "published": "2026-06-04T11:49:45Z",
+      "summary": "The SCX manager is new in the ArchLinux Tweak Tool (ATT), and it lets you switch your CPU scheduler without building a kernel or rebooting. SCX is short for sched_ext, the schedulable kernel scheduler, and the schedulers themselves come straight from CachyOS. ATT just gives you\u2026",
       "title": "KIRO 058 : SCX CPU scheduler tuning made simple with the ArchLinux Tweak Tool on Kiro",
       "website": false
     },
@@ -284,6 +324,7 @@
       "cls": "caps",
       "id": "Ew4upVlqn3g",
       "published": "2026-01-29T13:00:34Z",
+      "summary": "BYOI Build Your Own Iso Buildra ISO is a customizable Arch Linux ISO builder forked/derived from the KIRO project (an Arch-based ISO framework). It lets you script and configure an install ISO with your own packages, settings, and Calamares installer integrated. Arch Linux with\u2026",
       "title": "Edu 073 : BUILDRA ISO - project is synced with KIRO - build if you want to test it - BYOI",
       "website": false
     },
@@ -291,6 +332,7 @@
       "cls": "caps",
       "id": "F75w6CNJ4gA",
       "published": "2026-06-03T04:43:59Z",
+      "summary": "Want to try every tiling window manager on Arch Linux without installing them one by one? The ArchLinux Tweak Tool (ATT) has a Development page that installs them all in a single click, and in this video I walk through it on a virtual machine. Open ATT, head to the Development\u2026",
       "title": "KIRO 045 : Install Every Tiling Window Manager at Once \u2014 ATT's Developer Page",
       "website": false
     },
@@ -298,6 +340,7 @@
       "cls": "low",
       "id": "GBXz9ZgoiZw",
       "published": "2026-04-10T04:43:34Z",
+      "summary": "info at https://github.com/erikdubois/ohmychadwm ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Edu 081 : Ohmychadwm - a tiling window manager tweaked for the use on Kiro ISO - current status",
       "website": false
     },
@@ -305,6 +348,7 @@
       "cls": "low",
       "id": "HInkCKhkxsM",
       "published": "2025-10-01T05:30:33Z",
+      "summary": "info",
       "title": "Kiro 024 : Kiro 2025-10-01 ISO - installation - new release - new archiso 86-1 - buildra - ATT",
       "website": false
     },
@@ -312,6 +356,7 @@
       "cls": "caps",
       "id": "HWiEZnWN4oo",
       "published": "2026-06-13T15:37:36Z",
+      "summary": "Package signing is coming to Kiro. In this tutorial I walk you through what signed packages are, why package signing matters, and why nothing on your system changes today.",
       "title": "KIRO 100 : Package signing comes to Kiro and why it makes your system safer",
       "website": false
     },
@@ -319,6 +364,7 @@
       "cls": "low",
       "id": "HpPjG0Bj5A0",
       "published": "2025-06-30T06:33:31Z",
+      "summary": "",
       "title": "Kiro 013 : new kiro-nemesis scripts - Building, installing and showing the new kiro-nemesis scripts",
       "website": false
     },
@@ -326,6 +372,7 @@
       "cls": "low",
       "id": "Ij5pFJzT208",
       "published": "2026-01-01T10:11:55Z",
+      "summary": "info git clone https://github.com/erikdubois/arcolinux-nemesis ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro 030 : Kiro 26.01.01 ISO - installation + arcolinux-nemesis scripts",
       "website": false
     },
@@ -333,6 +380,7 @@
       "cls": "caps",
       "id": "J_aLS7EAnI8",
       "published": "2026-06-10T18:02:47Z",
+      "summary": "The Budgie desktop is the last one standing in this round of testing the custom Kiro ISO. After GNOME, MATE, Plasma, XFCE and Cinnamon, every desktop has been built and installed, so this run is all about Budgie and about what happens when one thing refuses to behave. We start\u2026",
       "title": "KIRO 084 : Budgie desktop on a custom Kiro ISO: LibreOffice and a Calamares bug to chase",
       "website": false
     },
@@ -340,6 +388,7 @@
       "cls": "low",
       "id": "JjtW67i1Iyw",
       "published": "2025-09-11T07:11:48Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 022 : New Kiro release - 2025-09-11 - kiro-nemesis scripts - build your own iso - 1/2",
       "website": false
     },
@@ -347,6 +396,7 @@
       "cls": "caps",
       "id": "Jltl-Xf_Z-I",
       "published": "2026-05-31T17:36:40Z",
+      "summary": "XFCE on Kiro is themed and ready out of the box, but the Settings Manager felt like it was missing a few buttons. So I added them. This video tours every new entry I put into the XFCE system settings \u2014 the tools I want one click away instead of hunting for them on the command\u2026",
       "title": "KIRO 033 : XFCE Settings Manager tour \u2014 lock screen, logout, firewall, disk tools and more",
       "website": true
     },
@@ -354,6 +404,7 @@
       "cls": "caps",
       "id": "KWWxs93Ytb0",
       "published": "2026-06-04T10:38:55Z",
+      "summary": "Full disk encryption is now in the Kiro installer. This new June ISO adds LUKS disk encryption across several filesystems \u2014 ext4, XFS, JFS and Btrfs \u2014 and it does it without making the simple install path any harder. Just days after the June launch, here is the next\u2026",
       "title": "KIRO 056 : Full disk encryption comes to Kiro: Luks, Btrfs, jfs, xfs and a still-simple installer",
       "website": false
     },
@@ -361,6 +412,7 @@
       "cls": "low",
       "id": "KXTQTLvljdQ",
       "published": "2025-06-27T07:03:00Z",
+      "summary": "Use it to install xfce4 and chadwm or use it to create your own distribution ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro news 01 : Kiro ISO and Kiro build - use it to install your OS or use it to create your distro",
       "website": false
     },
@@ -368,6 +420,7 @@
       "cls": "caps",
       "id": "KiarEo6Ke6c",
       "published": "2026-06-10T14:34:10Z",
+      "summary": "The Kiro ISO Builder isn't tied to Kiro. It runs on any Arch-based system, and in this video I install it on a fresh CachyOS Plasma desktop to show that yes, you can build a custom Kiro ISO right from there. The key is the nemesis repo, the package repository that ships the Kiro\u2026",
       "title": "KIRO 081 : Build a custom Kiro ISO on CachyOS using the nemesis repo",
       "website": true
     },
@@ -375,6 +428,7 @@
       "cls": "caps",
       "id": "KmkyK-k0eGI",
       "published": "2026-05-30T13:14:10Z",
+      "summary": "Automatic Nvidia and GPU driver detection finally comes to the Kiro June ISO. In this tutorial we walk through CHWD, the CachyOS hardware detection tool, and how it picks the right drivers for your machine automatically at install time. If you have ever fought with Nvidia\u2026",
       "title": "KIRO 024 : Automatic Driver Detection on Kiro with CHWD",
       "website": true
     },
@@ -382,6 +436,7 @@
       "cls": "caps",
       "id": "KqGPXcpxK5Q",
       "published": "2026-05-29T07:31:44Z",
+      "summary": "Qtile on Arch Linux gets a full redesign in Kiro: a fresh look, one unified set of keybindings across every tiling window manager, and automatic AZERTY/QWERTY detection. It started from a layout I kept admiring, then I merged the old Arch/ArcoLinux Qtile with the Kiro one and\u2026",
       "title": "KIRO 012 : New Qtile Look on Arch Linux: One Keymap Across 13 Tiling Window Managers",
       "website": false
     },
@@ -389,6 +444,7 @@
       "cls": "caps",
       "id": "KwqvTwSDaKc",
       "published": "2026-05-23T11:55:13Z",
+      "summary": "",
       "title": "KIRO 000: Help fund Kiro \u2014 channel memberships are open",
       "website": false
     },
@@ -396,6 +452,7 @@
       "cls": "caps",
       "id": "LGQI1kDiqvc",
       "published": "2026-05-29T13:42:18Z",
+      "summary": "Thank you for being a member. This is the full, in-depth build. I sit down with Claude Code and ask it to create a complete website for the Arch Linux Nemesis scripts - not a one-pager, a real multi-page site with menus - hosted for free on GitHub, in the same design as the rest\u2026",
       "title": "KIRO 019 : MEMBER - Let Claude Code Write the Code and the Copy - Free GitHub Pages Website Built",
       "website": false
     },
@@ -403,6 +460,7 @@
       "cls": "caps",
       "id": "LPf3dP4Jbgc",
       "published": "2025-06-17T09:40:25Z",
+      "summary": "Kiro: My Personal Arch Linux ISO A custom Arch Linux ISO \u2014 tailored exactly to my needs. Core Features: * Arch Linux base * systemd-boot as the bootloader * Calamares installer for ease of use * EXT4 filesystem * Xfce + chadwm desktop environments A rich set of apps and\u2026",
       "title": "Kiro 001 : a new ISO called KIRO - why is there a new ISO",
       "website": false
     },
@@ -410,6 +468,7 @@
       "cls": "caps",
       "id": "LTZBe4W-5OM",
       "published": "2026-06-01T07:07:11Z",
+      "summary": "Install Arch Linux the easy way. This is a complete installation walkthrough of the new Kiro ISO (v26.06.01) \u2014 from the website and download, through verifying the ISO and creating a bootable USB, all the way through the Calamares installer and your first boot. If you've wanted\u2026",
       "title": "KIRO 037 : Install Arch Linux the Easy Way: Full Kiro ISO Walkthrough and First Boot",
       "website": true
     },
@@ -417,6 +476,7 @@
       "cls": "caps",
       "id": "LyqKmXHDjhE",
       "published": "2026-06-01T18:33:13Z",
+      "summary": "lsblk # find your USB device, e.g. /dev/sdb sudo dd bs=4M if=kiro-*.iso \\ of=/dev/sdX status=progress oflag=sync",
       "title": "KIRO 040 : burning an ISO with dd",
       "website": false
     },
@@ -424,6 +484,7 @@
       "cls": "caps",
       "id": "MAmD_i9C8cc",
       "published": "2026-05-30T17:48:49Z",
+      "summary": "If you manage a desktop that ships multiple window managers \u2014 or a distro that includes several of them \u2014 keeping keybindings consistent across all of them is exactly the kind of maintenance task that AI handles better than you do. Here is a real example from the Kiro workflow.\u2026",
       "title": "KIRO 028 : AI - collaboration - change all 7 twms in one go - prompting matters",
       "website": false
     },
@@ -431,6 +492,7 @@
       "cls": "caps",
       "id": "MF0vYTAke2Q",
       "published": "2026-06-03T03:36:45Z",
+      "summary": "If you run a dual, triple, or quadruple monitor setup on a Linux tiling window manager, this is the simple fix for screens that never line up and a mouse that gets stuck between them. In this tutorial I use arandr, a small graphical front-end for xrandr, to arrange the displays\u2026",
       "title": "KIRO 042 : Multi-monitor setup for tiling window managers with arandr - save it once",
       "website": false
     },
@@ -438,6 +500,7 @@
       "cls": "low",
       "id": "Mq4DHw7Wwu0",
       "published": "2026-01-31T07:47:18Z",
+      "summary": "Creating a personal ISO for my 16 year old Medion computer (Aldi) ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro 032 : Nvidia 390 driver - Changing the build-the-iso script to add the Nvidia 390xx drivers",
       "website": false
     },
@@ -445,6 +508,7 @@
       "cls": "low",
       "id": "Mxu95cJqZI0",
       "published": "2025-07-07T05:33:37Z",
+      "summary": "Change calamares on the fly /etc/calamares/modules/bootloader.conf ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro 017 : Installing Kiro with GRUB rather than with Systemd-boot",
       "website": false
     },
@@ -452,6 +516,7 @@
       "cls": "caps",
       "id": "NFbaVvGN8P8",
       "published": "2026-05-27T16:51:43Z",
+      "summary": "Become a member for the full hour: https://www.youtube.com/@erikdubois/join Comparing the most-used Linux kernels on Arch Linux \u2014 stock linux, Zen, CachyOS, Liquorix, LTS, XanMod and hardened \u2014 done live with an AI assistant. We start simple: which kernels do Arch-based distros\u2026",
       "title": "KIRO 007 : teaser - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
       "website": false
     },
@@ -459,6 +524,7 @@
       "cls": "low",
       "id": "NdzofLkdgUY",
       "published": "2026-04-01T04:28:34Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 039 : New release for Kiro ISO v26.04.01 - Easter egg in the video - work in progress",
       "website": false
     },
@@ -466,6 +532,7 @@
       "cls": "caps",
       "id": "NruhQ5N-uY0",
       "published": "2026-05-26T10:56:19Z",
+      "summary": "How to set default apps in Linux and stop the wrong program opening your files. In this quick fix I track down why ctrl-clicking a file in the Alacritty terminal kept opening Mousepad instead of my editor, and set the right default in mimeapps.list. On Linux, the \"open with\"\u2026",
       "title": "KIRO 004 : How to Set Default Apps in Linux \u2014 Fix the Wrong Program Opening Files (mimeapps.list)",
       "website": false
     },
@@ -473,6 +540,7 @@
       "cls": "caps",
       "id": "O-_sEIN865U",
       "published": "2026-06-11T14:06:00Z",
+      "summary": "niri is a scrollable-tiling Wayland compositor, and in this tutorial we install it on Kiro straight from the CachyOS repo. No black boxes \u2014 you watch every step, including the messy parts. Kiro already rides on the CachyOS kernel and pulls from the CachyOS repo, so the niri and\u2026",
       "title": "KIRO 087 : Install Niri on Kiro with the CachyOS repo \u2014 create it yourself or copy/paste",
       "website": false
     },
@@ -480,6 +548,7 @@
       "cls": "low",
       "id": "OE3fUhcW_ec",
       "published": "2026-05-02T07:08:04Z",
+      "summary": "",
       "title": "Kiro 046 : Kiro ISO v26.05.01 - what is new  - 3/8 - kiro-calamares-config",
       "website": false
     },
@@ -487,6 +556,7 @@
       "cls": "caps",
       "id": "Ot43ehmw7dg",
       "published": "2026-06-12T20:06:23Z",
+      "summary": "The latest Kiro ISO lands with accessibility built right in. In this tutorial we look at an on-screen keyboard on the SDDM login screen and the Onboard keyboard inside the desktop \u2014 accessibility straight out of the box, no extra setup. This came directly from you. Accessibility\u2026",
       "title": "KIRO 098 : Accessibility out of the box: SDDM on-screen keyboard and Onboard themes",
       "website": false
     },
@@ -494,6 +564,7 @@
       "cls": "caps",
       "id": "P4o1VTTv1OE",
       "published": "2026-05-26T08:36:17Z",
+      "summary": "Create a Kiro wallpaper \u2014 and let's share them Over the years I've been sent some genuinely beautiful wallpapers for ArcoLinux. Creative work, often things I could never have made myself. I was still using some of them right through my last year of sabbatical. So I'd love to\u2026",
       "title": "KIRO 002 : Create a Kiro wallpaper \u2014 let's share them",
       "website": false
     },
@@ -501,6 +572,7 @@
       "cls": "low",
       "id": "PhShyJtTMBE",
       "published": "2025-06-19T05:45:46Z",
+      "summary": "When I am not updating the calamares app on the kiro_repo you need to build the calamares app and put it on the personal_repo and then build it again ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 008 : Build your own calamares and other packages and use the personal_repo",
       "website": false
     },
@@ -508,12 +580,14 @@
       "cls": "caps",
       "id": "Q79y_L-tlfE",
       "published": "2026-06-14T06:04:07Z",
+      "summary": "our Kiro machine now has its own local AI assistant. In this release we introduce the Kiro assistant \u2014 a personal helper that lives on your computer and answers your questions about Kiro, Arch-based Linux and everyday workflows, powered by Claude. Install it the usual way: sudo\u2026",
       "title": "KIRO 103 : Meet the Kiro assistant: a local AI helper powered by Claude"
     },
     "QNykcUBADog": {
       "cls": "caps",
       "id": "QNykcUBADog",
       "published": "2026-06-06T09:24:41Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. This is a real working session: me and Claude Code, side by side, developing the Kiro ISO on a Saturday morning. No script, no cuts hiding the messy parts. You watch\u2026",
       "title": "KIRO 066 : teaser - Build your own ISO: AI-assisted Linux distro development with Claude Code",
       "website": false
     },
@@ -521,6 +595,7 @@
       "cls": "caps",
       "id": "QYKjhSW2Q1U",
       "published": "2026-05-28T13:25:12Z",
+      "summary": "A pre-launch update on Kiro Linux: the default kernel changes, the ISO builder becomes kernel-agnostic, and the website is clearer for first-time visitors. The headline: Kiro is moving off the Liquorix kernel (linux-lqx). The new default is linux-cachyos, with linux-zen as a\u2026",
       "title": "KIRO 009 : CachyOS and Zen Kernel will be rolled out on the Kiro ISO",
       "website": true
     },
@@ -528,6 +603,7 @@
       "cls": "low",
       "id": "Qfp5o7vWGZY",
       "published": "2026-02-01T07:08:55Z",
+      "summary": "",
       "title": "Kiro 035 : Installing Kiro ISO v26.02.01 - arcolinux-nemesis",
       "website": false
     },
@@ -535,6 +611,7 @@
       "cls": "low",
       "id": "RG7U8E2EEMU",
       "published": "2026-05-16T05:32:38Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Edu 105 - AI claude - sharing knowledge - building a linux-kiro-liquorix kernel -",
       "website": false
     },
@@ -542,6 +619,7 @@
       "cls": "caps",
       "id": "RSBX7zLHV4Q",
       "published": "2026-05-28T14:06:14Z",
+      "summary": "Kiro now ships a firewall enabled by default \u2014 no commands, no setup. A fresh install is locked down from first boot. The honest part: Erik has not used a firewall on his own machines in ten years. But plenty of Kiro users will want one, and Kiro is built for the community\u2026",
       "title": "KIRO 010 : Kiro Linux enables firewalld by default: Sensible Arch Linux security",
       "website": true
     },
@@ -549,6 +627,7 @@
       "cls": "low",
       "id": "RmBLVqTj_AQ",
       "published": "2025-06-25T04:24:28Z",
+      "summary": "how will it look will there be errors anything missing arcolinux projects will not receive updates kiro will receive updates irregularly ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 012 : What if we remove all EDU packages from the Kiro packages list and build an ISO",
       "website": false
     },
@@ -556,6 +635,7 @@
       "cls": "caps",
       "id": "SdfCZFtoBws",
       "published": "2026-06-05T21:55:16Z",
+      "summary": "The Kiro website now has release notes, and this short walkthrough shows you where to find them and how to read them. Scroll to the bottom of the page and you get a clear, plain-language summary of what changed in each ISO and the reasoning behind it, so you are never guessing\u2026",
       "title": "KIRO 063 : Release notes for every Kiro ISO \u2014 see what changed",
       "website": false
     },
@@ -563,6 +643,7 @@
       "cls": "caps",
       "id": "TbCBL9XeKM4",
       "published": "2026-06-10T07:22:15Z",
+      "summary": "Build your own custom Kiro ISO from scratch: pick any desktop environment, any kernel, and any tiling window manager, then watch it install and boot. This is the build-your-own-ISO workflow on Kiro, and it is one of the project's biggest strengths. Nothing is a black box here,\u2026",
       "title": "KIRO 077 : Kiro Iso Builder - Build a custom Kiro ISO, then explore KDE Plasma and every twm",
       "website": true
     },
@@ -570,6 +651,7 @@
       "cls": "low",
       "id": "TqFuLknCsUE",
       "published": "2025-06-19T05:15:54Z",
+      "summary": "Sometimes you need to rebuild the calamares app or the calamares config ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro 006 : Use the personal_repo functionality - steps to take to add your own packages",
       "website": false
     },
@@ -577,12 +659,14 @@
       "cls": "caps",
       "id": "U5TNIQ4OBPE",
       "published": "2026-06-14T12:40:49Z",
+      "summary": "This is the follow-up you asked for. In the first video I stayed on a free account in the browser; this time I log in with a paid Claude plan and show you what the Kiro AI assistant can really do once it is fully unlocked on the system. We start with the honest part: the\u2026",
       "title": "KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more"
     },
     "UH56Z2-Z9t0": {
       "cls": "caps",
       "id": "UH56Z2-Z9t0",
       "published": "2026-06-03T07:52:53Z",
+      "summary": "A new ArchLinux Tweak Tool (ATT) release for Arch Linux, with a Wayland fix and clearer warnings when you install a second desktop. Open ATT with Ctrl+Alt+E or find it in your menu. Small release, but every change here is something you will actually run into. What changed: -\u2026",
       "title": "KIRO 048 : ArchLinux Tweak Tool Update: Wayland Link Fix and Safer KDE Plasma and GNOME Installs",
       "website": false
     },
@@ -590,6 +674,7 @@
       "cls": "caps",
       "id": "UKgNcZu_MAo",
       "published": "2026-05-31T17:47:37Z",
+      "summary": "Here's something in the pipeline for the more advanced Arch Linux users to test before it ships. The ArchLinux Tweak Tool (ATT) has a new block on its Development page that lets you switch the Linux CPU scheduler from a GUI \u2014 no kernel rebuild, no editing unit files. To find it:\u2026",
       "title": "KIRO 034 : Switch the CPU scheduler from a GUI \u2014 a new ATT dev feature to test on Kiro",
       "website": false
     },
@@ -597,6 +682,7 @@
       "cls": "low",
       "id": "UZbFYiIShiQ",
       "published": "2025-06-19T05:29:18Z",
+      "summary": "Update in the live environment and launch the build-calamares script in /etc/calamares/pkgbuild ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube :\u2026",
       "title": "Kiro 007 : Rebuild Calamares on the live environment",
       "website": false
     },
@@ -604,6 +690,7 @@
       "cls": "caps",
       "id": "UjqdCCcraa8",
       "published": "2026-06-06T10:10:26Z",
+      "summary": "Thank you for being a member. This is the full session, the complete morning, none of it trimmed. This is a real working session: me and Claude Code, side by side, developing the Kiro ISO on a Saturday morning. No script, no cuts hiding the messy parts. You watch the whole\u2026",
       "title": "KIRO 067 : MEMBER - Build your own ISO: AI-assisted Linux distro development with Claude Code",
       "website": false
     },
@@ -611,6 +698,7 @@
       "cls": "caps",
       "id": "V2NJ0gVz_0A",
       "published": "2026-05-26T09:57:56Z",
+      "summary": "After a year away, I'm back \u2014 and on June 1, Kiro becomes a community Arch-based distribution again. This is reveal 1 of 7 in the countdown to the June 1 launch. For the past year, Kiro was just my personal system and ISO \u2014 the exact machine I run every day, built for an\u2026",
       "title": "KIRO 003 : Kiro is a community Arch distro again",
       "website": true
     },
@@ -618,6 +706,7 @@
       "cls": "caps",
       "id": "VFo9E6DK3xk",
       "published": "2026-05-31T18:43:16Z",
+      "summary": "Black screen after install? Glitchy, laggy desktop? On Linux that is almost always drivers, and on Kiro there is now a tool built to fix it: CHWD, short for CachyOS Hardware Detection. In this tutorial I walk through the three driver choices on the Kiro ISO boot menu and what\u2026",
       "title": "KIRO 035 : Fix a Black Screen on Kiro: Auto-Install Drivers with CHWD Hardware Detection",
       "website": true
     },
@@ -625,6 +714,7 @@
       "cls": "low",
       "id": "VRa4v-d5HLw",
       "published": "2026-05-02T04:36:00Z",
+      "summary": "",
       "title": "Kiro 041 : Kiro ISO v26.05.01 - what is new  - 5/8 - arcolinux-nemesis",
       "website": false
     },
@@ -632,6 +722,7 @@
       "cls": "caps",
       "id": "VZu5dGgIHVA",
       "published": "2026-06-11T15:35:18Z",
+      "summary": "MangoWC is a tiling Wayland compositor sitting quietly in the CachyOS repository, and in this video we go and pull it onto a clean machine to see what it can do. This is a first look for me too, so we explore it together: how to find it, how to install it, and how to make it\u2026",
       "title": "KIRO 090 : Install Mangowc on Kiro with the CachyOS repo",
       "website": false
     },
@@ -639,6 +730,7 @@
       "cls": "low",
       "id": "Vofww6NYd2o",
       "published": "2025-07-05T05:56:46Z",
+      "summary": "you can always change calamares on the fly and then later install extra packages when needed or add the extra packages in the packages file and build the iso after installation I type get-kiro-nemesis then I run the kiro scripts in the DATA/kiro-nemesis folder\u2026",
       "title": "Kiro 014 : Installing Kiro with BTRFS partitions - change calamares on the fly - install packages",
       "website": false
     },
@@ -646,6 +738,7 @@
       "cls": "caps",
       "id": "W-QPEwF-_bo",
       "published": "2026-06-08T05:23:58Z",
+      "summary": "Check if you installed kiro-bootloader-grub In this video I show how I use Claude AI as a real assistant to design and build a feature for the Kiro ISO: making GRUB stay reliable after system updates. GRUB already works on Kiro. Calamares installs systemd-boot by default, but on\u2026",
       "title": "KIRO 073 : Installing Kiro on older computers with Grub is already possible - but ... - Claude AI",
       "website": false
     },
@@ -653,6 +746,7 @@
       "cls": "caps",
       "id": "X75-NhBAZzo",
       "published": "2026-05-30T15:51:54Z",
+      "summary": "A new Arch Linux Tweak Tool (ATT) update adds a practical option to the Performance - Build section: keep a set of CPU cores free while building, so your system stays responsive. Run your update and open ATT. Under Performance - Build you will find the existing \"Optimize for all\u2026",
       "title": "KIRO 025 : ATT Build Performance: Reserve Cores for a Responsive Desktop",
       "website": false
     },
@@ -660,6 +754,7 @@
       "cls": "caps",
       "id": "XP2VBOSpFGY",
       "published": "2026-06-10T15:48:30Z",
+      "summary": "Before you ever install a custom Kiro ISO on real hardware, you test it in a virtual machine first. In this tutorial we take the ISO we built in the previous video and put it through a full run in VirtualBox: create the machine, boot it in UEFI, install it with full-disk\u2026",
       "title": "KIRO 082 : Test your Mate Kiro ISO in VirtualBox with a full encrypted install on CachyOS",
       "website": true
     },
@@ -667,6 +762,7 @@
       "cls": "caps",
       "id": "XVAou9TtYlg",
       "published": "2026-06-04T11:08:50Z",
+      "summary": "Btrfs snapshots turn every update into a safe one. In this tutorial we set up automatic snapshots on Kiro so that every package change takes a snapshot before and after it happens \u2014 and if an update ever breaks your system, you roll back to the moment before it and carry on. It\u2026",
       "title": "KIRO 057 : Btrfs snapshots on Kiro: roll back any broken update in seconds",
       "website": false
     },
@@ -674,6 +770,7 @@
       "cls": "caps",
       "id": "Y9aDgI70Hbw",
       "published": "2026-06-06T10:50:34Z",
+      "summary": "Google Antigravity is Google's new AI IDE \u2014 the coding tool stepping in where Gemini left off \u2014 and you can now install it on Kiro straight from the ArchLinux Tweak Tool (ATT) with a single click. This one came from you. A member of the community posted on the Discussions board\u2026",
       "title": "KIRO 068 : Google Antigravity on Kiro: install Google's new AI in one click",
       "website": false
     },
@@ -681,6 +778,7 @@
       "cls": "low",
       "id": "YH12GwrES6I",
       "published": "2026-05-04T15:17:43Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 048 : Kiro ISO v26.05.01 - what is new  - 1/8 - ArchLinux Tweak Tool - work in progress",
       "website": false
     },
@@ -688,6 +786,7 @@
       "cls": "caps",
       "id": "YWtk3CyKGHE",
       "published": "2026-05-31T19:39:46Z",
+      "summary": "Arch Linux performance tuning, done out of the box. In this tutorial we go under the hood of the Kiro ISO and look at how it's tuned for speed, stability and security \u2014 not with benchmarks, but with the responsiveness you actually feel: click, boom, there. Most of the work on a\u2026",
       "title": "KIRO 036 : Kiro Tuning Out of the Box: Speed, Stability and Security",
       "website": true
     },
@@ -695,6 +794,7 @@
       "cls": "caps",
       "id": "YoBs6l-5v9U",
       "published": "2026-05-29T09:17:19Z",
+      "summary": "[[keyboard.bindings]] chars = \"\\r\" key = \"NumpadEnter\"",
       "title": "KIRO 015 : Fixing your enter on your Numeric pad in Alacritty",
       "website": false
     },
@@ -702,6 +802,7 @@
       "cls": "caps",
       "id": "YrY_cHWsCto",
       "published": "2026-06-05T07:56:15Z",
+      "summary": "Cinnamon is one of the friendliest Linux desktops to theme, and on Kiro you get more than fifty light and dark themes ready to use. In this tutorial we install the full set and take a tour of where Cinnamon keeps its look-and-feel settings. The whole theme collection is built to\u2026",
       "title": "KIRO 061 : Cinnamon theming on Kiro: install 50+ light and dark themes safely",
       "website": false
     },
@@ -709,12 +810,14 @@
       "cls": "caps",
       "id": "Z7GZH5LHO1E",
       "published": "2026-06-14T05:10:59Z",
+      "summary": "Burning an ISO to a USB stick can feel daunting the first time, but it does not have to be. In this short tutorial we make a bootable USB stick with USB Image Writer, a small graphical tool from the Linux Mint team that has worked without fault for over ten years. On Kiro this\u2026",
       "title": "KIRO 102 : Burn an ISO to a bootable USB stick with Mintstick USB Image Writer"
     },
     "ZYQwwUAcOKo": {
       "cls": "caps",
       "id": "ZYQwwUAcOKo",
       "published": "2026-05-31T17:31:52Z",
+      "summary": "Kiro ships a whole set of command-line tools, and every one of them starts with kiro-. This is a full tour of that toolkit \u2014 what each command does, why it exists, and which ones are for you as a user versus the ones that are really for me as the developer. The prefix is the\u2026",
       "title": "KIRO 032 : The Kiro toolchain \u2014 every kiro- command on the Arch-based ISO explained",
       "website": true
     },
@@ -722,6 +825,7 @@
       "cls": "caps",
       "id": "ZgrRU-9ZF9o",
       "published": "2026-05-27T13:06:13Z",
+      "summary": "Kiro ships the Liquorix kernel (linux-lqx) by default \u2014 and this is the story of how I actually chose it, not just a spec sheet. It started with CachyOS. I wanted to understand how a distro tunes a whole system, and that kicked off the real question: which kernel should Kiro\u2026",
       "title": "KIRO 006 : Why Kiro feels faster \u2014 the Liquorix kernel, and how I chose it",
       "website": false
     },
@@ -729,6 +833,7 @@
       "cls": "low",
       "id": "ZiRCwdtAOmc",
       "published": "2026-01-09T07:28:13Z",
+      "summary": "info",
       "title": "Edu 066 : ArchLinux Tweak Tool or ATT on Arcana or Kiro or Arch Linux - bspwm and awesome",
       "website": false
     },
@@ -736,6 +841,7 @@
       "cls": "caps",
       "id": "ZnyOP97hflU",
       "published": "2026-05-29T13:36:59Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. In it I sit down with Claude Code and ask it to build a complete, free website hosted on GitHub - not a one-pager, a real multi-page site with menus - and I try to\u2026",
       "title": "KIRO 018 : Teaser - Let Claude Code Write the Code and the Copy - Free GitHub Pages Website",
       "website": false
     },
@@ -743,6 +849,7 @@
       "cls": "caps",
       "id": "_5yCSkwfPgc",
       "published": "2026-06-06T15:32:51Z",
+      "summary": "Build your own Linux ISO from source. This is the first tutorial in the Build Kiro series, where we take the Kiro source and build the ISO ourselves \u2014 the exact same build you can run on your own machine. Kiro is more than an ISO. It is a learning project. The packages I put on\u2026",
       "title": "KIRO 069 : Build your own Kiro ISO on Arch Linux -BYOI",
       "website": false
     },
@@ -750,6 +857,7 @@
       "cls": "low",
       "id": "_wJoTgWwNf8",
       "published": "2026-05-01T19:17:33Z",
+      "summary": "",
       "title": "Kiro 040 : Kiro ISO v26.05.01 release - April was a productive month - ohmychadwm",
       "website": false
     },
@@ -757,6 +865,7 @@
       "cls": "low",
       "id": "a847_YrvH7U",
       "published": "2026-05-02T06:30:10Z",
+      "summary": "",
       "title": "Kiro 043 : Kiro ISO v26.05.01 - what is new  - 7/8 - edu-dot-files",
       "website": false
     },
@@ -764,6 +873,7 @@
       "cls": "caps",
       "id": "aA7JI0-gi1o",
       "published": "2026-06-03T13:40:22Z",
+      "summary": "Watch a real app get built with Claude Code, start to finish, in about an hour. This is AI-assisted development with nothing hidden: a viewer's question about LUKS encryption in the Calamares installer becomes an idea, the idea becomes a scoped plan, the plan becomes Python\u2026",
       "title": "KIRO 052 : Building an app with Claude Code: a live Calamares Tweak Tool for Kiro",
       "website": false
     },
@@ -771,6 +881,7 @@
       "cls": "low",
       "id": "aIy0QcnmeyA",
       "published": "2026-02-01T06:56:22Z",
+      "summary": "info",
       "title": "Kiro 034 : Build Kiro ISO with Nvidia drivers: open, 580xx or 390xx",
       "website": false
     },
@@ -778,6 +889,7 @@
       "cls": "caps",
       "id": "aZHtcV3rkB4",
       "published": "2026-05-30T16:10:27Z",
+      "summary": "The EDU project holds 40 tiling window manager (TWM) tutorial folders. When packages need updating, you do not rebuild all 40 \u2014 you select the ones that changed and let the script handle the rest. In this tutorial, Erik walks through selecting a subset of TWMs \u2014 including\u2026",
       "title": "KIRO 026 : AI - Build all twm packages and push them to nemesis_repo in one run - script creation",
       "website": false
     },
@@ -785,6 +897,7 @@
       "cls": "caps",
       "id": "b3waf3UMx6o",
       "published": "2026-06-03T08:55:01Z",
+      "summary": "There's a new addition to Qtile that lets you switch color schemes instantly with a single keybinding \u2014 no editing the config, no restart. Press Super+Shift+T, a menu pops up with the themes, you pick one, and the look changes right away. The best part is where it came from: a\u2026",
       "title": "KIRO 050 : Switch Qtile color schemes instantly with one keybinding \u2014 no config editing",
       "website": false
     },
@@ -792,12 +905,14 @@
       "cls": "caps",
       "id": "bJu4M6TLhPk",
       "published": "2026-06-14T05:09:18Z",
+      "summary": "There is a new Kiro ISO, dated the 14th of June, and it carries the biggest change we have made under the hood in a long time: Kiro now signs its packages. Why the change? After the recent security note from upstream about malicious packages slipping into repositories, we\u2026",
       "title": "KIRO 101 : Signed packages on Kiro: new ISO, keyring and pacman.conf explained"
     },
     "bkHwiITw5HY": {
       "cls": "low",
       "id": "bkHwiITw5HY",
       "published": "2025-07-07T08:09:00Z",
+      "summary": "In video https://youtu.be/Mxu95cJqZI0 we installed Kiro with Grub - maybe you like a theme to go with that installation yay grub theme and choose one change it to your liking ==========Sharing knowledge on Youtube/Github========== Kiro :\u2026",
       "title": "Kiro 018 : Installing a grub theme - workflow video - changing the wallpaper",
       "website": false
     },
@@ -805,6 +920,7 @@
       "cls": "caps",
       "id": "bmecwO3LfvA",
       "published": "2026-06-10T13:45:56Z",
+      "summary": "Build your own custom Kiro ISO from scratch \u2014 this time with the Cinnamon desktop and the LTS kernel \u2014 using the Kiro ISO Builder built right into the ArchLinux Tweak Tool (ATT). Last time we built a custom Kiro ISO with Plasma. This round we change the desktop to Cinnamon,\u2026",
       "title": "KIRO 080 : Make a custom Kiro ISO with the ISO Builder \u2014 Cinnamon, i3 and Qtile",
       "website": true
     },
@@ -812,6 +928,7 @@
       "cls": "low",
       "id": "bxEJNO-bVck",
       "published": "2025-08-11T07:13:07Z",
+      "summary": "Newly build ISO",
       "title": "Kiro 021 : New Kiro release - 2025-08-11 - arcolinux-nemesis and kiro-nemesis scripts",
       "website": false
     },
@@ -819,6 +936,7 @@
       "cls": "low",
       "id": "cATP-W3dQYE",
       "published": "2026-05-02T06:39:15Z",
+      "summary": "",
       "title": "Kiro 044 : Kiro ISO v26.05.01 - what is new  - 4/8 - edu-system-files",
       "website": false
     },
@@ -826,6 +944,7 @@
       "cls": "caps",
       "id": "dVH4Gn3vYjM",
       "published": "2026-06-03T06:44:17Z",
+      "summary": "A real look at how I use Claude Code as my coding assistant on an actual project \u2014 plan mode, auto mode, and the prompting habits that make an AI pair programmer genuinely useful instead of a token-burning toy. No staged demo: this is the live workflow, including the moments it\u2026",
       "title": "KIRO 047 : How I Use Claude Code as My Coding Assistant \u2014 Plan Mode, Auto Mode, Prompt Tips",
       "website": false
     },
@@ -833,6 +952,7 @@
       "cls": "low",
       "id": "dq_hsoQaAWw",
       "published": "2026-02-01T09:08:09Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 036 : Ricing Liya - cursors, themes, wallpaper, icons, ...",
       "website": false
     },
@@ -840,6 +960,7 @@
       "cls": "caps",
       "id": "ejvc1uU0EeY",
       "published": "2026-05-30T18:34:10Z",
+      "summary": "The first June release is almost here, and it brings new tools for the Kiro ecosystem. Today we're building a GUI config tool for Alacritty \u2014 the terminal everyone uses on Kiro. In just four hours, we created a fully-featured terminal configuration tool that lets you theme\u2026",
       "title": "KIRO 030 : Alacritty Tweak Tool to set your Alacritty anyway you want - 300+ themes - create more",
       "website": true
     },
@@ -847,6 +968,7 @@
       "cls": "caps",
       "id": "f4-IuspNv4U",
       "published": "2026-06-11T14:34:21Z",
+      "summary": "Wayland is not out of your reach. It is right at your doorstep on Kiro, and in this tutorial we get a full Wayland desktop shell running with Noctalia, installed straight from the CachyOS repository. No black boxes, no magic. Every step is shown so you understand exactly what is\u2026",
       "title": "KIRO 089 : Install Niri Noctalia on Kiro with the CachyOS repo - an abundance of settings and themes",
       "website": false
     },
@@ -854,6 +976,7 @@
       "cls": "low",
       "id": "fMlHQ35tsCA",
       "published": "2025-07-09T05:23:49Z",
+      "summary": "",
       "title": "Kiro 020 : Flexi - a personal DWM based on dwm-flexipatch from bakkeby",
       "website": false
     },
@@ -861,6 +984,7 @@
       "cls": "caps",
       "id": "gHqD-LsV-4A",
       "published": "2026-06-04T19:23:17Z",
+      "summary": "Linux theming and ricing made simple. In this short walkthrough I show you why Kiro looks like one finished piece the moment you log in, and how to bend that look to your own taste. The secret is not a black box: it is a few deliberate lines in /etc/environment that apply the\u2026",
       "title": "KIRO 059 : Theming and ricing on Kiro: one uniform look across every desktop",
       "website": false
     },
@@ -868,6 +992,7 @@
       "cls": "low",
       "id": "gOxOG3icXOI",
       "published": "2026-02-01T06:50:38Z",
+      "summary": "info",
       "title": "Kiro 033 : What is new in Kiro v26.02.01",
       "website": false
     },
@@ -875,6 +1000,7 @@
       "cls": "caps",
       "id": "h0c39oX-Nl8",
       "published": "2026-05-29T07:00:14Z",
+      "summary": "In this tutorial I sit down with Claude Code (Opus 4.8) and tackle the job I always dread the most when building a window manager package \u2014 merging key bindings and config files by hand. The idea: take the colors and design I love from DistroTube's Qtile config, combine them\u2026",
       "title": "KIRO 011 : Merging Two Qtile Configs with Claude Code (Opus 4.8) \u2014 DistroTube's Look, My Keybindings",
       "website": false
     },
@@ -882,6 +1008,7 @@
       "cls": "caps",
       "id": "iZS6whnKfX0",
       "published": "2026-06-03T06:26:45Z",
+      "summary": "Learn how to install Arch Linux the easy way with archinstall \u2014 a clean, beginner-friendly walkthrough from the official ISO to a working XFCE desktop in minutes. This is the vanilla Arch base that Kiro is built on, so I do a fresh install now and then to see exactly what is\u2026",
       "title": "KIRO 046 : How to Install Arch Linux with archinstall \u2014 Fast Beginner Guide 2026",
       "website": false
     },
@@ -889,6 +1016,7 @@
       "cls": "caps",
       "id": "jSD0XphmCL0",
       "published": "2026-05-30T06:45:36Z",
+      "summary": "The ArchLinux Tweak Tool (ATT) just gained three things that make daily life on Arch Linux easier: a built-in search box, a one-click office installer, and a read-only view of your user services. Update it and you will notice the version number jumped a few steps, because these\u2026",
       "title": "KIRO 022 : ATT - ArchLinux Tweak Tool: instant search, one-click office, read-only services",
       "website": true
     },
@@ -896,6 +1024,7 @@
       "cls": "low",
       "id": "j_hpE0EfHm4",
       "published": "2026-03-14T10:20:17Z",
+      "summary": "info",
       "title": "Arcolinux-nemesis series 03 - Using Kiro Linux to improve arcolinux-nemesis scripts",
       "website": false
     },
@@ -903,6 +1032,7 @@
       "cls": "caps",
       "id": "jsy1I62QV6Y",
       "published": "2026-05-30T11:18:15Z",
+      "summary": "GitHub Discussions gives a Linux community one free place to talk, and in this video I move the Kiro community onto it to replace the old Telegram and Discord channels. No bots to maintain, no spammers and trollers to chase, and every idea stays searchable instead of scrolling\u2026",
       "title": "KIRO 023 : GitHub Discussions for the Kiro Linux Community: One Free Home to Share Ideas and Grow",
       "website": true
     },
@@ -910,6 +1040,7 @@
       "cls": "caps",
       "id": "kRvoYdD1k1U",
       "published": "2026-06-06T19:53:35Z",
+      "summary": "Building your own Linux ISO sounds like deep wizardry, but it is really just a set of scripts you run and a little patience. In this tutorial we build the Kiro ISO straight from the build scripts \u2014 and to prove the point, we do it on CachyOS instead of Arch or Kiro itself. If\u2026",
       "title": "KIRO 070 : Build your own Kiro ISO on CachyOS - BYOI",
       "website": false
     },
@@ -917,6 +1048,7 @@
       "cls": "low",
       "id": "kSLHgh452fk",
       "published": "2026-04-16T12:32:05Z",
+      "summary": "info",
       "title": "Edu 085 : Linux-kiro kernel 7.0.0-1 based on cachyos kernel created with Claude - AI",
       "website": false
     },
@@ -924,6 +1056,7 @@
       "cls": "caps",
       "id": "kzLR3rSpoPY",
       "published": "2026-06-03T08:39:24Z",
+      "summary": "",
       "title": "KIRO 049 : Kiro Linux members: what do you want to see in the members-only videos?",
       "website": false
     },
@@ -931,6 +1064,7 @@
       "cls": "caps",
       "id": "lOXbZ_B2y6E",
       "published": "2026-06-11T13:12:51Z",
+      "summary": "Want Hyprland on Kiro? It ships with XFCE and a full set of tiling window managers, including ohmychadwm, Erik's own take on dwm. What it does not ship is a Wayland compositor: no Hyprland, niri, wayfire, sway or mango. And it probably never will. Does that leave you out? Not at\u2026",
       "title": "KIRO 086 : Install Hyprland on Kiro with the CachyOS repo \u2014 create it yourself or copy/paste",
       "website": false
     },
@@ -938,6 +1072,7 @@
       "cls": "caps",
       "id": "lOxf9rxR6Hk",
       "published": "2026-06-12T07:12:04Z",
+      "summary": "Build your own Arch-based ISO from scratch with the Kiro ISO Builder, then install it with Calamares and boot straight into KDE Plasma or a tiling window manager. This is a full, off-the-cuff walkthrough of turning a fresh machine into your own remastered ISO, start to finish.\u2026",
       "title": "KIRO 095 : Build your own custom Kiro ISO from scratch with the Kiro ISO Builder - boot into a TWM",
       "website": false
     },
@@ -945,6 +1080,7 @@
       "cls": "low",
       "id": "lTcESMvhy6E",
       "published": "2026-04-19T17:58:11Z",
+      "summary": "if you want to stay up-to-date also edu-powermenu-git ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Edu 089 : Watch out when on Kiro - update your system but also install edu-system-files-git and ...",
       "website": false
     },
@@ -952,6 +1088,7 @@
       "cls": "caps",
       "id": "lZbjJ6rK_3Q",
       "published": "2026-06-02T16:24:36Z",
+      "summary": "Installed KDE Plasma on Kiro with ATT and it looks darker than you expected? Black panels, black elements you never asked for? This is a quick Linux tutorial on why that happens and how to switch Plasma back to a clean, default look in about a minute - all from the ArchLinux\u2026",
       "title": "KIRO 041 : Why KDE Plasma looks partially black on Kiro and how to get the default theme back",
       "website": true
     },
@@ -959,6 +1096,7 @@
       "cls": "caps",
       "id": "mAJUU98PZ7E",
       "published": "2026-06-10T09:01:58Z",
+      "summary": "ArchLinux Tweak Tool (ATT) has a new ISO page. It detects the ISO builder on your system and lets you install it, remove it, or launch it right from the tool, with a bit of inside information about what is happening along the way. What it builds is the vanilla, upstream Arch\u2026",
       "title": "KIRO 079 : ArchLinux Tweak Tool can now build the upstream Arch ISO for you",
       "website": false
     },
@@ -966,6 +1104,7 @@
       "cls": "caps",
       "id": "mC4Lqb22mKM",
       "published": "2026-06-03T20:15:10Z",
+      "summary": "use the alias nenvironment to quickly get where you want - type it in a terminal Dark theme or light theme \u2014 your call. Kiro ships dark by default, and in this quick walkthrough I show you why, and exactly how to switch your Arch Linux desktop from the dark GTK theme to a light\u2026",
       "title": "KIRO 055 : Switch your Xfce desktop from dark to light in Kiro - go to /etc/environment - one #",
       "website": false
     },
@@ -973,6 +1112,7 @@
       "cls": "low",
       "id": "mH52To8DvlI",
       "published": "2025-06-20T05:39:55Z",
+      "summary": "What steps to take if you want a different Desktop Environment or a Tiling Window Manager ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube :\u2026",
       "title": "Kiro 010 : BUILDRA - removing XFCE4 and CHADWM and replacing with PLASMA",
       "website": false
     },
@@ -980,6 +1120,7 @@
       "cls": "caps",
       "id": "mlIR8UNRjCc",
       "published": "2026-06-01T16:26:42Z",
+      "summary": "",
       "title": "KIRO 039 : New keybinding app to show what keys to press in Twms",
       "website": false
     },
@@ -987,6 +1128,7 @@
       "cls": "low",
       "id": "nGLEMvR9KUY",
       "published": "2026-01-01T09:54:13Z",
+      "summary": "info",
       "title": "Kiro 029 : Kiro 26.01.01 ISO - what is new",
       "website": false
     },
@@ -994,12 +1136,14 @@
       "cls": "caps",
       "id": "nSeHrq2W7gQ",
       "published": "2026-06-14T12:36:38Z",
+      "summary": "The new Kiro ISO ships with something I am genuinely excited about: a built-in AI assistant, powered by Claude. The moment you boot the ISO it is already there, and it already knows Kiro \u2014 because it comes pre-loaded with knowledge files pulled together from the project docs,\u2026",
       "title": "KIRO 104 : AI assistant built into the Kiro ISO \u2014 what it knows and what it costs - free version"
     },
     "nUsyHus-ICE": {
       "cls": "caps",
       "id": "nUsyHus-ICE",
       "published": "2026-05-29T08:18:25Z",
+      "summary": "Timeshift is installed and ready on Kiro from first boot \u2014 a real backup safety net for an Arch Linux system. One bad update can leave plain Arch at a black screen, and recovery is a DIY rabbit hole most newcomers do not survive. Kiro gives you a snapshot you can return to on\u2026",
       "title": "KIRO 013 : Timeshift on Kiro: the system backup safety net Arch never gave you",
       "website": true
     },
@@ -1007,6 +1151,7 @@
       "cls": "caps",
       "id": "oGJcu2XEBmg",
       "published": "2025-06-17T10:35:17Z",
+      "summary": "git clone https://github.com/kirodubes/iso ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Kiro 002 : How to build the KIRO ISO",
       "website": false
     },
@@ -1014,6 +1159,7 @@
       "cls": "caps",
       "id": "pFyN5o9DhHs",
       "published": "2026-05-29T16:45:17Z",
+      "summary": "",
       "title": "KIRO 020 : Build a Project Website with AI - the Arcolinux-nemesis website",
       "website": false
     },
@@ -1021,6 +1167,7 @@
       "cls": "low",
       "id": "qKXYBH3q174",
       "published": "2026-05-02T06:24:04Z",
+      "summary": "",
       "title": "Kiro 042 : Kiro ISO v26.05.01 - what is new  - 6/8 - archlinux-logout-gtk4",
       "website": false
     },
@@ -1028,6 +1175,7 @@
       "cls": "caps",
       "id": "qetCWhsIHP4",
       "published": "2026-06-12T06:13:27Z",
+      "summary": "Your input can go here: https://github.com/kirodubes/kiro-discussions/discussions/53 The Kiro ISO - an Arch-based distribution that installs fully offline - is where it needs to be, and in this video I want to hand the floor to you: tell me what you think is still missing.\u2026",
       "title": "KIRO 094 : The Kiro ISO is where I want it - now tell me what's missing",
       "website": false
     },
@@ -1035,6 +1183,7 @@
       "cls": "caps",
       "id": "rTAFtak_pXg",
       "published": "2026-06-11T17:09:52Z",
+      "summary": "",
       "title": "KIRO 092 : Get the old configs of ArcoLinux - Hyprland, Wayfire, Sway and Niri - reuse the configs",
       "website": false
     },
@@ -1042,6 +1191,7 @@
       "cls": "caps",
       "id": "sNNKeY1uvHM",
       "published": "2026-06-03T17:04:39Z",
+      "summary": "Thank you for being a member. Your support is what keeps these long, unscripted build sessions going, and this is one of the deepest yet. This is another chapter in building Kiro, an Arch-based Linux distribution, out in the open. We sit next to Claude Code and work on the real\u2026",
       "title": "KIRO 054 : MEMBER - Adding LUKS disk encryption to the Calamares installer, live with Claude Code",
       "website": false
     },
@@ -1049,6 +1199,7 @@
       "cls": "caps",
       "id": "sRNvW-6__kg",
       "published": "2026-06-11T14:24:58Z",
+      "summary": "In this tutorial we add the Wayfire Wayland compositor to a Kiro install and start exploring it from the ground up. If you have been following along, we began with the Kiro base, then added Hyprland, then Niri, and now Wayfire - the idea is always the same: start with what you\u2026",
       "title": "KIRO 088 : Install Wayfire on Kiro with the CachyOS repo - make it your own - skel - keybindings",
       "website": false
     },
@@ -1056,6 +1207,7 @@
       "cls": "caps",
       "id": "sf_uHpio5YI",
       "published": "2026-06-03T04:04:07Z",
+      "summary": "XFCE's Wayland session can drop you on a black screen on Arch Linux, and it catches a lot of new users. In this quick guide I show why that login entry exists, why it doesn't work yet, and exactly which session to pick instead on Kiro. Kiro gives you two working desktops: XFCE\u2026",
       "title": "KIRO 043 : XFCE Wayland Session Black Screen \u2014 Don't Click It (Arch Linux Pitfall)",
       "website": true
     },
@@ -1063,6 +1215,7 @@
       "cls": "caps",
       "id": "snnbYBMOwFI",
       "published": "2026-06-07T08:18:12Z",
+      "summary": "The ArchLinux Tweak Tool (ATT) just gained a new tool called Streamline, and it changes how you make a fresh install your own. You install the Kiro ISO, then you decide what stays. Streamline lets you remove the optional apps that ship on the system, grouped by category, so you\u2026",
       "title": "KIRO 071 : Remove preinstalled apps by category with Streamline in ATT on Kiro",
       "website": false
     },
@@ -1070,6 +1223,7 @@
       "cls": "caps",
       "id": "t2dShg1h5no",
       "published": "2026-05-29T10:35:49Z",
+      "summary": "Plymouth boot splash themes are the animation that hides the boot text on Arch Linux at startup and shutdown. In this video I show how Plymouth works in Kiro, how to install themes as packages, and how ArchLinux Tweak Tool (ATT) wires everything up for you. A Plymouth theme is\u2026",
       "title": "KIRO 017 : Custom Plymouth Splash Screens in Kiro \u2014 Install and deploy with ATT",
       "website": false
     },
@@ -1077,6 +1231,7 @@
       "cls": "low",
       "id": "tS8xEP-A128",
       "published": "2025-07-06T05:34:03Z",
+      "summary": "Start with this video - https://youtu.be/Bo90wWSJQTc we add the arcolinux-repos and from there we install packages with the arcolinuxd scripts ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 016 : Installing Jwm on Kiro - workflow video to install any desktop/twm from Arco",
       "website": false
     },
@@ -1084,6 +1239,7 @@
       "cls": "caps",
       "id": "u1rkc1kZ6nc",
       "published": "2026-06-08T17:32:40Z",
+      "summary": "Another building day. In this tutorial we build a custom Kiro ISO from start to finish with the Kiro ISO builder, pick the exact kernels we want, and look at the work that keeps GRUB users safe. First, the safety story. A few years ago a GRUB update could leave you with a black\u2026",
       "title": "KIRO 074 : Build a custom Kiro ISO with your own kernels using the Kiro ISO builder",
       "website": false
     },
@@ -1091,6 +1247,7 @@
       "cls": "caps",
       "id": "uhv5oECQTek",
       "published": "2026-06-12T05:35:49Z",
+      "summary": "A quick chadwm tutorial, answering a question from our GitHub discussions about the keyboard layout. chadwm is the suckless-style tiling window manager that ships in Kiro, and the default for its tag keys has just changed. Until now ohmychadwm shipped with azerty tag keys by\u2026",
       "title": "KIRO 093 : Changing Ohmychadwm from Azerty to Qwerty and back to Azerty - two ways - default=qwerty",
       "website": false
     },
@@ -1098,6 +1255,7 @@
       "cls": "caps",
       "id": "vy9EIlywCps",
       "published": "2026-06-05T19:59:16Z",
+      "summary": "Full disk encryption used to be off the table on older machines that boot with GRUB, where you were limited to LUKS1. Not anymore. In today's Kiro ISO you can do a fully encrypted install with LUKS2 and GRUB on old, legacy, BIOS-era computers, straight from the installer. Here\u2026",
       "title": "KIRO 062 : Encrypt your Linux install on old BIOS machines with LUKS2 and GRUB on Kiro",
       "website": false
     },
@@ -1105,6 +1263,7 @@
       "cls": "low",
       "id": "vzMr-6J4y9Q",
       "published": "2026-03-01T08:22:32Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 038 : Installing Kiro ISO v26.03.01 - arcolinux-nemesis - what is new",
       "website": false
     },
@@ -1112,6 +1271,7 @@
       "cls": "caps",
       "id": "wvNykCKI-j4",
       "published": "2026-06-03T16:54:56Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. This is another chapter in building Kiro, an Arch-based Linux distribution, out in the open. We sit next to Claude Code and work on the real thing: disk encryption in\u2026",
       "title": "KIRO 053 : Teaser - Adding LUKS disk encryption to the Calamares installer, live with Claude Code",
       "website": false
     },
@@ -1119,6 +1279,7 @@
       "cls": "low",
       "id": "x0N1OnbJIX4",
       "published": "2025-10-11T07:54:51Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 025 : Kiro \u2013 The Chadwm-Focused OS - ISO 2025-10-11",
       "website": false
     },
@@ -1126,6 +1287,7 @@
       "cls": "caps",
       "id": "xRQLwGN4wIY",
       "published": "2025-06-17T11:17:03Z",
+      "summary": "git clone https://github.com/erikdubois/arcolinux-nemesis or get-nemesis see in DATA folder - run ./0... ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube :\u2026",
       "title": "Kiro 005 : KIRO + ArcoLinux-Nemesis scripts to cross the t's and dot the i's for KIRO",
       "website": false
     },
@@ -1133,6 +1295,7 @@
       "cls": "caps",
       "id": "xSS2sTuMaUs",
       "published": "2026-05-31T17:27:48Z",
+      "summary": "NVIDIA on Arch Linux is usually the hard part of any install. On the new Kiro ISO it comes down to picking one line at boot. This video walks through the three NVIDIA driver options on the ISO, what each one does, and which to choose for an Intel, AMD, or NVIDIA machine. A bit\u2026",
       "title": "KIRO 031 : Install NVIDIA the easy way \u2014 4 driver choices on the Kiro ISO",
       "website": true
     },
@@ -1140,6 +1303,7 @@
       "cls": "caps",
       "id": "y0PH36QVqkE",
       "published": "2026-06-06T05:39:09Z",
+      "summary": "Trust is the heart of working with an AI assistant, but blind trust is not the goal. In this short follow-up I show you how I actually check the work after letting Claude reorganize and prune the Kiro ISO package list. The rule is simple: trust, but verify. After reshuffling the\u2026",
       "title": "KIRO 065 : Trust Claude but verify: comparing two Linux ISO package lists with meld",
       "website": false
     },
@@ -1147,6 +1311,7 @@
       "cls": "caps",
       "id": "yGOgam2GwFA",
       "published": "2026-05-30T17:41:18Z",
+      "summary": "Ctrl+D does nothing. You want it to launch OBS. XFCE has it reserved for \"Show Desktop\" and silently ignores your application shortcut. In this tutorial we fix that in under a minute \u2014 and then walk through the full workflow for getting that change out to every Kiro user\u2026",
       "title": "KIRO 027 : Changing a keybinding in Xfce4 -  and my workflow to Kiro packages",
       "website": false
     },
@@ -1154,6 +1319,7 @@
       "cls": "caps",
       "id": "yeWvuiDoos8",
       "published": "2025-06-23T05:13:31Z",
+      "summary": "KIRO is my personal ISO - created just for me - I am sharing it here",
       "title": "Kiro 011 : What changed to the KIRO ISO - git clone/pull + gitahead/gitfiend",
       "website": false
     },
@@ -1161,6 +1327,7 @@
       "cls": "low",
       "id": "zFgHvrtsdqE",
       "published": "2025-11-01T07:55:10Z",
+      "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 026 : Kiro 2025-11-01 ISO - installation - ATT - gitahead - gittyup - beautyline - candy",
       "website": false
     },
@@ -1168,6 +1335,7 @@
       "cls": "caps",
       "id": "zSRtu9EuyGQ",
       "published": "2025-06-27T07:14:13Z",
+      "summary": "Take KIRO for a test run and see if you like it",
       "title": "Kiro news 02 : Kiro ISO - Installation and overview of the KIRO ISO",
       "website": false
     }
