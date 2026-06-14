@@ -21,8 +21,8 @@
   package list and the editions build config: editions model, default
   `xfce ohmychadwm` ISO, the six full-desktop editions, the seven tiling WMs,
   config locations, and the per-environment keybindings cheatsheets.
-- Added packaging: `usr/bin/kiro-assistant` launcher (seeds a per-user writable
-  copy under `~/.local/share/kiro-assistant`, then runs `claude` there),
+- Added packaging: `usr/bin/kiro-assistant` launcher (reads the shipped pack in
+  place from `/usr/share/kiro-assistant` and runs `claude` there),
   `usr/share/applications/kiro-assistant.desktop`, and GPL3 `LICENSE`.
 - Local test PKGBUILD recipe created at
   `~/KIRO-PKG-BUILD-APPS/kiro-assistant/` (builds from the working tree; depends
@@ -46,12 +46,33 @@
   registered `flow-kiro-assistant` in the flow generator manifest and
   regenerated it. Remaining gated step: create/push the public GitHub repo
   before the flow can build in chroot.
+- Wired `build/sync-videos.py` into the push: the canonical `up.sh` template
+  gained an optional `build/sync-videos.py` hook (runs before commit if the
+  script is present), so `up.sh` — and therefore `flow-kiro-assistant` — now
+  refreshes `videos.md` with newly published videos on every run. The repo's
+  `up.sh` is identical to canonical again (no divergence). Runs without
+  `KIRO_WEBSITE_DIR` by default (public script — no baked path), keeping the
+  cached website set.
 - Validated the incremental video sync live: after two new uploads (KIRO 101 —
   signed packages, KIRO 102 — MintStick USB writer), `sync-videos.py` fetched
   exactly those two (stopped at the cursor, no full rescan), classified them
   into the KIRO series, regenerated `videos.md`, and advanced the cursor. Index
   now at 164 videos.
 - `build/sync-knowledge.sh` stubbed following the canonical bash template.
+- Reworked the launcher's writable-state model. The original wrapper copied the
+  whole pack into `~/.local/share/kiro-assistant` on every launch, which would
+  silently overwrite any knowledge the assistant wrote into a shipped file on
+  the next run. Verified empirically that Claude Code runs cleanly with cwd set
+  to the read-only, root-owned `/usr/share/kiro-assistant` (loads the pack's
+  `CLAUDE.md`, writes nothing to cwd — session state goes to `~/.claude`), so
+  the copy was removed entirely. The launcher now reads the pack in place and
+  only creates `~/.claude/kiro-assistant/` — a dedicated, persistent user
+  knowledge layer that never collides with the pack and survives updates. The
+  shipped `CLAUDE.md` gained a "Your memory" section telling the assistant to
+  eager-load that folder at session start, write remembered notes there (never
+  into the pack), prefer additive notes over overriding shipped facts so updates
+  keep reaching the user, and treat it as the one folder to back up / carry to a
+  new install.
 
 ### Files Modified
 

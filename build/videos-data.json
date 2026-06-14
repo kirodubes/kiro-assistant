@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-14T05:10:59Z",
+  "last_published": "2026-06-14T06:04:07Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -497,6 +497,12 @@
       "published": "2025-06-19T05:45:46Z",
       "title": "Kiro 008 : Build your own calamares and other packages and use the personal_repo",
       "website": false
+    },
+    "Q79y_L-tlfE": {
+      "cls": "caps",
+      "id": "Q79y_L-tlfE",
+      "published": "2026-06-14T06:04:07Z",
+      "title": "KIRO 103 : Meet the Kiro assistant: a local AI helper powered by Claude"
     },
     "QNykcUBADog": {
       "cls": "caps",
