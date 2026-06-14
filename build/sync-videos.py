@@ -65,23 +65,24 @@ def classify(title):
     return None
 
 
-# Lines that start the standing upload footer (membership ask, Support block,
-# About/links, hashtags) or chapter timestamps. Everything from the first match
-# on is boilerplate, not video-specific content, so we cut the summary there.
+# Erik's descriptions often LEAD with a "Membership is live" line and/or a bare
+# URL before the real body, and END with the standing upload footer. So we skip
+# that leading noise, then stop at the first trailing-footer marker.
+_MEMBERSHIP_RE = re.compile(r"^\s*membership is live", re.IGNORECASE)
+_BARE_URL_RE = re.compile(r"^\s*https?://\S+\s*$", re.IGNORECASE)
 _FOOTER_RE = re.compile(
     r"^\s*("
-    r"membership is live"
-    r"|support\b"
+    r"kiro\s*[—-]\s*arch linux"      # footer header "Kiro — Arch Linux, built right"
     r"|about kiro"
+    r"|support\b"
     r"|github sponsors"
     r"|ko-?fi"
     r"|paypal"
     r"|youtube member"
     r"|patreon"
     r"|website\s*[:=]"
-    r"|https?://"
+    r"|={3,}$|-{3,}$"                # separator lines
     r"|#\w+"
-    r"|\d{1,2}:\d{2}\b"
     r")",
     re.IGNORECASE,
 )
@@ -92,10 +93,14 @@ SUMMARY_MAX = 280
 def summarize(description):
     """Reduce a raw YouTube description to a short, footer-free summary."""
     body = []
-    for line in (description or "").splitlines():
-        if _FOOTER_RE.match(line):
+    for raw in (description or "").splitlines():
+        s = raw.strip()
+        if not body and (_MEMBERSHIP_RE.match(s) or _BARE_URL_RE.match(s)):
+            continue
+        if _FOOTER_RE.match(s) or (body and _MEMBERSHIP_RE.match(s)):
             break
-        body.append(line)
+        if s:
+            body.append(s)
     text = " ".join(" ".join(body).split())
     if len(text) > SUMMARY_MAX:
         text = text[:SUMMARY_MAX].rsplit(" ", 1)[0] + "…"
@@ -286,7 +291,7 @@ def main():
     # (~1 quota unit per 50 videos) and idempotent — an empty body stores "",
     # and every requested id gets a key so deleted/private videos aren't
     # refetched on every run.
-    need = [vid for vid, v in vids.items() if "summary" not in v]
+    need = [vid for vid, v in vids.items() if not v.get("summary")]
     for batch_start in range(0, len(need), 50):
         chunk = need[batch_start:batch_start + 50]
         resp = yt.videos().list(part="snippet", id=",".join(chunk)).execute()
