@@ -50,7 +50,7 @@ first stop for a new user.
 
 ## 2. The KIRO series (current Kiro tutorials)
 
-The numbered KIRO series — 109 videos, the up-to-date tutorials
+The numbered KIRO series — 110 videos, the up-to-date tutorials
 for Kiro as it ships today. Listed in series order (start low, or jump to
 a topic by keyword in the title).
 
@@ -163,6 +163,7 @@ a topic by keyword in the title).
 - [KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more](https://youtu.be/U5TNIQ4OBPE) — This is the follow-up you asked for. In the first video I stayed on a free account in the browser; this time I log in with a paid Claude plan and show you what the Kiro AI assistant can really do once it is fully unlocked on the system. We start with the honest part: the…
 - [KIRO 106 : Kiro now signs its packages — enabling verification - only for early adopters](https://youtu.be/6yEW_an5Jv4) — Only for early adopters - starting with the ISO v26.06.14 - that is the default This one is mainly for everyone who already adopted Kiro and has been rolling for a few weeks — but if you are brand new, you get a full tour too. I install Kiro fresh in VirtualBox from an earlier…
 - [KIRO 107 : Pika Backup and Borg made simple with a Claude AI assistant on Kiro](https://youtu.be/xRJ1gFwY6Rw) — In this relaxed session I sit down and actually learn a backup tool I had never used before: Pika Backup, the friendly graphical front-end for Borg. No script, no rehearsal, no black boxes. We read the interface together, make a few mistakes, and figure out how it all works. We…
+- [KIRO 108 : Vorta and Borg backups to an external SSD, with AI fixing the permissions](https://youtu.be/2KVlzbL9xfY) — After the Pika Backup video, here is the next backup tool worth knowing: Vorta, a friendly desktop front-end for Borg (BorgBackup). Borg gives you deduplicated, compressed backups, and Vorta puts a calm interface on top of it. The goal here is simple and honest: a local copy of…
 
 ## 3. Older Kiro videos (release history and earlier how-tos)
 

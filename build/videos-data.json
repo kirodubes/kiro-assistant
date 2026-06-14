@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-14T18:59:17Z",
+  "last_published": "2026-06-14T20:06:17Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -104,6 +104,13 @@
       "summary": "NEW APPLICATION CALLED KIRO ISO BUILDER Build a custom Linux ISO the way you want it. In this video we walk through two new tools that turn Kiro into a base you can shape to your own machine: the streamlined package removal in the ArchLinux Tweak Tool (ATT) and a brand new\u2026",
       "title": "KIRO 072 : Build a custom KIRO ISO - pick your kernel, Nvidia driver and packages with Kiro",
       "website": false
+    },
+    "2KVlzbL9xfY": {
+      "cls": "caps",
+      "id": "2KVlzbL9xfY",
+      "published": "2026-06-14T20:06:17Z",
+      "summary": "After the Pika Backup video, here is the next backup tool worth knowing: Vorta, a friendly desktop front-end for Borg (BorgBackup). Borg gives you deduplicated, compressed backups, and Vorta puts a calm interface on top of it. The goal here is simple and honest: a local copy of\u2026",
+      "title": "KIRO 108 : Vorta and Borg backups to an external SSD, with AI fixing the permissions"
     },
     "3jdKH6bLgUE": {
       "cls": "caps",
