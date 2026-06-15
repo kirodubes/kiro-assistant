@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-14T20:06:17Z",
+  "last_published": "2026-06-15T05:10:21Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -668,6 +668,13 @@
       "published": "2026-06-14T12:40:49Z",
       "summary": "This is the follow-up you asked for. In the first video I stayed on a free account in the browser; this time I log in with a paid Claude plan and show you what the Kiro AI assistant can really do once it is fully unlocked on the system. We start with the honest part: the\u2026",
       "title": "KIRO 105 : What the Kiro AI assistant can really do with a paid Claude plan and much more"
+    },
+    "U6ASrLHfbeU": {
+      "cls": "caps",
+      "id": "U6ASrLHfbeU",
+      "published": "2026-06-15T05:10:21Z",
+      "summary": "ArchLinux Tweak Tool (ATT) can now change your system language and locale long after the install is finished. Pick a new language, apply it, and your desktop comes back translated \u2014 no reinstall, no hand-editing config files. This one started as a user idea. After about ten\u2026",
+      "title": "KIRO 109 : Change your system language and locale after install with ArchLinux Tweak Tool"
     },
     "UH56Z2-Z9t0": {
       "cls": "caps",
