@@ -7,16 +7,44 @@
 - The assistant now always renders the YouTube channel as a clickable markdown
   link in its answers (browse, topic-search, and community/off-topic pointers),
   never a bare URL — same for individual video links.
+- Added **topic playlists** to the knowledge pack. The assistant can now hand a
+  user a whole topic playlist (Btrfs, Nvidia, kernels, a window manager, ATT,
+  pure-Arch install, …) for a deep dive, on top of the individual videos. It
+  follows a tiered serve order: KIRO videos → kiro videos → tier-3 topic
+  playlists, falling back to a channel search only when all three miss.
 
 ### Technical Details
 
 - Added a "Always make the YouTube channel a clickable link" rule to the
   "How to answer" section of `CLAUDE.md`, with the canonical channel and
   topic-search link forms.
+- New generator `build/sync-playlists.py` renders `knowledge/playlists.md` from
+  a **curated** `build/playlists.json` (81 playlists), refreshing each
+  playlist's live title/video-count from the YouTube Data API (same
+  `~/.config/kiro-youtube` OAuth as `sync-videos.py`). Unlike videos, playlists
+  are curated, not auto-discovered — the channel has 700+, so only a
+  topic-relevant slice ships. Curated down from 707: excluded other-distro,
+  icon-theme, and distro-spin playlists (kept pure-Arch install, archinstall and
+  Archiso under an Installation category); relabeled the survivors by topic
+  (dropping the "ArcoLinux" brand); grouped into 10 tier-3 categories plus a
+  Kiro series section. ATT-specific playlists are kept regardless of which
+  Arch-based distro they were filmed on.
+- Rewrote the "Point to video tutorials" rule in `CLAUDE.md` as an explicit
+  three-tier order pointing at both `videos.md` and `playlists.md`, added a
+  "tool videos cross distros" rule, and extended the "never claim a video is
+  missing" grep to cover `playlists.md` too.
+- `up.sh` gained an optional `build/sync-playlists.py` hook beside the existing
+  `sync-videos.py` one (inert in other repos). README updated to document both
+  generators and the curated `playlists.json`.
 
 ### Files Modified
 
 - `CLAUDE.md`
+- `build/sync-playlists.py` (new)
+- `build/playlists.json` (new)
+- `knowledge/playlists.md` (new, generated)
+- `up.sh`
+- `README.md`
 
 ## 2026.06.14
 

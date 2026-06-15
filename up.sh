@@ -11,7 +11,8 @@ set -euo pipefail
 #   - Standard daily up-sync for any block in the ecosystem.
 #   - Ensures git remote is SSH (runs setup.sh if not), pulls latest,
 #     cleans __pycache__, optionally runs chaotic.sh / repo.sh /
-#     build/sync-videos.py, then stages, commits, and pushes the working tree.
+#     build/sync-videos.py / build/sync-playlists.py, then stages, commits,
+#     and pushes the working tree.
 #
 #   Why: one command to keep a block in sync with its remote, with
 #   safe defaults (auto-rebase on rejected push, never force-push).
@@ -169,6 +170,11 @@ main() {
     if [[ -f "${SCRIPT_DIR}/build/sync-videos.py" ]]; then
         log_section "Running build/sync-videos.py"
         python "${SCRIPT_DIR}/build/sync-videos.py" || log_warn "Video sync skipped (missing creds or deps) — keeping current files"
+    fi
+
+    if [[ -f "${SCRIPT_DIR}/build/sync-playlists.py" ]]; then
+        log_section "Running build/sync-playlists.py"
+        python "${SCRIPT_DIR}/build/sync-playlists.py" || log_warn "Playlist sync skipped (missing creds or deps) — keeping current files"
     fi
 
     git_commit_and_push

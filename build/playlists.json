@@ -1,0 +1,733 @@
+{
+  "playlists": [
+    {
+      "id": "PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G",
+      "topic": "KIRO series",
+      "category": "Kiro",
+      "tier": 1,
+      "blurb": "The current numbered KIRO tutorial series \u2014 the up-to-date Kiro videos.",
+      "title": "KIRO",
+      "count": 103
+    },
+    {
+      "id": "PLlloYVGq5pS4YHErtuybVdRJttrjRwceS",
+      "topic": "KIRO AI",
+      "category": "Kiro",
+      "tier": 1,
+      "blurb": "Using AI tooling on Kiro.",
+      "title": "KIRO AI",
+      "count": 22
+    },
+    {
+      "id": "PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M",
+      "topic": "KIRO overview",
+      "category": "Kiro",
+      "tier": 1,
+      "blurb": "High-level overviews of what Kiro is and ships.",
+      "title": "KIRO OVERVIEW",
+      "count": 19
+    },
+    {
+      "id": "PLlloYVGq5pS71UubmlKjjw131PjixMIjW",
+      "topic": "Kiro",
+      "category": "Kiro",
+      "tier": 2,
+      "blurb": "Kiro videos.",
+      "title": "Kiro",
+      "count": 56
+    },
+    {
+      "id": "PLlloYVGq5pS4P7RFxDI415Qc7LWZFfmfu",
+      "topic": "Kiro installation",
+      "category": "Kiro",
+      "tier": 2,
+      "blurb": "Installing Kiro from the ISO.",
+      "title": "Kiro Installation",
+      "count": 27
+    },
+    {
+      "id": "PLlloYVGq5pS5hQirRg8v_6iboKh3d42WX",
+      "topic": "Kiro news",
+      "category": "Kiro",
+      "tier": 2,
+      "blurb": "Kiro release news and announcements.",
+      "title": "Kiro News",
+      "count": 17
+    },
+    {
+      "id": "PLlloYVGq5pS6_rWqSTNh5Bc6lasmyUopM",
+      "topic": "Kiro building",
+      "category": "Kiro",
+      "tier": 2,
+      "blurb": "Building Kiro itself (developer-focused).",
+      "title": "Kiro Building",
+      "count": 15
+    },
+    {
+      "id": "PLlloYVGq5pS6VC6mT9yj7d4lwoYqyt4SL",
+      "topic": "Arch Linux (pure)",
+      "category": "Installation & Arch base",
+      "tier": 3,
+      "blurb": "Installing and running pure Arch Linux by hand \u2014 the same base Kiro builds on. ATT can assemble a pure-Arch system; these cover installing it.",
+      "title": "Arch Linux",
+      "count": 213
+    },
+    {
+      "id": "PLlloYVGq5pS4fCVyNa4nyegp7kXUNinU5",
+      "topic": "archinstall",
+      "category": "Installation & Arch base",
+      "tier": 3,
+      "blurb": "The official guided archinstall installer.",
+      "title": "Arch Linux Archinstall",
+      "count": 33
+    },
+    {
+      "id": "PLlloYVGq5pS4YQJFYX_rz8ZgnXeKMlLAC",
+      "topic": "Btrfs",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Btrfs filesystem: subvolumes, snapshots and Timeshift.",
+      "title": "ArcoLinux Btrfs",
+      "count": 38
+    },
+    {
+      "id": "PLlloYVGq5pS6-wWQYqpsvBfyNFJdn9xgh",
+      "topic": "Nvidia",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Nvidia drivers: install, DKMS and troubleshooting.",
+      "title": "ArcoLinux Nvidia",
+      "count": 69
+    },
+    {
+      "id": "PLlloYVGq5pS6iCwY5ui9FYDU7GJ8nUkvp",
+      "topic": "Kernels",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Choosing, installing and switching Linux kernels.",
+      "title": "ArcoLinux Kernel",
+      "count": 54
+    },
+    {
+      "id": "PLlloYVGq5pS5YPaBdAWtemMX7kLhVjkcJ",
+      "topic": "Xanmod kernel",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "The Xanmod performance kernel.",
+      "title": "ArcoLinux Linux Xanmod",
+      "count": 24
+    },
+    {
+      "id": "PLlloYVGq5pS7E__hiimKXNidBDTHAY-P1",
+      "topic": "GRUB",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "The GRUB bootloader: config, theming, repair, dual-boot.",
+      "title": "ArcoLinux Grub",
+      "count": 30
+    },
+    {
+      "id": "PLlloYVGq5pS7tt-yVRNNjpM86_ldLAjkA",
+      "topic": "systemd-boot",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "systemd-boot as an alternative bootloader.",
+      "title": "ArcoLinux Systemd-boot",
+      "count": 21
+    },
+    {
+      "id": "PLlloYVGq5pS7nTJhZUUp8_G8pzgj3tl2K",
+      "topic": "Mirrors",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Pacman mirrors: ranking and fixing slow or broken mirrors.",
+      "title": "ArcoLinux Mirrors",
+      "count": 32
+    },
+    {
+      "id": "PLlloYVGq5pS5U2M5esLsxohW0tnz2TPAj",
+      "topic": "Pacman",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "The pacman package manager: usage, config and maintenance.",
+      "title": "ArcoLinux Pacman",
+      "count": 20
+    },
+    {
+      "id": "PLlloYVGq5pS5OaEgx1OqxrRl2sbhcP4Wq",
+      "topic": "Encryption",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Disk encryption on Arch-based systems.",
+      "title": "Encryption on Arch based systems",
+      "count": 17
+    },
+    {
+      "id": "PLlloYVGq5pS675Lz6kE6JyJMoAkwuJjkA",
+      "topic": "VirtualBox",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Running Linux in VirtualBox: setup, guest additions and fixes.",
+      "title": "ArcoLinux Virtualbox Setup",
+      "count": 48
+    },
+    {
+      "id": "PLlloYVGq5pS6WhIdpcrgoj_XszquIyKCQ",
+      "topic": "QEMU / KVM",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Virtual machines with QEMU/KVM.",
+      "title": "ArcoLinux Qemu",
+      "count": 16
+    },
+    {
+      "id": "PLlloYVGq5pS6ONzlDDzidQnMzxjKxz9dS",
+      "topic": "VMware",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Running Linux under VMware.",
+      "title": "Vmware and Linux",
+      "count": 56
+    },
+    {
+      "id": "PLlloYVGq5pS5ZMbTKoWgA2JCAlpmhtotz",
+      "topic": "Keyboard",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Keyboard layouts, shortcuts and remapping.",
+      "title": "ArcoLinux Keyboard",
+      "count": 58
+    },
+    {
+      "id": "PLlloYVGq5pS6Y1vAIAU-VFNHstjyV9M5q",
+      "topic": "Samba",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Samba network file sharing.",
+      "title": "ArcoLinux Samba",
+      "count": 29
+    },
+    {
+      "id": "PLlloYVGq5pS5a1nMSuPJS0MDslM1zLCEd",
+      "topic": "Arch-chroot / rescue",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Repairing a system with arch-chroot from live media.",
+      "title": "ArcoLinux Arch-chroot",
+      "count": 18
+    },
+    {
+      "id": "PLlloYVGq5pS6wNhqKpvbLSv8eLdLyxMAM",
+      "topic": "Downgrade packages",
+      "category": "Hardware / system",
+      "tier": 3,
+      "blurb": "Downgrading packages when an update breaks something.",
+      "title": "ArcoLinux Downgrade/Downgrada",
+      "count": 14
+    },
+    {
+      "id": "PLlloYVGq5pS6ViMt9elML81d7DaMA3I19",
+      "topic": "Fixes",
+      "category": "Troubleshooting",
+      "tier": 3,
+      "blurb": "Assorted fixes for common Arch-based problems.",
+      "title": "ArcoLinux Fixes",
+      "count": 161
+    },
+    {
+      "id": "PLlloYVGq5pS4KzhZg3Jyv8afr1Nc2odFF",
+      "topic": "Black screen recovery",
+      "category": "Troubleshooting",
+      "tier": 3,
+      "blurb": "What to do when you boot to a black screen.",
+      "title": "ArcoLinux Black Screen - now what",
+      "count": 18
+    },
+    {
+      "id": "PLlloYVGq5pS5b8jM6eNft0A7yGPd3hzLP",
+      "topic": "Desktop reset (ADT)",
+      "category": "Troubleshooting",
+      "tier": 3,
+      "blurb": "Resetting a broken desktop config back to defaults.",
+      "title": "ArcoLinux Desktop Trasher - ADT",
+      "count": 18
+    },
+    {
+      "id": "PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH",
+      "topic": "ArchLinux Tweak Tool (ATT)",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "ATT \u2014 the modular GTK system tweak tool Kiro ships.",
+      "title": "ArcoLinux Tweak Tool - ArchLinux Tweak Tool - ATT",
+      "count": 268
+    },
+    {
+      "id": "PLlloYVGq5pS63vf2ksZntZmWwiJK_gtFt",
+      "topic": "Creating apps (Python)",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Building your own GTK Python applications.",
+      "title": "ArcoLinux App - How to create the app",
+      "count": 86
+    },
+    {
+      "id": "PLlloYVGq5pS7fXXgTv21hAOxhjYuYcE4H",
+      "topic": "Creating apps (Glade)",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Designing application UIs with Glade.",
+      "title": "ArcoLinux App - How to create the app with Glade",
+      "count": 43
+    },
+    {
+      "id": "PLlloYVGq5pS6bnVCIsQB6HyAM8_aUsy-a",
+      "topic": "Scripting",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Bash scripting for Linux automation.",
+      "title": "ArcoLinux Scripting",
+      "count": 35
+    },
+    {
+      "id": "PLlloYVGq5pS5DAb-R2UkLaKdkYhnzBnUM",
+      "topic": "Meld",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Comparing and merging files and configs with Meld.",
+      "title": "ArcoLinux Meld",
+      "count": 25
+    },
+    {
+      "id": "PLlloYVGq5pS5B44LyTy2rq615kzvrOs9M",
+      "topic": "Neofetch / fastfetch",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "System-info fetch tools and customisation.",
+      "title": "ArcoLinux Neofetch",
+      "count": 24
+    },
+    {
+      "id": "PLlloYVGq5pS5yojbnoyCFY4IpSMsA5aSc",
+      "topic": "Variety (wallpapers)",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "The Variety wallpaper manager.",
+      "title": "arcolinux variety",
+      "count": 36
+    },
+    {
+      "id": "PLlloYVGq5pS6IhlVFX6S_AZzZblvGVqak",
+      "topic": "Conky",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Conky desktop widgets: install and customise.",
+      "title": "ArcoLinux Conky",
+      "count": 30
+    },
+    {
+      "id": "PLlloYVGq5pS6uBijgzxs4UtHKrNokOHZs",
+      "topic": "Steam / gaming",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Steam and gaming on Arch-based Linux.",
+      "title": "ArcoLinux Steam",
+      "count": 16
+    },
+    {
+      "id": "PLlloYVGq5pS7jz_x2v6KwihUvQRCjnX2f",
+      "topic": "Games (3rd-party)",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Installing third-party games.",
+      "title": "ArcoLinux Games 3thParty",
+      "count": 16
+    },
+    {
+      "id": "PLlloYVGq5pS4WRC5BndKXA9BfyBL0kYpp",
+      "topic": "Screen recording",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Recording your screen with SimpleScreenRecorder.",
+      "title": "ArcoLinux Simplescreenrecorder",
+      "count": 16
+    },
+    {
+      "id": "PLlloYVGq5pS7KfhUhcQaUAGV28kmA2OSt",
+      "topic": "Logout screen",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "The graphical logout / power menu (archlinux-logout).",
+      "title": "ArcoLinux Logout - ArchLinux Logout",
+      "count": 23
+    },
+    {
+      "id": "PLlloYVGq5pS7tmNUJv8DcKlZNk0Lc4edF",
+      "topic": "Plank dock",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "The Plank dock: setup and theming.",
+      "title": "ArcoLinux Plank",
+      "count": 33
+    },
+    {
+      "id": "PLlloYVGq5pS7yGHbCc2WiqYeTCkLSgQPL",
+      "topic": "Fish shell",
+      "category": "Shell",
+      "tier": 3,
+      "blurb": "The Fish shell: config and usage.",
+      "title": "ArcoLinux Fish",
+      "count": 23
+    },
+    {
+      "id": "PLlloYVGq5pS5ML6bno-l-yNQMBUwbQYd0",
+      "topic": "Zsh",
+      "category": "Shell",
+      "tier": 3,
+      "blurb": "Zsh with plugins and prompts.",
+      "title": "ArcoLinux Zsh",
+      "count": 26
+    },
+    {
+      "id": "PLlloYVGq5pS4mab_8owsCBysFiGT6qjjS",
+      "topic": "Bash",
+      "category": "Shell",
+      "tier": 3,
+      "blurb": "Bash shell configuration.",
+      "title": "ArcoLinux Bash",
+      "count": 19
+    },
+    {
+      "id": "PLlloYVGq5pS5M-XwxMYo5K5K14Awaohlp",
+      "topic": "SDDM login manager",
+      "category": "Login / autostart / skel",
+      "tier": 3,
+      "blurb": "The SDDM display/login manager and themes.",
+      "title": "ArcoLinux Sddm",
+      "count": 23
+    },
+    {
+      "id": "PLlloYVGq5pS4wtVmvcAZEQzSj2LWmyNJf",
+      "topic": "Autostart",
+      "category": "Login / autostart / skel",
+      "tier": 3,
+      "blurb": "Autostarting apps at login.",
+      "title": "ArcoLinux Autostart",
+      "count": 26
+    },
+    {
+      "id": "PLlloYVGq5pS5YJwFj0rBgwPWibQDqWXAx",
+      "topic": "Skel (/etc/skel)",
+      "category": "Login / autostart / skel",
+      "tier": 3,
+      "blurb": "How /etc/skel seeds the configs of new users.",
+      "title": "ArcoLinux Skel",
+      "count": 25
+    },
+    {
+      "id": "PLlloYVGq5pS5vN-5Flh2zuOmIvNZBu25g",
+      "topic": "Keybindings",
+      "category": "Login / autostart / skel",
+      "tier": 3,
+      "blurb": "Setting up keyboard shortcuts.",
+      "title": "ArcoLinux Keys",
+      "count": 19
+    },
+    {
+      "id": "PLlloYVGq5pS5SgzDdpM_E9gqZAVmqYZj2",
+      "topic": "Hyprland",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Hyprland Wayland compositor.",
+      "title": "ArcoLinux Hyprland",
+      "count": 115
+    },
+    {
+      "id": "PLlloYVGq5pS5neOLFzXPgSBypusZGkZ6l",
+      "topic": "Hyprland Waybar",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Waybar status bar for Hyprland.",
+      "title": "ArcoLinux Hyprland Waybar",
+      "count": 21
+    },
+    {
+      "id": "PLlloYVGq5pS5ZCuTh_nu-1nuBPuxKKwIX",
+      "topic": "Qtile",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Qtile tiling window manager (Python).",
+      "title": "ArcoLinux Qtile",
+      "count": 59
+    },
+    {
+      "id": "PLlloYVGq5pS5_35aEYFu49RbRXmtqiAI1",
+      "topic": "Polybar",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Polybar status bar.",
+      "title": "ArcoLinux Polybar",
+      "count": 58
+    },
+    {
+      "id": "PLlloYVGq5pS7TN_k4PTeSdPOztzXd7_AL",
+      "topic": "Awesome WM",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Awesome tiling window manager.",
+      "title": "ArcoLinux Awesome",
+      "count": 53
+    },
+    {
+      "id": "PLlloYVGq5pS4UI5xcKf8Ap-XTLQbRFL19",
+      "topic": "LeftWM",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The LeftWM tiling window manager.",
+      "title": "ArcoLinux Leftwm",
+      "count": 48
+    },
+    {
+      "id": "PLlloYVGq5pS4EGfRM5WIoisWqDKrJmjCk",
+      "topic": "Wayfire",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Wayfire Wayland compositor.",
+      "title": "ArcoLinux Wayfire",
+      "count": 45
+    },
+    {
+      "id": "PLlloYVGq5pS6z5j0kDtfYEYizQPYJgRcr",
+      "topic": "chadwm",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "chadwm \u2014 the dwm-based setup Kiro features.",
+      "title": "arconet chadwm",
+      "count": 48
+    },
+    {
+      "id": "PLlloYVGq5pS7wGG-6IPwEbWHXVvaesPdL",
+      "topic": "dwm",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The dwm dynamic window manager.",
+      "title": "ArcoLinux Dwm",
+      "count": 30
+    },
+    {
+      "id": "PLlloYVGq5pS7ARI1KmSVQ7vaNArMFRJIo",
+      "topic": "i3",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The i3 tiling window manager.",
+      "title": "I3 works anywhere",
+      "count": 171
+    },
+    {
+      "id": "PLlloYVGq5pS76V0WUKp3ORVEip0SPQ5DL",
+      "topic": "bspwm",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The bspwm tiling window manager.",
+      "title": "ArcoLinux Bspwm",
+      "count": 26
+    },
+    {
+      "id": "PLlloYVGq5pS5SC7jsp5wzbsCqrRnnhhRG",
+      "topic": "Sway",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The Sway Wayland tiling compositor.",
+      "title": "ArcoLinux Sway",
+      "count": 29
+    },
+    {
+      "id": "PLlloYVGq5pS7_WQUnY6LVraJlQPdzPRw8",
+      "topic": "herbstluftwm",
+      "category": "Tiling WMs",
+      "tier": 3,
+      "blurb": "The herbstluftwm tiling window manager.",
+      "title": "ArcoLinux Herbstlufwm",
+      "count": 29
+    },
+    {
+      "id": "PLlloYVGq5pS7QH73uM1inoFX-uYGEzMOT",
+      "topic": "Xfce",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The Xfce desktop environment.",
+      "title": "ArcoLinux Xfce",
+      "count": 85
+    },
+    {
+      "id": "PLlloYVGq5pS6grhXR-EtCL8ftVg3nHBVq",
+      "topic": "Budgie",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The Budgie desktop.",
+      "title": "ArcoLinux Budgie",
+      "count": 56
+    },
+    {
+      "id": "PLlloYVGq5pS5fdVHhp85rUaC0y-_bz1R1",
+      "topic": "KDE Plasma",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The KDE Plasma desktop.",
+      "title": "ArcoLinux Plasma 6",
+      "count": 47
+    },
+    {
+      "id": "PLlloYVGq5pS7gITJcwn7YuTIq7--LwUI1",
+      "topic": "GNOME",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The GNOME desktop.",
+      "title": "ArcoLinux Gnome",
+      "count": 49
+    },
+    {
+      "id": "PLlloYVGq5pS5yFUI_Jfo5ugCWrHqduKoS",
+      "topic": "MATE",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The MATE desktop.",
+      "title": "ArcoLinux Mate",
+      "count": 36
+    },
+    {
+      "id": "PLlloYVGq5pS6MywH9Qtd7qEBCJ4_CncrI",
+      "topic": "Cinnamon",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The Cinnamon desktop.",
+      "title": "ArcoLinux Cinnamon",
+      "count": 41
+    },
+    {
+      "id": "PLlloYVGq5pS6N6VTvzC2usqtNhAjerpbD",
+      "topic": "Deepin",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The Deepin desktop.",
+      "title": "ArcoLinux Deepin",
+      "count": 28
+    },
+    {
+      "id": "PLlloYVGq5pS6tt5MI-dH00-TCL30jq82Y",
+      "topic": "LXQt",
+      "category": "Desktop environments",
+      "tier": 3,
+      "blurb": "The lightweight LXQt desktop.",
+      "title": "ArcoLinux LXQt",
+      "count": 13
+    },
+    {
+      "id": "PLlloYVGq5pS5Kbl75uzjmYxJAlW6diqqo",
+      "topic": "Ricing",
+      "category": "Theming / ricing",
+      "tier": 3,
+      "blurb": "Customising the look of your desktop (ricing).",
+      "title": "ArcoLinux Ricing",
+      "count": 27
+    },
+    {
+      "id": "PLlloYVGq5pS6HMaXdvYNv2mCwXNFbq2Ka",
+      "topic": "Design / theming",
+      "category": "Theming / ricing",
+      "tier": 3,
+      "blurb": "Theming, colours and visual design.",
+      "title": "ArcoLinux Design",
+      "count": 25
+    },
+    {
+      "id": "PLlloYVGq5pS7ZbnXkc3snEIjmV0g0mLAD",
+      "topic": "Eye candy",
+      "category": "Theming / ricing",
+      "tier": 3,
+      "blurb": "Making the desktop beautiful \u2014 effects and polish.",
+      "title": "ArcoLinux Candy Beauty",
+      "count": 17
+    },
+    {
+      "id": "PLlloYVGq5pS7sqFgdKw0-Np681toZrufq",
+      "topic": "Picom compositor",
+      "category": "Theming / ricing",
+      "tier": 3,
+      "blurb": "Picom (compton): transparency, shadows and blur.",
+      "title": "ArcoLinux Compton Picom",
+      "count": 39
+    },
+    {
+      "id": "PLlloYVGq5pS6pA63D4qfi224OvVkpIKQR",
+      "topic": "Workflow",
+      "category": "Workflow / philosophy",
+      "tier": 3,
+      "blurb": "General Linux workflow and productivity habits \u2014 stays relevant for years.",
+      "title": "ArcoLinux Workflow",
+      "count": 71
+    },
+    {
+      "id": "PLlloYVGq5pS5nn1_3ws7iIo_Nys9PTcH2",
+      "topic": "It is all Arch Linux",
+      "category": "Workflow / philosophy",
+      "tier": 3,
+      "blurb": "Why Arch-based distros share the same foundations.",
+      "title": "IT is all Arch Linux",
+      "count": 84
+    },
+    {
+      "id": "PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV",
+      "topic": "KIRO ATT",
+      "category": "Kiro",
+      "tier": 1,
+      "blurb": "ATT (ArchLinux Tweak Tool) demonstrated on Kiro.",
+      "title": "KIRO ARCHLINUX TWEAK TOOL",
+      "count": 10
+    },
+    {
+      "id": "PLlloYVGq5pS4TDb0uDkO9CJNXW3vRykNz",
+      "topic": "ATT \u2014 full course",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "An in-depth ATT video course. ATT runs across Arch-based distros, so this applies on Kiro too.",
+      "title": "Edu ArchLinux Tweak Tool or ATT",
+      "count": 21
+    },
+    {
+      "id": "PLlloYVGq5pS73RSfQ6HJ-ZbOt4L0adwYm",
+      "topic": "ATT \u2014 Samba",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Setting up Samba network shares through ATT.",
+      "title": "ArcoLinux ATT Samba",
+      "count": 16
+    },
+    {
+      "id": "PLlloYVGq5pS7mePQjFWW0nP7h2suNvznA",
+      "topic": "ATT \u2014 make it light",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Trimming a system down with ATT.",
+      "title": "ArchLinux Tweak Tool - make it light again",
+      "count": 7
+    },
+    {
+      "id": "PLlloYVGq5pS6Gew4OgnvMVtY_NsqhAvgE",
+      "topic": "ATT \u2014 insights",
+      "category": "Apps / tooling",
+      "tier": 3,
+      "blurb": "Deeper insights into how ATT works.",
+      "title": "ATT - Insight",
+      "count": 4
+    },
+    {
+      "id": "PLlloYVGq5pS7KHbfRZEsFrTGMfFRjXT2C",
+      "topic": "Archiso",
+      "category": "Installation & Arch base",
+      "tier": 3,
+      "blurb": "Archiso \u2014 building your own Arch-based live ISO.",
+      "title": "Archiso",
+      "count": 27
+    }
+  ]
+}

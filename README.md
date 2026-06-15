@@ -10,9 +10,13 @@ knowledge base built from Kiro's own docs and configs.
   loads automatically when you open the folder in Claude Code.
 - [knowledge/](./knowledge/) — the curated Kiro knowledge base the assistant
   answers from (architecture, install, packages, desktops, kernels, ATT,
-  troubleshooting).
+  troubleshooting), plus generated video references: `videos.md` (the KIRO/kiro
+  video catalog) and `playlists.md` (topic playlists for deep dives).
 - [build/sync-knowledge.sh](./build/sync-knowledge.sh) — regenerates the
   knowledge base from Kiro's public source repos so it stays current.
+- [build/sync-videos.py](./build/sync-videos.py) and
+  [build/sync-playlists.py](./build/sync-playlists.py) — regenerate `videos.md`
+  and `playlists.md` from the YouTube channel (maintainer-only, run by `up.sh`).
 
 ## How to use it (bring your own key)
 
@@ -38,7 +42,10 @@ Then just ask, e.g. *"How do I write the Kiro ISO to a USB stick?"* or
   this repo's project instructions — there is intentionally no second
   CLAUDE.md.
 - Knowledge files under `knowledge/` are the value. Keep them accurate; an
-  out-of-date fact is worse than a missing one.
+  out-of-date fact is worse than a missing one. `videos.md` and `playlists.md`
+  are **generated** — never hand-edit them. `videos.md` is auto-synced; the
+  playlist set is **curated** in [build/playlists.json](./build/playlists.json)
+  (add or remove an entry there, then rerun `build/sync-playlists.py`).
 - **On every knowledge-base update, re-check the website FAQ for new questions.**
   The website FAQ (`kiro-website/index.html` `#faq`, mirrored in
   `Kiro-HQ/FAQ.md`) is the canonical public Q&A and grows a question or two per
