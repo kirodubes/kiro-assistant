@@ -17,6 +17,14 @@
   pure-Arch install, …) for a deep dive, on top of the individual videos. It
   follows a tiered serve order: KIRO videos → kiro videos → tier-3 topic
   playlists, falling back to a channel search only when all three miss.
+- Added the **ArcoLinux archive as a Tier 3 written knowledge layer**
+  (`knowledge/archive/`, 941 preserved arcolinux.com / arcolinuxd.com pages).
+  The assistant grounds answers in strict precedence: Tier 1–2 (current curated
+  knowledge + KIRO/kiro videos) always win; the archive is a historical fallback
+  used only when nothing current matches, and never overrides current facts. The
+  two Tier-3 sources — the written archive and the video playlists — complement
+  each other, so a Tier-3 answer pairs the archived article with the matching
+  topic playlist.
 
 ### Technical Details
 
@@ -41,6 +49,13 @@
 - `up.sh` gained an optional `build/sync-playlists.py` hook beside the existing
   `sync-videos.py` one (inert in other repos). README updated to document both
   generators and the curated `playlists.json`.
+- New `build/sync-archive.sh` copies the preserved archive into
+  `knowledge/archive/` from `$ARCOLINUX_ARCHIVE_DIR` (rsync mirror, keeps the
+  hand-written tier `README.md`). Maintainer-only and inert when the var is
+  unset — no personal path is baked into this public repo. Source of truth is
+  the separate `arcolinux-archive` repo. Rewrote the `CLAUDE.md` grounding rule
+  into the explicit Tier 1–2 / Tier 3 precedence, extended the "never claim
+  missing" grep to `knowledge/archive/`, and added a third `up.sh` hook.
 
 ### Files Modified
 
@@ -48,6 +63,8 @@
 - `build/sync-playlists.py` (new)
 - `build/playlists.json` (new)
 - `knowledge/playlists.md` (new, generated)
+- `build/sync-archive.sh` (new)
+- `knowledge/archive/` (new — 941 pages + tier README, generated/synced)
 - `up.sh`
 - `README.md`
 

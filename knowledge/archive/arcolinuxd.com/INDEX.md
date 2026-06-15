@@ -1,0 +1,514 @@
+# arcolinuxd.com — archived content
+
+447 posts, 57 pages (skipped 583 non-published / other items).
+
+## Pages (57)
+
+- [Listing](pages/listing.md) — 2019-11-12
+- [Home](pages/home-2.md) — 2019-12-29
+- [Installation](pages/installation.md) — 2019-12-29
+- [Why are the articles on ArcoLinuxD not ordered](pages/why-are-the-articles-on-arcolinuxd-not-ordered.md) — 2019-12-29
+- [What you need to know about the scripts](pages/what-you-need-to-know-about-the-scripts.md) — 2019-12-29
+- [Xfce](pages/xfce.md) — 2021-01-19
+- [Openbox](pages/openbox.md) — 2021-01-19
+- [I3](pages/i3.md) — 2021-01-19
+- [Awesome](pages/awesome.md) — 2021-01-19
+- [Bspwm](pages/bspwm.md) — 2021-01-19
+- [Budgie](pages/budgie.md) — 2021-01-19
+- [Cinnamon](pages/cinnamon.md) — 2021-01-19
+- [Deepin](pages/deepin.md) — 2021-01-19
+- [Dwm](pages/dwm.md) — 2021-01-19
+- [Gnome](pages/gnome.md) — 2021-01-19
+- [Hlwm](pages/hlwm.md) — 2021-01-19
+- [Icewm](pages/icewm.md) — 2021-01-19
+- [Jwm](pages/jwm.md) — 2021-01-19
+- [Kodi](pages/kodi.md) — 2021-01-19
+- [Lxqt](pages/lxqt.md) — 2021-01-19
+- [Mate](pages/mate.md) — 2021-01-19
+- [Plasma](pages/plasma.md) — 2021-01-19
+- [Qtile](pages/qtile.md) — 2021-01-19
+- [Spectrwm](pages/spectrwm.md) — 2021-01-19
+- [Ukui](pages/ukui.md) — 2021-01-19
+- [Xmonad](pages/xmonad.md) — 2021-01-19
+- [Any desktop](pages/any-desktop.md) — 2021-01-19
+- [Arch Linux Start](pages/arch-linux-start.md) — 2021-01-19
+- [Arch Linux All in one](pages/arch-linux-all-in-one.md) — 2021-01-19
+- [Choose a desktop](pages/choose-a-desktop.md) — 2021-01-19
+- [Arch Linux Spices](pages/arch-linux-spices.md) — 2021-01-19
+- [Arch Linux Utils](pages/arch-linux-utils.md) — 2021-01-19
+- [Fixes](pages/fixes.md) — 2021-01-19
+- [Help](pages/help.md) — 2021-01-19
+- [Fvwm3](pages/fvwm3.md) — 2021-05-05
+- [ArcoLinuxB](pages/arcolinuxb.md) — 2021-07-08
+- [Carli](pages/carli.md) — 2021-07-08
+- [ArcoLinuxD](pages/arcolinuxd.md) — 2021-07-08
+- [ArcoLinux Tweak Tool](pages/arcolinux-tweak-tool.md) — 2021-07-08
+- [Cwm](pages/cwm.md) — 2021-07-08
+- [Cutefish](pages/cutefish.md) — 2021-09-05
+- [Leftwm](pages/leftwm.md) — 2021-10-05
+- [Wmderland](pages/wmderland.md) — 2021-12-20
+- [Archinstall](pages/archinstall.md) — 2022-05-05
+- [Enlightenment](pages/enlightenment.md) — 2022-05-28
+- [Pantheon](pages/pantheon.md) — 2022-11-15
+- [Berry](pages/berry.md) — 2022-11-19
+- [Worm](pages/worm.md) — 2022-11-19
+- [Hypr](pages/hypr.md) — 2022-11-19
+- [Chadwm](pages/chadwm.md) — 2022-11-19
+- [Dusk](pages/dusk.md) — 2022-11-19
+- [Hyprland](pages/hyprland.md) — 2022-12-17
+- [Sway](pages/sway.md) — 2022-12-17
+- [DK](pages/dk.md) — 2023-11-15
+- [Wayfire](pages/wayfire.md) — 2023-12-27
+- [Nimdow](pages/nimdow.md) — 2024-02-15
+- [Niri](pages/niri.md) — 2025-02-09
+
+## Posts (447)
+
+- [2 - Learn how to script and use github](posts/2-learn-how-to-script-and-use-github.md) — 2017-10-20
+- [3 - how to theme ArcoLinuxD Budgie](posts/3-how-to-theme-arcolinuxd-budgie.md) — 2017-10-20
+- [4 - how to install sound to your system](posts/4-how-to-install-sound-to-your-system.md) — 2017-10-20
+- [5 - how to install spotify and other music players](posts/5-how-to-install-spotify-and-other-music-players.md) — 2017-10-20
+- [6 - how to install bluetooth support for your bluetooth headset](posts/6-how-to-install-bluetooth-support-for-your-bluetooth-headset.md) — 2017-10-20
+- [7 - how to install cups to be able to print](posts/7-how-to-install-cups-to-be-able-to-print.md) — 2017-10-20
+- [8 - install pamac to update and install packages](posts/8-install-pamac-to-update-and-install-packages.md) — 2017-10-20
+- [9 - use pamac to investigate a fresh installed application](posts/9-use-pamac-to-investigate-a-fresh-installed-application.md) — 2017-10-20
+- [2 - how to theme ArcoLinuxD i3](posts/2-how-to-theme-arcolinuxd-i3.md) — 2017-11-10
+- [3 -  ArcoLinuxD scripts explained in detail](posts/3-arcolinuxd-scripts-explained-in-detail.md) — 2017-11-10
+- [4 - all you need to know about tweaking and theming i3](posts/4-all-you-need-to-know-about-tweaking-and-theming-i3.md) — 2017-11-10
+- [5 - checking out the available i3 color schemes](posts/5-checking-out-the-available-i3-color-schemes.md) — 2017-11-10
+- [6 - what are the most important keyboard shortcuts on i3](posts/6-what-are-the-most-important-keyboard-shortcuts-on-i3.md) — 2017-11-10
+- [7 - detailed information about compton on i3](posts/7-detailed-information-about-compton-on-i3.md) — 2017-11-10
+- [8 - where are the menu's in i3](posts/8-where-are-the-menus-in-i3.md) — 2017-11-10
+- [9 - how to work with i3 windows and move them](posts/9-how-to-work-with-i3-windows-and-move-them.md) — 2017-11-10
+- [10 - how to change the gaps between windows in i3](posts/10-how-to-change-the-gaps-between-windows-in-i3.md) — 2017-11-10
+- [11 - how to set up i3 with a dual monitor](posts/11-how-to-set-up-i3-with-a-dual-monitor.md) — 2017-11-10
+- [12 - use atom to change the colors in your i3 config](posts/12-use-atom-to-change-the-colors-in-your-i3-config.md) — 2017-11-10
+- [13 -  how to autologin into ArcoLinuxD i3](posts/13-how-to-autologin-into-arcolinuxd-i3.md) — 2017-11-10
+- [14 - creating a new crimson color scheme for ArcoLinuxD-i3](posts/14-creating-a-new-crimson-color-scheme-for-archmerged-i3.md) — 2017-11-11
+- [15 - comparing files and folders with meld](posts/15-comparing-files-and-folders-with-meld.md) — 2017-11-11
+- [16 - Installing insync on ArcoLinux(D) - solving the start issue](posts/16-installing-insync-on-arcolinuxd-solving-the-start-issue.md) — 2017-11-11
+- [17 - fixing can't read temp in i3status.conf](posts/17-fixing-cant-read-temp-in-i3status-conf.md) — 2017-11-12
+- [18 - installing 33 Arc themes with different accent colors on any ArcoLinuxD desktop](posts/18-installing-33-arc-themes-with-different-accent-colors-on-any-arcolinuxd-desktop.md) — 2017-11-12
+- [19 - giving an overview of the i3 config file on ArcoLinux(D)](posts/19-giving-an-overview-of-the-i3-config-file-on-arcolinuxd.md) — 2017-11-13
+- [2 - How to theme ArcoLinuxD Xfce](posts/2-how-to-theme-arcolinuxd-xfce.md) — 2017-11-19
+- [3 - How to theme your xfce panels and add plank](posts/3-how-to-theme-your-xfce-panels-and-add-plank.md) — 2017-11-19
+- [4 - How to theme your Xfce desktop - icons or no icons](posts/4-how-to-theme-your-xfce-desktop-icons-or-no-icons.md) — 2017-11-19
+- [5 - How to get the conky's on ArcoLinuxD Xfce](posts/5-how-to-get-the-conkys-on-arcolinuxd-xfce.md) — 2017-11-19
+- [6 - making sure neofetch shows up in termite - any desktop](posts/6-making-sure-neofetch-shows-up-in-termite-any-desktop.md) — 2017-11-19
+- [7 - Installing software with pamac or gnome-software any desktop](posts/7-installing-software-with-pamac-or-gnome-software-any-desktop.md) — 2017-11-19
+- [8 - Installing software via the terminal any desktop](posts/8-installing-software-via-the-terminal-any-desktop.md) — 2017-11-19
+- [9 - making windows transparent when moving on Xfce](posts/9-making-windows-transparent-when-moving-on-xfce.md) — 2017-11-19
+- [10 - everything you need to know about keyboard shortcuts on xfce](posts/10-everything-you-need-to-know-about-keyboard-shortcuts-on-xfce.md) — 2017-11-19
+- [11 - Setting your dual screen in Xfce](posts/11-setting-your-dual-screen-in-xfce.md) — 2017-11-19
+- [12 - add more plugins to the xfce panel](posts/12-add-more-plugins-to-the-xfce-panel.md) — 2017-11-19
+- [13 - installing the aureola conky's on any desktop](posts/13-installing-the-aureola-conkys-on-any-desktop.md) — 2017-11-19
+- [14 - Changing the look of the terminal termite on any desktop](posts/14-changing-the-look-of-the-terminal-termite-on-any-desktop.md) — 2017-11-19
+- [15 - Installing i3 on ArcoLinuxD Xfce](posts/15-installing-i3-on-arcolinuxd-xfce.md) — 2017-11-19
+- [16 - fix for returning applications after reboot on Xfce](posts/16-fix-for-returning-applications-after-reboot-on-xfce.md) — 2017-11-19
+- [14 - configuring my bluetooth settings on ArcoLinuxD Xfce](posts/14-configuring-my-bluetooth-settings-on-arcolinuxd-xfce.md) — 2017-11-20
+- [How to get the latest updates in from github any desktop](posts/how-to-get-the-latest-updates-in-from-github.md) — 2017-11-22
+- [20 Using the code from others to change your i3 look - i3 blocks](posts/using-the-code-from-others-to-change-your-i3-look-i3-blocks.md) — 2017-11-28
+- [2 - How to theme ArcoLinuxD Openbox](posts/2-how-to-theme-arcolinuxd-openbox.md) — 2017-12-02
+- [2 - How to theme ArcoLinuxD Cinnamon](posts/2-how-to-theme-arcolinuxd-cinnamon.md) — 2017-12-12
+- [3 - All about conky's on ArcoLinuxD Cinnamon](posts/3-all-about-conkys-on-arcolinuxd-cinnamon.md) — 2017-12-12
+- [4 - How to install desklets on ArcoLinuxD Cinnamon](posts/4-how-to-install-desklets-on-arcolinuxd-cinnamon.md) — 2017-12-12
+- [5 -  How to install applets on ArcoLinuxD Cinnamon](posts/5-how-to-install-applets-on-arcolinuxd-cinnamon.md) — 2017-12-12
+- [6 - How to install extensions on ArcoLinuxD Cinnamon](posts/6-how-to-install-extensions-on-arcolinuxd-cinnamon.md) — 2017-12-12
+- [7 - Learning more about Nemo the filemanager of ArcoLinuxD Cinnamon](posts/7-learning-more-about-nemo-the-filemanager-of-arcolinuxd-cinnamon.md) — 2017-12-12
+- [8 -  How to install i3 on ArcoLinuxD Cinnamon](posts/8-how-to-install-i3-on-arcolinuxd-cinnamon.md) — 2017-12-12
+- [How to set double tap and drag and drop on your laptop’s touchpad – any desktop](posts/how-to-set-double-tap-and-drag-and-drop-on-your-laptops-touchpad-any-desktop.md) — 2018-01-02
+- [10 - how to autostart the ArcoLinux conky's in Budgie](posts/10-how-to-autostart-the-arcolinux-conkys-in-budgie.md) — 2018-01-08
+- [Use meld to compare folders and files coming in your /etc/skel any desktop](posts/use-meld-to-compare-folders-and-files-coming-in-your-etc-skel-any-desktop.md) — 2018-01-13
+- [10 - Installing nemo as filemanager and 5 great tips](posts/installing-nemo-as-filemanager-and-5-great-tips.md) — 2018-01-24
+- [2 How to install compiz on ArcoLinuxD Mate](posts/2-how-to-install-compiz-on-arcolinuxd-mate.md) — 2018-01-29
+- [3 How to theme ArcoLinuxD Mate](posts/3-how-to-theme-arcolinuxd-mate.md) — 2018-01-29
+- [4 The best way to activate the ArcoLinuxD conky's](posts/4-the-best-way-to-activate-the-arcolinuxd-conkys.md) — 2018-01-30
+- [5 how to autostart an application in ArcoLinuxD Mate like a conky](posts/5-how-to-autostart-an-application-in-arcolinuxd-mate-like-a-conky.md) — 2018-01-30
+- [6 How to use compton on ArcoLinuxD Mate](posts/6-how-to-use-compton-on-arcolinuxd-mate.md) — 2018-01-30
+- [7 How to change the logo in standard menu bar of ArcoLinuxD Mate](posts/7-how-to-change-the-logo-in-standard-menu-bar-of-arcolinuxd-mate.md) — 2018-01-31
+- [8 change the icon in the brisk menu on Mate](posts/8-change-the-icon-in-the-brisk-menu-on-mate.md) — 2018-01-31
+- [9 Change logo and many settings in Mate menu](posts/9-change-logo-and-many-settings-in-mate-menu.md) — 2018-01-31
+- [10 moving and theming the Mate panel](posts/10-moving-and-theming-the-mate-panel.md) — 2018-01-31
+- [11 Arc Theme Colora on ArcoLinuxD Mate](posts/11-arc-theme-colora-on-arcolinuxd-mate.md) — 2018-02-04
+- [12 How to autostart plank in ArcoLinuxD Mate](posts/12-how-to-autostart-plank-in-arcolinuxd-mate.md) — 2018-02-05
+- [2 How to change icons, themes and cursors in ArcoLinuxD Gnome](posts/2-how-to-change-icons-themes-and-cursors-in-arcolinuxd-gnome.md) — 2018-02-10
+- [3 How to add variety icon to system tray on ArcoLinuxD Gnome](posts/3-how-to-add-variety-icon-to-system-tray-on-arcolinuxd-gnome.md) — 2018-02-10
+- [4 Overview of all the possible settings in ArcoLinuxD Gnome](posts/4-overview-of-all-the-possible-settings-in-arcolinuxd-gnome.md) — 2018-02-10
+- [5 Overview of the settings on Nautilus with extra packages](posts/5-overview-of-the-settings-on-nautilus-with-extra-packages.md) — 2018-02-10
+- [6 Transforming our dash in Gnome to a dock](posts/6-transforming-our-dash-in-gnome-to-a-dock.md) — 2018-02-10
+- [7 How to activate the conky's from ArcoLinuxD on Gnome](posts/7-how-to-activate-the-conkys-from-arcolinuxd-on-gnome.md) — 2018-02-10
+- [8 How to autostart the conky's on ArcoLinuxD Gnome](posts/8-how-to-autostart-the-conkys-on-arcolinuxd-gnome.md) — 2018-02-10
+- [9 Change the gnome settings with your gnome tweak tool](posts/9-change-the-gnome-settings-with-your-gnome-tweak-tool.md) — 2018-02-10
+- [10 Looking at the standard gnome shell extensions in ArcoLinuxD Gnome](posts/10-looking-at-the-standard-gnome-shell-extensions-in-arcolinuxd-gnome.md) — 2018-02-10
+- [11 What are the best gnome shell extensions for ArcoLinuxD Gnome](posts/11-what-are-the-best-gnome-shell-extensions-for-arcolinuxd-gnome.md) — 2018-02-10
+- [12 How to install and uninstall gnome extensions](posts/12-how-to-install-and-uninstall-gnome-extensions.md) — 2018-02-10
+- [13 Tweaking your gnome terminal - transparency](posts/13-tweaking-your-gnome-terminal-transparency.md) — 2018-02-10
+- [14 How to increase zsh's functionality and change the configuration - any desktop](posts/14-how-to-increase-zsh-functionality-and-change-the-configuration.md) — 2018-02-11
+- [15 How to change the display manager from lightdm to gdm or any other - any desktop](posts/15-how-to-change-the-display-manager-from-lightdm-to-gdm-or-any-other.md) — 2018-02-12
+- [2 Where is the Awesome configuration and setting up Atom for Lua](posts/2-where-is-the-awesome-configuration-and-setting-up-atom-for-lua.md) — 2018-03-07
+- [3 how to set your wallpaper - variety and nitrogen](posts/3-how-to-set-your-wallpaper-variety-and-nitrogen.md) — 2018-03-07
+- [4 Navigating in Awesome and learning the many shortcuts](posts/4-navigating-in-awesome-and-learning-the-many-shortcuts.md) — 2018-03-07
+- [5 Starting Neofetch automatically in the terminal - any desktop](posts/5-starting-neofetch-automatically-in-the-terminal-any-desktop.md) — 2018-03-07
+- [6 Changing the logo of Neofetch - any desktop](posts/6-changing-the-logo-of-neofetch-any-desktop.md) — 2018-03-07
+- [7 Changing the weather widget to your personal town](posts/7-changing-the-weather-widget-to-your-personal-town.md) — 2018-03-07
+- [8 How to change the theme in Awesome](posts/8-how-to-change-the-theme-in-awesome.md) — 2018-03-07
+- [9 Playing music in Awesome with the ncmpcpp widget](posts/9-playing-music-in-awesome-with-the-ncmpcpp-widget.md) — 2018-03-07
+- [10 What to do when an Awesome update comes in](posts/10-what-to-do-when-an-awesome-update-comes-in.md) — 2018-03-07
+- [11 Replacing variety with nitrogen to set the wallpaper](posts/11-replacing-variety-with-nitrogen-to-set-the-wallpaper.md) — 2018-03-07
+- [12 Changing theme, icons and cursors in Awesome](posts/12-changing-theme-icons-and-cursors-in-awesome.md) — 2018-03-07
+- [13 Full theming project Galactus](posts/13-full-theming-project-galactus.md) — 2018-03-07
+- [14 How to get back to safety if an error occurs](posts/14-how-to-get-back-to-safety-if-an-error-occurs.md) — 2018-03-07
+- [15 Changing the look of your tagnames](posts/15-changing-the-look-of-your-tagnames.md) — 2018-03-07
+- [16 Changing the menu of Awesome](posts/16-changing-the-menu-of-awesome.md) — 2018-03-07
+- [17 Changing and making keyboard shortcuts](posts/17-changing-and-making-keyboard-shortcuts.md) — 2018-03-07
+- [18 How to set applications to floating or maximize them](posts/18-how-to-set-applications-to-floating-or-maximize-them.md) — 2018-03-07
+- [19 Setting applications to appear on one tagname](posts/19-setting-applications-to-appear-on-one-tagname.md) — 2018-03-07
+- [20 What to do if the screen resolution is not optimal](posts/20-what-to-do-if-the-screen-resolution-is-not-optimal.md) — 2018-03-07
+- [21 Changing the font size in Awesome](posts/21-changing-the-font-size-in-awesome.md) — 2018-03-07
+- [22 Changing the font of the theme](posts/22-changing-the-font-of-the-theme.md) — 2018-03-07
+- [Use asciinema to show what goes on in your terminal](posts/use-asciinema-to-show-what-goes-on-in-your-terminal.md) — 2018-03-08
+- [Use imgur to share pictures with us on our forum](posts/use-imgur-to-share-pictures-with-us-on-our-forum.md) — 2018-03-08
+- [Use peek to show us what goes wrong on your system](posts/use-peek-to-show-us-what-goes-wrong-on-your-system.md) — 2018-03-08
+- [All in one Arch Linux installation BIOS with cinnamon](posts/14-all-in-one-arch-linux-installation-bios-with-cinnamon.md) — 2018-04-17
+- [All in one Arch Linux installation UEFI with mate](posts/16-all-in-one-arch-linux-installation-uefi-with-mate.md) — 2018-04-17
+- [Help yourself and use links to look up information on the net in the TTY](posts/help-yourself-and-use-links-to-look-up-information-on-the-net-in-the-tty.md) — 2018-04-29
+- [2 where is the bspwm configuration and how to set it up](posts/2-where-is-the-bspwm-configuration-and-how-to-set-it-up.md) — 2018-05-04
+- [3 Update your system and check your /etc/skel - ANY DESKTOP](posts/3-update-your-system-and-check-your-etc-skel-any-desktop.md) — 2018-05-04
+- [5 going over the most important keyboard shortcuts](posts/5-going-over-the-most-important-keyboard-shortcuts.md) — 2018-05-04
+- [6 how to theme bspwm - icons - theme - cursor - fonts](posts/6-how-to-theme-bspwm-icons-theme-cursor-fonts.md) — 2018-05-04
+- [7 what is pywal and how to use it in bspwm](posts/7-what-is-pywal-and-how-to-use-it-in-bspwm.md) — 2018-05-04
+- [8 how to make sure pywal keeps transparency](posts/8-how-to-make-sure-pywal-keeps-transparency.md) — 2018-05-04
+- [9 Theming bspwm colors, borders and gaps](posts/9-theming-bspwm-colors-borders-and-gaps.md) — 2018-05-04
+- [10 why are we using urxvt in bspwm instead of termite](posts/10-why-are-we-using-urxvt-in-bspwm-instead-of-termite.md) — 2018-05-04
+- [How to remove the shadow around the plank on Xfce](posts/how-to-remove-the-shadow-around-the-plank-on-xfce.md) — 2018-06-17
+- [Help us to make calamares or the installer better and help yourself and others in the process](posts/help-us-to-make-calamares-or-the-installer-better-and-help-yourself-and-others-in-the-process.md) — 2018-07-13
+- [How to share you hardware specifications when asking for support](posts/how-to-share-you-hardware-specifications-when-asking-for-support.md) — 2018-07-13
+- [Installation of Xfce on Arch Linux Phase 4](posts/9-installation-of-xfce-on-arch-linux-phase-4.md) — 2018-09-20
+- [Installation of Plasma on Arch Linux Phase 4](posts/19-installation-of-kde-or-plasma-on-arch-linux.md) — 2018-09-20
+- [Installation of Openbox on Arch Linux Phase 4](posts/11-installation-of-openbox-on-arch-linux-phase-4.md) — 2018-09-20
+- [Installation of Bspwm on Arch Linux Phase 4](posts/18-installation-of-bspwm-on-arch-linux.md) — 2018-09-20
+- [Installation of Deepin on Arch Linux Phase 4](posts/8-installation-of-deepin-on-arch-linux-phase-4.md) — 2018-09-20
+- [Installation of Cinnamon on Arch Linux Phase 4](posts/15-installation-of-cinnamon-on-arch-linux-phase-4.md) — 2018-09-20
+- [Installation of Mate on Arch Linux Phase 4](posts/17-installation-of-mate-on-arch-linux-phase-4.md) — 2018-09-20
+- [Installation of Gnome on Arch Linux Phase 4](posts/21-installation-of-gnome-on-arch-linux.md) — 2018-10-23
+- [Help yourself by analyzing a github of today with a github of the past - use meld](posts/help-yourself-by-analyzing-a-github-of-today-with-a-github-of-the-past-use-meld.md) — 2018-10-27
+- [How to mount an ssd bay in your desktop to easily switch between windows and linux](posts/how-to-mount-an-ssd-bay-in-your-desktop-to-easily-switch-between-windows-and-linux.md) — 2018-11-07
+- [1 Plasma challenge of November 2018](posts/1-plasma-challenge-of-november-2018.md) — 2018-11-07
+- [2 How to improve the recording quality in Plasma using simplescreenrecorder - no glitches allowed](posts/2-how-to-improve-the-recording-quality-in-plasma-using-simplescreenrecorder-no-glitches-allowed.md) — 2018-11-07
+- [3 How to install the extension lastpass in Vivaldi - any desktop](posts/3-how-to-install-the-extension-lastpass-in-vivaldi-any-desktop.md) — 2018-11-07
+- [4 Syncing with Vivaldi cloud account to get all my bookmarks and more – any desktop](posts/4-syncing-with-vivaldi-cloud-account-to-get-all-my-bookmarks-and-more-any-desktop.md) — 2018-11-07
+- [5 How to autologin into your plasma desktop](posts/5-how-to-autologin-into-your-plasma-desktop.md) — 2018-11-07
+- [6 Choose the display option on a dual screen system on plasma](posts/6-choose-the-display-option-on-a-dual-screen-system-on-plasma.md) — 2018-11-07
+- [7 Use the system tray to hide or show system icons like simplescreenrecorder on plasma](posts/7-use-the-system-tray-to-hide-or-show-system-icons-like-simplescreenrecorder-on-plasma.md) — 2018-11-07
+- [8 How to add shortcuts to your preferred applications on Plasma](posts/8-how-to-add-shortcuts-to-your-preferred-applications-on-plasma.md) — 2018-11-07
+- [9 How to set your preferred applications on Plasma](posts/9-how-to-set-your-preferred-applications-on-plasma.md) — 2018-11-07
+- [10 how to hide notifications in Plasma like network connection activated](posts/10-how-to-hide-notifications-in-plasma-like-network-connection-activated.md) — 2018-11-08
+- [11 Single click or double click to open files and folders in Plasma](posts/11-single-click-or-double-click-to-open-files-and-folders-in-plasma.md) — 2018-11-08
+- [12 How to install and configure obs-studio – any desktop](posts/12-how-to-install-and-configure-obs-studio-any-desktop.md) — 2018-11-08
+- [13 How to get wobbly windows on Plasma](posts/13-how-to-get-wobbly-windows-on-plasma.md) — 2018-11-08
+- [14 how to add a new user in Plasma](posts/14-how-to-add-a-new-user-in-plasma.md) — 2018-11-09
+- [15 Adding keyboard shortcuts to plasma for any application on plasma - variety as example](posts/15-adding-keyboard-shortcuts-to-plasma-for-any-application-on-plasma-variety-as-example.md) — 2018-11-09
+- [16 exporting and importing your personal keyboard shortcuts on plasma - great after a clean install](posts/16-exporting-and-importing-your-personal-keyboard-shortcuts-on-plasma-great-after-a-clean-install.md) — 2018-11-09
+- [17 How to make sure the numeric keypad is enabled at boot on plasma](posts/17-how-to-make-sure-the-numeric-keypad-is-enabled-at-boot-on-plasma.md) — 2018-11-09
+- [18 install lastpass with yay and sync your firefox after a clean install - any desktop](posts/18-install-lastpass-with-yay-and-sync-your-firefox-after-a-clean-install-any-desktop.md) — 2018-11-09
+- [19 How to install dropbox and safeguard all your documents in the cloud - any desktop](posts/19-how-to-install-dropbox-and-safeguard-all-your-documents-in-the-cloud-any-desktop.md) — 2018-11-10
+- [20 installing spotify and adding a keyboard shortcut for it on plasma](posts/20-installing-spotify-and-adding-a-keyboard-shortcut-for-it-on-plasma.md) — 2018-11-10
+- [21 Procedures to update your plasma system - any desktop](posts/21-procedures-to-update-your-plasma-system-any-desktop.md) — 2018-11-10
+- [22 Adding the pamac update icon to the tray and configuring pamac on plasma](posts/22-adding-the-pamac-update-icon-to-the-tray-and-configuring-pamac-on-plasma.md) — 2018-11-10
+- [23 How to add a conky on Plasma - also for other desktops](posts/23-how-to-add-a-conky-on-plasma-also-for-other-desktops.md) — 2018-11-10
+- [24 Plasma seems to autostart applications upon login like a previous session](posts/24-plasma-seems-to-autostart-applications-upon-login-like-a-previous-session.md) — 2018-11-10
+- [25 installing discord and find the invitation link - any desktop](posts/25-installing-discord-and-find-the-invitation-link-any-desktop.md) — 2018-11-10
+- [26 installing exo to launch ArcoLinux Hello](posts/26-installing-exo-to-launch-arcolinux-hello.md) — 2018-11-11
+- [27 How to add root services to dolphin on plasma](posts/27-how-to-add-root-services-to-dolphin-on-plasma.md) — 2018-11-11
+- [29 how to activate the cube animation on plasma](posts/29-how-to-activate-the-cube-animation-on-plasma.md) — 2018-11-11
+- [How to add the ArcoLinux spices to your Arch Linux system](posts/how-to-add-the-arcolinux-spices-to-your-arch-linux-system.md) — 2018-11-15
+- [30 building Zafiro-icon-theme for ArcoLinux](posts/30-building-zafiro-icon-theme-for-arcolinux.md) — 2018-11-19
+- [31 How to configure, set icons correct and autostart plank](posts/31-how-to-configure-set-icons-correct-and-autostart-plank.md) — 2018-11-20
+- [32 installation, configuration and theming of latte-dock](posts/32-installation-configuration-and-theming-of-latte-dock.md) — 2018-11-20
+- [33 How to change the look and feel of Plasma](posts/33-how-to-change-the-look-and-feel-of-plasma.md) — 2018-11-20
+- [34 Change the icon of your start menu in Plasma](posts/34-change-the-icon-of-your-start-menu-in-plasma.md) — 2018-11-20
+- [35 How to install a theme from store.kdg.org called Helium](posts/35-how-to-install-a-theme-from-store-kdg-org-called-helium.md) — 2018-11-20
+- [36 How to install a theme with plasma-discover called Helium](posts/36-how-to-install-a-theme-with-plasma-discover-called-helium.md) — 2018-11-20
+- [37 making a custom shortcut for system settings and ksysguard](posts/37-making-a-custom-shortcut-for-system-settings-and-ksysguard.md) — 2018-11-20
+- [38 How to install a theme called Plasma-theme-archlinux with yay](posts/38-how-to-install-a-theme-called-plasma-theme-archlinux-with-yay.md) — 2018-11-20
+- [39 how to install and use youtube-dl to safeguard video's from youtube](posts/39-how-to-install-and-use-youtube-dl-to-safeguard-videos-from-youtube.md) — 2018-11-20
+- [4 change bspwm from qwerty to azerty keyboard](posts/4-change-bspwm-from-qwerty-to-azerty-keyboard.md) — 2018-11-29
+- [40 Updating Plasma to stay rolling and adding services to our file manager dolphin like meld](posts/40-updating-plasma-to-stay-rolling-and-adding-services-to-our-file-manager-dolphin-like-meld.md) — 2018-12-07
+- [How to add spices to Arch Linux Xfce - conkies - bashrc](posts/how-to-add-spices-to-arch-linux-xfce-conkies-bashrc.md) — 2018-12-08
+- [Installation of Budgie on Arch Linux Phase 4](posts/20-installation-of-budgie-on-arch-linux.md) — 2018-12-10
+- [21 fixing the system panel icons in i3](posts/21-fixing-the-system-panel-icons-in-i3.md) — 2018-12-18
+- [11 - recording with simplescreenrecorder and without screentearing on Cinnamon - all effects enabled](posts/11-recording-with-simplescreenrecorder-and-without-screentearing-on-cinnamon-all-effects-enabled.md) — 2018-12-24
+- [All in one Arch Linux installation BIOS with Xmonad](posts/22-all-in-one-arch-linux-installation-bios-with-xmonad-aio.md) — 2018-12-30
+- [How to autologin in any ArcoLinux or choose a different desktop to autologin - any desktop](posts/how-to-autologin-in-any-arcolinux-or-choose-a-different-desktop-to-autologin-any-desktop.md) — 2018-12-30
+- [41 updating plasma - fixing numix circle icon theme and deleting packages](posts/41-updating-plasma-fixing-numix-circle-icon-theme-and-deleting-packages.md) — 2019-01-09
+- [Fix your ArcoLinux or Arch Linux computer with these 2 tips](posts/fix-your-arcolinux-or-arch-linux-computer-with-these-2-tips.md) — 2019-01-16
+- [42 setting icons in dolphin and thunar filemanager - why is thunar in Plasma](posts/42-setting-icons-in-dolphin-and-thunar-filemanager-why-is-thunar-in-plasma.md) — 2019-01-17
+- [2 Does it matter if you have an ArcoLinuxD Xmonad or an ArcoLinuxB Xmonad](posts/2-does-it-matter-if-you-have-an-arcolinuxd-xmonad-or-an-arcolinuxb-xmonad.md) — 2019-01-17
+- [3 An overview of Xmonad and getting to know some keyboard shortcuts](posts/3-an-overview-of-xmonad-and-getting-to-know-some-keyboard-shortcuts.md) — 2019-01-17
+- [4 setting up your working environment for haskell](posts/4-setting-up-your-working-environment-for-haskell.md) — 2019-01-17
+- [5 Where is the Xmonad configuration - autostart](posts/5-where-is-the-xmonad-configuration-autostart.md) — 2019-01-17
+- [6 Xmonad will use compton as compositor](posts/6-xmonad-will-use-compton-as-compositor.md) — 2019-01-17
+- [7 Use the keyboard shortcut to toggle compton on and off](posts/7-use-the-keyboard-shortcut-to-toggle-compton-on-and-off.md) — 2019-01-17
+- [8 getting to know the structure of xmonad.hs](posts/8-getting-to-know-the-structure-of-xmonad-hs.md) — 2019-01-18
+- [9 changing the color of the borders in xmonad](posts/9-changing-the-color-of-the-borders-in-xmonad.md) — 2019-01-22
+- [10 how to change the border width in xmonad](posts/10-how-to-change-the-border-width-in-xmonad.md) — 2019-01-22
+- [11 how to change the icons in the xmonad menu](posts/11-how-to-change-the-icons-in-the-xmonad-menu.md) — 2019-01-22
+- [12 How to personalize the xmonad menu - 3 alternatives](posts/12-how-to-personalize-the-xmonad-menu-3-alternatives.md) — 2019-01-22
+- [13 What can I do with the mouse in Xmonad](posts/13-what-can-i-do-with-the-mouse-in-xmonad.md) — 2019-01-22
+- [14 Xmonad is keyboard driven - learn the keyboard shortcuts](posts/14-xmonad-is-keyboard-driven-learn-the-keyboard-shortcuts.md) — 2019-01-22
+- [15 working with windows and workspaces on xmonad - use the keyboard shortcuts](posts/15-working-with-windows-and-workspaces-on-xmonad-use-the-keyboard-shortcuts.md) — 2019-01-22
+- [16 How to assign applications to fixed workspaces](posts/16-how-to-assign-applications-to-fixed-workspaces.md) — 2019-01-22
+- [17 can not log into Xmonad or Xmonad throws me back to login screen after entering my password](posts/17-can-not-log-into-xmonad-or-xmonad-throws-me-back-to-login-screen-after-entering-my-password.md) — 2019-01-25
+- [11 Combining Bspwm with Xfce on ArcoLinuxD](posts/11-combining-bspwm-with-xfce-on-arcolinuxd.md) — 2019-01-28
+- [18 how to get an extra polybar in Xmonad, tweaking polybar modules and more](posts/18-how-to-get-an-extra-polybar-in-xmonad-tweaking-polybar-modules-and-more.md) — 2019-02-01
+- [17 How to set the super key on xfce to open the whisker menu](posts/17-how-to-set-the-super-key-on-xfce-to-open-the-whisker-menu.md) — 2019-02-17
+- [How to create your own plank theme the numixx theme as example - any desktop](posts/how-to-create-your-own-plank-theme-the-numixx-theme-as-example-any-desktop.md) — 2019-02-17
+- [19 How to change to the xmobar on Xmonad instead of polybar](posts/19-how-to-change-to-the-xmobar-on-xmonad-instead-of-polybar.md) — 2019-02-23
+- [2 update your system after the installation of Deepin](posts/2-update-your-system-after-the-installation-of-deepin.md) — 2019-02-23
+- [3 ArcoLinuxD and ArcoLinuxB are essentially the same](posts/3-arcolinuxd-and-arcolinuxb-are-essentially-the-same.md) — 2019-02-23
+- [4 Installing ArcoLinux-Nemesis on any desktop as a possible workflow after installation](posts/4-installing-arcolinux-nemesis-on-any-desktop-as-a-possible-workflow-after-installation.md) — 2019-02-23
+- [5 Setting up firefox and vivaldi - sync your bookmarks, settings, extensions and themes from the cloud - any desktop](posts/5-setting-up-firefox-and-vivaldi-sync-your-bookmarks-settings-extensions-and-themes-from-the-cloud-any-desktop.md) — 2019-02-23
+- [6 Setting up our cloud services dropbox and google drive - any desktop](posts/6-setting-up-our-cloud-services-dropbox-and-google-drive-any-desktop.md) — 2019-02-23
+- [7 How to set variety to choose your personal and local wallpapers - any desktop](posts/7-how-to-set-variety-to-choose-your-personal-and-local-wallpapers-any-desktop.md) — 2019-02-23
+- [8 Getting to know the deepin terminal](posts/8-getting-to-know-the-deepin-terminal.md) — 2019-02-23
+- [9 Exploring the possibilities in deepin filemanager](posts/9-exploring-the-possibilities-in-deepin-filemanager.md) — 2019-02-23
+- [10 changing the look of the menu or the dock in deepin](posts/10-changing-the-look-of-the-menu-or-the-dock-in-deepin.md) — 2019-02-24
+- [11 How to get to the control center of Deepin](posts/11-how-to-get-to-the-control-center-of-deepin.md) — 2019-02-24
+- [12 changing the appearance of deepin - icons, themes, cursors, ... or personalisation of Deepin](posts/12-changing-the-appearance-of-deepin-icons-themes-cursors-or-personalisation-of-deepin.md) — 2019-02-24
+- [13 changing your display on deepin](posts/13-changing-your-display-on-deepin.md) — 2019-02-24
+- [14 How to set your default applications on Deepin](posts/14-how-to-set-your-default-applications-on-deepin.md) — 2019-02-24
+- [15 Learning about all the keyboard shortcuts present on Deepin](posts/15-learning-about-all-the-keyboard-shortcuts-present-on-deepin.md) — 2019-02-24
+- [16 How to install virtualbox on Deepin - any desktop](posts/16-how-to-install-virtualbox-on-deepin-any-desktop.md) — 2019-02-25
+- [43 Plasma update March 2019 settings and technical overview](posts/43-plasma-update-march-2019-settings-and-technical-overview.md) — 2019-03-04
+- [20 Using xmobar on Xmonad - discussing the system icons](posts/20-using-xmobar-on-xmonad-discussing-the-system-icons.md) — 2019-03-05
+- [44 How to change the icons in Plasma](posts/44-how-to-change-the-icons-in-plasma.md) — 2019-03-09
+- [45 - One setting in qt5 configuration tool can break or make your system settings - desktop effects in Breeze Dark](posts/45-one-setting-in-qt5-configuration-tool-can-break-or-make-your-system-settings-desktop-effects-in-breeze-dark.md) — 2019-03-10
+- [How to get rid of the dynamic user in lightdm login screen](posts/how-to-get-rid-of-the-dynamic-user-in-lightdm-login-screen.md) — 2019-03-12
+- [12 Cinnamon restyled and ArcoLinux custom keyboard shortcuts added](posts/12-cinnamon-restyled-and-arcolinux-custom-keyboard-shortcuts-added.md) — 2019-04-07
+- [13 Mate restyled and ArcoLinux custom keyboard shortcuts added](posts/13-mate-restyled-and-arcolinux-custom-keyboard-shortcuts-added.md) — 2019-04-09
+- [All in one Arch Linux installation UEFI with Qtile](posts/23-all-in-one-arch-linux-installation-uefi-with-qtile-aio.md) — 2019-04-10
+- [2 Updating of your Qtile system](posts/2-updating-of-your-qtile-system.md) — 2019-05-15
+- [24 getting the bashrc from ArcoLinux on Arch Linux](posts/24-getting-the-bashrc-from-arcolinux-on-arch-linux.md) — 2019-05-18
+- [3 Does it matter if you have an ArcoLinuxD Qtile or an ArcoLinuxB Qtile](posts/3-does-it-matter-if-you-have-an-arcolinuxd-qtile-or-an-arcolinuxb-qtile.md) — 2019-05-20
+- [4 an overview of Qtile and getting to know the main keyboard shortcuts](posts/4-an-overview-of-qtile-and-getting-to-know-the-main-keyboard-shortcuts.md) — 2019-05-20
+- [5 Where can we find the qtile configuration](posts/5-where-can-we-find-the-qtile-configuration.md) — 2019-05-20
+- [6 Qtile will use compton as compositor](posts/6-qtile-will-use-compton-as-compositor.md) — 2019-05-20
+- [7 Use the keyboard shortcut to toggle compton on and off](posts/7-use-the-keyboard-shortcut-to-toggle-compton-on-and-off-2.md) — 2019-05-21
+- [8 How to use python-pywal in qtile](posts/8-how-to-use-python-pywal-in-qtile.md) — 2019-05-21
+- [9 The set-pywal.sh script on Qtile explained](posts/9-the-set-pywal-sh-script-on-qtile-explained.md) — 2019-05-21
+- [10 how to set the resolution correct on Virtual Box if needed on Qtile - any desktop](posts/10-how-to-set-the-resolution-correct-on-virtual-box-if-needed-on-qtile-any-desktop.md) — 2019-05-21
+- [11 Change the keyboard settings in the config from a Qwerty to an Azerty keyboard in Qtile](posts/11-change-the-keyboard-settings-in-the-config-from-a-qwerty-to-an-azerty-keyboard-in-qtile.md) — 2019-05-22
+- [12 moving applications to an different workspace](posts/12-moving-applications-to-a-different-workspace.md) — 2019-05-22
+- [13 adding a battery widget to qtile config for laptops](posts/13-adding-a-battery-widget-to-qtile-config-for-laptops.md) — 2019-05-28
+- [14 How to reload or fix a crashing qtile config](posts/14-how-to-reload-or-fix-a-crashing-qtile-config.md) — 2019-05-30
+- [15 Changing the look and feel of the menubar on Qtile](posts/15-changing-the-look-and-feel-of-the-menubar-on-qtile.md) — 2019-05-30
+- [16 How to change the colors of the window borders in qtile](posts/16-how-to-change-the-colors-of-the-window-borders-in-qtile.md) — 2019-05-30
+- [17 Changing the icons in the qtile menu into text](posts/17-changing-the-icons-in-the-qtile-menu-into-text.md) — 2019-05-30
+- [18 Replacing the icons in the qtile menu with other icons](posts/18-replacing-the-icons-in-the-qtile-menu-with-other-icons.md) — 2019-05-30
+- [19 Where to find information about qtile - example layout possibilities](posts/19-where-to-find-information-about-qtile-example-layout-possibilities.md) — 2019-05-30
+- [20 Creation of a new widget on qtile called Net](posts/20-creation-of-a-new-widget-on-qtile-called-net.md) — 2019-05-30
+- [21 Creation of a new widget on qtile called NetGraph](posts/21-creation-of-a-new-widget-on-qtile-called-netgraph.md) — 2019-05-30
+- [Use pastebin.com to share lots of code from the terminal with us on the forum](posts/use-pastebin-com-to-share-lots-of-code-from-the-terminal-with-us-on-the-forum.md) — 2019-05-31
+- [22 how to make applications and their windows float in a tiling window manager](posts/22-how-to-make-applications-and-their-windows-float-in-a-tiling-window-manager.md) — 2019-05-31
+- [23 Using the mouse keyboard shortcuts in Qtile](posts/23-using-the-mouse-keyboard-shortcuts-in-qtile.md) — 2019-05-31
+- [46 - Plasma update of June 2019 - choosing numix theme](posts/46-plasma-update-of-june-2019-choosing-numix-theme.md) — 2019-06-12
+- [47 - analyzing the keep-rolling scripts and changing the lsb-release number](posts/47-analyzing-the-keep-rolling-scripts-and-changing-the-lsb-release-number.md) — 2019-06-12
+- [48 - using the cloud service of Vivaldi to get settings and bookmarks synced](posts/48-using-the-cloud-service-of-vivaldi-to-get-settings-and-bookmarks-synced.md) — 2019-06-12
+- [49 - using conky-zen and conky-toggle on Plasma - where are the keyboard shortcuts](posts/49-using-conky-zen-and-conky-toggle-on-plasma-where-are-the-keyboard-shortcuts.md) — 2019-06-12
+- [All in one Arch Linux installation BIOS with Deepin desktop](posts/25-all-in-one-installation-of-arch-linux-with-bios-and-deepin-desktop.md) — 2019-06-24
+- [26 Adding ArcoLinux spices to Arch Linux Deepin](posts/26-adding-arcolinux-spices-to-arch-linux-deepin.md) — 2019-06-24
+- [Use pastebinit to put log files online via the terminal](posts/use-pastebinit-to-put-log-files-online-via-the-terminal.md) — 2019-06-24
+- [14 make sure you get the ArcoLinux dconf/user database in - manual intervention required - only Gnome](posts/14-make-sure-you-get-the-arcolinux-dconf-user-database-in-manual-intervention-required-only-gnome.md) — 2019-07-11
+- [Installation of Lxqt on Arch Linux Phase 4](posts/27-how-to-install-lxqt-on-arch-linux.md) — 2019-07-13
+- [15 how to set your keyboard in gnome or budgie - update July 2019](posts/15-how-to-set-your-keyboard-in-gnome-or-budgie-update-july-2019.md) — 2019-07-16
+- [50 how to avoid kde wallet asking password when launching browsers](posts/50-how-to-avoid-kde-wallet-asking-password-when-launching-browsers.md) — 2019-07-16
+- [23 how to change the panel theme in Awesome and change the width of the gaps](posts/23-how-to-change-the-panel-theme-in-awesome-and-change-the-width-of-the-gaps.md) — 2019-07-19
+- [Fix for discover on Plasma](posts/fix-for-discover-on-plasma.md) — 2019-07-23
+- [50 update of 07/2019 Plasma challenge](posts/50-update-of-07-2019-plasma-challenge.md) — 2019-07-29
+- [51 lost all the plasma settings with skel - how to overcome this](posts/51-lost-all-the-plasma-settings-with-skel-how-to-overcome-this.md) — 2019-07-29
+- [All in one Arch Linux installation BIOS with Herbstluftwm](posts/28-all-in-one-installation-of-arch-linux-with-bios-and-herbstluftwm.md) — 2019-09-29
+- [2 updating your Herbsluftwm after clean install](posts/2-updating-your-herbsluftwm-after-clean-install.md) — 2019-10-10
+- [4 Does it matter if you use ArcoLinuxD or ArcoLinuxB to get Herbstluftwm](posts/4-does-it-matter-if-you-use-arcolinuxd-or-arcolinuxb-to-get-herbstluftwm.md) — 2019-10-10
+- [5 an overview of Herbstluftwm - config and keyboard shortcuts](posts/5-an-overview-of-herbstluftwm-config-and-keyboard-shortcuts.md) — 2019-10-10
+- [6 The Herbstluftwm configuration in detail](posts/6-the-herbstluftwm-configuration-in-detail.md) — 2019-10-10
+- [7 change the theme of  Herbstluftwm](posts/7-change-the-theme-of-herbstluftwm.md) — 2019-10-10
+- [8 Use rules to assign applications to a workspace](posts/8-use-rules-to-assign-applications-to-a-workspace.md) — 2019-10-10
+- [9 going over the bulk of our keybindings in Herbstluftwm](posts/9-going-over-the-bulk-of-our-keybindings-in-herbstluftwm.md) — 2019-10-10
+- [10 changing polybar in herbstluftwm - polybar is for any tiling window manager](posts/10-changing-polybar-in-herbstluftwm-polybar-is-for-any-tiling-window-manager.md) — 2019-10-10
+- [11 How to change to a dual monitor setup on herbstluftwm](posts/11-how-to-change-to-a-dual-monitor-setup-on-herbstluftwm.md) — 2019-10-10
+- [12 change your look - themes - icons - cursor with lxappearance](posts/12-change-your-look-themes-icons-cursor-with-lxappearance.md) — 2019-10-10
+- [13 how to move applications from monitor 1 to monitor 2 or vice-versa](posts/13-how-to-move-applications-from-monitor-1-to-monitor-2-or-vice-versa.md) — 2019-10-10
+- [14 How to add another polybar at the bottom in Herbstluftwm](posts/14-how-to-add-another-polybar-at-the-bottom-in-herbstluftwm.md) — 2019-10-11
+- [15 How to burn an ISO to usb on Herbstluftwm](posts/15-how-to-burn-an-ISO-to-usb-on-herbstluftwm.md) — 2019-10-12
+- [16 Set your multimedia keyboard keys on Herbstluftwm - play pause next previous stop](posts/16-set-your-multimedia-keyboard-keys-on-herbstluftwm-play-pause-next-previous-stop.md) — 2019-10-14
+- [52 Plasma challenge - updating - theming - start menu - skel](posts/52-plasma-challenge-updating-theming-start-menu-skel.md) — 2019-10-14
+- [Creation of Arch Linux Xtended - installation from A till Z - BIOS](posts/27-creation-of-arch-linux-xtended-installation-from-a-till-z-bios.md) — 2019-11-03
+- [53 getting Sddm and Plasma on ArcoLinuxD](posts/53-getting-sddm-and-plasma-on-arcolinuxd.md) — 2019-11-05
+- [Get AUR helpers for any Arch Linux based system](posts/get-your-aur-helpers-in-on-any-arch-linux-based-system.md) — 2019-11-25
+- [54 update of 12/2019 Plasma challenge](posts/54-update-of-12-2019-plasma-challenge.md) — 2019-12-02
+- [9 - Why are the articles on ArcoLinuxD not ordered - any desktop](posts/9-why-are-the-articles-on-arcolinuxd-not-ordered-any-desktop.md) — 2019-12-27
+- [Need to know about scripts](posts/need-to-know-about-scripts.md) — 2019-12-27
+- [5 The actual installation of Arch Linux Phase 1 BIOS](posts/5-the-actual-installation-of-arch-linux-phase-1-bios.md) — 2020-01-01
+- [5 The actual installation of Arch Linux Phase 1 UEFI](posts/5-the-actual-installation-of-arch-linux-phase-1-uefi.md) — 2020-01-01
+- [6 The actual installation of Arch Linux Phase 2](posts/6-the-actual-installation-of-arch-linux-phase-2.md) — 2020-01-01
+- [7 The actual installation of Arch Linux Phase 3](posts/7-the-actual-installation-of-arch-linux-phase-3.md) — 2020-01-01
+- [How to fix the cursor theme on Plasma - cursor is not applied everywhere](posts/how-to-fix-the-cursor-theme-on-plasma-cursor-is-not-applied-everywhere.md) — 2020-01-05
+- [3 making our terminal transparent on Virtualbox - any desktop using picom.conf](posts/3-making-our-terminal-transparent-on-virtualbox-any-desktop-using-compton-conf.md) — 2020-01-06
+- [Install ocs-url to easily install elements from kde store](posts/install-ocs-url-to-easily-install-elements-from-kde-store.md) — 2020-01-13
+- [Changing the plasma menu - installing new plasma menus](posts/changing-the-plasma-menu-installing-new-plasma-menus.md) — 2020-02-16
+- [55 Switching between lightdm and sddm just became super easy starting from v20.2](posts/55-switching-between-lightdm-and-sddm-just-became-super-easy-starting-from-v20-2.md) — 2020-02-18
+- [All in one Arch Linux installation UEFI with Plasma - ArcoLinux Tweak Tool - AUR Yay - GPG keys](posts/how-to-install-arch-linux-with-plasma-on-efi-or-uefi-arcolinux-tweak-tool-aur-yay-gpg-keys.md) — 2020-02-20
+- [All in one Arch Linux installation BIOS with Xfce - spices](posts/how-to-install-arch-linux-with-bios-install-xfce4-and-install-arcolinux-spices-application.md) — 2020-03-09
+- [How to download, install and use ArcoLinux Spices Tool to install ArcoLinux Packages on any Arch Linux based system](posts/how-to-download-install-and-use-arcolinux-spices-tool-to-install-arcolinux-packages-on-any-arch-linux-based-system.md) — 2020-03-15
+- [24 Fixing a crashed Awesome desktop](posts/24-fixing-a-crashed-awesome-desktop.md) — 2020-04-06
+- [56 Use the Plasma settings to change the look](posts/56-use-the-plasma-settings-to-change-the-look.md) — 2020-04-06
+- [25 Awesomewm got a new theme Blackburn](posts/25-awesomewm-got-a-new-theme-blackburn.md) — 2020-04-07
+- [2 How to theme LXQt](posts/2-how-to-theme-lxqt.md) — 2020-04-08
+- [3 Changing the look of the panel in LXQt](posts/3-changing-the-look-of-the-panel-in-lxqt.md) — 2020-04-08
+- [4 Changing your desktop preferences in LXQt](posts/4-changing-your-desktop-preferences-in-lxqt.md) — 2020-04-08
+- [5 How to autostart applications on LXQt like plank](posts/5-how-to-autostart-applications-on-lxqt-like-plank.md) — 2020-04-08
+- [6 How to set your dual screen on LXQt](posts/6-how-to-set-your-dual-screen-on-lxqt.md) — 2020-04-08
+- [7 Adding compton to LXQt](posts/7-adding-compton-to-lxqt.md) — 2020-04-08
+- [8 Activating the conkies of ArcoLinux on LXQt](posts/8-activating-the-conkies-of-arcolinux-on-lxqt.md) — 2020-04-08
+- [57 Plasma challenge update of  04/2020](posts/56-plasma-challenge-update-of-04-2020.md) — 2020-04-14
+- [24 upgrading qtile to 0.15.1-1on April 2020](posts/24-upgrading-qtile-to-0-15-1-1on-april-2020.md) — 2020-04-16
+- [9 Switching the windowmanager from Openbox to Xfwm4](posts/9-switching-the-windowmanager-from-openbox-to-xfwm4.md) — 2020-04-19
+- [Installation of Arch Linux UEFI with Jwm](posts/29-how-to-install-arch-linux-on-uefi-and-install-jwm-all-in-one.md) — 2020-04-22
+- [Remove qt5ct on Deepin and Plasma to be able to change and save your icons and themes](posts/remove-qt5ct-on-deepin-and-plasma-to-be-able-to-change-and-save-your-icons-and-themes.md) — 2020-04-29
+- [All in one Arch Linux installation BIOS with Deepin - spices](posts/30-how-to-install-arch-linux-with-bios-installing-deepin-and-installing-arcolinux-spices-application.md) — 2020-05-11
+- [2 All essential knowledge in one video - JWM explained](posts/2-all-essential-knowledge-in-one-video-jwm-explained.md) — 2020-05-31
+- [All in one Arch Linux installation UEFI with Budgie](posts/31-how-to-install-arch-linux-on-uefi-and-install-budgie-all-in-one.md) — 2020-07-02
+- [All in one Arch Linux installation BIOS with Ukui](posts/32-how-to-install-arch-linux-on-bios-and-install-ukui.md) — 2020-09-24
+- [Installation of Icewm on Arch Linux Phase 4](posts/33-how-to-install-arch-linux-on-bios-and-install-icewm.md) — 2020-09-24
+- [All in one Arch Linux installation BIOS with Spectrwm](posts/34-how-to-install-arch-linux-on-bios-and-install-spectrwm.md) — 2020-09-24
+- [All in one Arch Linux installation UEFI with Dwm](posts/35-how-to-install-arch-linux-on-uefi-and-install-dwm-all-in-one.md) — 2020-11-14
+- [1 -  Installation of ArcoLinuxD i3](posts/1-installation-of-arcolinuxd-i3.md) — 2020-11-17
+- [1 -  Installation of ArcoLinuxD Xfce](posts/1-installation-of-arcolinuxd-xfce.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Icewm](posts/1-installation-of-arcolinuxd-icewm.md) — 2020-11-17
+- [1 -  Installation of ArcoLinuxD Openbox](posts/1-installation-of-arcolinuxd-openbox.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Spectrwm](posts/1-installation-of-arcolinuxd-spectrwm.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Ukui](posts/1-installation-of-arcolinuxd-ukui.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Awesome](posts/1-installation-of-arcolinuxd-awesome.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Jwm](posts/1-installation-of-arcolinuxd-jwm.md) — 2020-11-17
+- [1 Installation of ArcoLinuxD Dwm](posts/1-installation-of-arcolinuxd-dwm.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Bspwm](posts/1-installation-of-arcolinuxd-bspwm.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Budgie](posts/1-installation-of-arcolinuxd-budgie.md) — 2020-11-17
+- [1 - installation of ArcoLinuxD Deepin](posts/1-installation-of-arcolinuxd-deepin.md) — 2020-11-17
+- [1 -  Installation of ArcoLinuxD Cinnamon](posts/1-installation-of-arcolinuxd-cinnamon.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Herbstluftwm](posts/1-installation-of-arcolinuxd-herbstluftwm.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD LXQt](posts/1-installation-of-arcolinuxd-lxqt.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Gnome](posts/1-installation-of-arcolinuxd-gnome.md) — 2020-11-17
+- [1 - Installation of ArcoLinuxD Mate](posts/1-installation-of-arcolinuxd-mate.md) — 2020-11-18
+- [1 - installation of ArcoLinuxD Plasma](posts/1-installation-of-arcolinuxd-plasma.md) — 2020-11-18
+- [1 - Installation of ArcoLinuxD Qtile](posts/1-installation-of-arcolinuxd-qtile.md) — 2020-11-18
+- [1 - Installation of ArcoLinuxD Xmonad](posts/1-installation-of-arcolinuxd-xmonad.md) — 2020-11-19
+- [Installation of i3 on Arch Linux Phase 4](posts/12-installation-of-i3-on-arch-linux-phase-4.md) — 2020-11-26
+- [Installation of Awesome on Arch Linux Phase 4](posts/13-installation-of-awesome-on-arch-linux-phase-4.md) — 2020-11-29
+- [2 Where is the Spectrwm configuration and how to make minor changes](posts/where-is-the-spectrwm-configuration-and-how-to-make-minor-changes.md) — 2020-12-12
+- [3 Ricing spectrwm - polybar - neofetch - ATT - icons - wallpaper](posts/3-ricing-spectrwm-polybar-neofetch-att-icons-wallpaper.md) — 2020-12-15
+- [2 Overview of the Ukui desktop - applications and system settings](posts/2-overview-of-the-ukui-desktop-applications-and-system-settings.md) — 2020-12-17
+- [2 Updating the current DWM first](posts/2-updating-the-current-dwm-first.md) — 2020-12-18
+- [3 Learning about DWM online and offline](posts/3-learning-about-dwm-online-and-offline.md) — 2020-12-18
+- [4 Learning about DWM configuration files - anything but the DWM files](posts/4-learning-about-dwm-configuration-files-anything-but-the-dwm-files.md) — 2020-12-18
+- [5 making your terminal on Virtual Box transparent and using the platinum searcher](posts/5-making-your-terminal-on-virtual-box-transparent-and-using-the-platinum-searcher.md) — 2020-12-18
+- [6 Comparing our DWM with the suckless DWM](posts/6-comparing-our-dwm-with-the-suckless-dwm.md) — 2020-12-18
+- [7 How to change the gaps on ArcoLinux DWM](posts/7-how-to-change-the-gaps-on-arcolinux-dwm.md) — 2020-12-18
+- [8 How to change the border size and the border color](posts/8-how-to-change-the-border-size-and-the-border-color.md) — 2020-12-18
+- [9 How to change the tags or create more of them](posts/9-how-to-change-the-tags-or-create-more-of-them.md) — 2020-12-18
+- [10 How to remove the system tray on DWM](posts/10-how-to-remove-the-system-tray-on-dwm.md) — 2020-12-18
+- [11 How to change the slstatus on ArcoLinux](posts/11-how-to-change-the-slstatus-on-arcolinux.md) — 2020-12-18
+- [12 Changing the look of our DWM](posts/12-changing-the-look-of-our-dwm.md) — 2020-12-18
+- [13 Making a new menubar with the font awesome on DWM](posts/13-making-a-new-menubar-with-the-font-awesome-on-dwm.md) — 2020-12-18
+- [14 Learning about st or simple terminal from Suckless - changing the font size and color](posts/14-learning-about-st-or-simple-terminal-from-suckless-changing-the-font-size-and-color.md) — 2020-12-18
+- [15 How to get back to the standard look and the standard settings](posts/15-how-to-get-back-to-the-standard-look-and-the-standard-settings.md) — 2020-12-18
+- [16 Changing slstatus and getting back to the original settings afterwards](posts/16-changing-slstatus-and-getting-back-to-the-original-settings-afterwards.md) — 2020-12-18
+- [5 Choose between bios or uefi](posts/5-choose-between-bios-or-uefi.md) — 2021-01-08
+- [4 Downloading the ISO and setting up virtual box](posts/4-downloading-the-ISO-and-setting-up-virtual-box.md) — 2021-01-16
+- [3 Going over the help reading](posts/3-going-over-the-help-reading.md) — 2021-01-17
+- [2 Going over the FAQ of the Arch Wiki](posts/2-going-over-the-faq-of-the-arch-wiki.md) — 2021-01-18
+- [28 How to open a folder as root on Plasma](posts/28-how-to-open-a-folder-as-root-on-plasma.md) — 2021-01-18
+- [1 How will we proceed with the installation of Arch Linux](posts/1-how-will-we-proceed-with-the-installation-of-arch-linux.md) — 2021-01-19
+- [58 The end of the Plasma challenge ssd - two years and four months rolling](posts/58-the-end-of-the-plasma-challenge-ssd-two-years-and-four-months-rolling.md) — 2021-02-07
+- [1 - Installation of ArcoLinuxD Fvwm3](posts/1-installation-of-arcolinuxd-fvwm3.md) — 2021-05-05
+- [All in one Arch Linux installation BIOS with Fvwm](posts/all-in-one-arch-linux-installation-bios-with-fvwm.md) — 2021-05-05
+- [Build the Arch Linux iso yourself - installation on BIOS - EXT3 - Lightdm - cutefish](posts/build-the-arch-linux-iso-yourself-installation-on-bios-ext3-lightdm-cutefish.md) — 2021-07-01
+- [How to install Arch Linux with UEFI and reiserfs - Xorg - Gdm - Wayland issue solved on VirtualBox](posts/how-to-install-arch-linux-with-uefi-and-reiserfs-xorg-gdm-wayland-issue-solved-on-virtualbox.md) — 2021-07-01
+- [1 - Installation of ArcoLinuxD Cwm](posts/1-installation-of-arcolinuxd-cwm.md) — 2021-07-08
+- [2 where is the cwm configuration](posts/2-where-is-the-cwm-configuration.md) — 2021-07-08
+- [ATT - Start with Plasma and add i3 to your system](posts/att-start-with-plasma-and-add-i3-to-your-system.md) — 2021-07-11
+- [ATT - Start with Xfce4 and add Gnome to your system](posts/att-start-with-xfce4-and-add-gnome-to-your-system.md) — 2021-07-11
+- [ATT - Start with Xfce4 and add openbox and i3 to your system](posts/att-start-with-xfce4-and-add-openbox-and-i3-to-your-system.md) — 2021-07-11
+- [ATT - Start with Xfce4 and add bspwm to your system](posts/att-start-with-xfce4-and-add-bspwm-to-your-system.md) — 2021-07-11
+- [ATT - Start with Xtended and add Xfce4 to your system](posts/att-start-with-xtended-and-add-xfce4-to-your-system.md) — 2021-07-11
+- [ATT - Start with Cinnamon and add qtile to your system](posts/att-start-with-cinnamon-and-add-qtile-to-your-system.md) — 2021-07-11
+- [All in one Arch Linux installation BIOS with Plasma](posts/all-in-one-arch-linux-installation-bios-with-plasma.md) — 2021-08-08
+- [1 – Installation of ArcoLinuxD Cutefish](posts/1-installation-of-arcolinuxd-cutefish.md) — 2021-09-05
+- [2 - Overview of Cutefish - settings](posts/2-overview-of-cutefish-settings.md) — 2021-09-05
+- [22 Creation of a new i3 theme called noclue](posts/22-creation-of-a-new-i3-theme-called-noclue.md) — 2021-09-18
+- [1 Installation of ArcoLinuxD Leftwm](posts/1-installation-of-arcolinuxd-leftwm.md) — 2021-10-05
+- [2 Where is the configuration of leftwm](posts/2-where-is-the-configuration-of-leftwm.md) — 2021-10-06
+- [3 How to change the theme in Leftwm](posts/3-how-to-change-the-theme-in-leftwm.md) — 2021-10-06
+- [4 How to change the theme, icons and cursor in Leftwm](posts/4-how-to-change-the-theme-icons-and-cursor-in-leftwm.md) — 2021-10-08
+- [5 How to keep your own settings safe - use github and the personal folder/alias](posts/5-how-to-keep-your-own-settings-save-use-github-and-the-personal-folder-alias.md) — 2021-10-08
+- [All in one Arch Linux installation UEFI with XFCE4 and Leftwm](posts/all-in-one-arch-linux-installation-uefi-with-xfce4-and-leftwm.md) — 2021-11-01
+- [26 Change keybindings in Awesome](posts/26-change-keybindings-in-awesome.md) — 2021-11-13
+- [All in one Arch Linux installation Uefi, Xfs, Sddm, Mate with ArcoLinux Spices Application](posts/all-in-one-arch-linux-installation-uefi-xfs-sddm-mate-with-arcolinux-spices-application.md) — 2021-12-02
+- [6 How to change the keybindings in Leftwm](posts/6-how-to-change-the-keybindings-in-leftwm.md) — 2021-12-07
+- [Changing an Arch Linux install to an ArcoLinux system](posts/changing-an-arch-linux-install-to-an-arcolinux-system.md) — 2021-12-19
+- [2 Where are the configuration files of Wmderland](posts/2-where-are-the-configuration-files-of-wmderland.md) — 2021-12-20
+- [1 Installation of ArcoLinuxD Wmderland](posts/1-installation-of-arcolinuxd-wmderland.md) — 2021-12-20
+- [2 Where are the configuration files of Icewm](posts/2-where-are-the-configuration-files-of-icewm.md) — 2021-12-26
+- [2 Where are the configuration files of Fvwm3](posts/2-where-are-the-configuration-files-of-fvwm3.md) — 2021-12-26
+- [All in one Arch Linux installation Bios, root/swap, Reiserfs, Lightdm and Pantheon](posts/all-in-one-arch-linux-installation-bios-root-swap-reiserfs-lightdm-and-pantheon.md) — 2022-01-02
+- [27 How to remove the system panel icons in Awesome](posts/27-how-to-remove-the-system-panel-icons-in-awesome.md) — 2022-01-10
+- [7 Leftwm - code change of January 2022](posts/7-leftwm-code-change-of-january-2022.md) — 2022-01-11
+- [8 How to update your Leftwm themes](posts/8-how-to-update-your-leftwm-themes.md) — 2022-01-15
+- [How to autostart xrandr/arandr settings for dualscreen - any desktop - ideal for TWM](posts/how-to-autostart-xrandr-arandr-settings-for-dualscreen-any-desktop-ideal-for-twm.md) — 2022-01-26
+- [Installing Arch Linux with a BTRFS filesystem](posts/installing-arch-linux-with-a-btrfs-filesystem.md) — 2022-02-02
+- [Refind](posts/refind.md) — 2022-02-02
+- [All in one Arch Linux installation Uefi, Btrfs, Sddm and Xfce4 - ArcoLinux Spices Application](posts/all-in-one-arch-linux-installation-uefi-btrfs-sddm-and-xfce4-arcolinux-spices-application.md) — 2022-02-13
+- [Systemd-boot for all UEFI systems](posts/systemd-boot-for-all-uefi-systems.md) — 2022-02-14
+- [All in one Arch Linux installation Uefi, Ext4, Systemd-boot, Sddm and Xfce4 – ArcoLinux Spices Application](posts/all-in-one-arch-linux-installation-uefi-ext4-systemd-boot-sddm-and-xfce4-arcolinux-spices-application.md) — 2022-02-15
+- [arch-chroot and ext4 - use the power of arch-chroot when your computer crashes](posts/10-use-the-power-of-arch-chroot-when-your-computer-crashes.md) — 2022-02-26
+- [9 How to uninstall all themes the easy way](posts/9-how-to-uninstall-all-themes-the-easy-way.md) — 2022-02-28
+- [Polybar update - ewmh module and Herbstluftwm update - azerty and dualscreen](posts/polybar-update-ewmh-module-and-herbstluftwm-update-azerty-and-dualscreen.md) — 2022-02-28
+- [3 Visiting Ukui on qemu/virtual machine manager](posts/3-visiting-ukui-on-qemu-virtual-machine-manager.md) — 2022-03-13
+- [1 Installing Enlightenment via ArchLinux Tweak Tool](posts/1-installing-enlightenment-via-archlinux-tweak-tool.md) — 2022-05-28
+- [23 Change the numbers of the workspaces into names](posts/23-change-the-numbers-of-the-workspaces-into-names.md) — 2022-06-05
+- [How to remove the startup conky on any tiling window manager - workflow](posts/how-to-remove-the-startup-conky-on-any-tiling-window-manager-workflow.md) — 2022-09-22
+- [9 Leftwm migrates from 0.3 to 0.4 - from toml to ron](posts/9-leftwm-migrates-from-0-3-to-0-4-from-toml-to-ron.md) — 2022-10-04
+- [24 Create your own i3 theme based on any of our 25 Leftwm themes - a polybar exercise](posts/24-create-your-own-i3-theme-based-on-any-of-our-25-leftwm-themes-a-polybar-exercise.md) — 2022-10-21
+- [16 How to add a locking mechanism to Gnome - archlinux-logout](posts/16-how-to-add-a-locking-mechanism-to-gnome-archlinux-logout.md) — 2022-10-23
+- [1 Installation of ArcoLinuxD Pantheon](posts/1-installation-of-arcolinuxd-pantheon.md) — 2022-11-15
+- [1 Installation of ArcoLinuxD Chadwm](posts/1-installation-of-arcolinuxd-chadwm.md) — 2022-11-19
+- [1 Installation of ArcoLinuxD Hypr](posts/1-installation-of-arcolinuxd-hypr.md) — 2022-11-20
+- [1 Installation of ArcoLinuxD Berry](posts/1-installation-of-arcolinuxd-berry.md) — 2022-11-20
+- [1 Installation of ArcoLinuxD Worm](posts/1-installation-of-arcolinuxd-worm.md) — 2022-11-20
+- [1 Installation of ArcoLinuxD Dusk](posts/1-installation-of-arcolinuxd-dusk.md) — 2022-11-20
+- [1 Installation of ArcoLinuxD Enlightenment](posts/1-installation-of-arcolinuxd-enlightenment.md) — 2022-11-20
+- [All in one Arch Linux installation archinstall, Uefi, Ext4, Systemd-boot, Sddm, Plasma ArcoLinux Spices Application and arcolinux-nemesis github](posts/all-in-one-arch-linux-installation-archinstall-uefi-ext4-systemd-boot-sddm-plasma-arcolinux-spices-application-and-arcolinux-nemesis-github.md) — 2022-12-05
+- [59 Change Plasma settings - screen goes dark - asks for password - search for settings](posts/59-change-plasma-settings-screen-goes-dark-asks-for-password-search-for-settings.md) — 2023-03-25
+- [All in one Arch Linux installation Uefi, Ext4, Systemd-boot, Lightdm, Xfce4, Chadwm – ArcoLinux Application Glade - ArchLinux Tweak Tool - arcolinux-nemesis](posts/all-in-one-arch-linux-installation-uefi-ext4-systemd-boot-lightdm-xfce4-chadwm-arcolinux-application-glade-archlinux-tweak-tool-arcolinux-nemesis.md) — 2023-07-03
+- [1 Installation of ArcoLinuxD Dk](posts/1-installation-of-arcolinuxd-dk.md) — 2023-11-17
+- [17 Remove the long list of gnome desktops on the display manager like SDDM](posts/17-remove-the-long-list-of-gnome-desktops-on-the-display-manager-like-sddm.md) — 2024-03-01
+- [Compton has changed into Picom - on Openbox - delete compton.conf from your system - you have a picom.conf now](posts/compton-has-changed-into-picom-on-openbox-delete-compton-conf-from-your-system-you-have-a-picom-conf-now.md) — 2024-03-01
+- [How to give a shadow to the openbox menu](posts/how-to-give-a-shadow-to-the-openbox-menu.md) — 2024-03-01
+- [How to switch your Openbox menu to the Openbox Minimal menu](posts/how-to-switch-your-openbox-menu-to-the-openbox-minimal-menu.md) — 2024-03-01
+- [Adding jgmenu to your openbox system](posts/adding-jgmenu-to-your-openbox-system.md) — 2024-03-01
+- [Use tint2 to theme your Openbox setup](posts/use-tint2-to-theme-your-openbox-setup.md) — 2024-03-01
+- [How to activate polybar on ArcoLinux Openbox](posts/how-to-activate-polybar-on-arcolinux-openbox.md) — 2024-03-01
+- [How to make a static and manual menu in openbox](posts/how-to-make-a-static-and-manual-menu-in-openbox.md) — 2024-03-01
+- [How to change the menu in openbox with obmenu-generator](posts/how-to-change-the-menu-in-openbox-with-obmenu-generator.md) — 2024-03-01
+- [How to theme ArcoLinux Openbox any way you want](posts/how-to-theme-arcolinux-openbox-any-way-you-want.md) — 2024-03-01
+- [How to theme ArcoLinux i3 any way you want](posts/how-to-theme-arcolinux-i3-any-way-you-want.md) — 2024-03-01
+- [How to theme ArcoLinux Xfce any way you want](posts/how-to-theme-arcolinux-xfce-any-way-you-want.md) — 2024-03-01
+- [How to set wallpapers in xfce, openbox and i3](posts/how-to-set-wallpapers-in-xfce-openbox-and-i3.md) — 2024-03-01
+- [25 Install the Qtile config from DistroTube](posts/25-install-the-qtile-config-from-distrotube.md) — 2024-03-02
+- [EFISTUB as bootloader](posts/efistub-as-bootloader.md) — 2024-03-23
+- [All in one Arch Linux installation Uefi, Ext4, Efistub, Sddm and Plasma](posts/all-in-one-arch-linux-installation-uefi-ext4-efistub-sddm-and-plasma.md) — 2024-03-23
+- [arch-chroot and btrfs - use the power of arch-chroot when your computer crashes](posts/arch-chroot-and-btrfs-use-the-power-of-arch-chroot-when-your-computer-crashes.md) — 2024-03-23
+- [Gnome extensions](posts/gnome-extensions.md) — 2024-04-15
+- [All in one Arch Linux installation - Uefi - Ext4 - Systemd-boot - Sddm - Flexi dwm](posts/all-in-one-arch-linux-installation-uefi-ext4-systemd-boot-sddm-flexi-dwm.md) — 2024-09-05
+- [All in one Arch Linux installation – Uefi – Swap - Ext4 –Grub – Sddm – Xfce4 - ricing](posts/all-in-one-arch-linux-installation-uefi-swap-ext4-grub-sddm-xfce4-ricing.md) — 2025-01-12
+- [All in one Arch Linux installation - Uefi - swap - ext4 - systemd-boot - sddm- xfce4 - asa](posts/all-in-one-arch-linux-installation-uefi-swap-ext4-systemd-boot-sddm-xfce4-asa.md) — 2025-02-02
+

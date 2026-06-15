@@ -11,12 +11,18 @@ knowledge base built from Kiro's own docs and configs.
 - [knowledge/](./knowledge/) — the curated Kiro knowledge base the assistant
   answers from (architecture, install, packages, desktops, kernels, ATT,
   troubleshooting), plus generated video references: `videos.md` (the KIRO/kiro
-  video catalog) and `playlists.md` (topic playlists for deep dives).
+  video catalog) and `playlists.md` (topic playlists for deep dives). The
+  `knowledge/archive/` folder is a **Tier 3 historical** layer — preserved
+  arcolinux.com / arcolinuxd.com tutorials, always overruled by the current
+  knowledge above.
 - [build/sync-knowledge.sh](./build/sync-knowledge.sh) — regenerates the
   knowledge base from Kiro's public source repos so it stays current.
 - [build/sync-videos.py](./build/sync-videos.py) and
   [build/sync-playlists.py](./build/sync-playlists.py) — regenerate `videos.md`
   and `playlists.md` from the YouTube channel (maintainer-only, run by `up.sh`).
+- [build/sync-archive.sh](./build/sync-archive.sh) — copies the preserved
+  ArcoLinux archive into `knowledge/archive/` from `$ARCOLINUX_ARCHIVE_DIR`
+  (maintainer-only; inert when the var is unset, run by `up.sh`).
 
 ## How to use it (bring your own key)
 

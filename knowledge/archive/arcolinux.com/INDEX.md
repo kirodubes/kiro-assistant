@@ -1,0 +1,447 @@
+# arcolinux.com — archived content
+
+376 posts, 61 pages (skipped 767 non-published / other items).
+
+## Pages (61)
+
+- [Tutorials](pages/tutorials.md) — 2017-09-27
+- [Youtube Overview](pages/youtube-overview.md) — 2017-09-28
+- [Listing](pages/listing.md) — 2019-11-12
+- [Installation](pages/installation.md) — 2019-12-10
+- [Home](pages/home-2.md) — 2019-12-29
+- [Pre-installation](pages/pre-installation.md) — 2021-01-20
+- [Post-installation](pages/post-installation.md) — 2021-01-20
+- [BIOS/UEFI](pages/bios-uefi.md) — 2021-01-20
+- [Kernel](pages/kernel.md) — 2021-01-20
+- [Language](pages/language.md) — 2021-01-20
+- [Lightdm](pages/lightdm-2.md) — 2021-01-20
+- [Login](pages/login.md) — 2021-01-20
+- [Logout](pages/logout.md) — 2021-01-20
+- [Manage software](pages/manage-software.md) — 2021-01-20
+- [Menu](pages/menu.md) — 2021-01-20
+- [Nvidia](pages/nvidia-driver.md) — 2021-01-20
+- [Keyboard](pages/keyboard.md) — 2021-01-20
+- [Printers](pages/printers.md) — 2021-01-20
+- [Sound](pages/sound.md) — 2021-01-20
+- [Scripting](pages/scripting.md) — 2021-01-20
+- [System settings](pages/system-settings.md) — 2021-01-20
+- [Terminal](pages/terminal.md) — 2021-01-20
+- [Tips](pages/tips.md) — 2021-01-20
+- [Update](pages/update.md) — 2021-01-20
+- [Conky](pages/conky.md) — 2021-01-20
+- [Cursors](pages/cursors.md) — 2021-01-20
+- [Grub](pages/grub.md) — 2021-01-20
+- [Icons](pages/icons.md) — 2021-01-20
+- [Plank](pages/plank.md) — 2021-01-20
+- [Polybar](pages/polybar.md) — 2021-01-20
+- [Rofi](pages/rofi.md) — 2021-01-20
+- [Terminal design](pages/terminal-design.md) — 2021-01-20
+- [Themes](pages/themes.md) — 2021-01-20
+- [Tint2](pages/tint2.md) — 2021-01-20
+- [Wallpaper](pages/wallpaper.md) — 2021-01-20
+- [Audio](pages/audio.md) — 2021-01-20
+- [Internet](pages/internet.md) — 2021-01-20
+- [Cloud](pages/cloud.md) — 2021-01-20
+- [Editors](pages/editors.md) — 2021-01-20
+- [File managers](pages/file-managers.md) — 2021-01-20
+- [Fun & Games](pages/fun-games.md) — 2021-01-20
+- [Office](pages/office.md) — 2021-01-20
+- [Pacman](pages/pacman.md) — 2021-01-20
+- [Video](pages/video.md) — 2021-01-20
+- [Clean up](pages/clean-up.md) — 2021-01-20
+- [Neofetch](pages/neofetch-2.md) — 2021-01-20
+- [Samba](pages/samba.md) — 2021-01-20
+- [Virtual machines](pages/virtual-machines.md) — 2021-01-20
+- [Pamac](pages/pamac-2.md) — 2021-01-20
+- [Fixes](pages/fixes.md) — 2021-01-20
+- [Help](pages/help.md) — 2021-01-20
+- [Apple](pages/apple.md) — 2021-01-20
+- [Compton](pages/compton.md) — 2021-01-20
+- [Must read](pages/must-read.md) — 2021-04-06
+- [ArcoLinux Apps](pages/arcolinux-apps.md) — 2021-09-09
+- [Windows 11](pages/windows-11.md) — 2021-11-27
+- [BTRFS](pages/btrfs.md) — 2022-02-28
+- [Shell](pages/shell.md) — 2022-03-15
+- [ArcoLinux Fast Track](pages/arcolinux-fast-track.md) — 2024-03-02
+- [Bootloaders](pages/bootloaders.md) — 2024-04-22
+- [Things to do after ArcoLinux installation](pages/things-to-do-after-arcolinux-installation.md) — 2024-04-28
+
+## Posts (376)
+
+- [The use of Neofetch explained - any desktop](posts/the-use-of-neofetch-explained-any-desktop.md) — 0201-07-01
+- [How to set Arcolinux to boot into Openbox or i3 rather than Xfce](posts/how-to-set-arcolinux-to-boot-into-openbox-or-i3-rather-than-xfce.md) — 2017-09-28
+- [Update your system using pamac](posts/update-your-system-using-pamac.md) — 2017-09-28
+- [Installing and removing software using gnome-software](posts/installing-and-removing-software-using-gnome-software.md) — 2017-09-28
+- [How to change the color of the ArchMerge logo](posts/how-to-change-the-color-of-the-archmerge-logo.md) — 2017-09-29
+- [How to install software on ArcoLinux in the terminal](posts/how-to-install-software-on-arcolinux-in-the-terminal.md) — 2017-09-29
+- [The terminal is going to be our best friend](posts/the-terminal-is-going-to-be-our-best-friend.md) — 2017-09-29
+- [How to change the wallpaper with variety](posts/how-to-change-the-wallpaper-with-variety.md) — 2017-09-29
+- [How to change the wallpaper with nitrogen](posts/how-to-change-the-wallpaper-with-nitrogen.md) — 2017-09-29
+- [How to change the wallpaper in Xfce](posts/how-to-change-the-wallpaper-in-xfce.md) — 2017-09-29
+- [How to install kodi and how to use it](posts/how-to-install-kodi-and-how-to-use-it.md) — 2017-10-02
+- [Where do you set volume management in Thunar like usb and external drive](posts/where-do-you-set-volume-management-in-thunar-like-usb-and-external-drive.md) — 2017-10-02
+- [How to deactivate the transparency  in i3 and openbox](posts/how-to-deactivate-the-transparency-in-i3-and-openbox.md) — 2017-10-15
+- [Change the color of the conky Aur-ArcoLinux in xfce](posts/change-the-color-of-the-conky-aur-arcolinux-in-xfce.md) — 2017-10-24
+- [How to download the latest conky's](posts/how-to-download-the-latest-conkys.md) — 2017-10-28
+- [Fixing the message Key could not be looked up remotely](posts/fixing-the-message-key-could-not-be-looked-up-remotely.md) — 2017-10-28
+- [How do we create a new Arc theme with a personal color](posts/how-do-we-create-a-new-arc-theme-with-a-personal-color.md) — 2017-11-12
+- [How to make your terminal sexy again any distro any terminal](posts/how-to-make-your-terminal-sexy-again-any-distro-any-terminal.md) — 2017-11-13
+- [How to fix could not satisfy dependencies](posts/how-to-fix-could-not-satisfy-dependencies.md) — 2017-11-14
+- [How to overcome an installation error due to an update coming from AUR](posts/how-to-overcome-an-installation-error-due-to-an-update-coming-from-aur.md) — 2017-11-25
+- [How to install nvidia drivers on ArcoLinux - November 2017](posts/how-to-install-nvidia-drivers-on-archmerge.md) — 2017-11-26
+- [How to fix youtube input boxes are unreadable in firefox with dark theme](posts/how-to-fix-youtube-input-boxes-are-unreadable-in-firefox-with-dark-theme.md) — 2017-11-26
+- [Changing the look of i3 blocks using the configs from others](posts/changing-the-look-of-i3-blocks-using-the-configs-from-others.md) — 2017-11-28
+- [Fix for error no space left on device](posts/fix-for-error-no-space-left-on-device.md) — 2017-11-29
+- [Rolling Release - Update of ArcoLinux i3 package coming in](posts/rolling-release-update-of-arcolinux-i3-package-coming-in.md) — 2017-11-29
+- [Exploring the conky wo-conky-clock-lua and wo-conky-system-lua and changing it - any desktop](posts/exploring-the-conky-wo-conky-clock-lua-and-changing-it-any-desktop.md) — 2017-12-27
+- [How to set double tap and drag and drop on your laptop's touchpad - any desktop](posts/how-to-set-double-tap-and-drag-and-drop-on-your-laptops-touchpad.md) — 2018-01-02
+- [Error in a package update you do not want to keep](posts/error-in-a-package-update-you-do-not-want-to-keep.md) — 2018-01-08
+- [Fix for key could not be looked up remotely - update your archlinux-keyring first](posts/fix-for-key-could-not-be-looked-up-remotely-update-your-archlinux-keyring-first.md) — 2018-01-13
+- [Use meld to compare folders and files coming in your /etc/skel any desktop](posts/use-meld-to-compare-folders-and-files-coming-in-your-etc-skel-any-desktop.md) — 2018-01-13
+- [How to install polybar and use it on i3 and openbox](posts/how-to-install-polybar-and-use-it-on-i3-and-openbox.md) — 2018-01-19
+- [General overview of polybar and pimping of atom to do the editing of polybar config](posts/general-overview-of-polybar-and-pimping-of-atom-to-do-the-editing-of-polybar-config.md) — 2018-01-19
+- [Polybar configuration in more detail - general and i3 module](posts/polybar-configuration-in-more-detail-general-and-i3-module.md) — 2018-01-19
+- [Polybar configuration in more detail - general and openbox module](posts/polybar-configuration-in-more-detail-general-and-openbox-module.md) — 2018-01-19
+- [How to add shortcuts to xfce settings manager](posts/how-to-add-shortcuts-to-xfce-settings-manager.md) — 2018-01-20
+- [Change folder permissions and ownership any desktop - an example](posts/change-folder-permissions-and-ownership-any-desktop-an-example.md) — 2018-01-21
+- [How to add an external music library to mpd and ncmpcpp](posts/how-to-add-an-external-music-library-for-mpd-and-ncmpcpp.md) — 2018-01-21
+- [Technical information about mpd and ncmpcpp - installation script explained](posts/technical-information-about-mpd-and-ncmpcpp-installation-script-explained.md) — 2018-01-23
+- [Change the design of ncmpcpp - red and white look](posts/change-the-design-of-ncmpcpp-red-and-white-look.md) — 2018-01-23
+- [Install nemo as extra filemanager on any ArcoLinux with many tips](posts/install-nemo-as-extra-filemanager-on-any-arcolinux-with-many-tips.md) — 2018-01-24
+- [Fix for error message Duplicate Target](posts/fix-for-error-message-duplicate-target.md) — 2018-01-25
+- [Fix for cannot stat no such file or directory](posts/fix-for-cannot-stat-no-such-file-or-directory.md) — 2018-01-28
+- [How to install google chrome and set it as our preferred browser](posts/how-to-install-google-chrome-and-set-it-as-our-preferred-browser.md) — 2018-01-29
+- [Fix for vivaldi-codecs-ffmpeg-extra-bin not updated and vivaldi is updated](posts/fix-for-vivaldi-codecs-ffmpeg-extra-bin-not-updated-and-vivaldi-is-updated.md) — 2018-02-01
+- [How to downgrade an application if downgrade does not work](posts/how-to-downgrade-an-application-if-downgrade-does-not-work.md) — 2018-02-03
+- [How to create your personal Arc Theme on any ArcoLinux desktop](posts/how-to-create-your-personal-arc-theme-on-any-arcolinux-desktop.md) — 2018-02-04
+- [How to speed up your computer during building](posts/how-to-speed-up-your-computer-during-building.md) — 2018-02-04
+- [Learning about the Sardi icons - a series of 6 youtube tutorials](posts/learning-about-the-sardi-icons-a-series-of-6-youtube-tutorials.md) — 2018-02-16
+- [Fixing zita-resampler update blocking all updates](posts/fixing-zita-resampler-update-blocking-all-updates.md) — 2018-02-22
+- [Creating our very own tint2 theme](posts/creating-our-very-own-tint2-theme.md) — 2018-03-08
+- [Use imgur to share pictures with us on our forum](posts/use-imgur-to-share-pictures-with-us-on-our-forum.md) — 2018-03-08
+- [How to add system sounds to ArcoLinux Xfce](posts/how-to-add-system-sounds-to-arcolinux-xfce.md) — 2018-03-08
+- [Fixing the pkgbuild of spotify or any other application](posts/fixing-the-pkgbuild-of-spotify-or-any-other-application.md) — 2018-04-01
+- [How to fix the "ugly" lines when you shutdown](posts/how-to-fix-the-ugly-lines-when-you-shutdown.md) — 2018-04-05
+- [Installing ArcoLinux on MacBookPro5,4](posts/installing-arcolinux-on-macbookpro54.md) — 2018-04-09
+- [Fix your computer when you can no longer boot from it](posts/fix-your-computer-when-you-can-no-longer-boot-from-it.md) — 2018-04-15
+- [Fix for running out of space in /tmp directory](posts/fix-for-running-out-of-space-in-tmp-directory.md) — 2018-04-20
+- [How to find out what driver to install for your Nvidia card - April 2018](posts/how-to-find-out-what-driver-to-install-for-your-nvidia-card.md) — 2018-04-27
+- [Installing ArcoLinux from A till Z - connect sata for SSD till boot into ArcoLinux](posts/installing-arcolinux-from-a-till-z-connect-sata-for-ssd-till-boot-into-arcolinux.md) — 2018-04-27
+- [How to install the nvidia driver and how to fix the system if it breaks - April 2018](posts/how-to-install-the-nvidia-driver-and-how-to-fix-the-system-if-it-breaks.md) — 2018-04-27
+- [How to fix any Arch Linux based system like ArcoLinux, Antergos, Manjaro, ...](posts/how-to-fix-any-arch-linux-based-system-like-arcolinux-antergos-manjaro.md) — 2018-04-27
+- [Installing software with pamac or gnome-software](posts/installing-software-with-pamac-or-gnome-software.md) — 2018-04-28
+- [Update your system using the terminal and upall or pksyua](posts/update-your-system-using-the-terminal-and-pksyua.md) — 2018-04-28
+- [How to change the position and size of a conky](posts/how-to-change-the-position-and-size-of-a-conky.md) — 2018-04-28
+- [How to delete variety and all its configuration files](posts/how-to-delete-variety-and-all-its-configuration-files.md) — 2018-04-28
+- [Where do I set my preferred applications in Xfce](posts/where-do-i-set-my-preferred-applications-in-xfce.md) — 2018-04-28
+- [How to install insync to backup your files to google drive - paid](posts/how-to-install-insync-to-backup-your-files-to-google-drive-paid.md) — 2018-04-28
+- [Installing vivaldi-snapshot to sync bookmarks](posts/installing-vivaldi-snapshot-to-sync-bookmarks.md) — 2018-04-28
+- [Can raindrop be an alternative for xmarks](posts/can-raindrop-be-an-alternative-for-xmarks.md) — 2018-04-28
+- [Setting the bios in Hp Pavilion m9060](posts/setting-the-bios-in-hp-pavilion-m9060.md) — 2018-04-28
+- [Setting the bios in HP Pavilion HPE-315be](posts/setting-the-bios-in-hp-pavilion-hpe-315be.md) — 2018-04-28
+- [Setting the bios in Lenovo Yoga 510-141KB](posts/setting-the-bios-in-lenovo-yoga-510-141kb.md) — 2018-04-29
+- [How to get to the bios via Windows 10](posts/how-to-get-to-the-bios-via-windows-10.md) — 2018-04-29
+- [How to install powerline to pimp your system](posts/how-to-install-powerline-to-pimp-your-system.md) — 2018-04-30
+- [Fix for gnome-software - no images of software](posts/fix-for-gnome-software-no-images-of-software.md) — 2018-04-30
+- [Setting the BIOS in Intel NUC5i7RYB](posts/setting-the-bios-in-intel-nuc5i7ryb.md) — 2018-04-30
+- [Install bash-pipes to have a colorful screensaver in your pimped terminal](posts/install-bash-pipes-to-have-a-colorful-screensaver-in-your-pimped-terminal.md) — 2018-05-02
+- [How to quickly change the tint2 theme to suit your needs and save it for later](posts/how-to-quickly-change-the-tint2-theme-to-suit-your-needs-and-save-it-for-later.md) — 2018-05-03
+- [Rofi is an alternative application launcher](posts/rofi-is-an-alternative-application-launcher.md) — 2018-05-04
+- [Xfce has been updated to have Rofi keyboard shortcuts](posts/xfce-has-been-updated-to-have-rofi-keyboard-shortcuts.md) — 2018-05-04
+- [How to theme polybar to match an orange wallpaper](posts/how-to-theme-polybar-to-match-an-orange-wallpaper.md) — 2018-05-05
+- [How to change the bootorder in your grub menu](posts/how-to-change-the-bootorder-in-your-grub-menu.md) — 2018-05-05
+- [Changing sublime-text-dev not to check for an update](posts/changing-sublime-text-dev-not-to-check-for-an-update.md) — 2018-05-10
+- [How to make your conky smaller so it fits on your screen](posts/how-to-make-your-conky-smaller-so-it-fits-on-your-screen.md) — 2018-05-14
+- [Adding the fun factor to your system with ArcoLinux-bin package](posts/adding-the-fun-factor-to-your-system-with-arcolinux-bin-package.md) — 2018-05-27
+- [Working with Elegant and Eleganto conky](posts/working-with-elegant-and-eleganto-conky.md) — 2018-05-27
+- [Using python-pywal to make awesome screenshots](posts/using-python-pywal-to-make-awesome-screenshots.md) — 2018-05-27
+- [How to share you hardware specifications when asking for support](posts/how-to-share-you-hardware-specifications-when-asking-for-support.md) — 2018-05-27
+- [Fixing the error message package-query: error while loading shared libraries: libalpm.so.10](posts/fixing-the-error-message-package-query-error-while-loading-shared-libraries-libalpm-so-10.md) — 2018-05-29
+- [How to resize Xfce windows the easy way](posts/how-to-resize-xfce-windows-the-easy-way.md) — 2018-06-07
+- [How to remove the shadow around the plank on Xfce](posts/how-to-remove-the-shadow-around-the-plank-on-xfce.md) — 2018-06-17
+- [How to share files and folders between guest and host on vmware](posts/how-to-share-files-and-folders-between-guest-and-host-on-vmware.md) — 2018-06-21
+- [How to share files and folders with others on your home network with Samba](posts/how-to-share-files-and-folders-with-others-on-your-home-network-with-samba.md) — 2018-06-21
+- [How to burn a Windows 10 iso to an usb on Linux](posts/how-to-burn-a-windows-10-iso-to-an-usb-on-linux.md) — 2018-06-24
+- [How to fix the neofetch logo after updating neofetch to version 5](posts/how-to-fix-the-neofetch-logo-after-updating-neofetch-to-version-5.md) — 2018-06-25
+- [How to fix virtualbox freezing up on kernel 4.17.2 - June 2018](posts/how-to-fix-virtualbox-freezing-up-on-kernel-4-17-2-june-2018.md) — 2018-06-26
+- [How to reset the password of your ArcoLinux system](posts/how-to-reset-the-password-of-your-arcolinux-system.md) — 2018-06-29
+- [How to install libreoffice the proper way](posts/how-to-install-libreoffice-the-proper-way.md) — 2018-06-30
+- [Installing ArcoLinux on the latest vmware workstation on ArcoLinux](posts/installing-arcolinux-on-the-latest-vmware-workstation-on-arcolinux.md) — 2018-06-30
+- [Adding jgmenu to your polybar](posts/adding-jgmenu-to-your-polybar.md) — 2018-07-02
+- [Add menu's to your xfce menu for online applications](posts/add-menus-to-your-xfce-menu-for-online-applications.md) — 2018-07-09
+- [Easy way to change the numix folders from color](posts/easy-way-to-change-the-numix-folders-from-color.md) — 2018-07-09
+- [How to fix one or more pgp signatures could not be verified libc++ and discord](posts/how-to-fix-one-or-more-pgp-signatures-could-not-be-verified-libc-and-discord.md) — 2018-07-11
+- [How to fix one or more pgp signatures could not be verified libc++ and discord by adding a new repo](posts/how-to-fix-one-or-more-pgp-signatures-could-not-be-verified-libc-and-discord-by-adding-a-new-repo.md) — 2018-07-11
+- [How to add the third party repo to pacman.conf](posts/how-to-add-the-third-party-repo-to-pacman-conf.md) — 2018-07-11
+- [Fix for libutf8proc.so.2 exists in filesystem](posts/fix-for-libutf8proc-so-2-exists-in-filesystem.md) — 2018-07-14
+- [Arc-gtk-theme supplies support for Openbox - coming from Nico Hood - fix error](posts/arc-gtk-theme-supplies-support-for-openbox-coming-from-nico-hood-fix-error.md) — 2018-07-16
+- [How to autostart any application on any Linux desktop](posts/how-to-autostart-any-application-on-any-linux-desktop.md) — 2018-07-22
+- [Pacman needs an up-to-date mirrorlist - any desktop](posts/pacman-needs-an-up-to-date-mirrorlist-any-desktop.md) — 2018-09-11
+- [How to make the bash prompt sexy - any desktop](posts/how-to-make-the-bash-prompt-sexy-any-desktop.md) — 2018-09-14
+- [Anniversary present from ArcoLinux - Submicron wallpapers](posts/anniversary-present-from-arcolinux-submicron-wallpapers.md) — 2018-09-14
+- [Installing a new kernel linux, linux-lts, linux-hardened, linux-zen ...](posts/installing-a-new-kernel-linux-linux-lts-linux-hardened-linux-zen.md) — 2018-09-14
+- [Add applications menu back in xfce context menu](posts/add-applications-menu-back-in-xfce-context-menu.md) — 2018-09-14
+- [SETTING THE BIOS IN MSI GP73 LEOPARD 8RD](posts/setting-the-bios-in-msi-gp73-leopard-8rd.md) — 2018-09-22
+- [Playing SauerBraten on ArcoLinux](posts/playing-sauerbraten-on-arcolinux.md) — 2018-09-22
+- [Playing Xonotic on ArcoLinux](posts/playing-xonotic-on-arcolinux.md) — 2018-09-22
+- [How to hide applications in your Xfce menu](posts/how-to-hide-applications-in-your-xfce-menu.md) — 2018-09-24
+- [How to play netflix in your chromium browser](posts/how-to-play-netflix-in-your-chromium-browser.md) — 2018-09-27
+- [How to play netflix in your vivaldi browser](posts/how-to-play-netflix-in-your-vivaldi-browser.md) — 2018-09-28
+- [Get more specifications of your hardware via hwinfo](posts/get-more-specifications-of-your-hardware-via-hwinfo.md) — 2018-09-29
+- [The creation of ET-Arcolinux-Fofo-Lua conky coming from Etles team](posts/the-creation-of-et-arcolinux-fofo-lua-conky-coming-from-etles-team.md) — 2018-10-01
+- [Installing and using viber on your ArcoLinux system](posts/installing-and-using-viber-on-your-arcolinux-system.md) — 2018-10-08
+- [Using pywall and transparency in Bspwm in urxvt terminal](posts/using-pywall-and-transparency-in-bspwm-in-urxvt-terminal.md) — 2018-10-08
+- [Checking out the aliases on your system can be quite interesting](posts/checking-out-the-aliases-on-your-system-can-be-quite-interesting.md) — 2018-10-09
+- [Thunar update gives an extra option in settings to permanently delete data](posts/thunar-update-gives-an-extra-option-in-settings-to-permanently-delete-data.md) — 2018-10-11
+- [How to install the linux-mainline kernel coming from AUR](posts/how-to-install-the-linux-mainline-kernel-coming-from-aur.md) — 2018-10-11
+- [Starting from ArcoLinux 18.10 ArcoLinux will support touch-sensitive displays](posts/starting-from-arcolinux-18-10-arcolinux-will-support-touch-sensitive-displays.md) — 2018-10-16
+- [Changing the panels of xfce the easy way](posts/changing-the-panels-of-xfce-the-easy-way.md) — 2018-10-16
+- [How to install virtualbox on a computer with a linux-mainline kernel](posts/how-to-install-virtualbox-on-a-computer-with-a-linux-mainline-kernel.md) — 2018-10-22
+- [Install and play chromium bsu - space shooter](posts/install-and-play-chromium-bsu-space-shooter.md) — 2018-10-25
+- [What to do after a clean installation of any ArcoLinux](posts/what-to-do-after-a-clean-installation-of-any-arcolinux.md) — 2018-10-26
+- [How to dual boot two linux operating systems and use grub-customizer](posts/how-to-dual-boot-two-linux-operating-systems-and-use-grub-customizer.md) — 2018-10-27
+- [How to dual boot windows (MBR) and linux and use grub-customizer](posts/how-to-dual-boot-windows-mbr-and-linux-and-use-grub-customizer.md) — 2018-10-27
+- [How to delete Linux from your Windows machine (MBR) and delete grub](posts/how-to-delete-linux-from-your-windows-machine-mbr-and-delete-grub.md) — 2018-10-27
+- [How to dual boot windows (UEFI) and linux and use grub-customizer](posts/how-to-dual-boot-windows-uefi-and-linux-and-use-grub-customizer.md) — 2018-10-27
+- [How to mount an ssd bay in your desktop to easily switch between windows and linux](posts/how-to-mount-an-ssd-bay-in-your-desktop-to-easily-switch-between-windows-and-linux.md) — 2018-11-07
+- [How to install caffeine - any desktop](posts/how-to-install-caffeine-any-desktop.md) — 2018-11-12
+- [How to incorporate and change a conky into ArcoLinux - creation of JA-Phone](posts/how-to-incorporate-and-change-a-conky-into-arcolinux-creation-of-ja-phone.md) — 2018-11-15
+- [Installing and playing neverball - coordination game](posts/installing-and-playing-neverball-coordination-game.md) — 2018-11-16
+- [Install the zafiro icon theme and use the power of inherits](posts/install-the-zafiro-icon-theme-and-use-the-power-of-inherits.md) — 2018-11-20
+- [How to safeguard videos from youtube](posts/how-to-safeguard-videos-from-youtube.md) — 2018-11-20
+- [How to fix time-out or slow Arch Linux servers](posts/how-to-fix-time-out-or-slow-arch-linux-servers.md) — 2018-11-24
+- [How to set up simplescreenrecorder to share your videos on youtube](posts/how-to-set-up-simplescreenrecorder-to-share-your-videos-on-youtube.md) — 2018-11-25
+- [Fixing the Samba error message in November 2018](posts/fixing-the-samba-error-message-in-november-2018.md) — 2018-11-27
+- [How to uninstall Samba and its components](posts/how-to-uninstall-samba-and-its-components.md) — 2018-11-27
+- [Everything you need to know about the conky AP-Weather](posts/how-to-change-the-color-of-the-conky-ap-weather.md) — 2018-11-28
+- [All modules that are available for polybar - any desktop](posts/all-modules-that-are-available-for-polybar-any-desktop.md) — 2018-11-28
+- [Install Stacer - a linux system optimizer and monitoring application](posts/install-stacer-a-linux-system-optimizer-and-monitoring-application.md) — 2018-11-29
+- [Discord is there to chat with the ArcoLinux team, ArcoLinux Betatesters and the ArcoLinux users](posts/discord-is-there-to-chat-with-the-arcolinux-team-and-the-arcolinux-users.md) — 2018-11-29
+- [The creation of AUR-Lazuli conky and configuration of vnstat](posts/the-creation-of-aur-lazuli-conky-and-configuration-of-vnstat.md) — 2018-11-30
+- [How to personalize the AUR-Lazuli conky](posts/how-to-personalize-the-aur-lazuli-conky.md) — 2018-11-30
+- [How to update any ArcoLinux or how to stay rolling](posts/how-to-update-any-arcolinux-or-stay-rolling.md) — 2018-12-02
+- [How to update ArcoLinux 18.10 to ArcoLinux 18.12](posts/how-to-update-arcolinux-18-10-to-arcolinux-18-12.md) — 2018-12-04
+- [How to install a package by skipping the validity check](posts/how-to-install-a-package-by-skipping-the-validity-check.md) — 2018-12-06
+- [Use bupskel to compare the ArcoLinux updates coming in](posts/use-bupskel-to-compare-the-arcolinux-updates-coming-in.md) — 2018-12-06
+- [Analyze bash commands you find on the internet - alias cleanup](posts/analyze-bash-commands-you-find-on-the-internet.md) — 2018-12-06
+- [Explore the new alias rip in our bashrc](posts/explore-the-new-alias-rip-in-our-bashrc.md) — 2018-12-06
+- [Help us to keep the AUR up to date and everyone benefits from it](posts/help-us-to-keep-the-aur-up-to-date-and-everyone-benefits-from-it.md) — 2018-12-07
+- [How to fix the pkgbuild of vivaldi-codecs-ffmpeg-extra-bin](posts/how-to-fix-the-pkgbuild-of-vivaldi-codecs-ffmpeg-extra-bin.md) — 2018-12-07
+- [Use grsync to backup data from your harddisk to an external harddisk](posts/use-grsync-to-backup-data-from-your-harddisk-to-an-external-harddisk.md) — 2018-12-07
+- [Fix for updated applications or how to downgrade an application](posts/fix-for-updated-applications-or-how-to-downgrade-an-application.md) — 2018-12-07
+- [Fix for One or more PGP signatures could not be verified!](posts/fix-for-one-or-more-pgp-signatures-could-not-be-verified.md) — 2018-12-08
+- [Use peek to show us what goes wrong on your system](posts/use-peek-to-show-us-what-goes-wrong-on-your-system.md) — 2018-12-09
+- [How to update ArcoLinux - long procedure - learn and analyze](posts/how-to-update-arcolinux-long-procedure-learn-and-analyze.md) — 2018-12-09
+- [How to fix icons that never change their look whatever theme you choose](posts/how-to-fix-icons-that-never-change-their-look-whatever-theme-you-choose.md) — 2018-12-09
+- [How to fix the system panel icons in i3](posts/how-to-fix-the-system-panel-icons-in-i3.md) — 2018-12-14
+- [How to set up variety with the use of desktoppr and dropbox](posts/how-to-set-up-variety-with-the-use-of-desktoppr-and-dropbox.md) — 2018-12-14
+- [How to autostart the conky in Xfce](posts/how-to-autostart-the-conky-in-xfce.md) — 2018-12-14
+- [How to install dropbox and how to use it](posts/how-to-install-dropbox-and-how-to-use-it.md) — 2018-12-14
+- [What are your help me keyboard shortcuts](posts/what-are-your-help-me-keyboard-shortcuts.md) — 2018-12-15
+- [How to install Samba and network discovery on ArcoLinux 18.12 and later editions](posts/how-to-install-samba-and-network-discovery-on-arcolinux-18-12-and-later-editions.md) — 2018-12-18
+- [How to add even more plugins to Xfce4](posts/how-to-add-even-more-plugins-to-xfce4.md) — 2018-12-22
+- [Installing ArcoLinux on Samsung 970 Evo NVMe M.2](posts/installing-arcolinux-on-samsung-970-evo-nvme-m-2.md) — 2018-12-24
+- [Clean up your computer and delete the pacman cache](posts/clean-up-your-computer-and-delete-the-pacman-cache.md) — 2018-12-26
+- [How to get the logo of ArcoLinux back in neofetch/termite](posts/how-to-get-the-logo-of-arcolinux-back-in-neofetch-termite.md) — 2018-12-27
+- [Use all your cores during build or installation of packages](posts/use-all-your-cores-during-build-or-installation-of-packages.md) — 2018-12-28
+- [How to completely destroy the content of your disk and start installing with a clean slate](posts/how-to-completely-destroy-the-content-of-your-disk-and-start-installing-with-a-clean-slate.md) — 2018-12-29
+- [How to autologin in any ArcoLinux or choose a different desktop to autologin - any desktop](posts/how-to-autologin-in-any-arcolinux-or-choose-a-different-desktop-to-autologin-any-desktop.md) — 2018-12-30
+- [How to set virtualbox to your native resolution with xrandr and gtf if it does not exist](posts/how-to-set-virtualbox-to-your-native-resolution-with-xrandr-and-gtf-if-it-does-not-exist.md) — 2019-01-02
+- [How to change your grub theme](posts/how-to-change-your-grub-theme.md) — 2019-01-04
+- [Use your own getting started scripts after a clean install](posts/use-your-own-getting-started-scripts-after-a-clean-install.md) — 2019-01-05
+- [What to do if one AUR package is blocking the update of all the other AUR packages](posts/what-to-do-if-one-aur-package-is-blocking-the-update-of-all-the-other-aur-packages.md) — 2019-01-09
+- [Using qbittorrent to download the ArcoLinux and ArcoLinuxD iso's](posts/using-qbittorrent-to-download-the-arcolinux-and-arcolinuxd-isos.md) — 2019-01-18
+- [How to install the latest vmware workstation on ArcoLinux](posts/how-to-install-the-latest-vmware-workstation-on-arcolinux.md) — 2019-01-21
+- [How to make the polybar transparent](posts/how-to-make-the-polybar-transparent.md) — 2019-01-23
+- [How do you develop polybar modules - any desktop](posts/how-do-you-develop-polybar-modules-any-desktop.md) — 2019-01-23
+- [Install software from the ArcoLinux Iso Repository if the pkgbuild fails](posts/install-software-from-the-arcolinux-iso-repository-if-the-pkgbuild-fails.md) — 2019-01-24
+- [How and where to set your power manager - close lid - sleep - hibernate - ...](posts/how-and-where-to-set-your-power-manager.md) — 2019-01-25
+- [Build the software yourself just because you can or install it from AUR](posts/build-the-software-yourself-just-because-you-can-or-install-it-from-aur.md) — 2019-01-25
+- [How to make a script to build the pocillo-gtk-theme to be able to re-install it later](posts/how-to-make-a-script-to-build-the-pocillo-gtk-theme-to-be-able-to-re-install-it-later.md) — 2019-01-25
+- [How to install virtualbox 6 on W10 and set the correct settings to install ArcoLinux in virtualbox](posts/how-to-install-virtualbox-6-on-w10-and-set-the-correct-settings-to-install-arcolinux-in-virtualbox.md) — 2019-01-30
+- [How to get two polybars in Openbox, Bspwm, i3, Xmonad and others](posts/how-to-get-two-polybars-in-openbox-bspwm-i3-xmonad-and-others.md) — 2019-02-01
+- [Which nvidia cards are supported by which nvidia driver](posts/which-nvidia-cards-are-supported-by-which-nvidia-driver.md) — 2019-02-02
+- [Fix for hanging loading location data screen in calamares](posts/fix-for-hanging-loading-location-data-screen-in-calamares.md) — 2019-02-05
+- [Quick and easy way to get an awesome grub start screen](posts/quick-and-easy-way-to-get-an-awesome-grub-start-screen.md) — 2019-02-12
+- [Expand Sardi and Surfn icons with 10 Mint-Y folder icons](posts/expand-sardi-and-surfn-icons-with-10-mint-y-folder-icons.md) — 2019-02-22
+- [How to install a kernel that is in testing repo - example 5.0 kernel](posts/how-to-install-a-kernel-that-is-in-testing-repo-example-5-0-kernel.md) — 2019-03-05
+- [Creation of TP-Troll conky or how to add any conky to the ArcoLinux system](posts/creation-of-tp-troll-conky-or-how-to-add-any-conky-to-the-arcolinux-system.md) — 2019-03-06
+- [How to build your personal Arc theme on the github of Nico Hoods](posts/how-to-build-your-personal-arc-theme-on-the-github-of-nico-hoods.md) — 2019-03-06
+- [Use telegram on any device to deliver your messages or images](posts/use-telegram-on-any-device-to-deliver-your-messages-or-images.md) — 2019-03-08
+- [How to mix icon themes or the creation of Papirus-Arc-Halo-Surfn](posts/how-to-mix-icon-themes-or-the-creation-of-papirus-arc.md) — 2019-03-08
+- [Installing the lastest Sublime-Text-Dev from PKGBUILD and with updpkgsums](posts/installing-the-lastest-sublime-text-dev-from-pkgbuild-and-with-updpkgsums.md) — 2019-03-13
+- [How to change the blue telegram icon in your panel to a white one](posts/how-to-change-the-blue-telegram-icon-in-your-panel-to-a-white-one.md) — 2019-03-13
+- [Reduce your shutdown time from 90 seconds to 30 seconds](posts/reduce-your-shutdown-time-from-90-seconds-to-30-seconds.md) — 2019-03-14
+- [Fix it yourself and get the latest update of vivaldi-codecs-ffmpeg-extra-bin in](posts/fix-it-yourself-and-get-the-latest-update-of-vivaldi-codecs-ffmpeg-extra-bin-in.md) — 2019-03-27
+- [In order to use redshift you need to know 3 tips](posts/in-order-to-use-redshift-you-need-to-know-2-tips.md) — 2019-04-06
+- [How to tweak your neofetch config and use the small ArcoLinux Ascii Logo](posts/how-to-tweak-your-neofetch-config-and-use-the-small-arcolinux-ascii-logo.md) — 2019-04-06
+- [How to install zsh on ArcoLinux(D) tips tricks and theming](posts/how-to-install-zsh-on-arcolinuxd-tips-tricks-and-theming.md) — 2019-04-06
+- [Make your very own get-started script to setup your system after a clean install](posts/make-your-very-own-get-started-script-to-setup-your-system-after-a-clean-install.md) — 2019-04-06
+- [The content of your bashrc is important and so is the alias cb or copy bashrc](posts/the-content-of-your-bashrc-is-important-and-so-is-the-alias-cb-or-copy-bashrc.md) — 2019-04-10
+- [Creation of Aur-Slate or how to add a conky to the ArcoLinux system](posts/creation-of-aur-slate-or-how-to-add-a-conky-to-the-arcolinux-system.md) — 2019-04-29
+- [Updating a 6 months old ArcoLinux or how to keep rolling and never clean install](posts/updating-a-6-months-old-arcolinux-or-how-to-keep-rolling-and-never-clean-install.md) — 2019-05-06
+- [Calamares tip - make sure the bootloader is filled in and avoid frustrations](posts/calamares-tip-make-sure-the-bootloader-is-filled-in-and-avoid-frustrations.md) — 2019-05-18
+- [All information regarding compton and compton.conf](posts/all-information-regarding-compton-and-compton-conf.md) — 2019-05-20
+- [Use pastebin.com to share lots of code from the terminal with us on the forum](posts/use-pastebin-com-to-share-lots-of-code-from-the-terminal-with-us-on-the-forum.md) — 2019-05-31
+- [Help us to make calamares or the installer better and help yourself and others in the process](posts/help-us-to-make-calamares-or-the-installer-better-and-help-yourself-and-others-in-the-process.md) — 2019-05-31
+- [fix for failed to start light display manager](posts/fix-for-failed-to-start-light-display-manager.md) — 2019-06-05
+- [Use meld to compare the packages we release to learn the code](posts/use-meld-to-compare-the-packages-we-release-to-learn-the-code.md) — 2019-06-08
+- [New feature called Conky Toggle](posts/new-feature-called-conky-toggle.md) — 2019-06-10
+- [Theming ArcoLinux when a red wallpaper comes in](posts/theming-arcolinux-when-a-red-wallpaper-comes-in.md) — 2019-06-11
+- [Taking a look at pamac-aur and adding AUR support to it](posts/taking-a-look-at-pamac-aur-and-adding-aur-support-to-it.md) — 2019-06-14
+- [Screencast your android device to ArcoLinux and/or Arch Linux](posts/screencast-your-android-device-to-arcolinux-and-or-arch-linux.md) — 2019-06-15
+- [Fix for bluetooth not switching off - any desktop](posts/fix-for-bluetooth-not-switching-off-any-desktop.md) — 2019-06-23
+- [Use pastebinit to put log files online via the terminal](posts/use-pastebinit-to-put-log-files-online-via-the-terminal.md) — 2019-06-24
+- [Rotate between conkies with a keyboard shortcut](posts/rotate-between-conkies-with-a-keyboard-shortcut.md) — 2019-07-05
+- [How  to set the super key on XFCE to open the whisker menu](posts/how-to-set-the-super-key-on-xfce-to-open-the-whisker-menu.md) — 2019-07-05
+- [Installing minecraft on any Arch Linux based system](posts/installing-minecraft-on-any-arch-linux-based-system.md) — 2019-07-15
+- [Installing the official minecraft server on any Arch Linux based system](posts/installing-the-official-minecraft-server-on-any-arch-linux-based-system.md) — 2019-07-15
+- [Installing the spigot server for minecraft on any Arch Linux based system](posts/installing-the-spigot-server-for-minecraft-on-any-arch-linux-based-system.md) — 2019-07-15
+- [Installing feedthebeast modpacks for minecraft on any Arch Linux system](posts/installing-feedthebeast-modpacks-for-minecraft-on-any-arch-linux-system.md) — 2019-07-15
+- [How to autoconnect your bluetooth headset to ArcoLinux - any desktop](posts/how-to-autoconnect-your-bluetooth-headset-to-arcolinux-any-desktop.md) — 2019-07-18
+- [How to change the displayed language in firefox](posts/how-to-change-the-displayed-language-in-firefox.md) — 2019-07-19
+- [Installed an LTS iso - how to get the linux kernel from there](posts/installed-an-lts-iso-how-to-get-the-linux-kernel-from-there.md) — 2019-07-20
+- [Fix for discover on Plasma](posts/fix-for-discover-on-plasma.md) — 2019-07-23
+- [How to switch between desktops](posts/how-to-switch-between-desktops.md) — 2019-07-24
+- [Conky-toggle shows or hides your conky - also after a reboot](posts/conky-toggle-shows-or-hides-your-conky-also-after-a-reboot.md) — 2019-07-24
+- [Conky AC1-System-Bar-LUA explained](posts/conky-ac1-system-bar-lua-explained.md) — 2019-07-24
+- [Installing Corsair Strafe RGB MK.2 Mechanical MX Silent on ArcoLinux or Arch Linux](posts/installing-corsair-strafe-rgb-mk-2-mechanical-mx-silent-on-arcolinux-or-arch-linux.md) — 2019-07-25
+- [Open crucial files with aliases in .bashrc - updating your bashrc to get new aliases in](posts/open-crucial-files-with-aliases-in-bashrc-updating-your-bashrc-to-get-new-aliases-in.md) — 2019-07-26
+- [Overview of pulseaudio volume control or pavucontrol - showcase music players and tips](posts/overview-of-pulseaudio-volume-control-or-pavucontrol-showcase-musicplayers-and-tips.md) — 2019-07-28
+- [How to play netflix in firefox](posts/how-to-play-netflix-in-firefox.md) — 2019-10-28
+- [Installing the nvidia driver for GEFORCE GTX970 via pacman - November 2019](posts/installing-the-nvidia-driver-for-geforce-gtx970-via-pacman-november-2019.md) — 2019-10-29
+- [Installing the nvidia driver for GEFORCE GTX970 via nvidia .run - November 2019](posts/installing-the-nvidia-driver-for-geforce-gtx970-via-nvidia-run-november-2019.md) — 2019-10-29
+- [How to activate polybar on ArcoLinux i3](posts/how-to-activate-polybar-on-arcolinux-i3.md) — 2019-11-04
+- [How to find files and packages you seem to be missing on ArcoLinux / Arch Linux](posts/how-to-find-files-and-packages-you-seem-to-be-missing-on-arcolinux-arch-linux.md) — 2019-11-05
+- [How to change the language of your desktop on ArcoLinux or Arch Linux - ANY DESKTOP](posts/how-to-change-the-language-of-your-desktop-on-arcolinux-or-arch-linux-any-desktop.md) — 2019-11-08
+- [Install any desktop on any ArcoLinux or Arch Linux system](posts/install-any-desktop-on-any-arcolinux-or-arch-linux-system.md) — 2019-11-18
+- [Connecting to the internet via wifi - any desktop](posts/connecting-to-the-internet-via-wifi-any-desktop.md) — 2019-11-26
+- [Fix for Failed to start lightdm manager](posts/fix-for-failed-to-start-lightdm-manager.md) — 2019-11-29
+- [Compact installation guide for ArcoLinux](posts/the-7-step-installation-guide-for-arcolinux.md) — 2019-11-29
+- [How to fix the logo of neofetch after a lsb-release update](posts/how-to-fix-the-logo-of-neofetch-after-a-lsb-release-update.md) — 2019-12-04
+- [The ArcoLinux Office Series](posts/the-arcolinux-office-series.md) — 2019-12-10
+- [How to install telegram](posts/how-to-install-telegram.md) — 2019-12-10
+- [Fix for lightdm failed to start - calamares - only for nvidia users - 19.12.15 iso](posts/fix-for-lightdm-failed-to-start-calamares-only-for-nvidia-users-19-12-15-iso.md) — 2019-12-12
+- [Everything you need to know about installing linux - bios uefi motherboard settings](posts/everything-you-need-to-know-about-installing-linux-bios-uefi-motherboard-settings.md) — 2019-12-28
+- [Installing Nemesis on any ArcoLinux](posts/installing-nemesis-on-any-arcolinux.md) — 2019-12-28
+- [How to set virtualbox the correct way - graphics controller - workflow](posts/how-to-set-virtualbox-6-the-correct-way-graphical-controller-workflow.md) — 2020-01-02
+- [Fix for kernel panic when dualbooting with intel-ucode or amd-ucode](posts/fix-for-kernel-panic-when-dualbooting-with-intel-ucode-or-amd-ucode.md) — 2020-01-07
+- [How to make a script - example is template for stayrolling script](posts/how-to-make-a-script-example-is-template-for-stayrolling-script.md) — 2020-01-07
+- [How to check if the downloaded iso is not corrupted](posts/how-to-check-if-the-downloaded-iso-is-not-corrupted.md) — 2020-01-10
+- [How to change the version number of ArcoLinux](posts/how-to-change-the-version-number-of-arcolinux.md) — 2020-01-11
+- [Updating ArcoLinux - explaining/using many aliases bupskel, update, skel, upall, ps, psa, rip, riplong, cb and others - any desktop](posts/updating-arcolinux-explaining-using-many-aliases-bupskel-update-skel-upall-ps-psa-rip-riplong-cb-and-others-any-desktop.md) — 2020-01-12
+- [New release of variety 0.8.2 - going over the settings and providing tips - any desktop](posts/new-release-of-variety-0-8-2-going-over-the-settings-and-providing-tips-any-desktop.md) — 2020-01-12
+- [Use a meta package to install a bunch of wallpapers](posts/use-a-meta-package-to-install-a-bunch-of-wallpapers.md) — 2020-01-13
+- [How to add a user to your linux system - any desktop](posts/how-to-add-a-user-to-your-linux-system-any-desktop.md) — 2020-01-14
+- [How to make sure you can play videos from youtube and videos from netflix on vivaldi or other browsers](posts/how-to-make-sure-you-can-play-videos-from-youtube-and-videos-from-netflix-on-vivaldi-or-other-browsers.md) — 2020-01-21
+- [Everything you need to know about tmux - Introduction](posts/everthing-you-need-to-know-about-tmux-introduction.md) — 2020-02-06
+- [Everything you need to know about tmux - Servers and Sessions](posts/everthing-you-need-to-know-about-tmux-servers-and-sessions.md) — 2020-02-15
+- [Everything you need to know about tmux – Windows](posts/everthing-you-need-to-know-about-tmux-windows.md) — 2020-02-17
+- [Everything you need to know about tmux – Panes](posts/everthing-you-need-to-know-about-tmux-panes.md) — 2020-02-20
+- [Everything you need to know about tmux – Configuration](posts/everthing-you-need-to-know-about-tmux-configuration.md) — 2020-02-23
+- [Everything you need to know about tmux - Status Bar](posts/everything-you-need-to-know-about-tmux-status-bar.md) — 2020-02-28
+- [Everything you need to know about tmux - Plugins Manager](posts/everything-you-need-to-know-about-tmux-plugins-manager.md) — 2020-03-10
+- [Updating your system with skel and still keeping your own settings](posts/updating-your-system-with-skel-and-still-keeping-your-own-settings.md) — 2020-03-10
+- [Installing plank, cairo-dock and latte-dock](posts/installing-plank-cairo-dock-and-latte-dock.md) — 2020-03-14
+- [Neofetch update 7.0 can show more information - bupskel and ArcoLinux Tweak Tool](posts/neofetch-update-7-0-can-show-more-information-bupskel-and-arcolinux-tweak-tool.md) — 2020-03-14
+- [EVERYTHING YOU NEED TO KNOW ABOUT TMUX – Reconstructing Tmux Sessions After Restarts](posts/everything-you-need-to-know-about-tmux-reconstructing-tmux-sessions-after-restarts.md) — 2020-03-16
+- [Everything you need to know about burning an iso to usb](posts/everything-you-need-to-know-about-burning-an-iso-to-usb.md) — 2020-03-20
+- [How to connect to a remote computer with teamviewer](posts/how-to-connect-to-a-remote-computer-with-teamviewer.md) — 2020-03-20
+- [How to install minecraft on ArcoLinux](posts/how-to-install-minecraft-on-arcolinux.md) — 2020-03-20
+- [How to get whatsapp on your ArcoLinux system](posts/how-to-get-whatsapp-on-your-arcolinux-system.md) — 2020-03-20
+- [How to install and use zoom to connect to people](posts/how-to-install-and-use-zoom-to-connect-to-people.md) — 2020-03-20
+- [How to install skype on ArcoLinux and use it](posts/how-to-install-skype-on-arcolinux-and-use-it.md) — 2020-03-20
+- [Installation failed - boost python error in job "umount"](posts/installation-failed-boost-python-error-in-job-umount.md) — 2020-04-01
+- [Fix for lightdm background keeps changing on login or logout](posts/fix-for-lightdm-background-keeps-changing-on-login-or-logout.md) — 2020-04-01
+- [How to tell pacman not to update a package like a kernel](posts/how-to-tell-pacman-not-to-update-a-package-like-a-kernel.md) — 2020-04-09
+- [How to get the fastest Arch Linux servers](posts/how-to-get-the-fastest-arch-linux-servers.md) — 2020-04-16
+- [Getting ArcoLinux up and running under 15 minutes with arcogetstarted](posts/getting-arcolinux-up-and-running-under-15-minutes-with-arcogetstarted-scipts.md) — 2020-04-19
+- [Switching to arcolinux-logout-git](posts/switching-to-arcolinux-logout-git.md) — 2020-04-25
+- [How to install Samba on Plasma](posts/how-to-install-samba-on-plasma.md) — 2020-06-14
+- [How to change the look of some applications with kvantum example virtualbox](posts/how-to-change-the-look-of-some-applications-with-kvantum-example-virtualbox.md) — 2020-06-18
+- [Fix your ArcoLinux or Arch Linux computer with these 2 tips](posts/fix-your-arcolinux-or-arch-linux-computer-with-these-2-tips.md) — 2020-08-19
+- [How to make your old conkys work again - convert the old code to the new lua code](posts/how-to-make-your-old-conkys-work-again-convert-the-old-code-to-the-new-lua-code.md) — 2020-09-02
+- [Installing and using Qemu to make a virtual machine](posts/installing-and-using-qemu-to-make-a-virtual-machine.md) — 2020-09-22
+- [Getting the best resolution on Vmware Workstation for ArcoLinux - 2 tips](posts/getting-the-best-resolution-on-vmware-workstation-for-arcolinux-2-tips.md) — 2020-09-22
+- [How to use gnome-boxes to install ArcoLinux](posts/how-to-use-gnome-boxes-to-install-arcolinux.md) — 2020-09-22
+- [How to install and set any cursor theme](posts/how-to-install-any-cursor-theme.md) — 2020-10-02
+- [How to connect your Bose bluetooth headphones to ArcoLinux -D -B](posts/how-to-connect-your-bose-bluetooth-headphones-to-arcolinuxd.md) — 2020-10-14
+- [Are you typing iso in the terminal and nothing happens - dev-rel and lsb-release](posts/are-you-typing-iso-in-the-terminal-and-nothing-happens-dev-rel-and-lsb-release.md) — 2020-11-22
+- [Everything you need to know about snap](posts/everything-you-need-to-know-about-snap.md) — 2020-11-22
+- [Everything you need to know about flatpak](posts/everything-you-need-to-know-about-flatpak.md) — 2020-11-23
+- [How to increase the size of your swapfile](posts/how-to-increase-the-size-of-your-swapfile.md) — 2020-11-23
+- [Everything you need to know about pacman](posts/everything-you-need-to-know-about-pacman.md) — 2020-11-26
+- [How to install steam on ArcoLinux](posts/how-to-install-steam-on-arcolinux.md) — 2020-11-26
+- [Setting the BIOS in Asus P8Z77-V LE](posts/setting-the-bios-in-asus-p8z77-v-le.md) — 2020-12-06
+- [Finding drivers for your nvidia card and installing nvidia 340](posts/finding-drivers-for-your-nvidia-card-and-installing-nvidia-340.md) — 2020-12-06
+- [Installing fun stuff for the terminal on ArcoLinux](posts/installing-fun-stuff-for-the-terminal-on-arcolinux.md) — 2020-12-07
+- [How to install a printer - looking for drivers](posts/how-to-install-a-printer-looking-for-drivers.md) — 2020-12-13
+- [How to install Doom2 on ArcoLinux](posts/how-to-install-doom2-on-arcolinux.md) — 2020-12-15
+- [Everything you need to know about the ArcoLinux Tweak Tool](posts/everything-you-need-to-know-about-the-arcolinux-tweak-tool.md) — 2020-12-15
+- [Using pamac-all to be able to install snap and flatpak packages](posts/using-pamac-all-to-be-able-to-install-snap-and-flatpak-packages.md) — 2020-12-15
+- [How to add third party modules to polybar](posts/how-to-add-third-party-modules-to-polybar.md) — 2020-12-20
+- [Building and installing the future kernel from AUR](posts/building-and-installing-the-future-kernel-from-aur.md) — 2020-12-22
+- [How to downgrade a linux kernel](posts/how-to-downgrade-a-linux-kernel.md) — 2020-12-31
+- [How to downgrade to an older Linux-lts kernel](posts/how-to-downgrade-to-an-older-linux-lts-kernel.md) — 2020-12-31
+- [Installing the official nvidia driver on a hybrid graphical system - msi gt70 - geforce gtx670m](posts/installing-the-official-nvidia-driver-on-a-hybrid-graphical-system-msi-gt70-gforce-gtx670m.md) — 2021-01-01
+- [Installing the official nvidia driver for a GeForce GTX970](posts/installing-the-official-nvidia-driver-for-a-gforce-gtx970.md) — 2021-01-02
+- [Where to find the wallpaper of a nice screenshot](posts/where-to-find-the-wallpaper-of-a-nice-screenshot.md) — 2021-01-03
+- [Solving the message : reboot and select proper boot device](posts/solving-the-message-reboot-and-select-proper-boot-device.md) — 2021-01-03
+- [Unable to boot into ArcoLinux - pass on parameters to the Linux kernel](posts/unable-to-boot-into-arcolinux-pass-on-parameters-to-the-linux-kernel.md) — 2021-01-03
+- [Install the nvidia package with the linux kernel with the use of pacman and Calamares](posts/install-the-nvidia-package-with-the-linux-kernel-with-the-use-of-pacman-and-calamares.md) — 2021-01-04
+- [Fix for key could not be looked up remotely](posts/fix-for-key-could-not-be-looked-up-remotely.md) — 2021-01-06
+- [Are there any ArcoLinux conkies that show Nvidia info](posts/are-there-any-arcolinux-conkies-that-show-nvidia-info.md) — 2021-01-06
+- [The creation of a conky - AUR-Nvidia - Nvidia drivers must be functional](posts/the-creation-of-a-conky-aur-nvidia-nvidia-drivers-must-be-functional.md) — 2021-01-06
+- [Installing the nvidia driver on a hybrid graphical system with pacman and yay – msi gt70 – geforce gtx670m](posts/installing-the-nvidia-driver-on-a-hybrid-graphical-system-with-pacman-and-yay-msi-gt70-geforce-gtx670m.md) — 2021-01-06
+- [Nvidia - Failed to open Light Display Manager - timing issue](posts/nvidia-failed-to-open-light-display-manager-timing-issue.md) — 2021-01-07
+- [Freeze your current kernel for a while](posts/freeze-your-current-kernel-for-a-while.md) — 2021-01-07
+- [Nvidia - Failed to open Light Display Manager - lightdm issue - switch to sddm](posts/nvidia-failed-to-open-light-display-manager-lightdm-issue-switch-to-sddm.md) — 2021-01-08
+- [Failed to start light display manager - giving misinformation to Xorg](posts/failed-to-start-light-display-manager-giving-misinformation-to-xorg.md) — 2021-01-09
+- [How to automount a harddisk after booting up](posts/how-to-automount-a-harddisk-after-booting-up.md) — 2021-01-09
+- [How to get the best Arch Linux servers to update your system](posts/how-to-get-the-best-arch-linux-servers-to-update-your-system.md) — 2021-01-18
+- [A quick tutorial how to set up obs-studio](posts/a-quick-tutorial-how-to-set-up-obs-studio.md) — 2021-02-05
+- [Changing your shell from bash to zsh and back - any desktop](posts/changing-your-shell-from-bash-to-zsh-and-back-any-desktop.md) — 2021-02-12
+- [How to install Samba on any ArcoLinux system](posts/how-to-install-samba-on-any-arcolinux-system.md) — 2021-04-03
+- [Possible rescue when you run into issues with the livedvd](posts/possible-rescue-when-you-run-into-issues-with-the-livedvd.md) — 2021-04-04
+- [How to get your submicron wallpapers back and install the new mirrorlist for pacman.conf](posts/how-to-get-you-submicron-wallpapers-back-and-install-the-new-mirrorlist-for-pacman-conf.md) — 2021-04-08
+- [Superfast update of ArcoLinux](posts/superfast-update-of-arcolinux.md) — 2021-04-11
+- [How to set/play with the ArcoLinux Logout application, the ArcoLinux Betterlockscreen and the lock screen](posts/how-to-set-play-with-the-arcolinux-logout-application-the-arcolinux-betterlockscreen-and-the-lock-screen.md) — 2021-08-20
+- [Provide us with technical data of your computer with probe so we can assist you](posts/provide-us-with-technical-data-of-your-computer-with-probe-so-we-can-assist-you.md) — 2021-08-21
+- [Everything you need to know about the ArcoLinux Desktop Trasher](posts/everything-you-need-to-know-about-the-arcolinux-desktop-trasher.md) — 2021-09-09
+- [How to install VirtualBox from A to Z and learn to use it](posts/how-to-install-virtualbox-from-a-till-z.md) — 2021-10-21
+- [Where do I find icons for Polybar - how do I change them](posts/where-do-i-find-icons-for-polybar-how-do-i-change-them.md) — 2021-10-22
+- [Installing ArcoLinux on Windows 11](posts/installing-arcolinux-on-windows-11.md) — 2021-11-27
+- [Removing ArcoLinux from Windows 11](posts/removing-arcolinux-from-windows-11.md) — 2021-11-27
+- [Windows 11 can not be installed - PCH-FW restriction](posts/windows-11-can-not-be-installed-pch-fw-restriction.md) — 2021-11-27
+- [Install ArcoLinux on Windows 11 on Vmware 16](posts/install-arcolinux-on-windows-11-on-vmware-16.md) — 2021-11-27
+- [Install ArcoLinux on Windows 11 on VirtualBox](posts/install-arcolinux-on-windows-11-on-virtualbox.md) — 2021-11-27
+- [How to dual boot Windows 11 and ArcoLinux](posts/how-to-dual-boot-windows-11-and-arcolinux.md) — 2021-11-27
+- [What does Erik install on Windows 11 for work and play](posts/what-does-erik-install-on-windows-11-for-work-and-play.md) — 2021-11-27
+- [Dual booting Windows 11 encrypted and ArcoLinux on a laptop](posts/dual-booting-windows-11-encrypted-and-arcolinux-on-a-laptop.md) — 2021-11-27
+- [Installing Windows 11 with secure boot enabled](posts/installing-windows-11-with-secure-boot-enabled.md) — 2021-11-27
+- [All you need to know about BTRFS](posts/all-you-need-to-know-about-btrfs.md) — 2022-02-04
+- [Use envycontrol to switch between intel/amd and your nvidia graphical card](posts/use-envycontrol-to-switch-between-intel-amd-and-your-nvidia-graphical-card.md) — 2022-02-14
+- [How to install mpd and ncmpcpp on any ArcoLinux desktop](posts/how-to-install-mpd-and-ncmpcpp-on-any-arcolinux-desktop.md) — 2022-02-14
+- [Use our knowledge and create your own icon theme combo - use github to saveguard your work - create your repository](posts/use-our-knowledge-and-create-your-own-icon-theme-combo-use-github-to-saveguard-your-work.md) — 2022-02-23
+- [Add your personal aliases to bashrc the smart way](posts/add-your-personal-aliases-to-bashrc-the-smart-way.md) — 2022-03-15
+- [Add your personal aliases to zsh the smart way](posts/add-your-personal-aliases-to-zsh-the-smart-way.md) — 2022-03-15
+- [Add your personal aliases to fish the smart way](posts/add-your-personal-aliases-to-fish-the-smart-way.md) — 2022-03-15
+- [Use asciinema to show what goes on in your terminal](posts/use-asciinema-to-show-what-goes-on-in-your-terminal.md) — 2022-03-19
+- [Use hblock to improve your security and privacy by blocking ads, tracking and malware domains](posts/use-hblock-to-improve-your-security-and-privacy-by-blocking-ads-tracking-and-malware-domains.md) — 2022-03-20
+- [How to install the Xanmod kernel](posts/how-to-install-the-xanmod-kernel.md) — 2022-04-02
+- [Everything you need to know about keys](posts/everything-you-need-to-know-about-keys.md) — 2022-10-02
+- [Installing Windows 11 on VirtualBox on Arcolinux with two separate UEFI partitions](posts/installing-windows-11-on-virtualbox-on-arcolinux-with-two-separate-uefi-partitions.md) — 2022-10-12
+- [How to install the linux-clear kernel or build it](posts/how-to-install-the-linux-clear-kernel-or-build-it.md) — 2023-02-23
+- [Creating radar grub theme](posts/creating-radar-grub-theme.md) — 2023-03-04
+- [Looking for an Office application on Linux](posts/looking-for-an-office-application-on-linux.md) — 2023-03-28
+- [Everything you need to know about Sofirem](posts/everything-you-need-to-know-about-sofirem.md) — 2023-06-22
+- [Learning about grub - tools to analyze](posts/learning-about-grub-tools-to-analyze.md) — 2024-03-21
+- [Nvidia-all from Frogging Family](posts/nvidia-all-from-frogging-family.md) — 2024-03-22
+- [Calamares - all you need to know](posts/calamares-all-you-need-to-know.md) — 2024-04-20
+- [Installing W11 - dual boot with ArcoLinux and testing the three bootloaders - grub - systemd-boot - refind](posts/installing-w11-dual-boot-with-arcolinux-and-testing-the-three-bootloaders-grub-systemd-boot-refind.md) — 2024-04-21
+- [Lets talk about Grub](posts/lets-talk-about-grub.md) — 2024-04-22
+- [Lets talk about systemd-boot](posts/lets-talk-about-systemd-boot.md) — 2024-04-22
+- [Lets talk about refind](posts/lets-talk-about-refind.md) — 2024-04-22
+- [How to download and install a kernel from Chaotic-aur repo with a script](posts/how-to-download-and-install-a-kernel-from-chaotic-aur-repo-with-a-script.md) — 2025-01-06
+- [Learning about Emptty - login manager or display manager](posts/learning-about-emptty-login-manager-or-display-manager.md) — 2025-01-25
+
