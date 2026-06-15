@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026.06.15
+
+### What Changed
+
+- The assistant now always renders the YouTube channel as a clickable markdown
+  link in its answers (browse, topic-search, and community/off-topic pointers),
+  never a bare URL — same for individual video links.
+
+### Technical Details
+
+- Added a "Always make the YouTube channel a clickable link" rule to the
+  "How to answer" section of `CLAUDE.md`, with the canonical channel and
+  topic-search link forms.
+
+### Files Modified
+
+- `CLAUDE.md`
+
 ## 2026.06.14
 
 ### What Changed

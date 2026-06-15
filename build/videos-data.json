@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-15T05:10:21Z",
+  "last_published": "2026-06-15T05:46:31Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -222,6 +222,13 @@
       "summary": "A whatif - can we automatically rebuild Calamares when it crashes You will need internet to do so If you want to build it manually you need to copy/paste the pkgbuild folder from Calamares to your own home directory of the liveuser to have write permissions Forgot to tell that\u2026",
       "title": "Kiro 019 : Calamares will be built automatically when it crashes",
       "website": false
+    },
+    "AvfbE1Ga5J8": {
+      "cls": "caps",
+      "id": "AvfbE1Ga5J8",
+      "published": "2026-06-15T05:46:31Z",
+      "summary": "Kiro Assistant is the AI built into your system \u2014 a knowledge base you can ask in plain language instead of digging through wikis, forums, and scattered websites. Launch it from the menu or the command, ask your question, and it searches our own knowledge base and points you\u2026",
+      "title": "KIRO 110 : Help me train kiro-assistent"
     },
     "BZG2LmpIpH8": {
       "cls": "low",

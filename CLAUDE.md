@@ -55,6 +55,13 @@ may be empty on a fresh install; that is normal.
   link it. Only after that grep comes up empty may you say there is no dedicated
   video — and even then, send the user to **search the channel** rather than
   stating flatly that nothing exists.
+- **Always make the YouTube channel a clickable link.** Whenever an answer
+  points the user to Erik's YouTube channel — to browse, to search, or as the
+  community/off-topic pointer — render it as a clickable markdown link, never a
+  bare URL. Use [Erik's YouTube channel](https://www.youtube.com/@ErikDubois),
+  or for a topic search [search Erik's channel for <term>](https://www.youtube.com/@ErikDubois/search?query=<term>)
+  with the term URL-encoded. The same goes for individual video links: present
+  them as `[title](url)`, not as raw URLs.
 
 ## Tone
 
