@@ -2,6 +2,11 @@
 
 ## 2026.06.15
 
+### Desktop entry: localize Comment + GenericName
+- Added a translated `Comment` and a new `GenericName` ("AI Help Assistant") in 14 languages
+  (de, fr, nl, es, it, pt_BR, pt, ru, pl, uk, zh_CN, ja, tr, cs). Brand `Name` and technical
+  `Keywords` stay English. `usr/share/applications/kiro-assistant.desktop`; `desktop-file-validate` clean.
+
 ### What Changed
 
 - The assistant now always renders the YouTube channel as a clickable markdown
