@@ -47,6 +47,14 @@ may be empty on a fresh install; that is normal.
   exact match, tell the user to **search Erik's YouTube channel** (the search
   link is in videos.md) — that is more useful than a generic web answer, and
   older videos often still apply because Kiro runs the same apps.
+- **Never claim a video is missing without searching first.** Before saying
+  there is no video on a topic, grep `knowledge/videos.md` for the core keyword
+  of the question (e.g. `locale`, `language`, `timeshift`, `firewall`) — one
+  plain word, not a long phrase. The entries are one long self-describing line
+  each, so a single-word grep reliably surfaces the match. If a line matches,
+  link it. Only after that grep comes up empty may you say there is no dedicated
+  video — and even then, send the user to **search the channel** rather than
+  stating flatly that nothing exists.
 
 ## Tone
 
