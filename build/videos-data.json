@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-15T05:46:31Z",
+  "last_published": "2026-06-17T13:25:31Z",
   "videos": {
     "-jsbjR8Vj-s": {
       "cls": "caps",
@@ -198,6 +198,13 @@
       "summary": "",
       "title": "KIRO 021 : New code and theme for Calamares - sneak peak",
       "website": true
+    },
+    "9tOOKTulr_0": {
+      "cls": "caps",
+      "id": "9tOOKTulr_0",
+      "published": "2026-06-15T13:59:08Z",
+      "summary": "In this tutorial we change the system language on Kiro and watch the whole desktop follow along. Using the locale dropdown in the ArchLinux Tweak Tool (ATT) we switch to Italian, but the exact same steps work for German, French, Spanish or any language you like. Once the locale\u2026",
+      "title": "KIRO 111 : Change your system language and translate your home folders on Kiro"
     },
     "AFPiyVXmyGc": {
       "cls": "low",
@@ -1024,6 +1031,13 @@
       "summary": "In this tutorial I sit down with Claude Code (Opus 4.8) and tackle the job I always dread the most when building a window manager package \u2014 merging key bindings and config files by hand. The idea: take the colors and design I love from DistroTube's Qtile config, combine them\u2026",
       "title": "KIRO 011 : Merging Two Qtile Configs with Claude Code (Opus 4.8) \u2014 DistroTube's Look, My Keybindings",
       "website": false
+    },
+    "iYrcVundplo": {
+      "cls": "caps",
+      "id": "iYrcVundplo",
+      "published": "2026-06-17T13:25:31Z",
+      "summary": "People ask me all the time: \"Erik, do you have a video on this?\" With 5800 videos online, even YouTube's own search does not always surface the right one. So I built a Kiro assistant on top of Claude AI that knows my whole catalog by title, tag and description. When a viewer\u2026",
+      "title": "KIRO 112 : How the Kiro Assistent helps me and can help you - search its knowledge base"
     },
     "iZS6whnKfX0": {
       "cls": "caps",

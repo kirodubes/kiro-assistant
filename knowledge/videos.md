@@ -50,7 +50,7 @@ first stop for a new user.
 
 ## 2. The KIRO series (current Kiro tutorials)
 
-The numbered KIRO series — 112 videos, the up-to-date tutorials
+The numbered KIRO series — 114 videos, the up-to-date tutorials
 for Kiro as it ships today. Listed in series order (start low, or jump to
 a topic by keyword in the title).
 
@@ -166,6 +166,8 @@ a topic by keyword in the title).
 - [KIRO 108 : Vorta and Borg backups to an external SSD, with AI fixing the permissions](https://youtu.be/2KVlzbL9xfY) — After the Pika Backup video, here is the next backup tool worth knowing: Vorta, a friendly desktop front-end for Borg (BorgBackup). Borg gives you deduplicated, compressed backups, and Vorta puts a calm interface on top of it. The goal here is simple and honest: a local copy of…
 - [KIRO 109 : Change your system language and locale after install with ArchLinux Tweak Tool](https://youtu.be/U6ASrLHfbeU) — ArchLinux Tweak Tool (ATT) can now change your system language and locale long after the install is finished. Pick a new language, apply it, and your desktop comes back translated — no reinstall, no hand-editing config files. This one started as a user idea. After about ten…
 - [KIRO 110 : Help me train kiro-assistent](https://youtu.be/AvfbE1Ga5J8) — Kiro Assistant is the AI built into your system — a knowledge base you can ask in plain language instead of digging through wikis, forums, and scattered websites. Launch it from the menu or the command, ask your question, and it searches our own knowledge base and points you…
+- [KIRO 111 : Change your system language and translate your home folders on Kiro](https://youtu.be/9tOOKTulr_0) — In this tutorial we change the system language on Kiro and watch the whole desktop follow along. Using the locale dropdown in the ArchLinux Tweak Tool (ATT) we switch to Italian, but the exact same steps work for German, French, Spanish or any language you like. Once the locale…
+- [KIRO 112 : How the Kiro Assistent helps me and can help you - search its knowledge base](https://youtu.be/iYrcVundplo) — People ask me all the time: "Erik, do you have a video on this?" With 5800 videos online, even YouTube's own search does not always surface the right one. So I built a Kiro assistant on top of Claude AI that knows my whole catalog by title, tag and description. When a viewer…
 
 ## 3. Older Kiro videos (release history and earlier how-tos)
 

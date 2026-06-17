@@ -24,10 +24,10 @@ Browse-the-whole-series links for Kiro itself. Prefer the individual
 videos in [videos.md](./videos.md) first; these are for when the user
 wants everything in one place.
 
-- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 103 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
+- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 105 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
 - [KIRO AI](https://www.youtube.com/playlist?list=PLlloYVGq5pS4YHErtuybVdRJttrjRwceS) — 22 videos — Using AI tooling on Kiro.
 - [KIRO overview](https://www.youtube.com/playlist?list=PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M) — 19 videos — High-level overviews of what Kiro is and ships.
-- [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 10 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
+- [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 11 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
 - [Kiro](https://www.youtube.com/playlist?list=PLlloYVGq5pS71UubmlKjjw131PjixMIjW) — 56 videos — Kiro videos.
 - [Kiro installation](https://www.youtube.com/playlist?list=PLlloYVGq5pS4P7RFxDI415Qc7LWZFfmfu) — 27 videos — Installing Kiro from the ISO.
 - [Kiro news](https://www.youtube.com/playlist?list=PLlloYVGq5pS5hQirRg8v_6iboKh3d42WX) — 17 videos — Kiro release news and announcements.
