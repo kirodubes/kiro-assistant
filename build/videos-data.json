@@ -1,6 +1,13 @@
 {
-  "last_published": "2026-06-17T13:25:31Z",
+  "last_published": "2026-06-21T18:46:11Z",
   "videos": {
+    "--PJ5MxTTE8": {
+      "cls": "caps",
+      "id": "--PJ5MxTTE8",
+      "published": "2026-06-21T08:02:29Z",
+      "summary": "When you build ISOs or compile packages, your CPU works hard and your machine heats up. So why not keep an eye on it right from your desktop? In this video I add CPU and temperature monitor widgets to the KDE Plasma panel on Kiro, and tune them until they look exactly the way I\u2026",
+      "title": "KIRO 121 : KDE Plasma CPU and temperature widgets \u2014 monitor your system while building on Kiro"
+    },
     "-jsbjR8Vj-s": {
       "cls": "caps",
       "id": "-jsbjR8Vj-s",
@@ -143,6 +150,13 @@
       "summary": "The full members deep dive: comparing eight Linux kernels on Arch and Kiro, start to finish, side by side with Claude. What we go through: - which kernels Arch-based distros actually ship, and why stock linux still dominates - a 20-distro table of who ships what - cloning and\u2026",
       "title": "KIRO 008 : MEMBER - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
       "website": false
+    },
+    "5XrcXFwdyZM": {
+      "cls": "caps",
+      "id": "5XrcXFwdyZM",
+      "published": "2026-06-21T04:20:29Z",
+      "summary": "The Kiro ISO Builder just learned a new trick: when you pick a desktop environment, it can now show you extra options made just for that desktop. KDE Plasma is the first experiment, and in this tutorial I walk through what that looks like end to end. Launch the builder with KIB\u2026",
+      "title": "KIRO 117 : Build a custom KDE Plasma ISO: per-desktop options in the Kiro ISO Builder"
     },
     "5oEH5XjMmpU": {
       "cls": "caps",
@@ -389,6 +403,13 @@
       "title": "Kiro 013 : new kiro-nemesis scripts - Building, installing and showing the new kiro-nemesis scripts",
       "website": false
     },
+    "I0FDprO4sAw": {
+      "cls": "caps",
+      "id": "I0FDprO4sAw",
+      "published": "2026-06-18T07:53:23Z",
+      "summary": "FastFetch just got a fresh new look on Kiro, and in this tutorial I show you how to pull that update onto a system you have already installed - no reinstall needed. We start with the new FastFetch output: a cleaner layout, the right glyphs and icons from a Nerd Font, and the\u2026",
+      "title": "KIRO 113 : FastFetch New Look on Kiro, Sync Dotfiles with kiro-skell and Protect Configs with Meld"
+    },
     "Ij5pFJzT208": {
       "cls": "low",
       "id": "Ij5pFJzT208",
@@ -396,6 +417,13 @@
       "summary": "info git clone https://github.com/erikdubois/arcolinux-nemesis ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github :\u2026",
       "title": "Kiro 030 : Kiro 26.01.01 ISO - installation + arcolinux-nemesis scripts",
       "website": false
+    },
+    "J9V42GR9khg": {
+      "cls": "caps",
+      "id": "J9V42GR9khg",
+      "published": "2026-06-18T13:14:48Z",
+      "summary": "From 6.5 GB to 3.4 GB just one kernel - no browsers, no editors, no to so many things - still the feel and design of Kiro -- BTRFS, snapper and encrypted A minimal Kiro ISO with packages you can deselect in the Kiro ISO Builder, full-disk LUKS encryption, and Btrfs snapshots you\u2026",
+      "title": "KIRO 114 : Build a minimal Kiro ISO 3.4 GB : Deselect all packages, Btrfs snapshots, luks & rollback"
     },
     "J_aLS7EAnI8": {
       "cls": "caps",
@@ -651,6 +679,13 @@
       "summary": "how will it look will there be errors anything missing arcolinux projects will not receive updates kiro will receive updates irregularly ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 012 : What if we remove all EDU packages from the Kiro packages list and build an ISO",
       "website": false
+    },
+    "SM68-fNA7KQ": {
+      "cls": "caps",
+      "id": "SM68-fNA7KQ",
+      "published": "2026-06-19T04:38:35Z",
+      "summary": "Need help on Kiro and not sure what to send us? This short walkthrough shows the fastest, safest way to report a bug: one command, kiro-report, that builds a complete diagnostic log you can paste straight onto the Kiro Discussions board. The flow is simple. First run a system\u2026",
+      "title": "KIRO 115 : kiro-report: one command for a privacy-safe bug report on Kiro"
     },
     "SdfCZFtoBws": {
       "cls": "caps",
@@ -968,6 +1003,13 @@
       "title": "Kiro 044 : Kiro ISO v26.05.01 - what is new  - 4/8 - edu-system-files",
       "website": false
     },
+    "d4hvnmaRgIo": {
+      "cls": "caps",
+      "id": "d4hvnmaRgIo",
+      "published": "2026-06-21T18:46:11Z",
+      "summary": "Icon themes make or break the look of a desktop, and on the Kiro ISO the Surfn icon theme just got a lot more flexible. Until now the Surfn collection was one big monolithic package: install it and you pulled in everything, whether you wanted it or not. It is now split into\u2026",
+      "title": "KIRO 122 : Icon themes on Kiro: splitting the Surfn pack so you install only what you want"
+    },
     "dVH4Gn3vYjM": {
       "cls": "caps",
       "id": "dVH4Gn3vYjM",
@@ -1032,6 +1074,13 @@
       "title": "KIRO 011 : Merging Two Qtile Configs with Claude Code (Opus 4.8) \u2014 DistroTube's Look, My Keybindings",
       "website": false
     },
+    "h0tyOmywFmg": {
+      "cls": "caps",
+      "id": "h0tyOmywFmg",
+      "published": "2026-06-21T06:08:18Z",
+      "summary": "KDE Plasma is now one of the desktop choices on the Kiro ISO, sitting right alongside MATE, Cinnamon, GNOME, Budgie and the full set of tiling window managers. In this session I install Plasma in a virtual machine and start shaping it into something that feels like home out of\u2026",
+      "title": "KIRO 118 : KDE Plasma comes to Kiro \u2014 theming, keybindings and service menus"
+    },
     "iYrcVundplo": {
       "cls": "caps",
       "id": "iYrcVundplo",
@@ -1094,6 +1143,13 @@
       "summary": "This is a short one, but it matters: I want to hear from you. What would you like the members-only Kiro videos to actually be about? A quick word on the two ways people back the channel, because they're not the same thing. If you're a supporter, you're here simply because you\u2026",
       "title": "KIRO 049 : Kiro Linux members: what do you want to see in the members-only videos?",
       "website": false
+    },
+    "l6MJM3o2NzQ": {
+      "cls": "caps",
+      "id": "l6MJM3o2NzQ",
+      "published": "2026-06-21T07:29:58Z",
+      "summary": "The best way to test a system is to actually work on it. So that is exactly what I am doing here: running a fresh Kiro ISO on real hardware, downloaded only an hour before recording, and using it the way any other user would. Instead of reaching for my usual scripts, I went the\u2026",
+      "title": "KIRO 120 : KDE Plasma audio visualizer widget with Cava \u2014 a relaxing music desktop on Kiro"
     },
     "lOXbZ_B2y6E": {
       "cls": "caps",
@@ -1182,6 +1238,13 @@
       "title": "KIRO 013 : Timeshift on Kiro: the system backup safety net Arch never gave you",
       "website": true
     },
+    "nlMeioO6c2s": {
+      "cls": "caps",
+      "id": "nlMeioO6c2s",
+      "published": "2026-06-21T06:09:37Z",
+      "summary": "The Kiro Plasma ISO is going online. In this follow-up I show you exactly what is inside the build I am uploading to SourceForge, why I made the choices I did, and how to install it \u2014 so you know what you are downloading before you ever burn it. This is a work-in-progress build.\u2026",
+      "title": "KIRO 119 : Download the Kiro Plasma ISO \u2014 a work-in-progress KDE Plasma build with the LTS kernel"
+    },
     "oGJcu2XEBmg": {
       "cls": "caps",
       "id": "oGJcu2XEBmg",
@@ -1269,6 +1332,13 @@
       "summary": "Start with this video - https://youtu.be/Bo90wWSJQTc we add the arcolinux-repos and from there we install packages with the arcolinuxd scripts ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Kiro 016 : Installing Jwm on Kiro - workflow video to install any desktop/twm from Arco",
       "website": false
+    },
+    "tU9GvyDA_BU": {
+      "cls": "caps",
+      "id": "tU9GvyDA_BU",
+      "published": "2026-06-20T19:38:55Z",
+      "summary": "A custom GRUB theme turns the plain black boot menu into a branded boot screen with the Kiro logo and per-OS icons. In this tutorial we add that theme when you pick GRUB as your bootloader at install time, then open it up so you understand exactly how GRUB knows to use it \u2014 no\u2026",
+      "title": "KIRO 116 : Custom GRUB theme on Kiro: a branded boot menu with logo and OS icons"
     },
     "u1rkc1kZ6nc": {
       "cls": "caps",
