@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-21T18:46:11Z",
+  "last_published": "2026-06-27T12:02:52Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -119,6 +119,13 @@
       "summary": "After the Pika Backup video, here is the next backup tool worth knowing: Vorta, a friendly desktop front-end for Borg (BorgBackup). Borg gives you deduplicated, compressed backups, and Vorta puts a calm interface on top of it. The goal here is simple and honest: a local copy of\u2026",
       "title": "KIRO 108 : Vorta and Borg backups to an external SSD, with AI fixing the permissions"
     },
+    "3MmRgd5AS14": {
+      "cls": "caps",
+      "id": "3MmRgd5AS14",
+      "published": "2026-06-26T07:25:44Z",
+      "summary": "n this video I hand a real package-management job to Claude Code and watch an AI assistant do the work end to end. The task: take kiro-shells \u2014 the single package that ships Bash, ZSH and Fish on Kiro \u2014 and split it into three independent packages: kiro-bash-config,\u2026",
+      "title": "KIRO 131 : Claude Code split my package into three and rewired the repo while I walked away"
+    },
     "3jdKH6bLgUE": {
       "cls": "caps",
       "id": "3jdKH6bLgUE",
@@ -180,6 +187,13 @@
       "summary": "On a tiling window manager your whole setup lives in ~/.config, so a system update never overwrites it and your customisations stay safe. The trade-off: new default configs land in /etc/skel and are not applied automatically. This video shows how to see exactly what changed with\u2026",
       "title": "KIRO 014 : Compare Linux Configs with Meld and Restore Defaults Safely After Updates",
       "website": false
+    },
+    "98RYd5UtqgQ": {
+      "cls": "low",
+      "id": "98RYd5UtqgQ",
+      "published": "2026-06-27T12:02:52Z",
+      "summary": "download them there This morning I built a whole set of colorful GTK themes for the Kiro desktop \u2014 dozens of color variants \u2014 and in this video I install them live and explain why they look the way they do. Here is the part most theming tutorials skip. By default the system\u2026",
+      "title": "Edu 114 : Colorful GTK themes for Kiro \u2014 dozens of color variants to customize your desktop"
     },
     "9Ddzyd0FfVc": {
       "cls": "caps",
@@ -363,6 +377,13 @@
       "title": "Edu 073 : BUILDRA ISO - project is synced with KIRO - build if you want to test it - BYOI",
       "website": false
     },
+    "F6evPtVfr6E": {
+      "cls": "caps",
+      "id": "F6evPtVfr6E",
+      "published": "2026-06-26T08:53:49Z",
+      "summary": "In this one I run a small experiment: can I get Claude to design new application icons that match the look of the ones we already ship on the Kiro ISO? The whole point is AI as a real tool in your workflow, not a black box you hope gets it right. We start by reading the existing\u2026",
+      "title": "KIRO 132 : Create matching SVG icons with a reusable Claude AI command"
+    },
     "F75w6CNJ4gA": {
       "cls": "caps",
       "id": "F75w6CNJ4gA",
@@ -370,6 +391,13 @@
       "summary": "Want to try every tiling window manager on Arch Linux without installing them one by one? The ArchLinux Tweak Tool (ATT) has a Development page that installs them all in a single click, and in this video I walk through it on a virtual machine. Open ATT, head to the Development\u2026",
       "title": "KIRO 045 : Install Every Tiling Window Manager at Once \u2014 ATT's Developer Page",
       "website": false
+    },
+    "G2SSsWLXKdw": {
+      "cls": "caps",
+      "id": "G2SSsWLXKdw",
+      "published": "2026-06-26T07:09:57Z",
+      "summary": "ArchLinux Tweak Tool (ATT) just picked up a fresh GTK4 update and a new feature called Shelly. In this tutorial we walk through the software side of ATT on Kiro: how to pick the package manager you actually want, browse and install from Pacman, search the AUR, and drop an\u2026",
+      "title": "KIRO 130 : ArchLinux Tweak Tool adds Shelly for all your software needs on Kiro"
     },
     "GBXz9ZgoiZw": {
       "cls": "low",
@@ -409,6 +437,13 @@
       "published": "2026-06-18T07:53:23Z",
       "summary": "FastFetch just got a fresh new look on Kiro, and in this tutorial I show you how to pull that update onto a system you have already installed - no reinstall needed. We start with the new FastFetch output: a cleaner layout, the right glyphs and icons from a Nerd Font, and the\u2026",
       "title": "KIRO 113 : FastFetch New Look on Kiro, Sync Dotfiles with kiro-skell and Protect Configs with Meld"
+    },
+    "I5-pxofpYLo": {
+      "cls": "caps",
+      "id": "I5-pxofpYLo",
+      "published": "2026-06-24T07:58:26Z",
+      "summary": "A new ArchLinux Tweak Tool (ATT) update is out, and it brings a whole batch of fresh icon themes. Update your system and you will find them waiting for you. The idea behind this release is simple but powerful: an icon theme is not only about your folders. You can mix the\u2026",
+      "title": "KIRO 123 : New icon themes in ArchLinux Tweak Tool: mix app and folder icons your way"
     },
     "Ij5pFJzT208": {
       "cls": "low",
@@ -537,6 +572,13 @@
       "title": "KIRO 028 : AI - collaboration - change all 7 twms in one go - prompting matters",
       "website": false
     },
+    "MCnA7pNqQfE": {
+      "cls": "caps",
+      "id": "MCnA7pNqQfE",
+      "published": "2026-06-27T08:05:01Z",
+      "summary": "Can one GTK theme become 55? In this tutorial I use Claude Code to generate dozens of color variants of the Celestial GTK theme \u2014 a fully customizable, Arc-based GTK desktop theme \u2014 straight from the Arc named color palette. It starts with a simple question: \"Can I make more\u2026",
+      "title": "KIRO 136 : Generate 55 GTK themes with Claude Code from the Arc color palette - Celestial theme"
+    },
     "MF0vYTAke2Q": {
       "cls": "caps",
       "id": "MF0vYTAke2Q",
@@ -544,6 +586,13 @@
       "summary": "If you run a dual, triple, or quadruple monitor setup on a Linux tiling window manager, this is the simple fix for screens that never line up and a mouse that gets stuck between them. In this tutorial I use arandr, a small graphical front-end for xrandr, to arrange the displays\u2026",
       "title": "KIRO 042 : Multi-monitor setup for tiling window managers with arandr - save it once",
       "website": false
+    },
+    "MMBowvChJcE": {
+      "cls": "caps",
+      "id": "MMBowvChJcE",
+      "published": "2026-06-26T13:17:12Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. Fish shell config, done the way a distro should do it. In this build we keep working on the Fish Tweak Tool for Kiro and rebuild how the Fish shell config is delivered\u2026",
+      "title": "KIRO 133 : teaser - Fish shell config done right: two-tier delivery on Kiro with Claude"
     },
     "Mq4DHw7Wwu0": {
       "cls": "low",
@@ -576,6 +625,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 039 : New release for Kiro ISO v26.04.01 - Easter egg in the video - work in progress",
       "website": false
+    },
+    "NgDtIga-R5o": {
+      "cls": "caps",
+      "id": "NgDtIga-R5o",
+      "published": "2026-06-26T13:40:22Z",
+      "summary": "Thank you for being a member \u2014 this is the full build, start to finish. Fish shell config, done the way a distro should do it. In this session we keep working on the Fish Tweak Tool for Kiro and rebuild how the Fish shell config is delivered \u2014 a clean two-tier layout that lets\u2026",
+      "title": "KIRO 134 : MEMBER - Fish shell config done right: two-tier delivery on Kiro with Claude"
     },
     "NruhQ5N-uY0": {
       "cls": "caps",
@@ -616,6 +672,13 @@
       "summary": "Create a Kiro wallpaper \u2014 and let's share them Over the years I've been sent some genuinely beautiful wallpapers for ArcoLinux. Creative work, often things I could never have made myself. I was still using some of them right through my last year of sabbatical. So I'd love to\u2026",
       "title": "KIRO 002 : Create a Kiro wallpaper \u2014 let's share them",
       "website": false
+    },
+    "PSY8zLwLCW8": {
+      "cls": "caps",
+      "id": "PSY8zLwLCW8",
+      "published": "2026-06-27T09:09:27Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. In this session I build Fish Tweak Tool \u2014 a complete GTK4 GUI for configuring the Fish shell \u2014 live with Claude Code, from an empty repo to a signed package you can\u2026",
+      "title": "KIRO 137 : teaser - Building Fish Tweak Tool with Claude Code - 2 hours in MEMBERS video"
     },
     "PhShyJtTMBE": {
       "cls": "low",
@@ -757,6 +820,13 @@
       "title": "KIRO 067 : MEMBER - Build your own ISO: AI-assisted Linux distro development with Claude Code",
       "website": false
     },
+    "UwWiRpGP-0w": {
+      "cls": "caps",
+      "id": "UwWiRpGP-0w",
+      "published": "2026-06-25T19:47:39Z",
+      "summary": "Thank you for being a member. This is the full design session. This is how I plan a brand-new app with Claude Code before writing a single line of code: a Fish shell config tweak tool for the Kiro project, thought through out loud over Fish shell, AI pair programming, and one\u2026",
+      "title": "KIRO 129 : MEMBER - Designing a Fish shell config tool with Claude Code, no code yet"
+    },
     "V2NJ0gVz_0A": {
       "cls": "caps",
       "id": "V2NJ0gVz_0A",
@@ -813,6 +883,13 @@
       "title": "KIRO 025 : ATT Build Performance: Reserve Cores for a Responsive Desktop",
       "website": false
     },
+    "XAyR7v8DVrE": {
+      "cls": "caps",
+      "id": "XAyR7v8DVrE",
+      "published": "2026-06-26T14:59:22Z",
+      "summary": "Fish is now the default shell in Kiro, but the real story in this one is the delivery system \u2014 how the Fish config reaches you, and how it gets out of your way for good. Open a clean Kiro machine and you land in Fish. Don't like it? Switch to Bash or Zsh with a single command\u2026",
+      "title": "KIRO 135 : Fish shell by default \u2014 config that never overwrites your customizations on Kiro"
+    },
     "XP2VBOSpFGY": {
       "cls": "caps",
       "id": "XP2VBOSpFGY",
@@ -828,6 +905,13 @@
       "summary": "Btrfs snapshots turn every update into a safe one. In this tutorial we set up automatic snapshots on Kiro so that every package change takes a snapshot before and after it happens \u2014 and if an update ever breaks your system, you roll back to the moment before it and carry on. It\u2026",
       "title": "KIRO 057 : Btrfs snapshots on Kiro: roll back any broken update in seconds",
       "website": false
+    },
+    "XZgGPBVd04c": {
+      "cls": "caps",
+      "id": "XZgGPBVd04c",
+      "published": "2026-06-27T09:26:23Z",
+      "summary": "Today marks the birth of a brand-new tool: the Fish Tweak Tool (FTT), the Fish-shell companion to the ArchLinux Tweak Tool (ATT). If you live in the Fish shell, FTT gives you one calm place to shape it - prompts, plugins, themes and your greeting - either with one click or one\u2026",
+      "title": "KIRO 139 : Fish Tweak Tool: one-click Fish shell prompts, plugins and themes on Kiro"
     },
     "Y9aDgI70Hbw": {
       "cls": "caps",
@@ -932,6 +1016,13 @@
       "title": "Kiro 043 : Kiro ISO v26.05.01 - what is new  - 7/8 - edu-dot-files",
       "website": false
     },
+    "a8TLGST5PvM": {
+      "cls": "caps",
+      "id": "a8TLGST5PvM",
+      "published": "2026-06-24T11:57:35Z",
+      "summary": "The Kiro ISO builder lets you build your own custom Kiro ISO, and in this one we walk through the brand-new KDE Plasma desktop that ships with it. Launch the builder, point it at where you want the ISO to land, pick your edition, and you get a clean, professional Plasma look\u2026",
+      "title": "KIRO 125 : New Plasma Kiro Iso going online - use Kiro Iso Builder to create your own version"
+    },
     "aA7JI0-gi1o": {
       "cls": "caps",
       "id": "aA7JI0-gi1o",
@@ -970,6 +1061,13 @@
       "published": "2026-06-14T05:09:18Z",
       "summary": "There is a new Kiro ISO, dated the 14th of June, and it carries the biggest change we have made under the hood in a long time: Kiro now signs its packages. Why the change? After the recent security note from upstream about malicious packages slipping into repositories, we\u2026",
       "title": "KIRO 101 : Signed packages on Kiro: new ISO, keyring and pacman.conf explained"
+    },
+    "bbpf9uAwoZk": {
+      "cls": "caps",
+      "id": "bbpf9uAwoZk",
+      "published": "2026-06-25T19:45:35Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. Watch how I plan a brand-new app with Claude Code before writing a single line of code: a Fish shell config tweak tool for the Kiro project. This is a live design\u2026",
+      "title": "KIRO 128 : teaser - Designing a Fish shell config tool with Claude Code, no code yet"
     },
     "bkHwiITw5HY": {
       "cls": "low",
@@ -1050,6 +1148,13 @@
       "title": "Kiro 020 : Flexi - a personal DWM based on dwm-flexipatch from bakkeby",
       "website": false
     },
+    "g-hocPziuI0": {
+      "cls": "caps",
+      "id": "g-hocPziuI0",
+      "published": "2026-06-24T18:42:25Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. In this video I sit down with Claude AI and run an exploratory study before writing a single line of code. The idea: a GUI configuration tool for the fish shell, a\u2026",
+      "title": "KIRO 126 : teaser - Fish Shell Tweak Tool: planning a GUI configurator with Claude AI - only 10 min"
+    },
     "gHqD-LsV-4A": {
       "cls": "caps",
       "id": "gHqD-LsV-4A",
@@ -1080,6 +1185,13 @@
       "published": "2026-06-21T06:08:18Z",
       "summary": "KDE Plasma is now one of the desktop choices on the Kiro ISO, sitting right alongside MATE, Cinnamon, GNOME, Budgie and the full set of tiling window managers. In this session I install Plasma in a virtual machine and start shaping it into something that feels like home out of\u2026",
       "title": "KIRO 118 : KDE Plasma comes to Kiro \u2014 theming, keybindings and service menus"
+    },
+    "h1Z_3eAUjGk": {
+      "cls": "caps",
+      "id": "h1Z_3eAUjGk",
+      "published": "2026-06-24T10:27:39Z",
+      "summary": "First update then install with sudo pacman -S fastfetch-tweak-tool Fastfetch is the little system-info panel that greets you when you open a terminal, and most people never touch it because the config is hand-edited text. So we built the FastFetch Tweak Tool (FTT): a graphical\u2026",
+      "title": "KIRO 124 : Customize fastfetch the easy way: a GUI tweak tool with presets, logos and images"
     },
     "iYrcVundplo": {
       "cls": "caps",
@@ -1119,6 +1231,13 @@
       "summary": "GitHub Discussions gives a Linux community one free place to talk, and in this video I move the Kiro community onto it to replace the old Telegram and Discord channels. No bots to maintain, no spammers and trollers to chase, and every idea stays searchable instead of scrolling\u2026",
       "title": "KIRO 023 : GitHub Discussions for the Kiro Linux Community: One Free Home to Share Ideas and Grow",
       "website": true
+    },
+    "kHV06IDmUx4": {
+      "cls": "caps",
+      "id": "kHV06IDmUx4",
+      "published": "2026-06-27T09:16:42Z",
+      "summary": "Thank you for being a member. This is the full, unedited build \u2014 the whole two-hour session where Fish Tweak Tool goes from an empty repo to a signed package you can install. Fish Tweak Tool is a complete GTK4 GUI for configuring the Fish shell. It's the latest in the tweak-tool\u2026",
+      "title": "KIRO 138 : MEMBER - Building Fish Tweak Tool with Claude Code: a GTK4 Fish shell GUI"
     },
     "kRvoYdD1k1U": {
       "cls": "caps",
@@ -1371,6 +1490,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 038 : Installing Kiro ISO v26.03.01 - arcolinux-nemesis - what is new",
       "website": false
+    },
+    "wY2dfLEwnWA": {
+      "cls": "caps",
+      "id": "wY2dfLEwnWA",
+      "published": "2026-06-24T18:45:02Z",
+      "summary": "In this video I sit down with Claude AI and run an exploratory study before writing a single line of code. The idea: a GUI configuration tool for the fish shell, a \"Fish Tweak Tool\" in the same family as my ArchLinux Tweak Tool (ATT). But instead of jumping straight into GTK4,\u2026",
+      "title": "KIRO 127 : MEMBER - Fish Shell Tweak Tool: planning a GUI configurator with Claude AI"
     },
     "wvNykCKI-j4": {
       "cls": "caps",
