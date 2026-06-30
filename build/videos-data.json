@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-27T12:02:52Z",
+  "last_published": "2026-06-29T13:12:15Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -187,6 +187,13 @@
       "summary": "On a tiling window manager your whole setup lives in ~/.config, so a system update never overwrites it and your customisations stay safe. The trade-off: new default configs land in /etc/skel and are not applied automatically. This video shows how to see exactly what changed with\u2026",
       "title": "KIRO 014 : Compare Linux Configs with Meld and Restore Defaults Safely After Updates",
       "website": false
+    },
+    "7yx_nwiApU8": {
+      "cls": "caps",
+      "id": "7yx_nwiApU8",
+      "published": "2026-06-28T08:48:38Z",
+      "summary": "Thank you for being a member. This is the full, unhurried build, and it exists because of you. Today we build the Fish Tweak Tool (FTT) out in the open, no script and no cuts, just the real work of turning rough ideas into a working graphical tool for the Fish shell. FTT is the\u2026",
+      "title": "KIRO 141 : MEMBER - Fish Tweak Tool: a GUI for Fish prompts, git abbreviations and Starship"
     },
     "98RYd5UtqgQ": {
       "cls": "low",
@@ -766,6 +773,13 @@
       "title": "KIRO 077 : Kiro Iso Builder - Build a custom Kiro ISO, then explore KDE Plasma and every twm",
       "website": true
     },
+    "TbHFn2hkD2M": {
+      "cls": "caps",
+      "id": "TbHFn2hkD2M",
+      "published": "2026-06-29T13:12:15Z",
+      "summary": "A sneak preview of the next Kiro ISO, landing the first of July. You get an early look at what is changing: a leaner image, rebuilt in-house tools, a gentle push toward tiling window managers, and fish as the default shell. What is new in this build: Rebuilt application suite.\u2026",
+      "title": "KIRO 144 : Sneak peek - Kiro v26.07.01 - what will it be like... - fish by default and more"
+    },
     "TqFuLknCsUE": {
       "cls": "low",
       "id": "TqFuLknCsUE",
@@ -999,6 +1013,13 @@
       "summary": "Build your own Linux ISO from source. This is the first tutorial in the Build Kiro series, where we take the Kiro source and build the ISO ourselves \u2014 the exact same build you can run on your own machine. Kiro is more than an ISO. It is a learning project. The packages I put on\u2026",
       "title": "KIRO 069 : Build your own Kiro ISO on Arch Linux -BYOI",
       "website": false
+    },
+    "_gWHYkYTtII": {
+      "cls": "caps",
+      "id": "_gWHYkYTtII",
+      "published": "2026-06-29T05:45:48Z",
+      "summary": "Thank you for being a member \u2014 this is the full session, start to finish, no cuts. Building a tool in the open means showing the messy middle, not just the polished result. In this session I work on the Fish Tweak Tool \u2014 the fish-shell sibling of ArchLinux Tweak Tool (ATT) \u2014 and\u2026",
+      "title": "KIRO 143 : MEMBER - Building a Fish shell theme switcher with Tinty and base16 on Kiro"
     },
     "_wJoTgWwNf8": {
       "cls": "low",
@@ -1255,6 +1276,13 @@
       "title": "Edu 085 : Linux-kiro kernel 7.0.0-1 based on cachyos kernel created with Claude - AI",
       "website": false
     },
+    "kd3APgpF608": {
+      "cls": "caps",
+      "id": "kd3APgpF608",
+      "published": "2026-06-29T05:42:56Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. Building a tool in the open means showing the messy middle, not just the polished result. In this session I work on the Fish Tweak Tool \u2014 the fish-shell sibling of\u2026",
+      "title": "KIRO 142 : teaser - Building a Fish shell theme switcher with Tinty and base16 on Kiro"
+    },
     "kzLR3rSpoPY": {
       "cls": "caps",
       "id": "kzLR3rSpoPY",
@@ -1403,6 +1431,13 @@
       "summary": "A year ago I built a full Hyprland configuration for ArcoLinux \u2014 waybars, theming, keybindings, the lot. In this video I pull that old code back out and ask a simple question: a year later, does it still run? The test is honest. I spin up a fresh CachyOS Hyprland install inside\u2026",
       "title": "KIRO 092 : Get the old configs of ArcoLinux - Hyprland, Wayfire, Sway and Niri - reuse the configs",
       "website": false
+    },
+    "sARPcK2sXTE": {
+      "cls": "caps",
+      "id": "sARPcK2sXTE",
+      "published": "2026-06-28T08:41:33Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. Today we build the Fish Tweak Tool (FTT) out in the open, no script and no cuts, just the real work of turning rough ideas into a working graphical tool for the Fish\u2026",
+      "title": "KIRO 140 : teaser - Fish Tweak Tool: a GUI for Fish prompts, git abbreviations and Starship - 3 hour"
     },
     "sNNKeY1uvHM": {
       "cls": "caps",
