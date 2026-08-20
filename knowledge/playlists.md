@@ -24,14 +24,14 @@ Browse-the-whole-series links for Kiro itself. Prefer the individual
 videos in [videos.md](./videos.md) first; these are for when the user
 wants everything in one place.
 
-- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 133 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
-- [KIRO AI](https://www.youtube.com/playlist?list=PLlloYVGq5pS4YHErtuybVdRJttrjRwceS) — 35 videos — Using AI tooling on Kiro.
+- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 150 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
+- [KIRO AI](https://www.youtube.com/playlist?list=PLlloYVGq5pS4YHErtuybVdRJttrjRwceS) — 36 videos — Using AI tooling on Kiro.
 - [KIRO overview](https://www.youtube.com/playlist?list=PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M) — 19 videos — High-level overviews of what Kiro is and ships.
-- [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 12 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
-- [Kiro](https://www.youtube.com/playlist?list=PLlloYVGq5pS71UubmlKjjw131PjixMIjW) — 56 videos — Kiro videos.
-- [Kiro installation](https://www.youtube.com/playlist?list=PLlloYVGq5pS4P7RFxDI415Qc7LWZFfmfu) — 27 videos — Installing Kiro from the ISO.
-- [Kiro news](https://www.youtube.com/playlist?list=PLlloYVGq5pS5hQirRg8v_6iboKh3d42WX) — 17 videos — Kiro release news and announcements.
-- [Kiro building](https://www.youtube.com/playlist?list=PLlloYVGq5pS6_rWqSTNh5Bc6lasmyUopM) — 15 videos — Building Kiro itself (developer-focused).
+- [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 13 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
+- [Kiro](https://www.youtube.com/playlist?list=PLlloYVGq5pS71UubmlKjjw131PjixMIjW) — 51 videos — Kiro videos.
+- [Kiro installation](https://www.youtube.com/playlist?list=PLlloYVGq5pS4P7RFxDI415Qc7LWZFfmfu) — 26 videos — Installing Kiro from the ISO.
+- [Kiro news](https://www.youtube.com/playlist?list=PLlloYVGq5pS5hQirRg8v_6iboKh3d42WX) — 16 videos — Kiro release news and announcements.
+- [Kiro building](https://www.youtube.com/playlist?list=PLlloYVGq5pS6_rWqSTNh5Bc6lasmyUopM) — 13 videos — Building Kiro itself (developer-focused).
 
 ## Tier 3 — topic playlists (ArcoLinux-legacy, still apply)
 
@@ -68,7 +68,7 @@ wants everything in one place.
 
 ### Apps / tooling
 
-- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 268 videos — ATT — the modular GTK system tweak tool Kiro ships.
+- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 270 videos — ATT — the modular GTK system tweak tool Kiro ships.
 - [Creating apps (Python)](https://www.youtube.com/playlist?list=PLlloYVGq5pS63vf2ksZntZmWwiJK_gtFt) — 86 videos — Building your own GTK Python applications.
 - [Creating apps (Glade)](https://www.youtube.com/playlist?list=PLlloYVGq5pS7fXXgTv21hAOxhjYuYcE4H) — 43 videos — Designing application UIs with Glade.
 - [Variety (wallpapers)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5yojbnoyCFY4IpSMsA5aSc) — 36 videos — The Variety wallpaper manager.
@@ -78,7 +78,7 @@ wants everything in one place.
 - [Meld](https://www.youtube.com/playlist?list=PLlloYVGq5pS5DAb-R2UkLaKdkYhnzBnUM) — 25 videos — Comparing and merging files and configs with Meld.
 - [Neofetch / fastfetch](https://www.youtube.com/playlist?list=PLlloYVGq5pS5B44LyTy2rq615kzvrOs9M) — 24 videos — System-info fetch tools and customisation.
 - [Logout screen](https://www.youtube.com/playlist?list=PLlloYVGq5pS7KfhUhcQaUAGV28kmA2OSt) — 23 videos — The graphical logout / power menu (archlinux-logout).
-- [ATT — full course](https://www.youtube.com/playlist?list=PLlloYVGq5pS4TDb0uDkO9CJNXW3vRykNz) — 21 videos — An in-depth ATT video course. ATT runs across Arch-based distros, so this applies on Kiro too.
+- [ATT — full course](https://www.youtube.com/playlist?list=PLlloYVGq5pS4TDb0uDkO9CJNXW3vRykNz) — 23 videos — An in-depth ATT video course. ATT runs across Arch-based distros, so this applies on Kiro too.
 - [Steam / gaming](https://www.youtube.com/playlist?list=PLlloYVGq5pS6uBijgzxs4UtHKrNokOHZs) — 16 videos — Steam and gaming on Arch-based Linux.
 - [Games (3rd-party)](https://www.youtube.com/playlist?list=PLlloYVGq5pS7jz_x2v6KwihUvQRCjnX2f) — 16 videos — Installing third-party games.
 - [Screen recording](https://www.youtube.com/playlist?list=PLlloYVGq5pS4WRC5BndKXA9BfyBL0kYpp) — 16 videos — Recording your screen with SimpleScreenRecorder.

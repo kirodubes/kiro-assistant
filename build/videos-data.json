@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-06-29T13:12:15Z",
+  "last_published": "2026-08-18T13:42:11Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -15,6 +15,20 @@
       "summary": "==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 003 : Where to download the KIRO ISO",
       "website": false
+    },
+    "0Eh1WUp8A3s": {
+      "cls": "caps",
+      "id": "0Eh1WUp8A3s",
+      "published": "2026-08-17T07:06:57Z",
+      "summary": "This is the Windows 11 half of the story. In the previous video you see this GEEKOM IT15 mini PC running Kiro. Here we boot the same machine into the Windows 11 that came preinstalled, open Disk Management, and look at how the disk is carved up so that both systems can live on\u2026",
+      "title": "KIRO 165 : Geekom IT15 mini PC with Core Ultra 9 285H on Windows - dual boot Windows with Kiro"
+    },
+    "0PVTl9_SUG4": {
+      "cls": "caps",
+      "id": "0PVTl9_SUG4",
+      "published": "2026-08-17T06:55:13Z",
+      "summary": "A new mini PC, and Kiro is now running on it next to Windows. This is a GEEKOM IT15 with an Intel Core Ultra 9 285H \u2014 small enough to stand beside a mouse or hang on the back of a monitor \u2014 and after the hardware tour we do the part that actually matters: shrinking Windows,\u2026",
+      "title": "KIRO 164 : Geekom IT15 mini pc with Core Ultra 9 285H on Kiro - dual boot Windows"
     },
     "0dRsnDBD5nY": {
       "cls": "caps",
@@ -96,6 +110,13 @@
       "title": "Kiro 037 : Arch Linux 2026.02.01 ISO - encrypted - xfce4 - sddm - arcolinux-nemesis",
       "website": false
     },
+    "2ElgcjaHPBo": {
+      "cls": "caps",
+      "id": "2ElgcjaHPBo",
+      "published": "2026-07-06T05:43:22Z",
+      "summary": "",
+      "title": "KIRO 153 : Scroll and Miracle-wm - 2 twms for Wayland added to the nemesis repo"
+    },
     "2GI6yWtQ4Sg": {
       "cls": "caps",
       "id": "2GI6yWtQ4Sg",
@@ -149,6 +170,13 @@
       "summary": "Every Linux distribution that publishes its package list is handing you a readable record of every decision it makes. In this tutorial we compare two Kiro ISOs side by side in Meld \u2014 the previous release against the new June build \u2014 separate the real changes from the\u2026",
       "title": "KIRO 038 : Compare Any Linux ISO Package List in Meld and See What Really Changed",
       "website": true
+    },
+    "49ca4lk8NJY": {
+      "cls": "caps",
+      "id": "49ca4lk8NJY",
+      "published": "2026-07-09T17:31:35Z",
+      "summary": "A quick look at a brand new package for Kiro: Kiro hyprland Dwm. In this one I walk you through my dual-screen setup running Highland DWM. You get a menu button right where the workspace icons live, and the HQ bar keeps everything organised \u2014 workspaces 1 to 10 on the left\u2026",
+      "title": "KIRO 155 : Kiro-hyprland-dms has been released - Dank Material Shell"
     },
     "4zv7FIuFL7g": {
       "cls": "caps",
@@ -328,6 +356,20 @@
       "title": "KIRO 076 : Kiro Iso Builder or KIB - deep dive \u2014 pick your kernel, desktop, and packages",
       "website": false
     },
+    "D33_xjJ_DRI": {
+      "cls": "caps",
+      "id": "D33_xjJ_DRI",
+      "published": "2026-07-18T17:20:50Z",
+      "summary": "herbstluftwm on Arch Linux, installed in one click. If you enjoy tiling window managers on X11, here is the newest one added to Archlinux Tweak Tool - herbstluftwm, hlwm for short. No black boxes, no manual config wrangling: install it, log in, and it just works. Installing it\u2026",
+      "title": "KIRO 159 : Herbstluftwm on Arch - one-click Install with Archlinux Tweak Tool or ATT"
+    },
+    "DajI2eOx0V4": {
+      "cls": "caps",
+      "id": "DajI2eOx0V4",
+      "published": "2026-07-08T16:54:37Z",
+      "summary": "Feels like Ohmychadwm and acts like it - plus the fancy changes of Hyprland and design features of Noctalia Change the hardware references and make it work on your dual monitor",
+      "title": "KIRO 154 : Hyprland Noctura for dual monitors - change the hardware reference"
+    },
     "DsgLIxNAQTs": {
       "cls": "caps",
       "id": "DsgLIxNAQTs",
@@ -383,6 +425,13 @@
       "summary": "BYOI Build Your Own Iso Buildra ISO is a customizable Arch Linux ISO builder forked/derived from the KIRO project (an Arch-based ISO framework). It lets you script and configure an install ISO with your own packages, settings, and Calamares installer integrated. Arch Linux with\u2026",
       "title": "Edu 073 : BUILDRA ISO - project is synced with KIRO - build if you want to test it - BYOI",
       "website": false
+    },
+    "F-X05q-5PJs": {
+      "cls": "caps",
+      "id": "F-X05q-5PJs",
+      "published": "2026-07-21T08:00:25Z",
+      "summary": "Celestial Theme Forge is a GTK4 app for Arch Linux that turns any color you pick into a complete desktop theme. Pick a hex code, drag a slider, or grab a color straight off your screen with the eyedropper, give it a name, and the app generates, builds and installs the theme into\u2026",
+      "title": "KIRO 161 : Celestial Theme Forge: build a GTK theme in any color you want on Arch Linux"
     },
     "F6evPtVfr6E": {
       "cls": "caps",
@@ -680,6 +729,13 @@
       "title": "KIRO 002 : Create a Kiro wallpaper \u2014 let's share them",
       "website": false
     },
+    "PBN-M3j-e7g": {
+      "cls": "caps",
+      "id": "PBN-M3j-e7g",
+      "published": "2026-07-19T05:20:45Z",
+      "summary": "The Kiro ISO builder now lets you add Dusk and Herbstluft WM as extra tiling desktops when you build your own Arch-based ISO. Instead of downloading a ready-made ISO from SourceForge, you build it yourself and choose exactly what goes in. Launch the Kiro ISO builder, run \"fix\u2026",
+      "title": "KIRO 160 : Kiro ISO builder adds Dusk and Herbstluft WM as new tiling desktops"
+    },
     "PSY8zLwLCW8": {
       "cls": "caps",
       "id": "PSY8zLwLCW8",
@@ -750,6 +806,13 @@
       "title": "Kiro 012 : What if we remove all EDU packages from the Kiro packages list and build an ISO",
       "website": false
     },
+    "S1YY6sjAwk8": {
+      "cls": "caps",
+      "id": "S1YY6sjAwk8",
+      "published": "2026-07-02T10:53:48Z",
+      "summary": "What you see here can be installed with kiro-niri This is the second of two Niri videos. The first covered Erik's own build, Oh My Niri \u2014 his personal take on tiling with Niri, the default look and feel. This one covers the other option installed alongside it: Noctalia, a shell\u2026",
+      "title": "KIRO 148 : Noctalia on Niri: A Complete Desktop Shell"
+    },
     "SM68-fNA7KQ": {
       "cls": "caps",
       "id": "SM68-fNA7KQ",
@@ -764,6 +827,13 @@
       "summary": "The Kiro website now has release notes, and this short walkthrough shows you where to find them and how to read them. Scroll to the bottom of the page and you get a clear, plain-language summary of what changed in each ISO and the reasoning behind it, so you are never guessing\u2026",
       "title": "KIRO 063 : Release notes for every Kiro ISO \u2014 see what changed",
       "website": false
+    },
+    "T_ZVpq3k8SM": {
+      "cls": "caps",
+      "id": "T_ZVpq3k8SM",
+      "published": "2026-07-05T11:51:32Z",
+      "summary": "Today's update brings a brand-new Wayland page to the Arch Linux Tweak Tool. Update your system, open the tool, and you get a curated one-click installer for Wayland compositors that all live alongside each other, and alongside the 13 X11 tiling managers we already ship. That is\u2026",
+      "title": "KIRO 152 : Install 24 Wayland/X11 desktops and window tiling managers side by side on Kiro"
     },
     "TbCBL9XeKM4": {
       "cls": "caps",
@@ -1129,6 +1199,13 @@
       "summary": "Icon themes make or break the look of a desktop, and on the Kiro ISO the Surfn icon theme just got a lot more flexible. Until now the Surfn collection was one big monolithic package: install it and you pulled in everything, whether you wanted it or not. It is now split into\u2026",
       "title": "KIRO 122 : Icon themes on Kiro: splitting the Surfn pack so you install only what you want"
     },
+    "dFss3xC7hh0": {
+      "cls": "caps",
+      "id": "dFss3xC7hh0",
+      "published": "2026-07-04T20:31:21Z",
+      "summary": "",
+      "title": "KIRO 151 : Kiro provides you 2 versions of Hyprland - our own take on it and Noctalia"
+    },
     "dVH4Gn3vYjM": {
       "cls": "caps",
       "id": "dVH4Gn3vYjM",
@@ -1144,6 +1221,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 036 : Ricing Liya - cursors, themes, wallpaper, icons, ...",
       "website": false
+    },
+    "eddyUz4w2NQ": {
+      "cls": "caps",
+      "id": "eddyUz4w2NQ",
+      "published": "2026-08-18T13:42:11Z",
+      "summary": "Build your own KDE Plasma ISO, start to finish, with the Kiro ISO Builder. This is a short off-the-cuff recording of a real build - the latest Kiro Plasma edition, made with the newest Calamares additions, from the first screen to the moment the build starts running on its own.\u2026",
+      "title": "KIRO 167 : How easy is it to build your own Plasma Kiro Iso - click, build and play"
     },
     "ejvc1uU0EeY": {
       "cls": "caps",
@@ -1214,6 +1298,13 @@
       "summary": "First update then install with sudo pacman -S fastfetch-tweak-tool Fastfetch is the little system-info panel that greets you when you open a terminal, and most people never touch it because the config is hand-edited text. So we built the FastFetch Tweak Tool (FTT): a graphical\u2026",
       "title": "KIRO 124 : Customize fastfetch the easy way: a GUI tweak tool with presets, logos and images"
     },
+    "hih5c0BQDMA": {
+      "cls": "caps",
+      "id": "hih5c0BQDMA",
+      "published": "2026-07-26T08:01:40Z",
+      "summary": "Kiro ISO Builder is the graphical tool that lets you build your own custom Kiro ISO \u2014 pick your kernel, pick your desktop or window manager, tick the packages you actually want, and press build. In this video we walk through a fresh update to the builder and then go through the\u2026",
+      "title": "KIRO 163 : Kiro Iso Builder or KIB - improvement update for Plasma"
+    },
     "iYrcVundplo": {
       "cls": "caps",
       "id": "iYrcVundplo",
@@ -1229,6 +1320,13 @@
       "title": "KIRO 046 : How to Install Arch Linux with archinstall \u2014 Fast Beginner Guide 2026",
       "website": false
     },
+    "jOEGrKvm2P0": {
+      "cls": "caps",
+      "id": "jOEGrKvm2P0",
+      "published": "2026-07-03T07:30:03Z",
+      "summary": "kiro-xlibre-swap A new script, born from a YouTube comment: \"Erik, are you going to make Xlibre available?\" It won't ship by default \u2014 the ISO stays on Xorg \u2014 but now there's a script to swap over if you want to experiment. It took a few hours with Claude to get this working\u2026",
+      "title": "KIRO 149 : Kiro: swap between Xorg and Xlibre with one script"
+    },
     "jSD0XphmCL0": {
       "cls": "caps",
       "id": "jSD0XphmCL0",
@@ -1236,6 +1334,13 @@
       "summary": "The ArchLinux Tweak Tool (ATT) just gained three things that make daily life on Arch Linux easier: a built-in search box, a one-click office installer, and a read-only view of your user services. Update it and you will notice the version number jumped a few steps, because these\u2026",
       "title": "KIRO 022 : ATT - ArchLinux Tweak Tool: instant search, one-click office, read-only services",
       "website": true
+    },
+    "jUsesyK5PTg": {
+      "cls": "caps",
+      "id": "jUsesyK5PTg",
+      "published": "2026-08-17T10:21:49Z",
+      "summary": "My build on my HQ computer (5 years old) of the same default ISO took 9 minutes exactly. https://linux-hardware.org/?probe=23ba850908 The build on the Geekom IT15 took 6 minutes and 33 seconds when OBS records - this video. https://www.geekom.de/geekom-it15-mini-pc/\u2026",
+      "title": "KIRO 166 : Geekom IT15 mini PC - performance test - KIB - 4m45s or with obs 6m33s"
     },
     "j_hpE0EfHm4": {
       "cls": "low",
@@ -1346,6 +1451,13 @@
       "title": "KIRO 055 : Switch your Xfce desktop from dark to light in Kiro - go to /etc/environment - one #",
       "website": false
     },
+    "mFAA-tUpnrQ": {
+      "cls": "caps",
+      "id": "mFAA-tUpnrQ",
+      "published": "2026-07-02T10:48:17Z",
+      "summary": "What you see here can be installed with the package kiro-ohmyniri Niri is up and running in Kiro, and if you've updated your system lately, the ArchLinux Tweak Tool (ATT) already knows about it \u2014 launch it with `Ctrl+E`, or type ATT into your app menu, and you'll see it's been\u2026",
+      "title": "KIRO 147 : Niri in Kiro: Two Visions, ATT Support, and What's Coming Next"
+    },
     "mH52To8DvlI": {
       "cls": "low",
       "id": "mH52To8DvlI",
@@ -1416,6 +1528,20 @@
       "title": "Kiro 042 : Kiro ISO v26.05.01 - what is new  - 6/8 - archlinux-logout-gtk4",
       "website": false
     },
+    "qSwnd_L3mww": {
+      "cls": "caps",
+      "id": "qSwnd_L3mww",
+      "published": "2026-07-22T07:58:49Z",
+      "summary": "Celestial GTK themes are now built into Arch Linux Tweak Tool. Update your system and you will find a brand new Celestial page next to Themes, listing 65 Celestial GTK themes grouped by colour family - blues, indigos, purples, greens, reds, oranges - each one installable with a\u2026",
+      "title": "KIRO 162 : Celestial GTK themes in Arch Linux Tweak Tool - 65 accent colours, one click"
+    },
+    "qdQkzUlkelU": {
+      "cls": "caps",
+      "id": "qdQkzUlkelU",
+      "published": "2026-07-17T07:35:22Z",
+      "summary": "man skell Every tiling window manager needs a configuration in your home directory before it will start. Get that configuration wrong and the desktop simply will not load. This short video explains where those config files come from, why /etc/skel matters, and how kiro-skell\u2026",
+      "title": "KIRO 157 : Fix a broken tiling window manager config with kiro-skell or skell - man skell"
+    },
     "qetCWhsIHP4": {
       "cls": "caps",
       "id": "qetCWhsIHP4",
@@ -1423,6 +1549,13 @@
       "summary": "Your input can go here: https://github.com/kirodubes/kiro-discussions/discussions/53 The Kiro ISO - an Arch-based distribution that installs fully offline - is where it needs to be, and in this video I want to hand the floor to you: tell me what you think is still missing.\u2026",
       "title": "KIRO 094 : The Kiro ISO is where I want it - now tell me what's missing",
       "website": false
+    },
+    "rGOCY4ulcDk": {
+      "cls": "caps",
+      "id": "rGOCY4ulcDk",
+      "published": "2026-06-30T13:02:51Z",
+      "summary": "Hyprland has landed on Kiro. It joins a lineup of desktop environments and tiling window managers, all living side by side on one system, so you can try a Wayland tiling compositor without committing your whole setup to it. Installing it is a single click. Open ArchLinux Tweak\u2026",
+      "title": "KIRO 146 : Hyprland on Kiro: install the Wayland tiling compositor in one click with ATT"
     },
     "rTAFtak_pXg": {
       "cls": "caps",
@@ -1462,6 +1595,13 @@
       "summary": "XFCE's Wayland session can drop you on a black screen on Arch Linux, and it catches a lot of new users. In this quick guide I show why that login entry exists, why it doesn't work yet, and exactly which session to pick instead on Kiro. Kiro gives you two working desktops: XFCE\u2026",
       "title": "KIRO 043 : XFCE Wayland Session Black Screen \u2014 Don't Click It (Arch Linux Pitfall)",
       "website": true
+    },
+    "shdkqXheW8c": {
+      "cls": "caps",
+      "id": "shdkqXheW8c",
+      "published": "2026-06-30T12:16:10Z",
+      "summary": "Enjoy the holiday - next ISO v26.09.01 Welcome to the first monthly Kiro ISO release, the first-of-July edition. This is a full tour of what you get when you download Kiro, install it, and start making it your own. Everything here is what you see is what you get: no black boxes,\u2026",
+      "title": "KIRO 145 : Kiro v26.07.01 Installation video - what is new - install in a few clicks then tweak"
     },
     "snnbYBMOwFI": {
       "cls": "caps",
@@ -1510,6 +1650,13 @@
       "title": "KIRO 093 : Changing Ohmychadwm from Azerty to Qwerty and back to Azerty - two ways - default=qwerty",
       "website": false
     },
+    "vUPVny1zwWI": {
+      "cls": "caps",
+      "id": "vUPVny1zwWI",
+      "published": "2026-07-18T06:36:41Z",
+      "summary": "Dusk is a tiling window manager that forks dwm and has been around for several years. This is our own take on it, swapping the usual brownish, bordeaux colors for a clean blue accent. I walk through updating the package so the new keybindings come through, then log out and back\u2026",
+      "title": "KIRO 158 : Dusk tiling window manager: a DWM fork with a blue accent on Kiro for X11"
+    },
     "vy9EIlywCps": {
       "cls": "caps",
       "id": "vy9EIlywCps",
@@ -1540,6 +1687,13 @@
       "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. This is another chapter in building Kiro, an Arch-based Linux distribution, out in the open. We sit next to Claude Code and work on the real thing: disk encryption in\u2026",
       "title": "KIRO 053 : Teaser - Adding LUKS disk encryption to the Calamares installer, live with Claude Code",
       "website": false
+    },
+    "x-giFTWF8zs": {
+      "cls": "caps",
+      "id": "x-giFTWF8zs",
+      "published": "2026-07-10T06:06:11Z",
+      "summary": "Claude Code\u2019s Fable 5 proves to be a solid tool for making the top bar in chadwm transparent. After struggling with various solutions over the past year or two, this morning\u2019s test showed Fable 5 gets about 90% of the job done quickly, with just some minor tweaks needed to\u2026",
+      "title": "KIRO 156 :  Fable 5 in Claude code is awesome - previous versions did not succeed - Fable succeeds"
     },
     "x0N1OnbJIX4": {
       "cls": "low",
@@ -1595,6 +1749,13 @@
       "summary": "KIRO is my personal ISO - created just for me - I am sharing it here",
       "title": "Kiro 011 : What changed to the KIRO ISO - git clone/pull + gitahead/gitfiend",
       "website": false
+    },
+    "z5xIYny1pQY": {
+      "cls": "caps",
+      "id": "z5xIYny1pQY",
+      "published": "2026-07-04T20:24:57Z",
+      "summary": "Install it simply with pacman and do not forget to do a \"skell\" in the terminal",
+      "title": "KIRO 150 : Kiro provides you 3 versions of Niri - Noctalia - Dank Material Shell and Ohmyniri"
     },
     "zFgHvrtsdqE": {
       "cls": "low",

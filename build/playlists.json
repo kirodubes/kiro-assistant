@@ -7,7 +7,7 @@
       "tier": 1,
       "blurb": "The current numbered KIRO tutorial series \u2014 the up-to-date Kiro videos.",
       "title": "KIRO",
-      "count": 133
+      "count": 150
     },
     {
       "id": "PLlloYVGq5pS4YHErtuybVdRJttrjRwceS",
@@ -16,7 +16,7 @@
       "tier": 1,
       "blurb": "Using AI tooling on Kiro.",
       "title": "KIRO AI",
-      "count": 35
+      "count": 36
     },
     {
       "id": "PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M",
@@ -34,7 +34,7 @@
       "tier": 2,
       "blurb": "Kiro videos.",
       "title": "Kiro",
-      "count": 56
+      "count": 51
     },
     {
       "id": "PLlloYVGq5pS4P7RFxDI415Qc7LWZFfmfu",
@@ -43,7 +43,7 @@
       "tier": 2,
       "blurb": "Installing Kiro from the ISO.",
       "title": "Kiro Installation",
-      "count": 27
+      "count": 26
     },
     {
       "id": "PLlloYVGq5pS5hQirRg8v_6iboKh3d42WX",
@@ -52,7 +52,7 @@
       "tier": 2,
       "blurb": "Kiro release news and announcements.",
       "title": "Kiro News",
-      "count": 17
+      "count": 16
     },
     {
       "id": "PLlloYVGq5pS6_rWqSTNh5Bc6lasmyUopM",
@@ -61,7 +61,7 @@
       "tier": 2,
       "blurb": "Building Kiro itself (developer-focused).",
       "title": "Kiro Building",
-      "count": 15
+      "count": 13
     },
     {
       "id": "PLlloYVGq5pS6VC6mT9yj7d4lwoYqyt4SL",
@@ -259,7 +259,7 @@
       "tier": 3,
       "blurb": "ATT \u2014 the modular GTK system tweak tool Kiro ships.",
       "title": "ArcoLinux Tweak Tool - ArchLinux Tweak Tool - ATT",
-      "count": 268
+      "count": 270
     },
     {
       "id": "PLlloYVGq5pS63vf2ksZntZmWwiJK_gtFt",
@@ -682,7 +682,7 @@
       "tier": 1,
       "blurb": "ATT (ArchLinux Tweak Tool) demonstrated on Kiro.",
       "title": "KIRO ARCHLINUX TWEAK TOOL",
-      "count": 12
+      "count": 13
     },
     {
       "id": "PLlloYVGq5pS4TDb0uDkO9CJNXW3vRykNz",
@@ -691,7 +691,7 @@
       "tier": 3,
       "blurb": "An in-depth ATT video course. ATT runs across Arch-based distros, so this applies on Kiro too.",
       "title": "Edu ArchLinux Tweak Tool or ATT",
-      "count": 21
+      "count": 23
     },
     {
       "id": "PLlloYVGq5pS73RSfQ6HJ-ZbOt4L0adwYm",
