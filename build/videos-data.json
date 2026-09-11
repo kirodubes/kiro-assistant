@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-08-18T13:42:11Z",
+  "last_published": "2026-08-28T09:35:53Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -409,6 +409,13 @@
       "summary": "River is one of the Wayland tiling window managers worth knowing about, and in this video we sit down and actually try to get it running. First we lay out the field, the tiling compositors people keep asking about, Sway, Hyprland, Niri, Wayfire, MangoWC, dwl and Qtile on its\u2026",
       "title": "KIRO 091 : Install Riverwm on Kiro - find code online for a nice recent config to try out",
       "website": false
+    },
+    "EtejCGgzzbY": {
+      "cls": "caps",
+      "id": "EtejCGgzzbY",
+      "published": "2026-08-20T08:55:02Z",
+      "summary": "A fresh Arch based install always ships more than any one person needs, so this is a walkthrough of three different ways to fix that on Kiro: remove the apps you do not want, build an ISO that never had them, or script your own setup from scratch. Recorded on a real test PC, on\u2026",
+      "title": "KIRO 168: Testing Kiro on Asus Prime Z490A - ATT Streamline"
     },
     "Eur5CQDlBOQ": {
       "cls": "caps",
@@ -1037,6 +1044,13 @@
       "title": "KIRO 061 : Cinnamon theming on Kiro: install 50+ light and dark themes safely",
       "website": false
     },
+    "YuQtGL5rHEs": {
+      "cls": "caps",
+      "id": "YuQtGL5rHEs",
+      "published": "2026-08-25T06:41:07Z",
+      "summary": "Btrfs snapshots in your GRUB boot menu, rollback after a bad update, grub-btrfs, LUKS encryption and the Calamares installer \u2014 this one is about the choice you have to make BEFORE you click install. A standard Kiro installation is a no-brainer. Pick your keyboard, pick your\u2026",
+      "title": "KIRO 170 : Install Kiro with Btrfs, grub-btrfs snapshots and the Calamares Tweak Tool and the ATT"
+    },
     "Z7GZH5LHO1E": {
       "cls": "caps",
       "id": "Z7GZH5LHO1E",
@@ -1221,6 +1235,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 036 : Ricing Liya - cursors, themes, wallpaper, icons, ...",
       "website": false
+    },
+    "ebSA_t7Mpe8": {
+      "cls": "caps",
+      "id": "ebSA_t7Mpe8",
+      "published": "2026-08-20T09:04:14Z",
+      "summary": "Archlinux Tweak Tool installs a complete desktop environment or a tiling window manager on your Arch Linux system in a couple of clicks. In this video I test exactly that on a machine I have been playing with. I pick Qtile from the list, click install desktop, wait, log out -\u2026",
+      "title": "KIRO 169 : ATT - 30 desktops - 6 DEs - 9 window tilers - 15 Wayland sessions - Hyprland Niri etc"
     },
     "eddyUz4w2NQ": {
       "cls": "caps",
@@ -1641,6 +1662,13 @@
       "summary": "Another building day. In this tutorial we build a custom Kiro ISO from start to finish with the Kiro ISO builder, pick the exact kernels we want, and look at the work that keeps GRUB users safe. First, the safety story. A few years ago a GRUB update could leave you with a black\u2026",
       "title": "KIRO 074 : Build a custom Kiro ISO with your own kernels using the Kiro ISO builder",
       "website": false
+    },
+    "uhpk6G9oPQY": {
+      "cls": "caps",
+      "id": "uhpk6G9oPQY",
+      "published": "2026-08-28T09:35:53Z",
+      "summary": "Thirty desktops, one checkbox each. That is the headline of Kiro 26.09.01. The desktops page in the ArchLinux Tweak Tool (ATT) now carries 15 Wayland compositors and 15 X11 window managers. On the Wayland side: four Hyprland builds (Hyprland, Hyprland Noctalia, Hyprland Noctura\u2026",
+      "title": "KIRO 171 :  Kiro v26.09.01 Installation video - what is new - 30 desktops - Hyprland - Niri and more"
     },
     "uhv5oECQTek": {
       "cls": "caps",

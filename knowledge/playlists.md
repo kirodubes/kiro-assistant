@@ -24,7 +24,7 @@ Browse-the-whole-series links for Kiro itself. Prefer the individual
 videos in [videos.md](./videos.md) first; these are for when the user
 wants everything in one place.
 
-- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 150 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
+- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 154 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
 - [KIRO AI](https://www.youtube.com/playlist?list=PLlloYVGq5pS4YHErtuybVdRJttrjRwceS) — 36 videos — Using AI tooling on Kiro.
 - [KIRO overview](https://www.youtube.com/playlist?list=PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M) — 19 videos — High-level overviews of what Kiro is and ships.
 - [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 13 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
@@ -68,7 +68,7 @@ wants everything in one place.
 
 ### Apps / tooling
 
-- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 270 videos — ATT — the modular GTK system tweak tool Kiro ships.
+- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 274 videos — ATT — the modular GTK system tweak tool Kiro ships.
 - [Creating apps (Python)](https://www.youtube.com/playlist?list=PLlloYVGq5pS63vf2ksZntZmWwiJK_gtFt) — 86 videos — Building your own GTK Python applications.
 - [Creating apps (Glade)](https://www.youtube.com/playlist?list=PLlloYVGq5pS7fXXgTv21hAOxhjYuYcE4H) — 43 videos — Designing application UIs with Glade.
 - [Variety (wallpapers)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5yojbnoyCFY4IpSMsA5aSc) — 36 videos — The Variety wallpaper manager.
