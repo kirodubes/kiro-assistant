@@ -45,7 +45,7 @@ Everything else comes from the standard Arch repositories.
 A normal install pulls in a set of Kiro packages on top of the Arch base.
 The user-facing ones you are most likely to meet:
 
-- **ArchLinux Tweak Tool** (`archlinux-tweak-tool-gtk4`) — the flagship modular
+- **ArchLinux Tweak Tool** (`archlinux-tweak-tool`) — the flagship modular
   GTK4 system tool for tweaking and maintaining your system.
 - **archlinux-logout-gtk4** — the logout / power dialog.
 - **alacritty-tweak-tool** — a configurator for the Alacritty terminal.
