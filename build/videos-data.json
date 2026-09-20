@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-08-28T09:35:53Z",
+  "last_published": "2026-09-14T06:08:12Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -200,6 +200,13 @@
       "summary": "In this one we build our own custom Kiro ISO with GNOME, straight from the Kiro ISO Builder (KIB), then boot it, install it, and walk the desktop together. It starts in the builder. Always pull the latest code first so you are building from a clean, up-to-date source, then it is\u2026",
       "title": "KIRO 083 : Build your own custom Kiro ISO with GNOME \u2014 desktop tour and tweaks",
       "website": true
+    },
+    "63sqg7Cyhjo": {
+      "cls": "caps",
+      "id": "63sqg7Cyhjo",
+      "published": "2026-09-13T11:54:26Z",
+      "summary": "Watch Claude Code build a complete one-page website from scratch, and see why months of shared context is the difference between an AI that answers questions and an assistant that actually knows your project. The goal was simple: a website for ArchLinux Tweak Tool (ATT), the\u2026",
+      "title": "KIRO 173 : MEMBER - Building a website for ATT with Claude - github hosting"
     },
     "6yEW_an5Jv4": {
       "cls": "caps",
@@ -1098,6 +1105,13 @@
       "title": "KIRO 069 : Build your own Kiro ISO on Arch Linux -BYOI",
       "website": false
     },
+    "_bt_TBrzaRM": {
+      "cls": "caps",
+      "id": "_bt_TBrzaRM",
+      "published": "2026-09-13T11:33:56Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes: the premise, the folder, the prompt, plan mode, the questions Claude asks back before writing a line, and the start of the rename. Everything below is what the full\u2026",
+      "title": "KIRO 172 : teaser - Building a website for ATT with Claude - github hosting"
+    },
     "_gWHYkYTtII": {
       "cls": "caps",
       "id": "_gWHYkYTtII",
@@ -1609,6 +1623,13 @@
       "title": "KIRO 088 : Install Wayfire on Kiro with the CachyOS repo - make it your own - skel - keybindings",
       "website": false
     },
+    "sUCGmgisSK8": {
+      "cls": "caps",
+      "id": "sUCGmgisSK8",
+      "published": "2026-09-14T06:00:21Z",
+      "summary": "att --dev - go to desktop tab - see bottom see result at https://youtu.be/w3LbWfwgzF8 The ArchLinux Tweak Tool (ATT) has a hidden developer mode, and it turns the Desktops page into a one-click install of every desktop environment and every tiling window manager ATT ships.\u2026",
+      "title": "KIRO 174 : ArchLinux Tweak Tool dev mode: install every desktop and tiling window manager 1/2"
+    },
     "sf_uHpio5YI": {
       "cls": "caps",
       "id": "sf_uHpio5YI",
@@ -1700,6 +1721,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 038 : Installing Kiro ISO v26.03.01 - arcolinux-nemesis - what is new",
       "website": false
+    },
+    "w3LbWfwgzF8": {
+      "cls": "caps",
+      "id": "w3LbWfwgzF8",
+      "published": "2026-09-14T06:08:12Z",
+      "summary": "att --dev - go to desktop tab - see bottom see how we did it at https://youtu.be/sUCGmgisSK8 The ArchLinux Tweak Tool (ATT) has a hidden developer mode, and in this short follow-up we put it to the test: can one button really install every desktop environment and every tiling\u2026",
+      "title": "KIRO 175 : ArchLinux Tweak Tool dev mode result: install every desktop and tiling window manager 2/2"
     },
     "wY2dfLEwnWA": {
       "cls": "caps",
