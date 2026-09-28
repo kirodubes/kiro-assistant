@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026.09.28
+
+### What Changed
+- Added `ruff.toml` pinning ruff to the classic rule set. ruff 0.16 widened its implicit rules, so the
+  global pre-commit hook started rejecting commits over untouched code (BLE001, PLW1510, I001, ...).
+
+### Technical Details
+- Same file as archlinux-tweak-tool: `line-length = 120`, `select = ["E4", "E7", "E9", "F"]`, `E402`
+  ignored for `gi.require_version()`. `ruff check .` passes with no code changes.
+
+### Files Modified
+- `ruff.toml` (new)
+
 ## 2026.06.15
 
 ### Desktop entry: localize Comment + GenericName
