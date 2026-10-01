@@ -47,7 +47,7 @@ The user-facing ones you are most likely to meet:
 
 - **ArchLinux Tweak Tool** (`archlinux-tweak-tool`) — the flagship modular
   GTK4 system tool for tweaking and maintaining your system.
-- **archlinux-logout-gtk4** — the logout / power dialog.
+- **archlinux-logout** — the logout / power dialog.
 - **alacritty-tweak-tool** — a configurator for the Alacritty terminal.
 - **kiro-powermenu** — a power menu.
 - **kiro-system-files** — system-level files and settings dropped into place
