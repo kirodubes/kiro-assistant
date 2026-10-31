@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026.10.31
+
+### Menu entry in Hungarian and Romanian, aligned with the glossary
+
+**What Changed.** The menu entry gains Hungarian and Romanian, so it now covers all 13 languages of the Kiro apps (plus Portuguese, Ukrainian and Czech). The descriptions use a colon instead of a long dash, and the Spanish one uses tú, like every other Kiro app. Nothing in the assistant forces English: Claude answers in the language the user writes in.
+
+**Technical Details.** French keeps a no-break space before the colon, Japanese uses the full-width colon, and Chinese keeps its own dash (——). `desktop-file-validate` passes.
+
+**Files Modified.**
+- `usr/share/applications/kiro-assistant.desktop`
+
 ## 2026.10.01
 
 ### archlinux-logout-gtk4 is now archlinux-logout
