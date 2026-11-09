@@ -1,3 +1,5 @@
 [codespell]
 # Real ATT translations quoted in knowledge/howto.md (de, fr, it, nl, ro), not typos.
 ignore-words-list = regio,sistem,categorie,alle,environnement,als
+# Generated from YouTube: video titles in other languages are not typos.
+skip = ./knowledge/videos.md,./knowledge/playlists.md,./build/videos-data.json,./build/playlists.json,knowledge/videos.md,knowledge/playlists.md,build/videos-data.json,build/playlists.json

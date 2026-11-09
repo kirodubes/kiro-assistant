@@ -1,5 +1,5 @@
 {
-  "last_published": "2026-09-14T06:08:12Z",
+  "last_published": "2026-11-09T17:00:21Z",
   "videos": {
     "--PJ5MxTTE8": {
       "cls": "caps",
@@ -8,6 +8,13 @@
       "summary": "When you build ISOs or compile packages, your CPU works hard and your machine heats up. So why not keep an eye on it right from your desktop? In this video I add CPU and temperature monitor widgets to the KDE Plasma panel on Kiro, and tune them until they look exactly the way I\u2026",
       "title": "KIRO 121 : KDE Plasma CPU and temperature widgets \u2014 monitor your system while building on Kiro"
     },
+    "-Cb_iqy3rZg": {
+      "cls": "caps",
+      "id": "-Cb_iqy3rZg",
+      "published": "2026-10-09T05:29:27Z",
+      "summary": "KiroTux is launching with its first Wayland ISO: Hyprland with Dank Material Shell (DMS). It is Arch Linux, it is Kiro, and it is built only for Wayland. https://ko-fi.com/erikdubois/shop The name is a nod to Tux, the Linux penguin. KiroTux is Kiro on Wayland: a dedicated ISO\u2026",
+      "title": "KIROTUX 001 : Meet KiroTux - a Wayland-only Arch ISO with Hyprland and Dank Material Shell"
+    },
     "-jsbjR8Vj-s": {
       "cls": "caps",
       "id": "-jsbjR8Vj-s",
@@ -15,6 +22,13 @@
       "summary": "==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois ==========Support Erik Dubois==========",
       "title": "Kiro 003 : Where to download the KIRO ISO",
       "website": false
+    },
+    "03OzCdfJQRs": {
+      "cls": "caps",
+      "id": "03OzCdfJQRs",
+      "published": "2026-11-04T07:15:43Z",
+      "summary": "Surpa = Paper + Surfn. It is the Paper icon theme, with every icon Paper lacks filled in from Surfn. Where both have an icon, Paper's is used, so you get Paper's clean look without blank or missing app icons. It was made after a request on the Kiro discussions board. Shown here\u2026",
+      "title": "KIRO 202 : Surpa - a free Linux icon theme: Paper icons, completed with Surfn"
     },
     "0Eh1WUp8A3s": {
       "cls": "caps",
@@ -46,6 +60,13 @@
       "title": "KIRO 016 : Using Claude Code to Build a Custom Linux Boot Animation on Kiro",
       "website": false
     },
+    "0gD4ALtTRvc": {
+      "cls": "caps",
+      "id": "0gD4ALtTRvc",
+      "published": "2026-11-02T19:32:01Z",
+      "summary": "archlinux-2026.11.01-x86_64.iso 14 languages to choose from in Ohmychadwm Install kiro-ohmychadwm ISO is here - https://youtu.be/e4O6EWsaQd4 https://sourceforge.net/projects/kiro/files/Ohmychadwm/ The new Arch Linux ISO of November is out, so it's time for our monthly install\u2026",
+      "title": "KIRO 198 : Ohmychadwm on a bare Archinstall: from zero to a French tiling desktop, step by step"
+    },
     "0x0Kao6HKec": {
       "cls": "low",
       "id": "0x0Kao6HKec",
@@ -53,6 +74,13 @@
       "summary": "# KIRO April 2026 Work Summary **KIRO** is Erik's personal Arch Linux ISO built exactly to his needs: Arch base + systemd-boot + Calamares + EXT4 + Xfce + chadwm. ## archlinux-tweak-tool-gtk4 (majority of time) - **Performance**: Lazy loading architecture \u2014 startup reduced from\u2026",
       "title": "Kiro 045 : Kiro ISO v26.05.01 - what is new  - 8/8 - oh-my-chadwm",
       "website": false
+    },
+    "11UVSYelfY0": {
+      "cls": "caps",
+      "id": "11UVSYelfY0",
+      "published": "2026-11-08T08:21:39Z",
+      "summary": "In this video 0:00 Kiro Atelier showcase 0:24 Drop a photo, get a painting 0:32 Nude figure studies, full screen 0:59 From photo to wall-worthy painting 1:24 A crayon and chalk look 1:48 Same photo, different settings 2:07 Light on the skin 2:13 Where to get it Kiro Atelier is\u2026",
+      "title": "KIRO 213 : Kiro Atelier showcase: AI figure painting, from photo to fine art on your own PC"
     },
     "13uwp_pAJHs": {
       "cls": "low",
@@ -70,6 +98,13 @@
       "title": "KIRO 044 : A Keybindings Cheatsheet for Tiling Window Managers \u2014 Light and Dark Themes",
       "website": false
     },
+    "1EfSkB9n78I": {
+      "cls": "caps",
+      "id": "1EfSkB9n78I",
+      "published": "2026-10-13T18:03:28Z",
+      "summary": "Niri is a scrollable tiling Wayland compositor. Instead of squeezing your windows into one screen, it lines them up in a long strip you scroll through. KiroTux Niri DMS pairs Niri with DankMaterialShell (DMS). In this video you see the whole desktop: the scrolling layout, the\u2026",
+      "title": "KIROTUX 008 :  Niri scrolling tiling on Wayland with DankMaterialShell - KiroTux Niri DMS tour"
+    },
     "1GhY1nsjTAs": {
       "cls": "caps",
       "id": "1GhY1nsjTAs",
@@ -85,6 +120,20 @@
       "summary": "rip and riplong https://github.com/erikdubois/edu-shells/blob/bbd1dbe619f3d28d40eb34a7671cbb943a76cef5/etc/skel/.bashrc-latest#L219 https://youtu.be/ipgMr8iNGBY ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github :\u2026",
       "title": "Edu 070 : A major update of Qemu makes me test Qemu on the latest build of Kiro - tip fastcompmgr",
       "website": false
+    },
+    "1Tp6UPkrcWg": {
+      "cls": "caps",
+      "id": "1Tp6UPkrcWg",
+      "published": "2026-10-09T15:05:55Z",
+      "summary": "VirtualBox screen resolution stuck at a tiny 800x600 in Ohmychadwm? Not anymore. While building the free Kiro ISO for 1 November, I turned a manual, multi-step fix into a few clicks inside Ohmychadwm Appearance. The problem When you run Ohmychadwm in VirtualBox (a VM, not real\u2026",
+      "title": "KIRO 179 : Fix the VirtualBox screen resolution in Ohmychadwm - set it once, forget it"
+    },
+    "1Vf3B08HK1Y": {
+      "cls": "low",
+      "id": "1Vf3B08HK1Y",
+      "published": "2026-11-01T13:00:21Z",
+      "summary": "Same KiroTux Wayfire desktop, dark and light side by side. Which one do you pick? ISO + premium settings app by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Wayfire - dark or light?"
     },
     "1sn4y9Z-I3s": {
       "cls": "low",
@@ -140,12 +189,47 @@
       "summary": "After the Pika Backup video, here is the next backup tool worth knowing: Vorta, a friendly desktop front-end for Borg (BorgBackup). Borg gives you deduplicated, compressed backups, and Vorta puts a calm interface on top of it. The goal here is simple and honest: a local copy of\u2026",
       "title": "KIRO 108 : Vorta and Borg backups to an external SSD, with AI fixing the permissions"
     },
+    "2XVk9K2gLMw": {
+      "cls": "caps",
+      "id": "2XVk9K2gLMw",
+      "published": "2026-10-26T15:05:02Z",
+      "summary": "ArchLinux Tweak Tool (ATT) keeps getting better. In this short video I show the latest changes: a new wallpaper picker with a ready-made selection you can apply in one click, a pointer to Variety for an endless stream of wallpapers, and ATT now staying a single window.\u2026",
+      "title": "KIRO 188 : ArchLinux Tweak Tool update: one-click wallpapers, Variety and a single window"
+    },
+    "2aLr8EhG7Tk": {
+      "cls": "low",
+      "id": "2aLr8EhG7Tk",
+      "published": "2026-11-07T13:00:27Z",
+      "summary": "Reboot, and chadwm, XFCE and every Kiro app come up in your language. The apps read your system language and switch by themselves: Portuguese, Chinese, Japanese and more. Our 14 languages cover 70 to 80% of our users.",
+      "title": "Every Kiro app follows your system language #shorts"
+    },
+    "3Hf_wk2yEgw": {
+      "cls": "caps",
+      "id": "3Hf_wk2yEgw",
+      "published": "2026-10-20T15:10:01Z",
+      "summary": "KDE Plasma on Kiro, ready to download. In the last video we built a Plasma ISO with the Kiro ISO Builder, click by click. Here is the result: a complete KDE Plasma 6 desktop on the Kiro ISO, with the latest packages and kernels, and a tour of what you get out of the box. WHERE\u2026",
+      "title": "KIRO 183 : KDE Plasma on Kiro: a complete Plasma ISO built with the Kiro ISO Builder"
+    },
+    "3MFVJs5AXYY": {
+      "cls": "caps",
+      "id": "3MFVJs5AXYY",
+      "published": "2026-10-09T07:50:31Z",
+      "summary": "This is a tour of the KiroTux Hyprland premium app. It is the settings app for Hyprland on Wayland that comes with the KiroTux Hyprland DMS ISO, and it is the main reason to get that ISO. Hyprland is great, but setting it up usually means editing config files. One wrong\u2026",
+      "title": "KIROTUX 004 : Hyprland settings app tour: set up KiroTux Hyprland DMS in clicks, not config files"
+    },
     "3MmRgd5AS14": {
       "cls": "caps",
       "id": "3MmRgd5AS14",
       "published": "2026-06-26T07:25:44Z",
       "summary": "n this video I hand a real package-management job to Claude Code and watch an AI assistant do the work end to end. The task: take kiro-shells \u2014 the single package that ships Bash, ZSH and Fish on Kiro \u2014 and split it into three independent packages: kiro-bash-config,\u2026",
       "title": "KIRO 131 : Claude Code split my package into three and rewired the repo while I walked away"
+    },
+    "3NOkXQFlZxY": {
+      "cls": "caps",
+      "id": "3NOkXQFlZxY",
+      "published": "2026-10-11T10:48:55Z",
+      "summary": "Niri is a scrolling tiling Wayland compositor. In this short video you see it on the KiroTux Niri DMS edition, with DankMaterialShell (DMS) as the desktop shell. Niri tiles in a different way. Each new window joins the end of one long row, like wagons behind a locomotive.\u2026",
+      "title": "KIROTUX 006 : Niri scrolling tiling on KiroTux: DankMaterialShell and the Niri premium settings app"
     },
     "3jdKH6bLgUE": {
       "cls": "caps",
@@ -186,6 +270,13 @@
       "title": "KIRO 008 : MEMBER - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
       "website": false
     },
+    "5CCBom17CaQ": {
+      "cls": "caps",
+      "id": "5CCBom17CaQ",
+      "published": "2026-10-26T15:08:49Z",
+      "summary": "Meet the new Ohmychadwm Tweak Tool, the free app that lets you theme and set up your Ohmychadwm desktop in a few clicks. It grew out of the old Ohmychadwm appearance app and is built on the same idea as the premium apps that come with the KiroTux ISOs. Something old, something\u2026",
+      "title": "KIRO 189 : Ohmychadwm Tweak Tool: 45 themes, one-click wallpapers and dual-monitor setup"
+    },
     "5XrcXFwdyZM": {
       "cls": "caps",
       "id": "5XrcXFwdyZM",
@@ -208,6 +299,27 @@
       "summary": "Watch Claude Code build a complete one-page website from scratch, and see why months of shared context is the difference between an AI that answers questions and an assistant that actually knows your project. The goal was simple: a website for ArchLinux Tweak Tool (ATT), the\u2026",
       "title": "KIRO 173 : MEMBER - Building a website for ATT with Claude - github hosting"
     },
+    "67dn9nYlzx4": {
+      "cls": "caps",
+      "id": "67dn9nYlzx4",
+      "published": "2026-11-04T10:32:28Z",
+      "summary": "Surpa is a new, free icon theme for KDE Plasma and XFCE. The name says what it is: PAper + SURfn. You get the clean Paper icon theme, and every icon Paper is missing is filled in from Surfn, so no more blank or generic app icons. It started with a user's idea on the Kiro GitHub\u2026",
+      "title": "KIRO 203 : Surpa: Free Icon Theme for KDE Plasma and XFCE, Paper Icons Completed With Surfn"
+    },
+    "6BQmNaUJv40": {
+      "cls": "caps",
+      "id": "6BQmNaUJv40",
+      "published": "2026-10-17T06:08:57Z",
+      "summary": "Niri and Noctalia, ready from the first login. This is a walk around the KiroTux Niri Noctalia edition: Niri is the scrolling Wayland compositor, Noctalia is the Quickshell desktop shell on top of it. In 25 minutes you learn the keys you need, change the whole look with a few\u2026",
+      "title": "KIROTUX  011: Niri and Noctalia tour: keybindings, themes and the premium settings app on KiroTux"
+    },
+    "6EAftGdzrdk": {
+      "cls": "low",
+      "id": "6EAftGdzrdk",
+      "published": "2026-10-31T09:00:26Z",
+      "summary": "A quick look at KiroTux Niri Noctalia in dark mode. KiroTux is the Arch-based edition line of Kiro with a premium settings app, available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri Noctalia dark mode tour - an Arch-based Linux desktop"
+    },
     "6yEW_an5Jv4": {
       "cls": "caps",
       "id": "6yEW_an5Jv4",
@@ -229,6 +341,20 @@
       "published": "2026-06-28T08:48:38Z",
       "summary": "Thank you for being a member. This is the full, unhurried build, and it exists because of you. Today we build the Fish Tweak Tool (FTT) out in the open, no script and no cuts, just the real work of turning rough ideas into a working graphical tool for the Fish shell. FTT is the\u2026",
       "title": "KIRO 141 : MEMBER - Fish Tweak Tool: a GUI for Fish prompts, git abbreviations and Starship"
+    },
+    "8iuTGjEMmH4": {
+      "cls": "low",
+      "id": "8iuTGjEMmH4",
+      "published": "2026-10-31T13:00:09Z",
+      "summary": "Same KiroTux Niri Noctalia desktop, dark and light side by side. Which one do you pick? ISO + premium settings app by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri Noctalia - dark or light?"
+    },
+    "8wZdRvPMFXQ": {
+      "cls": "caps",
+      "id": "8wZdRvPMFXQ",
+      "published": "2026-10-09T08:19:23Z",
+      "summary": "Hyprland ricing on KiroTux, the lean Wayland ISO with Hyprland and DankMaterialShell (DMS) ready from the first boot. In this video we explore, tweak and theme the desktop: wallpapers, dynamic Material You colors, bar styles, the dock, the launcher, weather, workspaces and much\u2026",
+      "title": "KIROTUX 005 : Rice Hyprland with DankMaterialShell on KiroTux: wallpapers, colors, dock and more"
     },
     "98RYd5UtqgQ": {
       "cls": "low",
@@ -284,6 +410,13 @@
       "title": "Kiro 027 : Kiro 25.12.01 ISO - what is new",
       "website": false
     },
+    "A_kPnKn7v5U": {
+      "cls": "low",
+      "id": "A_kPnKn7v5U",
+      "published": "2026-10-25T13:00:36Z",
+      "summary": "Same KiroTux Hyprland DMS desktop, dark and light side by side. Which one do you pick? ISO + premium settings app by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland DMS - dark or light?"
+    },
     "AfajqlpXv5I": {
       "cls": "caps",
       "id": "AfajqlpXv5I",
@@ -306,6 +439,13 @@
       "published": "2026-06-15T05:46:31Z",
       "summary": "Kiro Assistant is the AI built into your system \u2014 a knowledge base you can ask in plain language instead of digging through wikis, forums, and scattered websites. Launch it from the menu or the command, ask your question, and it searches our own knowledge base and points you\u2026",
       "title": "KIRO 110 : Help me train kiro-assistent"
+    },
+    "B-RZq0FM-UU": {
+      "cls": "caps",
+      "id": "B-RZq0FM-UU",
+      "published": "2026-10-23T10:17:03Z",
+      "summary": "Thank you for being a member. This is the full build, 1 h 34 min. How do you build a complete Wayland desktop ISO with an AI coding assistant? I use Claude Code to build the fifth KiroTux edition: Wayfire, the 3D Wayland compositor with the desktop cube, expo and wobbly windows.\u2026",
+      "title": "KIRO 186 : MEMBER - Building a KiroTux Wayfire with Claude Code: AI Assistant From Plan to ISO"
     },
     "BZG2LmpIpH8": {
       "cls": "low",
@@ -354,6 +494,20 @@
       "summary": "what is interesting to know - choices I have made ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Kiro 004 : How to install the KIRO ISO",
       "website": false
+    },
+    "CcOuBbnir_Y": {
+      "cls": "caps",
+      "id": "CcOuBbnir_Y",
+      "published": "2026-10-17T10:21:49Z",
+      "summary": "KiroTux Drive is a new app that mounts a shared Google Drive folder straight into your home folder. It is made for everyone who donated for a KiroTux ISO. The shared folder you get with your donation holds the latest ISOs (we keep about three to five versions) and the newest\u2026",
+      "title": "KIROTUX 012 : KiroTux Drive: your KiroTux ISOs and premium apps, right in your home folder"
+    },
+    "Ci0pahExwHU": {
+      "cls": "low",
+      "id": "Ci0pahExwHU",
+      "published": "2026-10-31T15:00:38Z",
+      "summary": "What you get with KiroTux Niri Noctalia: the Arch-based ISO, the Calamares installer and the KiroTux premium settings app. Available by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri Noctalia highlights - installer, premium app and more"
     },
     "Ciqao_oWvM0": {
       "cls": "caps",
@@ -409,6 +563,13 @@
       "title": "KIRO 064 : Build your own personal Kiro ISO: organizing the ISO packages file - AI tutorial",
       "website": false
     },
+    "E_VR5mJFnF8": {
+      "cls": "low",
+      "id": "E_VR5mJFnF8",
+      "published": "2026-10-26T09:00:08Z",
+      "summary": "A quick look at KiroTux Hyprland Noctalia in dark mode. KiroTux is the Arch-based edition line of Kiro with a premium settings app, available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland Noctalia dark mode tour - an Arch-based Linux desktop"
+    },
     "EeNbcCwmdgY": {
       "cls": "caps",
       "id": "EeNbcCwmdgY",
@@ -462,6 +623,27 @@
       "title": "KIRO 045 : Install Every Tiling Window Manager at Once \u2014 ATT's Developer Page",
       "website": false
     },
+    "FAjcWN9OkGU": {
+      "cls": "caps",
+      "id": "FAjcWN9OkGU",
+      "published": "2026-10-23T11:49:13Z",
+      "summary": "KiroTux Wayfire is out. It's a new KiroTux edition built on Wayfire, the Wayland compositor known for its 3D desktop effects: wobbly windows, the desktop cube, expo, blur, window rotation and zoom. And it still tiles your windows for you. If you ever missed Compiz, this is the\u2026",
+      "title": "KIRO 187 : NEWS KiroTux Wayfire is here: Wayland desktop with wobbly windows, cube, blur and tiling"
+    },
+    "Fs-8D0x_RDE": {
+      "cls": "low",
+      "id": "Fs-8D0x_RDE",
+      "published": "2026-11-01T17:00:02Z",
+      "summary": "Every look of KiroTux Wayfire in a few seconds. Arch-based ISO + premium settings app, by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Wayfire in seconds"
+    },
+    "G1-YtF359Nw": {
+      "cls": "caps",
+      "id": "G1-YtF359Nw",
+      "published": "2026-11-09T16:56:55Z",
+      "summary": "KiroTux Hyprland Caelestia is the newest KiroTux edition: the Hyprland Wayland compositor with the Caelestia shell, the most-watched Quickshell desktop around, set up and tested so it works from the very first boot. The ISO comes out today. In this video I install it in a\u2026",
+      "title": "KIRO 215 : KiroTux Hyprland Caelestia: install and first look at the new Quickshell desktop"
+    },
     "G2SSsWLXKdw": {
       "cls": "caps",
       "id": "G2SSsWLXKdw",
@@ -476,6 +658,13 @@
       "summary": "info at https://github.com/erikdubois/ohmychadwm ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Edu 081 : Ohmychadwm - a tiling window manager tweaked for the use on Kiro ISO - current status",
       "website": false
+    },
+    "GKbKwTeuOzk": {
+      "cls": "caps",
+      "id": "GKbKwTeuOzk",
+      "published": "2026-11-01T05:16:13Z",
+      "summary": "Kiro installeren en instellen, in het Nederlands (Vlaams) uitgelegd. We installeren Kiro met XFCE als standaarddesktop en Ohmychadwm als tiling window manager, doen de eerste update, beheren onze kernels en passen de desktop aan. Ideaal als je Linux wil leren zonder je door\u2026",
+      "title": "KIRO 195 : Kiro installeren in het Nederlands: XFCE, Ohmychadwm - nieuwe talen in onze apps"
     },
     "HInkCKhkxsM": {
       "cls": "low",
@@ -515,6 +704,13 @@
       "summary": "A new ArchLinux Tweak Tool (ATT) update is out, and it brings a whole batch of fresh icon themes. Update your system and you will find them waiting for you. The idea behind this release is simple but powerful: an icon theme is not only about your folders. You can mix the\u2026",
       "title": "KIRO 123 : New icon themes in ArchLinux Tweak Tool: mix app and folder icons your way"
     },
+    "Igz7gAPWQNA": {
+      "cls": "caps",
+      "id": "Igz7gAPWQNA",
+      "published": "2026-11-07T21:09:37Z",
+      "summary": "Kiro Atelier is out. It turns your photos and wallpapers into paintings: thick oil impasto, palette knife, watercolour, gouache, pastel, woodblock, linocut, charcoal and more, in 4K. The AI painting happens on your own computer, on your own NVIDIA graphics card. No cloud, no\u2026",
+      "title": "KIRO 209 : Kiro Atelier is out: turn your photos into AI paintings, check your PC for free first"
+    },
     "Ij5pFJzT208": {
       "cls": "low",
       "id": "Ij5pFJzT208",
@@ -553,6 +749,13 @@
       "summary": "XFCE on Kiro is themed and ready out of the box, but the Settings Manager felt like it was missing a few buttons. So I added them. This video tours every new entry I put into the XFCE system settings \u2014 the tools I want one click away instead of hunting for them on the command\u2026",
       "title": "KIRO 033 : XFCE Settings Manager tour \u2014 lock screen, logout, firewall, disk tools and more",
       "website": true
+    },
+    "Jw-vBkX05vg": {
+      "cls": "low",
+      "id": "Jw-vBkX05vg",
+      "published": "2026-10-31T11:00:19Z",
+      "summary": "KiroTux Niri Noctalia in light mode. The ISO and its premium settings app are available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri Noctalia light mode tour - an Arch-based Linux desktop"
     },
     "KWWxs93Ytb0": {
       "cls": "caps",
@@ -602,6 +805,20 @@
       "title": "KIRO 000: Help fund Kiro \u2014 channel memberships are open",
       "website": false
     },
+    "L2VbVuRZdM4": {
+      "cls": "low",
+      "id": "L2VbVuRZdM4",
+      "published": "2026-10-28T17:00:24Z",
+      "summary": "Every look of KiroTux Niri DMS in a few seconds. Arch-based ISO + premium settings app, by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri DMS in seconds"
+    },
+    "L4SBlyYGA3E": {
+      "cls": "caps",
+      "id": "L4SBlyYGA3E",
+      "published": "2026-10-23T17:20:59Z",
+      "summary": "",
+      "title": "KIROTUX 014 : KiroTux Wayfire - real metal - ricing - wobbly windows, 3D cube, premium settings app"
+    },
     "LGQI1kDiqvc": {
       "cls": "caps",
       "id": "LGQI1kDiqvc",
@@ -633,6 +850,13 @@
       "summary": "lsblk # find your USB device, e.g. /dev/sdb sudo dd bs=4M if=kiro-*.iso \\ of=/dev/sdX status=progress oflag=sync",
       "title": "KIRO 040 : burning an ISO with dd",
       "website": false
+    },
+    "MAm0xS5p6S8": {
+      "cls": "caps",
+      "id": "MAm0xS5p6S8",
+      "published": "2026-10-20T06:01:28Z",
+      "summary": "Build your own custom KDE Plasma ISO with the rewritten Kiro ISO Builder. The last Kiro Plasma ISO dates from June, so in this video we rebuild it together from start to finish. I show every choice along the way: kernels, NVIDIA drivers, the Plasma extras, the package lists and\u2026",
+      "title": "KIRO 182 : Build a custom Kiro Plasma ISO with the new Kiro ISO Builder"
     },
     "MAmD_i9C8cc": {
       "cls": "caps",
@@ -672,6 +896,13 @@
       "title": "Kiro 032 : Nvidia 390 driver - Changing the build-the-iso script to add the Nvidia 390xx drivers",
       "website": false
     },
+    "Mqlz8QkReho": {
+      "cls": "caps",
+      "id": "Mqlz8QkReho",
+      "published": "2026-11-04T15:35:51Z",
+      "summary": "KiroTux Hyprland Impasto is the newest KiroTux edition: the Hyprland tiling compositor with impasto as the desktop shell. A transparent, glossy, liquid-glass look, an island at the top that runs everything, and desktop widgets of all sorts. The island is your control centre:\u2026",
+      "title": "KIRO 206 : KiroTux Hyprland Impasto Is Here: Glassy Desktop, Widgets, Wallpaper Colours"
+    },
     "Mxu95cJqZI0": {
       "cls": "low",
       "id": "Mxu95cJqZI0",
@@ -688,6 +919,20 @@
       "title": "KIRO 007 : teaser - Best Arch Linux Kernel? Comparing linux, Zen, CachyOS and Liquorix with Claude",
       "website": false
     },
+    "NOeZ0SOOMQo": {
+      "cls": "caps",
+      "id": "NOeZ0SOOMQo",
+      "published": "2026-10-16T16:40:18Z",
+      "summary": "KiroTux Hyprland Noctalia is out. It's an Arch Linux based Wayland desktop that pairs the Hyprland compositor with Noctalia, the Quickshell desktop shell. In this video I show you what it is, then we install it together from the boot menu to the first login. Three KiroTux\u2026",
+      "title": "KIROTUX 009 : KiroTux Hyprland Noctalia is here: install walkthrough of the third Wayland edition"
+    },
+    "NSqlnO513vU": {
+      "cls": "caps",
+      "id": "NSqlnO513vU",
+      "published": "2026-10-30T09:34:10Z",
+      "summary": "The Kiro website at https://kiroproject.be now speaks Dutch. Use the EN / NL switch at the top of the page and you can read the whole site in English or in Nederlands, your choice. This is the first wave of something bigger: the Kiro apps are ready to be translated. Spanish,\u2026",
+      "title": "KIRO 193 : Kiro website now in Dutch: the first wave of translating our apps into more languages"
+    },
     "NdzofLkdgUY": {
       "cls": "low",
       "id": "NdzofLkdgUY",
@@ -695,6 +940,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 039 : New release for Kiro ISO v26.04.01 - Easter egg in the video - work in progress",
       "website": false
+    },
+    "Nfu5-rXm8JU": {
+      "cls": "caps",
+      "id": "Nfu5-rXm8JU",
+      "published": "2026-10-21T04:48:30Z",
+      "summary": "Build your own custom Cinnamon ISO with the Kiro ISO Builder. You choose the desktop, the Linux kernel, the NVIDIA driver and every app, then build it, boot it in VirtualBox and install it with Calamares. The choice is yours, and that is the whole idea. The last video built a\u2026",
+      "title": "KIRO 184 : Build your own Cinnamon ISO with the Kiro ISO Builder: your kernel, driver and apps"
     },
     "NgDtIga-R5o": {
       "cls": "caps",
@@ -765,12 +1017,26 @@
       "title": "Kiro 008 : Build your own calamares and other packages and use the personal_repo",
       "website": false
     },
+    "Pni5iiioUVo": {
+      "cls": "caps",
+      "id": "Pni5iiioUVo",
+      "published": "2026-10-17T03:47:06Z",
+      "summary": "KiroTux Niri Noctalia is here: the Niri scrolling tiling compositor with the Noctalia shell, set up and ready to use from the very first boot. In this video I install it step by step and then show you around the desktop, so you can see exactly what you get before you decide.\u2026",
+      "title": "KIROTUX 010 : KiroTux Niri Noctalia: install and first look at the scrolling Wayland desktop"
+    },
     "Q79y_L-tlfE": {
       "cls": "caps",
       "id": "Q79y_L-tlfE",
       "published": "2026-06-14T06:04:07Z",
       "summary": "our Kiro machine now has its own local AI assistant. In this release we introduce the Kiro assistant \u2014 a personal helper that lives on your computer and answers your questions about Kiro, Arch-based Linux and everyday workflows, powered by Claude. Install it the usual way: sudo\u2026",
       "title": "KIRO 103 : Meet the Kiro assistant: a local AI helper powered by Claude"
+    },
+    "QFcWx3gzeNo": {
+      "cls": "caps",
+      "id": "QFcWx3gzeNo",
+      "published": "2026-10-23T11:57:32Z",
+      "summary": "Let's install KiroTux Wayfire together. It's the new KiroTux edition on Wayfire, the Wayland compositor with wobbly windows, the desktop cube, expo and blur, and it still tiles your windows for you. I install it in a virtual machine with virt-manager and QEMU, then show you the\u2026",
+      "title": "KIROTUX 013 : Install KiroTux Wayfire: Wayland desktop with 3D effects, step by step in a VM"
     },
     "QNykcUBADog": {
       "cls": "caps",
@@ -795,6 +1061,20 @@
       "summary": "==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 035 : Installing Kiro ISO v26.02.01 - arcolinux-nemesis",
       "website": false
+    },
+    "Qtp0QKX3qIQ": {
+      "cls": "caps",
+      "id": "Qtp0QKX3qIQ",
+      "published": "2026-10-02T06:37:15Z",
+      "summary": "A new GTK4 theme switcher for Ohmychadwm: change your GTK theme, icon theme, cursor and font from one small app instead of editing config files by hand. Meet Ohmychadwm Appearance - oma for short - launched with Ctrl+Alt+X. After months of the same look, I wanted a simple way to\u2026",
+      "title": "KIRO 177 : New Ohmychadwm Appearance app - switch GTK theme, icons, cursor and font in one click"
+    },
+    "R8QpcLLFUAo": {
+      "cls": "low",
+      "id": "R8QpcLLFUAo",
+      "published": "2026-10-26T13:00:38Z",
+      "summary": "Same KiroTux Hyprland Noctalia desktop, dark and light side by side. Which one do you pick? ISO + premium settings app by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland Noctalia - dark or light?"
     },
     "RG7U8E2EEMU": {
       "cls": "low",
@@ -842,6 +1122,13 @@
       "title": "KIRO 063 : Release notes for every Kiro ISO \u2014 see what changed",
       "website": false
     },
+    "SzvKJDod7UU": {
+      "cls": "caps",
+      "id": "SzvKJDod7UU",
+      "published": "2026-11-08T08:23:19Z",
+      "summary": "In this video 0:00 One photo, many paintings 0:14 Right-click, Set as wallpaper 0:24 Alt+F: a Variety favourite 0:44 Odd details? Paint it again 1:04 Variations and AI fingers 1:31 A different style altogether 1:45 Profiles, settings, your own style text 2:16 Watercolour from\u2026",
+      "title": "KIRO 214 : Kiro Atelier: one photo, many AI paintings, each one a wallpaper with a right-click"
+    },
     "T_ZVpq3k8SM": {
       "cls": "caps",
       "id": "T_ZVpq3k8SM",
@@ -863,6 +1150,13 @@
       "published": "2026-06-29T13:12:15Z",
       "summary": "A sneak preview of the next Kiro ISO, landing the first of July. You get an early look at what is changing: a leaner image, rebuilt in-house tools, a gentle push toward tiling window managers, and fish as the default shell. What is new in this build: Rebuilt application suite.\u2026",
       "title": "KIRO 144 : Sneak peek - Kiro v26.07.01 - what will it be like... - fish by default and more"
+    },
+    "TpsBz5RWcXc": {
+      "cls": "caps",
+      "id": "TpsBz5RWcXc",
+      "published": "2026-11-03T19:33:09Z",
+      "summary": "Thank you for being a member. Your support is what makes long, technical sessions like this one possible. This is the full build: close to two hours of watching a new KiroTux edition come to life with Claude Code as the AI coding assistant. KiroTux, our Wayland brand on Arch\u2026",
+      "title": "KIRO 201 : MEMBER - Building KiroTux Hyprland Impasto with Claude Code: a new edition from scratch"
     },
     "TqFuLknCsUE": {
       "cls": "low",
@@ -902,6 +1196,20 @@
       "title": "KIRO 034 : Switch the CPU scheduler from a GUI \u2014 a new ATT dev feature to test on Kiro",
       "website": false
     },
+    "UVKBHDuOeXU": {
+      "cls": "low",
+      "id": "UVKBHDuOeXU",
+      "published": "2026-10-25T11:00:26Z",
+      "summary": "KiroTux Hyprland DMS in light mode. The ISO and its premium settings app are available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland DMS light mode tour - an Arch-based Linux desktop"
+    },
+    "UZCU7bBrdIE": {
+      "cls": "caps",
+      "id": "UZCU7bBrdIE",
+      "published": "2026-11-06T07:52:41Z",
+      "summary": "Want KDE Plasma on Kiro? It takes one click in ArchLinux Tweak Tool (ATT) and a few minutes of waiting. Kiro ships with XFCE and Ohmychadwm, and ATT adds a full Plasma desktop on top. No reinstall, no hunting for packages. Step one: remove qt5ct first qt5ct is great on XFCE and\u2026",
+      "title": "KIRO 208 : 2 minutes it takes to install Plasma with ATT - remember qt5ct"
+    },
     "UZbFYiIShiQ": {
       "cls": "low",
       "id": "UZbFYiIShiQ",
@@ -917,6 +1225,13 @@
       "summary": "Thank you for being a member. This is the full session, the complete morning, none of it trimmed. This is a real working session: me and Claude Code, side by side, developing the Kiro ISO on a Saturday morning. No script, no cuts hiding the messy parts. You watch the whole\u2026",
       "title": "KIRO 067 : MEMBER - Build your own ISO: AI-assisted Linux distro development with Claude Code",
       "website": false
+    },
+    "UmjBCGGw8UI": {
+      "cls": "caps",
+      "id": "UmjBCGGw8UI",
+      "published": "2026-11-03T19:27:42Z",
+      "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. The full session runs close to two hours. https://youtu.be/TpsBz5RWcXc Watch how a complete new Linux edition starts life with Claude Code as the AI coding assistant.\u2026",
+      "title": "KIRO 200 : teaser - Building KiroTux Hyprland Impasto with Claude Code: a new edition from scratch"
     },
     "UwWiRpGP-0w": {
       "cls": "caps",
@@ -949,6 +1264,13 @@
       "title": "Kiro 041 : Kiro ISO v26.05.01 - what is new  - 5/8 - arcolinux-nemesis",
       "website": false
     },
+    "VX6mTKLSJn4": {
+      "cls": "caps",
+      "id": "VX6mTKLSJn4",
+      "published": "2026-10-18T10:50:38Z",
+      "summary": "Build your own custom Kiro ISO, your way. The Kiro ISO Builder has been rewritten from the ground up, so you can now pick your desktop, your kernels and your drivers, and remove every package you don't want before the build even starts. This rewrite started with one of you. A\u2026",
+      "title": "KIRO 181 : Kiro ISO Builder rewritten: build a custom Kiro ISO without the packages you don't want"
+    },
     "VZu5dGgIHVA": {
       "cls": "caps",
       "id": "VZu5dGgIHVA",
@@ -956,6 +1278,13 @@
       "summary": "MangoWC is a tiling Wayland compositor sitting quietly in the CachyOS repository, and in this video we go and pull it onto a clean machine to see what it can do. This is a first look for me too, so we explore it together: how to find it, how to install it, and how to make it\u2026",
       "title": "KIRO 090 : Install Mangowc on Kiro with the CachyOS repo",
       "website": false
+    },
+    "VdrcmlzrwZs": {
+      "cls": "caps",
+      "id": "VdrcmlzrwZs",
+      "published": "2026-11-02T16:43:23Z",
+      "summary": "Change the system language on Kiro in a few clicks and get your whole desktop, your browser and your spell-check in Italian, Portuguese, German, Chinese, Japanese or any of 14 languages. This video shows the new language settings in the ArchLinux Tweak Tool (ATT). What is new in\u2026",
+      "title": "KIRO 197 : Kiro in your own language: 14 languages and new Language Packs in ArchLinux Tweak Tool"
     },
     "Vofww6NYd2o": {
       "cls": "low",
@@ -965,6 +1294,20 @@
       "title": "Kiro 014 : Installing Kiro with BTRFS partitions - change calamares on the fly - install packages",
       "website": false
     },
+    "VqgSbw0luRA": {
+      "cls": "low",
+      "id": "VqgSbw0luRA",
+      "published": "2026-11-01T09:00:37Z",
+      "summary": "A quick look at KiroTux Wayfire in dark mode. KiroTux is the Arch-based edition line of Kiro with a premium settings app, available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Wayfire dark mode tour - an Arch-based Linux desktop"
+    },
+    "VyG0R7d2tqA": {
+      "cls": "caps",
+      "id": "VyG0R7d2tqA",
+      "published": "2026-10-31T20:00:09Z",
+      "summary": "Kiro installeren, volledig in het Nederlands (Vlaams) uitgelegd. Dit is een uitzondering, want de maandelijkse installatievideo is altijd in het Engels. Deze keer is hij voor iedereen die liever in zijn moedertaal meekijkt. We gaan samen van de download tot een werkende desktop:\u2026",
+      "title": "KIRO 194 : Kiro installeren in het Nederlands: van download tot desktop, stap voor stap uitgelegd"
+    },
     "W-QPEwF-_bo": {
       "cls": "caps",
       "id": "W-QPEwF-_bo",
@@ -972,6 +1315,13 @@
       "summary": "Check if you installed kiro-bootloader-grub In this video I show how I use Claude AI as a real assistant to design and build a feature for the Kiro ISO: making GRUB stay reliable after system updates. GRUB already works on Kiro. Calamares installs systemd-boot by default, but on\u2026",
       "title": "KIRO 073 : Installing Kiro on older computers with Grub is already possible - but ... - Claude AI",
       "website": false
+    },
+    "WwCc-CCIi1A": {
+      "cls": "low",
+      "id": "WwCc-CCIi1A",
+      "published": "2026-10-28T09:00:21Z",
+      "summary": "A quick look at KiroTux Niri DMS in dark mode. KiroTux is the Arch-based edition line of Kiro with a premium settings app, available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri DMS dark mode tour - an Arch-based Linux desktop"
     },
     "X75-NhBAZzo": {
       "cls": "caps",
@@ -1011,6 +1361,20 @@
       "summary": "Today marks the birth of a brand-new tool: the Fish Tweak Tool (FTT), the Fish-shell companion to the ArchLinux Tweak Tool (ATT). If you live in the Fish shell, FTT gives you one calm place to shape it - prompts, plugins, themes and your greeting - either with one click or one\u2026",
       "title": "KIRO 139 : Fish Tweak Tool: one-click Fish shell prompts, plugins and themes on Kiro"
     },
+    "Xt2BHmbt2GI": {
+      "cls": "caps",
+      "id": "Xt2BHmbt2GI",
+      "published": "2026-11-07T22:06:25Z",
+      "summary": "In this video 0:00 Why your wallpaper matters 0:53 Feeding pictures with Variety and Wallhaven 3:25 Drop a picture, pick a profile 4:39 Set as wallpaper from the list 5:05 Strength series: five variations 6:23 Paint in other styles, side by side 7:30 Duplicate check saves GPU\u2026",
+      "title": "KIRO 211 : Kiro Atelier in action: turn any wallpaper into a painting on Arch Linux"
+    },
+    "Xt4hn5ZO8HY": {
+      "cls": "caps",
+      "id": "Xt4hn5ZO8HY",
+      "published": "2026-11-04T14:57:07Z",
+      "summary": "KDE Plasma on Kiro, from the default ISO to a completely different look in a few clicks. We start on the standard Kiro ISO (XFCE4 and Ohmychadwm), install KDE Plasma with the ArchLinux Tweak Tool (ATT), and then change the whole desktop with Plasma Global Themes: a macOS look, a\u2026",
+      "title": "KIRO 205 : KDE Plasma Themes on Kiro: a macOS or Windows 11 Look in a Few Clicks"
+    },
     "Y9aDgI70Hbw": {
       "cls": "caps",
       "id": "Y9aDgI70Hbw",
@@ -1026,6 +1390,13 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 048 : Kiro ISO v26.05.01 - what is new  - 1/8 - ArchLinux Tweak Tool - work in progress",
       "website": false
+    },
+    "YMAwHAdhnlA": {
+      "cls": "low",
+      "id": "YMAwHAdhnlA",
+      "published": "2026-10-17T13:35:57Z",
+      "summary": "",
+      "title": "Kiro-gdrive google drive verification"
     },
     "YWtk3CyKGHE": {
       "cls": "caps",
@@ -1073,6 +1444,13 @@
       "title": "KIRO 032 : The Kiro toolchain \u2014 every kiro- command on the Arch-based ISO explained",
       "website": true
     },
+    "Z_IRMAeWzDo": {
+      "cls": "low",
+      "id": "Z_IRMAeWzDo",
+      "published": "2026-10-28T15:00:39Z",
+      "summary": "What you get with KiroTux Niri DMS: the Arch-based ISO, the Calamares installer and the KiroTux premium settings app. Available by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri DMS highlights - installer, premium app and more"
+    },
     "ZgrRU-9ZF9o": {
       "cls": "caps",
       "id": "ZgrRU-9ZF9o",
@@ -1089,6 +1467,13 @@
       "title": "Edu 066 : ArchLinux Tweak Tool or ATT on Arcana or Kiro or Arch Linux - bspwm and awesome",
       "website": false
     },
+    "Zk7S7rP-vhA": {
+      "cls": "caps",
+      "id": "Zk7S7rP-vhA",
+      "published": "2026-11-08T07:52:40Z",
+      "summary": "What would your wallpapers look like as paintings? Here are 50 of them, made with Kiro Atelier on Arch Linux: mountains, abstract art, people and machines. No narration this time, just the paintings. Each one is labelled with the style that made it. Ten styles appear: Impasto,\u2026",
+      "title": "KIRO 212 : Kiro Atelier - 50 wallpapers turned into paintings on Arch Linux - NO SOUND"
+    },
     "ZnyOP97hflU": {
       "cls": "caps",
       "id": "ZnyOP97hflU",
@@ -1096,6 +1481,13 @@
       "summary": "Become a member to watch the full build: https://www.youtube.com/@erikdubois/join This is the first 10 minutes. In it I sit down with Claude Code and ask it to build a complete, free website hosted on GitHub - not a one-pager, a real multi-page site with menus - and I try to\u2026",
       "title": "KIRO 018 : Teaser - Let Claude Code Write the Code and the Copy - Free GitHub Pages Website",
       "website": false
+    },
+    "ZwHnONMVgAQ": {
+      "cls": "caps",
+      "id": "ZwHnONMVgAQ",
+      "published": "2026-10-02T06:39:51Z",
+      "summary": "The October 2026 Kiro ISO is out. In this video I install it in VirtualBox from start to finish, walk you through what changed and why, and show what I do right after the first boot. What's new on the October ISO: - The right kernel boots by default, every time. systemd-boot and\u2026",
+      "title": "KIRO 178 : Kiro v26.10.01 Installation video - what is new - new app for Ohmychadwm"
     },
     "_5yCSkwfPgc": {
       "cls": "caps",
@@ -1181,6 +1573,13 @@
       "summary": "There is a new Kiro ISO, dated the 14th of June, and it carries the biggest change we have made under the hood in a long time: Kiro now signs its packages. Why the change? After the recent security note from upstream about malicious packages slipping into repositories, we\u2026",
       "title": "KIRO 101 : Signed packages on Kiro: new ISO, keyring and pacman.conf explained"
     },
+    "ba9QpEnzQes": {
+      "cls": "low",
+      "id": "ba9QpEnzQes",
+      "published": "2026-11-07T09:00:10Z",
+      "summary": "Install Kiro, pick your language, and the whole system follows: Italian, German, Chinese, Japanese and more. 14 languages cover 70 to 80% of our users. The Arch Linux Tweak Tool and every Kiro app speak them too. Kiro is a free Arch-based Linux distro, and you can change the\u2026",
+      "title": "Kiro now speaks 14 languages #shorts"
+    },
     "bbpf9uAwoZk": {
       "cls": "caps",
       "id": "bbpf9uAwoZk",
@@ -1220,12 +1619,26 @@
       "title": "Kiro 044 : Kiro ISO v26.05.01 - what is new  - 4/8 - edu-system-files",
       "website": false
     },
+    "ccp33Or9REE": {
+      "cls": "caps",
+      "id": "ccp33Or9REE",
+      "published": "2026-10-18T08:39:04Z",
+      "summary": "Running Qtile and staring at a black screen after your last update? You are not alone. The culprit is python-xcffib, the Python X11 binding Qtile is built on. The newest version breaks Qtile, so here is the quick fix: downgrade that one package and hold it back until it is fixed\u2026",
+      "title": "KIRO 180 : Qtile black screen after update? Downgrade python-xcffib and hold it back"
+    },
     "d4hvnmaRgIo": {
       "cls": "caps",
       "id": "d4hvnmaRgIo",
       "published": "2026-06-21T18:46:11Z",
       "summary": "Icon themes make or break the look of a desktop, and on the Kiro ISO the Surfn icon theme just got a lot more flexible. Until now the Surfn collection was one big monolithic package: install it and you pulled in everything, whether you wanted it or not. It is now split into\u2026",
       "title": "KIRO 122 : Icon themes on Kiro: splitting the Surfn pack so you install only what you want"
+    },
+    "dEmt9lG5U9A": {
+      "cls": "caps",
+      "id": "dEmt9lG5U9A",
+      "published": "2026-11-05T15:58:35Z",
+      "summary": "Kiro Atelier is a new Kiro app that turns any wallpaper into a painting: thick impasto oil paint, palette knife, watercolour, gouache or pastel. This is a sneak peek of something I'm quite proud of. Where the idea came from While building the KiroTux Hyprland Impasto edition, I\u2026",
+      "title": "KIRO 207 : Kiro Atelier sneak peek: turn your wallpapers into oil paintings with AI"
     },
     "dFss3xC7hh0": {
       "cls": "caps",
@@ -1242,6 +1655,13 @@
       "title": "KIRO 047 : How I Use Claude Code as My Coding Assistant \u2014 Plan Mode, Auto Mode, Prompt Tips",
       "website": false
     },
+    "ddHqu-1acxY": {
+      "cls": "low",
+      "id": "ddHqu-1acxY",
+      "published": "2026-11-01T11:00:17Z",
+      "summary": "KiroTux Wayfire in light mode. The ISO and its premium settings app are available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Wayfire light mode tour - an Arch-based Linux desktop"
+    },
     "dq_hsoQaAWw": {
       "cls": "low",
       "id": "dq_hsoQaAWw",
@@ -1249,6 +1669,34 @@
       "summary": "info ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois Arcana :\u2026",
       "title": "Kiro 036 : Ricing Liya - cursors, themes, wallpaper, icons, ...",
       "website": false
+    },
+    "drmw_clEISo": {
+      "cls": "low",
+      "id": "drmw_clEISo",
+      "published": "2026-10-25T15:00:02Z",
+      "summary": "What you get with KiroTux Hyprland DMS: the Arch-based ISO, the Calamares installer and the KiroTux premium settings app. Available by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland DMS highlights - installer, premium app and more"
+    },
+    "e4O6EWsaQd4": {
+      "cls": "caps",
+      "id": "e4O6EWsaQd4",
+      "published": "2026-11-03T03:30:35Z",
+      "summary": "Want Ohmychadwm, the tiling window manager, without the hard work? In this video I build my own custom Kiro ISO with only Ohmychadwm on it, using the Kiro ISO Builder, boot it in VirtualBox and install it with Calamares. No internet, no servers, no keys, and no black screen\u2026",
+      "title": "KIRO 199 : Ohmychadwm the easy way: build your own Kiro ISO and install it offline with Calamares"
+    },
+    "eARHii6V8t0": {
+      "cls": "caps",
+      "id": "eARHii6V8t0",
+      "published": "2026-10-09T07:42:40Z",
+      "summary": "KiroTux Hyprland DMS is installed. Now what? This is your first look at Hyprland with DankMaterialShell (DMS) on Wayland, right after the install. In the previous video we installed it in Virtual Machine Manager (not VirtualBox). Now we log in and take a tour together: the\u2026",
+      "title": "KIROTUX 003 : KiroTux Hyprland DMS first look: DankMaterialShell on Wayland after install"
+    },
+    "eTMUsYvFdGI": {
+      "cls": "caps",
+      "id": "eTMUsYvFdGI",
+      "published": "2026-11-04T10:34:15Z",
+      "summary": "Surpa is a new, free icon theme for XFCE and KDE Plasma: Paper + Surfn. In this video you see it on Kiro XFCE, with a dark and a light theme. The Plasma tour is in the previous video. The idea came from a user on the Kiro GitHub discussions: combine Paper with Surfn. You can\u2026",
+      "title": "KIRO 204 : Surpa Icon Theme on XFCE: Free Paper Icons Completed With Surfn, Light and Dark"
     },
     "ebSA_t7Mpe8": {
       "cls": "caps",
@@ -1280,6 +1728,13 @@
       "title": "KIRO 089 : Install Niri Noctalia on Kiro with the CachyOS repo - an abundance of settings and themes",
       "website": false
     },
+    "fFlZhYWSGOk": {
+      "cls": "low",
+      "id": "fFlZhYWSGOk",
+      "published": "2026-10-28T11:00:16Z",
+      "summary": "KiroTux Niri DMS in light mode. The ISO and its premium settings app are available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri DMS light mode tour - an Arch-based Linux desktop"
+    },
     "fMlHQ35tsCA": {
       "cls": "low",
       "id": "fMlHQ35tsCA",
@@ -1288,12 +1743,26 @@
       "title": "Kiro 020 : Flexi - a personal DWM based on dwm-flexipatch from bakkeby",
       "website": false
     },
+    "fnT75jFkMoA": {
+      "cls": "caps",
+      "id": "fnT75jFkMoA",
+      "published": "2026-09-25T04:57:16Z",
+      "summary": "Here's something different: the ArchLinux Tweak Tool (ATT) running on Ryoku, an Arch-based distro with a Hyprland or Niri desktop. Ryoku turned up in one of my YouTube filters, and we had never tested ATT on it. So I did. Installing ATT takes one line. Go to the kirodubes\u2026",
+      "title": "KIRO 176 : Archlinux Tweak Tool supports Ryoku"
+    },
     "g-hocPziuI0": {
       "cls": "caps",
       "id": "g-hocPziuI0",
       "published": "2026-06-24T18:42:25Z",
       "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. In this video I sit down with Claude AI and run an exploratory study before writing a single line of code. The idea: a GUI configuration tool for the fish shell, a\u2026",
       "title": "KIRO 126 : teaser - Fish Shell Tweak Tool: planning a GUI configurator with Claude AI - only 10 min"
+    },
+    "g4F4uX-e-o0": {
+      "cls": "caps",
+      "id": "g4F4uX-e-o0",
+      "published": "2026-10-23T10:05:04Z",
+      "summary": "Building a KiroTux Wayfire Edition with Claude Code: AI Assistant From Plan to ISO",
+      "title": "KIRO 185 : teaser - Building a KiroTux Wayfire with Claude Code: AI Assistant From Plan to ISO"
     },
     "gHqD-LsV-4A": {
       "cls": "caps",
@@ -1310,6 +1779,13 @@
       "summary": "info",
       "title": "Kiro 033 : What is new in Kiro v26.02.01",
       "website": false
+    },
+    "gezsJJdmFgA": {
+      "cls": "caps",
+      "id": "gezsJJdmFgA",
+      "published": "2026-10-11T12:19:57Z",
+      "summary": "Install KiroTux Niri DMS step by step: the Niri scrolling tiling Wayland compositor with DankMaterialShell (DMS), installed offline with Calamares, then a first tour of the desktop. Niri works differently from other window managers. Windows don't get squeezed into one screen.\u2026",
+      "title": "KIROTUX 007: KiroTux Niri DMS installation: scrolling tiling Wayland with DankMaterialShell"
     },
     "h0c39oX-Nl8": {
       "cls": "caps",
@@ -1354,6 +1830,20 @@
       "summary": "Learn how to install Arch Linux the easy way with archinstall \u2014 a clean, beginner-friendly walkthrough from the official ISO to a working XFCE desktop in minutes. This is the vanilla Arch base that Kiro is built on, so I do a fresh install now and then to see exactly what is\u2026",
       "title": "KIRO 046 : How to Install Arch Linux with archinstall \u2014 Fast Beginner Guide 2026",
       "website": false
+    },
+    "ilR83H5YmbI": {
+      "cls": "low",
+      "id": "ilR83H5YmbI",
+      "published": "2026-10-31T17:00:15Z",
+      "summary": "Every look of KiroTux Niri Noctalia in a few seconds. Arch-based ISO + premium settings app, by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri Noctalia in seconds"
+    },
+    "j8cIYWBedFE": {
+      "cls": "low",
+      "id": "j8cIYWBedFE",
+      "published": "2026-10-26T11:00:27Z",
+      "summary": "KiroTux Hyprland Noctalia in light mode. The ISO and its premium settings app are available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland Noctalia light mode tour - an Arch-based Linux desktop"
     },
     "jOEGrKvm2P0": {
       "cls": "caps",
@@ -1422,6 +1912,13 @@
       "published": "2026-06-29T05:42:56Z",
       "summary": "Become a member to watch the full build: https://www.youtube.com/@ErikDubois/join This is the first 10 minutes. Building a tool in the open means showing the messy middle, not just the polished result. In this session I work on the Fish Tweak Tool \u2014 the fish-shell sibling of\u2026",
       "title": "KIRO 142 : teaser - Building a Fish shell theme switcher with Tinty and base16 on Kiro"
+    },
+    "kdB4lMNF7nM": {
+      "cls": "low",
+      "id": "kdB4lMNF7nM",
+      "published": "2026-10-28T13:00:11Z",
+      "summary": "Same KiroTux Niri DMS desktop, dark and light side by side. Which one do you pick? ISO + premium settings app by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Niri DMS - dark or light?"
     },
     "kzLR3rSpoPY": {
       "cls": "caps",
@@ -1509,6 +2006,27 @@
       "title": "KIRO 039 : New keybinding app to show what keys to press in Twms",
       "website": false
     },
+    "msAudxDypjI": {
+      "cls": "low",
+      "id": "msAudxDypjI",
+      "published": "2026-10-25T09:00:17Z",
+      "summary": "A quick look at KiroTux Hyprland DMS in dark mode. KiroTux is the Arch-based edition line of Kiro with a premium settings app, available by donation in the Ko-fi shop: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland DMS dark mode tour - an Arch-based Linux desktop"
+    },
+    "mw5pNHPbbVw": {
+      "cls": "caps",
+      "id": "mw5pNHPbbVw",
+      "published": "2026-10-30T07:14:49Z",
+      "summary": "BTRFS AND SNAPSHOTS IN THE NEXT VIDEO - https://youtu.be/v0uwKtB_hGo The Kiro ISO for November 2026 has landed: a free, Arch-based Linux distro with XFCE and Ohmychadwm, a simple Calamares installer that needs no internet, and a month of new tools, fixes and cleanups. In this\u2026",
+      "title": "KIRO 191 : Kiro ISO v26.11.01 - install walkthrough, what's new and what to do after installing"
+    },
+    "n2aX2OB8V_c": {
+      "cls": "low",
+      "id": "n2aX2OB8V_c",
+      "published": "2026-10-26T15:00:11Z",
+      "summary": "What you get with KiroTux Hyprland Noctalia: the Arch-based ISO, the Calamares installer and the KiroTux premium settings app. Available by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland Noctalia highlights - installer, premium app and more"
+    },
     "nGLEMvR9KUY": {
       "cls": "low",
       "id": "nGLEMvR9KUY",
@@ -1546,6 +2064,13 @@
       "summary": "git clone https://github.com/kirodubes/iso ==========Sharing knowledge on Youtube/Github========== Kiro : https://sourceforge.net/projects/kiro/files/ Github : https://github.com/kirodubes Youtube : https://www.youtube.com/erikdubois Github : https://github.com/erikdubois\u2026",
       "title": "Kiro 002 : How to build the KIRO ISO",
       "website": false
+    },
+    "opP-lwoXQX4": {
+      "cls": "low",
+      "id": "opP-lwoXQX4",
+      "published": "2026-10-25T17:00:20Z",
+      "summary": "Every look of KiroTux Hyprland DMS in a few seconds. Arch-based ISO + premium settings app, by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland DMS in seconds"
     },
     "pFyN5o9DhHs": {
       "cls": "caps",
@@ -1684,6 +2209,13 @@
       "title": "KIRO 074 : Build a custom Kiro ISO with your own kernels using the Kiro ISO builder",
       "website": false
     },
+    "u4LRuC3Y8Vk": {
+      "cls": "caps",
+      "id": "u4LRuC3Y8Vk",
+      "published": "2026-10-09T07:19:34Z",
+      "summary": "KiroTux Hyprland DMS is out, and in this video I install it from start to finish. It is the first KiroTux ISO: the Hyprland Wayland compositor with Dank Material Shell (DMS) on top, built on Kiro and Arch Linux. If you missed the launch: KiroTux is the new Wayland branch of\u2026",
+      "title": "KIROTUX 002 : How to install KiroTux Hyprland DMS - Calamares install, offline, no Wi-Fi needed"
+    },
     "uhpk6G9oPQY": {
       "cls": "caps",
       "id": "uhpk6G9oPQY",
@@ -1699,12 +2231,26 @@
       "title": "KIRO 093 : Changing Ohmychadwm from Azerty to Qwerty and back to Azerty - two ways - default=qwerty",
       "website": false
     },
+    "v0uwKtB_hGo": {
+      "cls": "caps",
+      "id": "v0uwKtB_hGo",
+      "published": "2026-10-30T07:32:58Z",
+      "summary": "Btrfs snapshots on Kiro, the easy way. Install with the Btrfs file system, then add Snapper, snap-pac and Btrfs Assistant with a few clicks in the ArchLinux Tweak Tool (ATT). From then on every pacman install or update takes a snapshot, so you can always go back to a system that\u2026",
+      "title": "KIRO 192 : Btrfs snapshots on Kiro with Snapper and Btrfs Assistant, set up in a few clicks"
+    },
     "vUPVny1zwWI": {
       "cls": "caps",
       "id": "vUPVny1zwWI",
       "published": "2026-07-18T06:36:41Z",
       "summary": "Dusk is a tiling window manager that forks dwm and has been around for several years. This is our own take on it, swapping the usual brownish, bordeaux colors for a clean blue accent. I walk through updating the package so the new keybindings come through, then log out and back\u2026",
       "title": "KIRO 158 : Dusk tiling window manager: a DWM fork with a blue accent on Kiro for X11"
+    },
+    "vfyghCaLUuo": {
+      "cls": "low",
+      "id": "vfyghCaLUuo",
+      "published": "2026-11-01T15:00:31Z",
+      "summary": "What you get with KiroTux Wayfire: the Arch-based ISO, the Calamares installer and the KiroTux premium settings app. Available by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Wayfire highlights - installer, premium app and more"
     },
     "vy9EIlywCps": {
       "cls": "caps",
@@ -1782,6 +2328,20 @@
       "title": "KIRO 031 : Install NVIDIA the easy way \u2014 4 driver choices on the Kiro ISO",
       "website": true
     },
+    "xZLI_L-x7GA": {
+      "cls": "caps",
+      "id": "xZLI_L-x7GA",
+      "published": "2026-10-26T15:12:20Z",
+      "summary": "ArchLinux Betterlockscreen is the little app that sets the image on your lock screen, and it just got a handy upgrade: a drop-down to choose where your images come from. Pick a folder, scroll through your wallpapers, click Apply image, done. This is the third video in our series\u2026",
+      "title": "KIRO 190 : ArchLinux Betterlockscreen: pick your lock screen image from any wallpaper folder"
+    },
+    "xZOKcQddJmI": {
+      "cls": "low",
+      "id": "xZOKcQddJmI",
+      "published": "2026-10-26T17:00:10Z",
+      "summary": "Every look of KiroTux Hyprland Noctalia in a few seconds. Arch-based ISO + premium settings app, by donation: ko-fi.com/erikdubois/shop",
+      "title": "KiroTux Hyprland Noctalia in seconds"
+    },
     "y0PH36QVqkE": {
       "cls": "caps",
       "id": "y0PH36QVqkE",
@@ -1805,6 +2365,13 @@
       "summary": "KIRO is my personal ISO - created just for me - I am sharing it here",
       "title": "Kiro 011 : What changed to the KIRO ISO - git clone/pull + gitahead/gitfiend",
       "website": false
+    },
+    "yeytaYsZgQY": {
+      "cls": "caps",
+      "id": "yeytaYsZgQY",
+      "published": "2026-11-07T21:14:11Z",
+      "summary": "Kiro Atelier turns your photos and wallpapers into AI paintings, and in this video you see it at work from the first start to a finished wallpaper. The AI runs locally on your own NVIDIA graphics card: your pictures never go online. KA Check came up green in the previous video,\u2026",
+      "title": "KIRO 210 : Kiro Atelier at work: paint your wallpapers with local AI, from setup to wallpaper"
     },
     "z5xIYny1pQY": {
       "cls": "caps",

@@ -24,7 +24,7 @@ Browse-the-whole-series links for Kiro itself. Prefer the individual
 videos in [videos.md](./videos.md) first; these are for when the user
 wants everything in one place.
 
-- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 158 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
+- [KIRO series](https://www.youtube.com/playlist?list=PLlloYVGq5pS5ZnnlRkIMgNo1zSoL8wT3G) — 197 videos — The current numbered KIRO tutorial series — the up-to-date Kiro videos.
 - [KIRO AI](https://www.youtube.com/playlist?list=PLlloYVGq5pS4YHErtuybVdRJttrjRwceS) — 36 videos — Using AI tooling on Kiro.
 - [KIRO overview](https://www.youtube.com/playlist?list=PLlloYVGq5pS7-3Q58qnFA-O_JBg0PmK2M) — 19 videos — High-level overviews of what Kiro is and ships.
 - [KIRO ATT](https://www.youtube.com/playlist?list=PLlloYVGq5pS4dmCbN1iyZAULI3-9uUGiV) — 13 videos — ATT (ArchLinux Tweak Tool) demonstrated on Kiro.
@@ -68,7 +68,7 @@ wants everything in one place.
 
 ### Apps / tooling
 
-- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 279 videos — ATT — the modular GTK system tweak tool Kiro ships.
+- [ArchLinux Tweak Tool (ATT)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nvFc_LYRE82Gh3XWA6rVH) — 282 videos — ATT — the modular GTK system tweak tool Kiro ships.
 - [Creating apps (Python)](https://www.youtube.com/playlist?list=PLlloYVGq5pS63vf2ksZntZmWwiJK_gtFt) — 86 videos — Building your own GTK Python applications.
 - [Creating apps (Glade)](https://www.youtube.com/playlist?list=PLlloYVGq5pS7fXXgTv21hAOxhjYuYcE4H) — 43 videos — Designing application UIs with Glade.
 - [Variety (wallpapers)](https://www.youtube.com/playlist?list=PLlloYVGq5pS5yojbnoyCFY4IpSMsA5aSc) — 36 videos — The Variety wallpaper manager.
@@ -135,7 +135,7 @@ wants everything in one place.
 
 ### Workflow / philosophy
 
-- [It is all Arch Linux](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nn1_3ws7iIo_Nys9PTcH2) — 84 videos — Why Arch-based distros share the same foundations.
+- [It is all Arch Linux](https://www.youtube.com/playlist?list=PLlloYVGq5pS5nn1_3ws7iIo_Nys9PTcH2) — 86 videos — Why Arch-based distros share the same foundations.
 - [Workflow](https://www.youtube.com/playlist?list=PLlloYVGq5pS6pA63D4qfi224OvVkpIKQR) — 71 videos — General Linux workflow and productivity habits — stays relevant for years.
 
 ## When nothing here fits
