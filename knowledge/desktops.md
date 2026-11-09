@@ -1,77 +1,70 @@
 # Desktops & Window Managers
 
-Kiro ships **many** environments — both full desktops and tiling window
-managers. Each has its own panel/bar, configuration, and keybindings.
-**Always ask the user which environment they run before giving any
-environment-specific advice** — the same task is done differently in XFCE,
-Cinnamon, or a tiling WM like bspwm.
+**Always ask which environment the user runs, and whether it is an X11 or a
+Wayland session, before giving environment-specific advice.** The same task is
+done differently in XFCE, Plasma or a tiling window manager.
 
-## How Kiro organizes environments: editions
+## What the ISO ships
 
-Kiro builds **editioned** ISOs. An edition is the full set of environments a
-given ISO ships and offers at the login screen. The **default Kiro ISO** ships
-two environments side by side:
+The default Kiro ISO ships **two** environments, both X11:
 
-- **XFCE** — a full, traditional desktop (the default desktop edition).
-- **ohmychadwm** — Kiro's customized `chadwm` tiling window manager.
+- **XFCE** — the full desktop; the live session and a fresh install log into it.
+- **ohmychadwm** — Kiro's flagship tiling window manager (a customised chadwm),
+  with its own Ohmychadwm Tweak Tool (`Ctrl` + `Alt` + `X`).
 
-You pick which one to use at the login screen (display manager). Other editions
-are built as separate ISOs.
+Pick between them on the **SDDM** login screen; SDDM remembers the last
+session. A separate **Plasma ISO** ships the fully themed KDE Plasma edition.
+Kiro boots **X11 by default**; Wayland is optional (see
+[wayland.md](./wayland.md)), and the KiroTux line has a Wayland ISO per
+desktop (see [kirotux.md](./kirotux.md)).
 
-## Full desktop environments
+## Everything else comes through ATT
 
-Available as editions:
+ArchLinux Tweak Tool installs the other environments on demand. In total ATT
+offers **29** (the two on the ISO plus **27 more**).
 
-- **XFCE** — default desktop; lightweight and traditional.
-- **Cinnamon**
-- **GNOME**
-- **MATE**
-- **KDE Plasma**
-- **Budgie**
+**ATT → Desktop** (15, chosen from a dropdown):
 
-Which of these is on a given machine depends on the edition the user
-installed. If unsure, ask — don't assume.
+- Full desktops: **XFCE**, **Plasma**, **GNOME**, **Cinnamon**, **MATE**,
+  **Budgie**
+- X11 tiling WMs: **ohmychadwm**, **chadwm**, **awesome**, **bspwm**,
+  **dusk**, **hlwm** (herbstluftwm), **i3**, **leftwm**, **qtile**
 
-## Tiling window managers
+Most install with a Kiro config package (`kiro-<name>`); Plasma, GNOME and
+Budgie install without one (after Plasma, ATT suggests the optional
+`kiro-plasma-meta`). **Plasma and GNOME are one-way installs**: removing them
+cleanly needs a reinstall, and ATT warns first. There are also
+"Install all desktops" and "Install all twms" buttons.
 
-Kiro ships seven tiling window managers, each with a curated config:
+**ATT → Desktop - Wayland** (14): see [wayland.md](./wayland.md).
 
-- **ohmychadwm** — Kiro's flagship `chadwm` setup (ships on the default ISO).
-- **chadwm** — the base chadwm environment.
-- **awesome**
-- **bspwm**
-- **i3**
-- **leftwm**
-- **qtile**
+## Known quirks
 
-The hybrid TWMs (qtile, chadwm/ohmychadwm, leftwm) handle window, layout, and
-workspace bindings natively and delegate application/media/screenshot/system
-keys to **sxhkd**. i3, bspwm, and awesome keep everything in their own config.
+- **Plasma installed on top of XFCE looks black**: Kiro's `/etc/environment`
+  theming variables override Plasma's theme. Comment out
+  `QT_QPA_PLATFORMTHEME`, `QT_STYLE_OVERRIDE` and `GTK_THEME`, log out.
+- **"Xfce Session (Wayland)" gives a black screen**: XFCE's own experimental
+  Wayland mode, not a Kiro session. Pick the plain **Xfce Session**.
+- **Dark everywhere**: deliberate (`GTK_THEME=Arc-Dawn-Dark` in
+  `/etc/environment`); `GTK_THEME=Arc` is the light sibling.
 
 ## Where configs live
 
-On an installed system, each environment's config is under your home
-directory, e.g.:
-
-- `~/.config/ohmychadwm/` — ohmychadwm (autostart lives in
+- `~/.config/ohmychadwm/` — ohmychadwm (autostart:
   `~/.config/ohmychadwm/scripts/run.sh`)
-- `~/.config/bspwm/`, `~/.config/qtile/`, `~/.config/i3/`,
-  `~/.config/awesome/`, `~/.config/leftwm/`
-- XFCE settings are managed through the XFCE Settings Manager (xfconf), not a
-  single flat file.
+- `~/.config/<wm>/` — bspwm, qtile, i3, awesome, leftwm, …
+- XFCE settings live in xfconf (XFCE Settings Manager), not one flat file.
+- New defaults arrive in `/etc/skel`; `kiro-skell` copies them into the home
+  folder with a backup (see [tools.md](./tools.md)).
+
+The hybrid tiling WMs (qtile, chadwm/ohmychadwm, leftwm) handle window, layout
+and workspace keys natively and leave application, media, screenshot and
+system keys to **sxhkd**. i3, bspwm and awesome keep everything in their own
+config.
 
 ## Keybindings
 
-Each shipped tiling WM (plus XFCE) includes a generated **keybindings
-cheatsheet** at `~/.config/<env>/keybindings.txt`, with matching `.html` and
-`.pdf` versions. When a user asks "what's the shortcut for X", point them to
-their environment's `keybindings.txt`, or to the Kiro keybindings viewer if
-installed.
-
-## Maintainer TODO
-
-- Confirm the exact set of full-desktop editions actually published for the
-  current release (edition-blocks exist for xfce/cinnamon/gnome/mate/plasma;
-  not every edition is necessarily released each cycle).
-- Add per-environment one-line "how to launch a terminal / app menu" notes —
-  the single most common first question per environment.
+Each shipped tiling WM (plus XFCE) has a generated cheatsheet at
+`~/.config/<env>/keybindings.txt`, with `.html` and `.pdf` versions. The
+**Kiro Keybindings** app (`kiro-keybindings`) shows it as a searchable overlay
+for the running WM. Point "what's the shortcut for X" questions there.

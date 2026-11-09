@@ -1,72 +1,62 @@
 # Kiro Architecture
 
-A short map of how Kiro is put together — useful when you want to know what
-ships, where software comes from, and how the pieces fit.
+A short map of how Kiro is put together. Public home: https://kiroproject.be
 
 ## What Kiro is
 
-Kiro is an Arch-based Linux distro. Public home: https://kiroproject.be
+An Arch-based distro: plain Arch underneath (same packages, same `pacman`, same
+rolling release), with Kiro's configs, tools, themes and an installer on top.
+Built by Erik Dubois (creator of ArcoLinux) with Claude AI as development
+partner. No telemetry of any kind.
 
-It is plain Arch underneath: the same packages, the same `pacman`, the same
-rolling-release model. Kiro adds its own kernels, themes, configs, tools, and
-an installer on top.
+## How it ships
 
-## How it ships: editioned ISOs
+- **kiro-iso** builds the ISO; the **Calamares** installer puts it on disk.
+- Two Kiro ISOs: the **default ISO** (XFCE + ohmychadwm, X11) and the
+  **Plasma ISO**. Every other desktop comes through ArchLinux Tweak Tool
+  afterwards (see [desktops.md](./desktops.md)).
+- **KiroTux** is the Wayland line: one ISO per Wayland desktop (see
+  [kirotux.md](./kirotux.md)).
+- Monthly releases. Each ISO ships **two kernels** (default + fallback), and the
+  pair changes per release (see [kernels.md](./kernels.md)).
+- The **Kiro ISO Builder** (https://kiroproject.be/byoi.html) builds your own
+  Kiro ISO with the desktops and kernels you pick.
 
-Kiro is built and distributed as an ISO (`kiro-iso` is the production
-builder) and installed with the **Calamares** installer.
+## Repositories
 
-The ISO is **editioned**. An edition is the set of desktop/window-manager
-environments baked into a given ISO and offered at the login screen. The
-**default Kiro ISO ships two editions side by side**: `xfce` and `ohmychadwm`
-(Kiro's customized `chadwm` tiling window manager). You choose which to use at
-the login screen. Other environments are built as separate editions. (See
-[desktops.md](./desktops.md) for the full environment list.)
+- **nemesis_repo** — the user-facing Kiro repo (signed).
+- **chaotic-aur** — prebuilt AUR packages.
+- **cachyos** — present but switched off after install.
+- **kiro_repo** — build-time plumbing only; never on an installed system.
+See [packages.md](./packages.md).
 
-## Kernels
+## What an install looks like
 
-- **linux-cachyos** — the primary kernel; it is what the live ISO and a normal
-  install boot.
-- **linux-zen** — the fallback kernel, available as a boot option if the
-  primary one has trouble on your hardware.
+- **Bootloader:** systemd-boot on UEFI (GRUB on request via Calamares Tweak
+  Tool), GRUB on BIOS.
+- **Login:** SDDM with the Kiro Simplicity theme.
+- **Graphics:** chosen by the boot entry; **kiro-hwd** detects NVIDIA cards and
+  installs the matching driver (see [install.md](./install.md)).
+- **Microcode:** the installer keeps only the CPU's microcode package; it is
+  embedded in the initramfs (no separate microcode line in the boot entry).
+- **Shell:** fish by default (bash and zsh configs ship).
+- **Services on by default:** firewalld, tuned (power profiles), NetworkManager,
+  Bluetooth, CUPS printing, ananicy-cpp, systemd-oomd. SSH is **off**
+  (`kiro-enable-ssh`).
+- **Memory:** zram compressed swap (up to 8 GB); zswap off.
+- **Snapshots:** Timeshift ships; btrfs installs get snapper through ATT.
+- **Idle (XFCE):** the screen blanks after 15 minutes; there is no automatic
+  lock.
+- **Look:** dark by default (`GTK_THEME=Arc-Dawn-Dark` in `/etc/environment`).
 
-## Custom package repos
+## The Kiro tools
 
-- **nemesis_repo** — the user-facing custom repo. This is the one you add
-  software from; it holds Kiro's own packages.
-- **kiro_repo** — install-only plumbing used by the installer while building
-  your system. It is not a user-facing repo and is not something you add by
-  hand.
+- **ArchLinux Tweak Tool** — the system tool ([att.md](./att.md)).
+- The other apps (logout, tweak tools, keybindings, news, KiroTux Drive) —
+  [apps.md](./apps.md).
+- **kiro-system-files** — the system layer (sysctl, udev, systemd drop-ins) and
+  the `kiro-*` first-aid commands ([tools.md](./tools.md)).
+- **kiro-dot-files** / `/etc/skel` — the default user configs; `kiro-skell`
+  restores them.
 
-Everything else comes from the standard Arch repositories.
-
-## What ships on the system
-
-A normal install pulls in a set of Kiro packages on top of the Arch base.
-The user-facing ones you are most likely to meet:
-
-- **ArchLinux Tweak Tool** (`archlinux-tweak-tool`) — the flagship modular
-  GTK4 system tool for tweaking and maintaining your system.
-- **archlinux-logout** — the logout / power dialog.
-- **alacritty-tweak-tool** — a configurator for the Alacritty terminal.
-- **kiro-powermenu** — a power menu.
-- **kiro-system-files** — system-level files and settings dropped into place
-  (this is the package that makes the system behave like Kiro rather than
-  bare Arch).
-- **kiro-keybindings** — the keybindings reference material.
-- **kiro-shells** and **kiro-dot-files** — shell configs and dotfiles.
-
-Hardware detection on the live ISO is handled by **chwd**, which picks the
-right graphics driver setup at boot.
-
-## How the pieces fit
-
-1. **kiro-iso** assembles an ISO from the Arch base plus Kiro's kernels,
-   themes, configs, tools, and the chosen editions.
-2. The **Calamares** installer copies that live system to disk and configures
-   it. During install it can pull from `kiro_repo`; that repo is plumbing and
-   does not stick around as a user-facing source.
-3. On your installed system you run an edition (XFCE, ohmychadwm, or whatever
-   you installed), with Kiro's tools and look already in place.
-4. For software after install, you use the standard Arch repos plus
-   **nemesis_repo** for Kiro's own packages.
+Kiro is kernel-agnostic: none of its tuning hard-codes a kernel name.

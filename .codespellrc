@@ -1,0 +1,3 @@
+[codespell]
+# Real ATT translations quoted in knowledge/howto.md (de, fr, it, nl, ro), not typos.
+ignore-words-list = regio,sistem,categorie,alle,environnement,als

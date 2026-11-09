@@ -2,58 +2,102 @@
 
 ## Getting the ISO
 
-- Download the latest Kiro ISO from https://kiroproject.be
+Download from https://kiroproject.be (the Download button points to the latest
+ISO on SourceForge). There are two Kiro ISOs:
+
+- **The default ISO**: XFCE + ohmychadwm, the Calamares installer, nemesis_repo
+  and the full Kiro app suite. ATT installs any other desktop afterwards.
+- **The Plasma ISO**: the fully themed KDE Plasma edition, in the `Plasma/`
+  folder on SourceForge.
+
+The Wayland editions are a separate line, **KiroTux** (see
+[kirotux.md](./kirotux.md)).
+
+Only the current release stays online; older ISOs are removed. Each ISO has a
+`.pkglist.txt` next to it listing every package (kernels included).
+
+Requirements: any 64-bit (x86_64) PC; about 4 GB RAM and 20 GB disk for a
+comfortable desktop. UEFI and legacy BIOS both work. There is no 32-bit
+version.
 
 ## Writing the ISO to USB
 
-- Use **MintStick** to write the ISO to a USB stick. MintStick raw-writes the
-  image, which is what a bootable installer needs.
-- Do **not** use Ventoy — it chainloads rather than raw-writing the image,
-  which causes boot failures on bare metal.
+- Use **MintStick**. It raw-writes the image, which is what a bootable
+  installer needs.
+- Do **not** use Ventoy: it chainloads instead of raw-writing, which causes
+  boot failures on bare metal.
+- A plain file copy onto the stick never boots.
 
-## Booting the USB
+## Before booting: Secure Boot
 
-Boot from the USB stick (you may need to pick it from your firmware's boot
-menu). Kiro's boot menu offers five entries — pick the one that matches your
-graphics hardware:
+The Kiro ISO is not signed for Secure Boot (like most Arch ISOs). Turn Secure
+Boot **off** in the firmware setup (usually `Del`, `F2` or `F12` at power-on,
+under Boot or Security), save, and boot the USB.
 
-- **open source: AMD / Intel** — the default. Boots the `linux-cachyos`
-  kernel with open-source graphics drivers. Use this on AMD or Intel
-  graphics, or if you're not sure.
-- **NVIDIA proprietary, modern** — `linux-cachyos` with NVIDIA's proprietary
-  driver loaded directly.
-- **NVIDIA proprietary, auto-detect** — `linux-cachyos` with the proprietary
-  NVIDIA driver, selected by hardware auto-detection (chwd).
-- **safe graphics, nomodeset** — `linux-cachyos` with kernel mode-setting
-  disabled. Use this if the other entries give you a black screen or fail to
-  reach the desktop.
-- **fallback kernel linux-zen** — boots the `linux-zen` kernel instead of
-  `linux-cachyos`. Use this if `linux-cachyos` won't boot on your machine.
+## The boot menu
 
-All entries boot into the same live environment, where the Calamares
-installer is available.
+Five Kiro entries, the same on UEFI and BIOS. The first one is the default and
+starts after 5 seconds. **The entry you pick decides the graphics driver of the
+installed system.**
+
+1. **open drivers: AMD / Intel - NVIDIA driver removed** — the default. Open
+   mesa drivers; any NVIDIA driver is removed from the install. Right for AMD
+   and Intel graphics.
+2. **NVIDIA proprietary, modern - keeps nvidia** — keeps the baked-in
+   `nvidia-open-dkms` driver. For Turing (RTX 20-series, GTX 16-series) and
+   newer. No detection, no internet needed.
+3. **NVIDIA proprietary, auto-detect - needs internet** — runs **kiro-hwd**
+   during the install: it detects the card and downloads the matching driver
+   (also the older 580xx branch for GTX 9xx/10xx). Falls back to the open driver
+   if it fails.
+4. **safe graphics, nomodeset** — kernel mode-setting off, minimal graphics.
+   For black screens and hangs, to at least reach the installer.
+5. **fallback kernel <name>** — boots the second kernel instead of the default
+   one (see [kernels.md](./kernels.md)).
+
+The BIOS menu also has Boot existing OS, Memtest86+, Hardware Information,
+Reboot and Power Off.
 
 ## Installing with Calamares
 
-Launch the Calamares installer from the live desktop. It walks you through
-these steps:
+The live session logs in automatically to XFCE. Start the installer from the
+desktop. Steps:
 
-1. **Welcome** — language and a few starting checks.
-2. **Locale** — your region and time zone.
-3. **Keyboard** — keyboard layout.
-4. **Partition** — choose where to install Kiro.
-5. **Users** — your username, password, and hostname.
-6. **Summary** — review everything before any changes are written.
+1. **Welcome** — language and starting checks.
+2. **Locale** — region and time zone.
+3. **Keyboard** — layout.
+4. **Partition** — where to install. Choose:
+   - a file system: **ext4** (default), **btrfs** or **xfs**;
+   - swap: none, small (up to 4 GB), suspend (at least RAM size, enables
+     hibernation) or a swap file. zram compressed memory is always on top;
+   - optional **encryption** (LUKS2).
+   The EFI partition needs at least 1 GiB (2 GiB recommended). GPT is used on
+   UEFI, msdos on BIOS.
+5. **Users** — name, password, hostname. The root password is set to the same
+   password. The user is in `wheel` (sudo).
+6. **Summary** — review; nothing is written before this.
 
-After the summary, Calamares installs the system (copying files, installing
-the kernel and bootloader, creating your user) and then shows a **finished**
-screen. Reboot and remove the USB stick when it's done.
+Then Calamares installs and shows **Finished**. Reboot and remove the stick.
 
-## Maintainer TODO
+**Bootloader:** UEFI installs get **systemd-boot**; BIOS installs get **GRUB**.
+Want GRUB on UEFI (for example for `grub-btrfs` snapshots)? In the live session
+open **Calamares Tweak Tool**, pick GRUB, and launch the installer from there.
+Limine and rEFInd are not installer choices, and there is no tool to switch
+bootloaders after install — choose at install time.
 
-- Document the **Partition** page options (erase disk / install alongside /
-  manual / replace partition) — only the existence of the page is verified
-  here, not its choices.
-- Add verified post-install first steps (e.g. updating the system, using
-  ArchLinux Tweak Tool, enabling **nemesis_repo** for extra software). See
-  also `att.md` and `packages.md`.
+Btrfs installs get the subvolumes `@`, `@home`, `@root`, `@srv`, `@cache`,
+`@log`, `@tmp`, `@snapshots`, `@swap`, mounted with zstd compression.
+
+## After the first boot
+
+- The system logs in through **SDDM** and preselects the ISO's default session
+  (XFCE). Pick another session on the login screen.
+- The default shell is **fish** (bash and zsh configs ship too; change it in ATT
+  → Shells).
+- Update: `sudo pacman -Syu`.
+- Run `kiro-verify` for a quick health check (see [tools.md](./tools.md)).
+- Open **ArchLinux Tweak Tool** for desktops, kernels, themes and services
+  ([att.md](./att.md)).
+- Set up **Timeshift** snapshots (it ships), or on btrfs use ATT → Btrfs.
+- An "Unable to resume from device…" message at boot is harmless: it appears
+  when swap with hibernation was chosen and there is no hibernation image.

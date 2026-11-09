@@ -1,36 +1,57 @@
 # Kernels
 
-Kiro ships two kernels and lets you pick at boot or swap them later:
+Every Kiro ISO ships **two kernels**: one boots by default, the other is
+installed alongside as a **fallback**. If a kernel update ever leaves the
+machine unable to boot, the user picks the other entry from the boot menu
+instead of reaching for a rescue USB.
 
-- **linux-cachyos** — the primary kernel. It is what the live ISO and a normal
-  install boot by default. It comes from the **cachyos** repo (performance-tuned)
-  and is paired with `linux-cachyos-headers`.
-- **linux-zen** — the fallback kernel. Available as a boot-menu entry on the
-  live ISO, and a good second option if `linux-cachyos` has trouble on a
-  particular machine.
+## The pair changes per release
 
-Liquorix is not used.
+The pair is chosen per release and deliberately changes from month to month, so
+the stock, LTS, Zen, CachyOS and hardened kernels all get real use on real
+installs. Examples so far:
+
+- v26.09: `linux-cachyos` (default) + `linux-zen` (fallback)
+- v26.10 and later builds: `linux` (default) + `linux-lts` (fallback), both from
+  Arch's `[core]` repo
+
+**Never state "the" Kiro kernel as a fact for the user's machine.** Ask instead:
+
+- `uname -r` shows the running kernel.
+- The boot menu shows both: the fallback entry is titled
+  "fallback kernel <name>".
+- Each release card on the release notes page
+  (https://kiroproject.be/releases.html) lists the kernels that ISO shipped, and
+  the `.pkglist.txt` next to each ISO on SourceForge lists every package.
+
+Kiro is **kernel-agnostic by design**: its sysctl, udev, systemd and tmpfile
+settings never hard-code a kernel name, so any Arch kernel keeps the tuning and
+the audit checks working. The shipped pair is the default, not a lock-in.
 
 ## Picking the fallback at boot
 
-The Kiro ISO boot menu includes a **fallback kernel linux-zen** entry. If the
-machine won't boot the default `linux-cachyos` kernel — kernel panic, no boot at
-all, or very new/unusual hardware — reboot and choose that entry. See
-[install.md](./install.md) for the full boot menu and [troubleshooting.md](./troubleshooting.md)
-for boot triage.
+On the live ISO, the last Kiro boot entry is **fallback kernel <name>**. If the
+machine won't boot the default kernel (kernel panic, no boot, very new or
+unusual hardware), reboot and pick it. On an installed system, systemd-boot (or
+GRUB) lists both installed kernels; pick the other one. See
+[install.md](./install.md) and [troubleshooting.md](./troubleshooting.md).
 
 ## Switching kernels on an installed system
 
-Use the **Kernels** page in ArchLinux Tweak Tool to install or remove kernels
-through a graphical interface — pick a kernel and install or remove it, no
-command line needed. See [att.md](./att.md).
+- **ArchLinux Tweak Tool → Kernels** installs or removes kernels from a list of
+  33 kernels plus the CachyOS repo list. See [att.md](./att.md).
+- Terminal: install the kernel **and its headers**, e.g.
+  `sudo pacman -S linux-zen linux-zen-headers`. Headers matter: DKMS modules
+  such as the NVIDIA driver are built against them.
+- Keep at least two kernels installed, so there is always a fallback.
+- systemd-boot picks up a new kernel automatically through a pacman hook.
 
-Both kernels can be installed side by side; the bootloader then lets you choose
-between them at boot.
+## Building your own pair
 
-## Which to use
+The **Kiro ISO Builder** (https://kiroproject.be/byoi.html) builds a Kiro ISO
+with any kernel combination you pick (for example CachyOS or Zen).
 
-- Stick with **linux-cachyos** unless you hit a problem — it is the tuned
-  default Kiro is built around.
-- Switch to **linux-zen** if `linux-cachyos` won't boot, misbehaves, or doesn't
-  support some piece of your hardware well.
+## Liquorix
+
+Kiro once shipped Liquorix (`linux-lqx`). It is no longer a default, but it can
+be installed and booted any time, like any other Arch kernel.

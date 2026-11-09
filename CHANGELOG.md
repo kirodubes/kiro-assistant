@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026.11.09
+
+### Full knowledge review: the pack matches Kiro as it ships today
+
+**What Changed.** The knowledge pack was five months stale and gave wrong answers on kernels, desktops and NVIDIA. Every topic file was re-audited against the current ISO, installer, ArchLinux Tweak Tool, kiro-system-files and the website, and rewritten:
+
+- **Kernels**: no more fixed "linux-cachyos + linux-zen". Every ISO ships a default and a fallback kernel, the pair rotates per release, and the assistant now asks (`uname -r`, boot menu, release notes) instead of naming one.
+- **Desktops**: the ISO ships XFCE + ohmychadwm (plus a Plasma ISO); the other 27 environments come through ATT (15 on Desktop, 14 on Desktop - Wayland). The old "editioned ISOs" story is gone.
+- **Install and troubleshooting**: the current boot-menu entries, kiro-hwd instead of chwd, Secure Boot first, file systems, swap, encryption, systemd-boot vs GRUB, installed-system NVIDIA recovery.
+- **Packages**: cachyos and multilib are present but off after install; signing and the non-Kiro nemesis_repo setup follow the website.
+- **ATT**: all 35 pages, with the Firewall under Network and snapshots on the Btrfs page.
+- **New files**: `apps.md` (every user-facing Kiro app and how to launch it), `tools.md` (the kiro-* first-aid commands), `wayland.md` (X11 default, Wayland optional), `kirotux.md` (the seven KiroTux editions, donations, KiroTux Drive, Kiro Atelier), `howto.md` (step-by-step recipes with ATT button labels in all 13 translations), `faq.md` (the website FAQ).
+- **CLAUDE.md**: the kernel rule, an X11-or-Wayland question, KiroTux donation wording, and a pointer to the recipes.
+
+**Technical Details.** Facts were gathered read-only from the source repos and cited per line before writing. `howto.md` labels are read from ATT's `.po` files and never translated by hand. `build/sync-knowledge.sh` (a stub that was never implemented) is replaced by `build/check-knowledge.py`, a drift check that compares the pack with the source repos (kernel pair, boot entries, ATT desktop/Wayland/kernel counts, every kiro-* command, KiroTux editions, FAQ questions) and exits 1 on drift, and `build/sync-faq.py`, which regenerates `faq.md` from the website. Both take their source paths from environment variables, so no personal path enters this public repo. kiro-xlibre-swap is deliberately left out of the pack.
+
+**Files Modified.**
+- `CLAUDE.md`, `README.md`
+- `knowledge/architecture.md`, `att.md`, `desktops.md`, `install.md`, `kernels.md`, `packages.md`, `troubleshooting.md`
+- `knowledge/apps.md`, `faq.md`, `howto.md`, `kirotux.md`, `tools.md`, `wayland.md` (new)
+- `build/check-knowledge.py`, `build/sync-faq.py` (new); `build/sync-knowledge.sh` (removed)
+
 ## 2026.10.31
 
 ### Menu entry in Hungarian and Romanian, aligned with the glossary

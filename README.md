@@ -9,14 +9,21 @@ knowledge base built from Kiro's own docs and configs.
 - [CLAUDE.md](./CLAUDE.md) — the assistant's instructions (its "brain"). This
   loads automatically when you open the folder in Claude Code.
 - [knowledge/](./knowledge/) — the curated Kiro knowledge base the assistant
-  answers from (architecture, install, packages, desktops, kernels, ATT,
-  troubleshooting), plus generated video references: `videos.md` (the KIRO/kiro
+  answers from (architecture, install, packages, apps, tools, desktops,
+  wayland, KiroTux, kernels, ATT, troubleshooting, how-to recipes, and the
+  website FAQ), plus generated video references: `videos.md` (the KIRO/kiro
   video catalog) and `playlists.md` (topic playlists for deep dives). The
   `knowledge/archive/` folder is a **Tier 3 historical** layer — preserved
   arcolinux.com / arcolinuxd.com tutorials, always overruled by the current
   knowledge above.
-- [build/sync-knowledge.sh](./build/sync-knowledge.sh) — regenerates the
-  knowledge base from Kiro's public source repos so it stays current.
+- [build/check-knowledge.py](./build/check-knowledge.py) — maintainer-only
+  drift check: compares the pack with the Kiro source repos (kernel pair, boot
+  entries, ATT desktop/Wayland/kernel counts, kiro-* tools, KiroTux editions,
+  website FAQ) and exits 1 on drift. Source paths come from `KIRO_ISO_DIR`,
+  `KIRO_ATT_DIR`, `KIRO_SYSTEM_FILES_DIR` and `KIRO_WEBSITE_DIR`; unset ones
+  are skipped.
+- [build/sync-faq.py](./build/sync-faq.py) — regenerates `knowledge/faq.md`
+  from the website FAQ (`$KIRO_WEBSITE_DIR`; inert when unset).
 - [build/sync-videos.py](./build/sync-videos.py) and
   [build/sync-playlists.py](./build/sync-playlists.py) — regenerate `videos.md`
   and `playlists.md` from the YouTube channel (maintainer-only, run by `up.sh`).
@@ -42,8 +49,8 @@ Then just ask, e.g. *"How do I write the Kiro ISO to a USB stick?"* or
 
 - This repo is **public**. Everything in it ships to users — it must never
   contain personal or system-identifying information (home paths, hostnames,
-  IPs, credentials). The `build/sync-knowledge.sh` step pulls **only** from
-  Kiro's public source repos.
+  IPs, credentials). The build scripts read **only** Kiro's public source
+  repos, and take their paths from environment variables.
 - The root `CLAUDE.md` doubles as both the product (the assistant's brain) and
   this repo's project instructions — there is intentionally no second
   CLAUDE.md.
@@ -52,6 +59,14 @@ Then just ask, e.g. *"How do I write the Kiro ISO to a USB stick?"* or
   are **generated** — never hand-edit them. `videos.md` is auto-synced; the
   playlist set is **curated** in [build/playlists.json](./build/playlists.json)
   (add or remove an entry there, then rerun `build/sync-playlists.py`).
+- **Before each monthly release, run `build/check-knowledge.py`** and fix every
+  DRIFT line. The topic files are hand-maintained; the check tells you which
+  one went stale.
+- **Harvest recipes on the spot.** When a support answer turns into a
+  step-by-step fix (Discussions, YouTube comments, a session), add it to
+  `knowledge/howto.md` right away: ATT route first with the button labels
+  taken from ATT's `.po` files (never translated by hand), then the terminal
+  route.
 - **On every knowledge-base update, re-check the website FAQ for new questions.**
   The website FAQ (`kiro-website/index.html` `#faq`, mirrored in
   `Kiro-HQ/FAQ.md`) is the canonical public Q&A and grows a question or two per

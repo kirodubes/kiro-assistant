@@ -1,98 +1,89 @@
 # Troubleshooting
 
-Before giving any specific advice, ask the user two things — both change the
-answer:
+Before specific advice, ask the user:
 
-1. **Which desktop / WM** they run (XFCE, Cinnamon, a tiling WM like bspwm,
-   etc.). See [desktops.md](./desktops.md).
-2. **Which boot choice** they used when booting the Kiro ISO. The live medium
-   offers several graphics/kernel options, and the right one depends on their
-   hardware.
+1. **Which desktop / WM**, and **X11 or Wayland** session. See
+   [desktops.md](./desktops.md).
+2. **Which boot entry** they used on the ISO (it decides the graphics driver).
+3. For anything non-trivial: the output of `kiro-report` (a public-safe log,
+   made for pasting into Discussions). See [tools.md](./tools.md).
 
-You have no access to the user's machine. Hand them safe commands to run
-themselves, and tell them to read before running.
+You have no access to the user's machine. Hand them safe commands and tell them
+to read before running.
 
-## The ISO boot menu
+## The live ISO won't boot
 
-When the user boots the **Kiro ISO** (the live install medium), the boot menu
-offers these choices. They are the first lever for boot and graphics problems —
-if a machine won't reach the live desktop, the fix is almost always picking a
-different entry:
+- **Nothing boots from the USB** → Secure Boot is the most common cause: turn it
+  off in the firmware. Check the stick was written with MintStick (raw image),
+  not copied as files.
+- **Black screen, hang or blinking cursor (AMD/Intel)** → reboot and pick
+  **safe graphics, nomodeset**.
+- **NVIDIA machine shows nothing** → try **NVIDIA proprietary, modern** (Turing
+  / RTX 20-series and newer). Older card → **auto-detect** (needs internet).
+  Still broken → **safe graphics, nomodeset** to reach the installer.
+- **Kernel panic or no boot at all** → the **fallback kernel** entry.
 
-1. **open source: AMD / Intel** — the default. Uses the open-source graphics
-   stack (`driver=free`). Correct for AMD and Intel GPUs.
-2. **NVIDIA proprietary, modern** — loads the proprietary NVIDIA driver
-   (`driver=nonfree`). For modern NVIDIA cards.
-3. **NVIDIA proprietary, auto-detect** — proprietary NVIDIA via **chwd**,
-   Kiro's hardware-detection tool, which picks the driver for the detected
-   card (`driver=nonfreechwd`).
-4. **safe graphics, nomodeset** — disables kernel mode-setting. Use this when
-   the screen goes black, the boot hangs, or you only get a blinking cursor —
-   it boots with minimal graphics so you can at least reach the installer.
-5. **fallback kernel linux-zen** — boots the `linux-zen` kernel instead of the
-   primary `linux-cachyos`. Try this if a machine fails to boot the default
-   kernel (hardware that the primary kernel doesn't get along with).
+If every entry fails on real hardware, it is a bug: send the user to
+Discussions with their hardware and the entries they tried.
 
-All five entries appear the same way under both UEFI (systemd-boot / GRUB) and
-legacy BIOS (syslinux).
+## The installed system won't boot
 
-## Boot issues (live medium)
-
-General order to try when the ISO won't boot to the desktop:
-
-- **Black screen, hang, or blinking cursor on an AMD/Intel machine** → reboot
-  and pick **safe graphics, nomodeset** (entry 4).
-- **NVIDIA machine that won't display** → try **NVIDIA proprietary, modern**
-  (entry 2). If that still fails, try **auto-detect** (entry 3, chwd), and if
-  graphics are still broken, fall back to **safe graphics, nomodeset**
-  (entry 4) to get a working installer.
-- **Kernel-level boot failure** (kernel panic, no boot at all, very new or
-  unusual hardware) → try the **fallback kernel linux-zen** (entry 5).
-
-These are general first steps. If a machine fails on every entry, it is a real
-bug — send the user to Discussions (below) with their hardware details.
+- systemd-boot (UEFI) and GRUB (BIOS) list every installed kernel: pick the
+  other kernel. That is why Kiro installs two. See [kernels.md](./kernels.md).
+- Rolled back an update? **Timeshift** ships; on btrfs ATT's Btrfs page sets up
+  snapper snapshots. Arch can also downgrade a package from the local cache
+  (`/var/cache/pacman/pkg`).
+- "Unable to resume from device…" at boot is harmless (no hibernation image);
+  remove `resume=` from the kernel command line if they never hibernate.
 
 ## Graphics / NVIDIA
 
-Kiro picks the graphics driver at boot time, through the boot-menu entry the
-user selects:
+- Installed with the open-drivers entry and want NVIDIA now? No reinstall:
+  `kiro-hwd detect`, then `sudo kiro-hwd install`. It picks
+  `nvidia-open-dkms` (Turing+), `nvidia-580xx-dkms` (Maxwell/Pascal/Volta), or
+  keeps nouveau (Kepler and older), plus `nvidia-prime` on hybrid laptops.
+- Black screen after a NVIDIA install, from a TTY (`Ctrl` + `Alt` + `F3`) or the
+  fallback kernel:
+  - kernel headers installed for every kernel (`linux-headers`,
+    `linux-lts-headers`, … matching `uname -r`);
+  - `dkms status` must say `installed`, not `added`;
+  - `nvidia-smi` should see the card;
+  - re-run `sudo kiro-hwd install`.
+- `kiro-which-vga` shows the active driver; an OpenGL renderer of "llvmpipe"
+  means the GPU driver isn't working (software rendering).
+- Settings in `/etc/modprobe.d/` only take effect after
+  `sudo mkinitcpio -P` and a reboot.
 
-- **AMD / Intel** GPUs use the open-source drivers — the default entry is
-  correct, no extra steps.
-- **NVIDIA** GPUs have two routes: the **modern** proprietary entry, or the
-  **auto-detect** entry that uses **chwd** to detect the card and load the
-  matching driver. Pick proprietary for current NVIDIA hardware.
+## Desktop looks wrong
 
-Common NVIDIA symptoms and the general fix:
+- **"Xfce Session (Wayland)" gives a black screen** → not a Kiro setting; it is
+  XFCE's experimental Wayland mode. Pick the plain **Xfce Session** at login.
+- **Plasma installed through ATT looks black** → comment out the
+  `QT_QPA_PLATFORMTHEME`, `QT_STYLE_OVERRIDE` and `GTK_THEME` lines in
+  `/etc/environment`, then log out. See [faq.md](./faq.md).
+- **Want a light theme** → change `GTK_THEME=Arc-Dawn-Dark` to `GTK_THEME=Arc`
+  in `/etc/environment`, log out and in.
+- **A desktop config is broken, or new defaults didn't arrive after an update**
+  → `kiro-skell` restores the defaults from `/etc/skel`, with a backup.
+  Updates change `/etc/skel`, never the user's home.
 
-- **Black screen / no display after selecting an entry** → reboot and try a
-  different graphics choice. For a first boot, **safe graphics (nomodeset)**
-  gets you a usable screen; for modern NVIDIA, the **proprietary** entry is the
-  one you want.
-- **Tearing, glitches, or wrong resolution** → usually a driver mismatch;
-  booting the proprietary entry on NVIDIA hardware (rather than the open-source
-  default) is the right starting point.
+## pacman problems
 
-This is general guidance. Don't invent machine-specific NVIDIA fixes — if the
-proprietary and auto-detect entries both fail on real hardware, it's a bug to
-report.
+- PGP / "invalid or corrupted package" → `kiro-fix-pacman-keys`, then
+  `kiro-fix-gpg-conf` if it persists.
+- Slow or failing mirrors → `kiro-fix-mirrors`.
+- Broken `/etc/pacman.conf` → `kiro-fix-pacman-conf`.
+- Always full upgrades (`sudo pacman -Syu`), never single-package upgrades.
+
+## Screen turns off
+
+On XFCE the screen blanks after 15 minutes idle by default and there is **no
+automatic lock** (change it in XFCE's Power Manager). Other desktops have their
+own idle settings — ask which one.
 
 ## Where to send users
 
-For reproducible bugs or install failures, point users to the **Kiro GitHub
-Discussions** board. Ask them to include:
-
-- Their **hardware** (especially GPU/CPU vendor and laptop vs desktop).
-- **Which boot choice** they used (one of the five above).
-- The **desktop/WM edition** they installed or tried.
-
-Discourage pasting long logs into chat or comments — a short description plus
-the four points above is far more useful than a wall of log output.
-
-## Maintainer TODO
-
-- Document the **post-install** boot/driver recovery path. The five choices
-  above are the *live medium* menu; the installed system's bootloader is set up
-  by Calamares and is not covered here — confirm what that menu looks like
-  before advising installed-system boot recovery.
-- Build out from recurring real questions (YouTube comments, Discussions).
+Kiro GitHub Discussions: https://github.com/kirodubes/kiro-discussions/discussions.
+Ask them to include the `kiro-report` output, their hardware (GPU/CPU, laptop or
+desktop), the boot entry they used, and the desktop they run. A short
+description plus that report beats a wall of log output.

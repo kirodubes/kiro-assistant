@@ -1,80 +1,70 @@
 # ArchLinux Tweak Tool (ATT)
 
 **ArchLinux Tweak Tool** (one word; abbreviated ATT) is Kiro's modular GTK4
-system-configuration tool. It puts the most common Arch system tasks — kernels,
-themes, services, packages, login screen, and more — behind a single graphical
-interface, so you don't have to remember the command line for each one. It will
-ask for an administrator password when a change needs root.
+system tool. It puts common Arch tasks — desktops, kernels, themes, services,
+pacman, locale and more — behind one window. Works on X11 and Wayland.
 
 ## Launching
 
-- **Menu:** look for **Arch Linux Tweak Tool** in your application menu.
-- **Terminal:** run `archlinux-tweak-tool` (or the short alias `att`).
+- **Menu:** "Arch Linux Tweak Tool".
+- **Terminal:** `archlinux-tweak-tool`, or the short `att`.
+- Run it as the normal user; it **refuses to start as root** and asks for the
+  password itself when a change needs it. A second launch brings the open
+  window to the front.
+- The sidebar has a **search box** to find a page.
+- Header bar: a **language dropdown** (ATT speaks 14 languages; a change
+  applies after **Restart ATT**), **Support** and **Quit ATT**.
 
-Don't run it as root — launch it as your normal user and let it prompt for the
-password when needed.
+Step-by-step recipes with the button labels in every language:
+[howto.md](./howto.md).
 
-## Pages
+## Pages (sidebar order)
 
-ATT is organized as a sidebar of pages. The main ones:
+| Page | What it does |
+|---|---|
+| **Accessibility** | Accessibility tools |
+| **AI Tools** | Install/remove local LLM runners (Ollama, Open WebUI, Jan), CLI coding assistants (Claude Code, Aider, Codex CLI, OpenCode, GitHub Copilot CLI, …) and web-app shortcuts |
+| **Arc themes** | Arc GTK themes |
+| **Autostart** | Apps that start at login |
+| **Backup** | Personal-file backup (Pika, Vorta) |
+| **Btrfs** | Snapshots with snapper + snap-pac + Btrfs Assistant, one click ("Enable snapshots"). Greyed out unless the root file system is btrfs |
+| **Celestial themes** | Celestial GTK themes |
+| **Desktop** | Install X11 desktops and window managers (15) — see [desktops.md](./desktops.md) |
+| **Desktop - Wayland** | Install Kiro Wayland configs (14) — see [wayland.md](./wayland.md) |
+| **Fastfetch** | fastfetch config |
+| **Hybrid graphics** | Two-GPU laptops: installs nvidia-prime + switcheroo-control, per-app "Always use discrete GPU". Greyed out with fewer than two GPUs |
+| **Icons Horst** / **Icons Neo Candy** / **Icons Surfn** | Icon theme families |
+| **ISO** | Kiro ISO Builder showcase (build your own Kiro ISO) |
+| **Kernels** | Kernel manager: 33 kernels in groups (Standard Arch, CachyOS, Xanmod, Liquorix, Mainline, LTS versions, x86-64 levels, AMD Zen, specialty), plus a CachyOS list from the repo; "Set as Default", "Regenerate All Initramfs". Chaotic-AUR kernels show once that repo is on |
+| **Locale** | Language, keyboard (X11/Wayland and console), timezone, language packs |
+| **Logging** | Log investigator |
+| **Maintenance** | Update, cache clean, pacman lock, mirrors (reflector, rate-mirrors), keys & GPG ("Fix keys"), pacman.conf reset, cursors, initramfs |
+| **Network** | Network tools, Samba, and the **Firewall** tab (firewalld on/off, mDNS, Samba sharing, firewall-config) |
+| **Office** | Office suites and productivity apps |
+| **Packages** | Export and import package lists |
+| **Pacman** | pacman.conf editor: Arch repo switches (incl. multilib, testing), **Enable Nemesis / Chaotic-Aur / CachyOS repo**, custom repo, AUR helper (yay, paru) |
+| **Plymouth** | Boot splash themes |
+| **Privacy** | Privacy/security settings, incl. hBlock ad-blocking |
+| **Performance** | Performance tuning |
+| **Sddm** | Login screen config and themes, "Fix SDDM config". Hidden when SDDM isn't the login manager |
+| **Services** | Audio (PipeWire/PulseAudio), Bluetooth, Printing (CUPS), user services |
+| **Shells** | bash / zsh / fish: default shell ("Apply fish" etc.), configs, plugins |
+| **Software** | Curated installers for common apps |
+| **Streamline** | Remove optional apps by category (Kiro and KiroTux only) |
+| **System** | System inspector |
+| **Themer** | Apply a coordinated theme set |
+| **User** | User management |
+| **Wallpaper** | Set the wallpaper |
 
-| Page            | What it does                                                       |
-|-----------------|--------------------------------------------------------------------|
-| **AI Tools**    | Claude AI integration for help with system tasks                   |
-| **Accessibility** | Accessibility-related settings                                   |
-| **Autostart**   | Manage applications that launch at login                           |
-| **Backup**      | Personal-file backup tools                                         |
-| **Desktop**     | Install and switch desktop environments                            |
-| **Fastfetch**   | Configure the fastfetch system-info display                        |
-| **Icons**       | Install and manage icon themes                                     |
-| **ISO**         | Kiro ISO Builder showcase                                          |
-| **Kernels**     | Install and remove kernels                                         |
-| **Locale**      | Set locale, keyboard layout, and timezone                          |
-| **Logging**     | Browse ATT session logs and investigate system logs               |
-| **Maintenance** | Mirror ranking, orphan removal, and pacman cache cleanup           |
-| **Network**     | Network tools and Samba share configuration                        |
-| **Office**      | Office suites and productivity apps                                |
-| **Packages**    | Export and import installed-package lists                          |
-| **Pacman**      | Edit pacman settings (repos, parallel downloads, options)          |
-| **Performance** | CPU governor and I/O scheduler tuning                              |
-| **Plymouth**    | Install and switch boot-splash (Plymouth) themes                   |
-| **Privacy**     | Privacy-focused settings, including hBlock DNS ad-blocking         |
-| **Services**    | Enable and disable systemd services                                |
-| **Shells**      | Switch the default shell and configure bash, zsh, and fish         |
-| **Software**    | Curated installers for commonly used applications                  |
-| **Support**     | Ways to help fund the project                                      |
-| **System**      | System inspector — hardware info and a system overview             |
-| **Themer**      | Apply coordinated theme sets in one step                           |
-| **Themes**      | Manage GTK and Plasma themes                                       |
-| **User**        | Create and configure user accounts                                 |
-| **Wallpaper**   | Browse folders and set the desktop wallpaper                       |
+`att --dev` adds a developer **Dev** page.
 
-Some pages only appear when relevant to your system:
+## Common tasks (short)
 
-- **Sddm** — login-manager configuration; shown when SDDM is in use.
-- **Btrfs** — snapshot tools; shown on a Btrfs root filesystem.
-- **Streamline** — remove optional apps by category; shown on Kiro.
-- **Dev** — developer/diagnostic page; shown only in developer mode.
-
-## Common tasks
-
-- **Install or remove a kernel** — open **Kernels**, pick a kernel, install or
-  remove it. (On Kiro, linux-cachyos is the primary kernel and linux-zen the
-  fallback.)
-- **Turn a service on or off** — open **Services** and toggle the systemd
-  service you want.
-- **Change your default shell** — open **Shells** and switch between bash, zsh,
-  and fish.
-- **Set a boot splash** — open **Plymouth** to install and switch the Plymouth
-  theme.
-- **Clean up the system** — open **Maintenance** to rank mirrors, remove orphan
-  packages, and clear the pacman cache.
-- **Tune pacman** — open **Pacman** to adjust options like parallel downloads.
-- **Change the look** — use **Themes** and **Icons** for individual pieces, or
-  **Themer** to apply a coordinated set at once; **Wallpaper** sets the
-  background.
-
-## Maintainer TODO
-
-- Per-page detail (exact buttons/options) is not documented here — add as
-  needed from the individual `*_gui.py` modules.
+- **Add a desktop** → Desktop (X11) or Desktop - Wayland.
+- **Kernel** → Kernels; keep two installed.
+- **Firewall** → Network → Firewall (not Services).
+- **Default shell** → Shells.
+- **Repos** → Pacman.
+- **Broken keys or slow mirrors** → Maintenance.
+- **Snapshots** → Btrfs (btrfs installs); Timeshift otherwise.
+- **System language** → Locale (recipe in [howto.md](./howto.md)).

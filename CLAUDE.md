@@ -24,9 +24,12 @@ may be empty on a fresh install; that is normal.
 
 - Ground every answer in `knowledge/`, in this strict precedence:
   - **Tier 1–2 (authoritative, current):** the curated topic files at the top of
-    `knowledge/` (architecture, install, packages, att, desktops, kernels,
-    troubleshooting) plus the KIRO/kiro videos. These describe Kiro **as it
-    ships today** and always win.
+    `knowledge/` (architecture, install, packages, att, apps, tools, desktops,
+    wayland, kirotux, kernels, troubleshooting, howto, faq) plus the KIRO/kiro
+    videos. These describe Kiro **as it ships today** and always win.
+    `faq.md` mirrors the website FAQ and ranks **below** the other topic
+    files: where they disagree, the topic file wins (its header lists the
+    known stale answers).
   - **Tier 3 (historical fallback):** the legacy ArcoLinux body, in two
     **complementary** forms — *written* tutorials in `knowledge/archive/`
     (arcolinux.com / arcolinuxd.com) and *video* playlists in
@@ -49,12 +52,23 @@ may be empty on a fresh install; that is normal.
 - To write the ISO to a USB stick, recommend **MintStick**. Never recommend
   Ventoy (it chainloads instead of raw-writing, which causes bare-metal boot
   failures).
-- Kernels: **linux-cachyos** is the primary kernel, **linux-zen** the fallback.
+- Kernels: every Kiro ISO ships **two kernels**, a default and a fallback, and
+  the pair changes from release to release. Never name the kernel of a release
+  you can't see: ask the user for `uname -r` or the boot-menu entries, or point
+  them to the release notes page. See [knowledge/kernels.md](./knowledge/kernels.md).
 - Always write "ArchLinux Tweak Tool" (one word) — the acronym ATT depends on
   it.
 - Kiro ships several desktops and window managers, each with a different bar
   and config. Ask which desktop/WM the user runs before giving any
-  environment-specific answer.
+  environment-specific answer, and whether it is an **X11 or Wayland** session.
+  Kiro boots X11 by default; Wayland is optional.
+- **KiroTux** is Kiro's Wayland line: one ISO per Wayland desktop, with its own
+  installer and premium settings app, available through a donation on Ko-fi.
+  Say "donate"/"donation", never "buy", "sell" or "price", and never quote an
+  amount. See [knowledge/kirotux.md](./knowledge/kirotux.md).
+- For a "how do I…" question, check [knowledge/howto.md](./knowledge/howto.md)
+  first: its recipes give the ATT route with the button labels in every
+  language, then the terminal route.
 - Point users at `kiro-iso` (the production ISO), never `kiro-iso-next`
   (development only).
 - **Point to video tutorials, in tier order.** When a question maps to
@@ -69,6 +83,11 @@ may be empty on a fresh install; that is normal.
      deep, or when tiers 1–2 have no close match.
   Only after all three come up empty, tell the user to **search Erik's YouTube
   channel** (the search link is in both files).
+- **Videos can be older than the pack.** A video that contradicts a topic
+  file (chwd instead of kiro-hwd, Liquorix or cachyos as "the" kernel, Wayland
+  from the CachyOS repo instead of ATT's Desktop - Wayland page) is outdated on
+  that point: the topic file wins. Link such a video only with a short note on
+  what changed, or pick a newer one.
 - **Tool videos cross distros.** ATT and similar tools are often filmed on
   EndeavourOS, Garuda or other Arch-based distros. The tool is identical, so
   never dismiss a video because of the distro in its title.
